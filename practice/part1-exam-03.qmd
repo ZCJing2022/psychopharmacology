@@ -24,7 +24,13 @@ Route of administration. Drug concentration.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Other factors affecting pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Route and concentration are two contributors to the amount and speed of drug absorption. Route determines the tissues and barriers encountered. Concentration helps establish the gradient driving passive movement. The lecture also includes solubility, ionization, and transport through phospholipid membranes, so the short keyed option is only part of the full explanation.
+
+These factors interact. A large concentration difference does not make every molecule cross every membrane equally well; the drug's chemical properties and the membrane remain important. Similarly, rapid circulation after absorption cannot explain whether the drug crossed the original absorbing surface. Keep **entry into blood** distinct from **distribution after entry** when evaluating the nearby alternatives.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 2
@@ -42,7 +48,13 @@ Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; ins
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Post synaptic potentials Local Potentials Are Small,**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A postsynaptic potential is a local change following synaptic input. In the lecture's examples, sodium entry makes the inside less negative, producing depolarization and moving the membrane toward firing threshold. Chloride entry can make the inside more negative, producing hyperpolarization and moving it away from threshold. Opening potassium channels can also produce an inhibitory change.
+
+The key distinguishes these directions of change, not two types of action potential. Local potentials are graded and can combine with other inputs. The consequence depends on the channel and ionic conditions; the transmitter's name alone is not a complete explanation. Ask which ions move and how that movement changes the likelihood of firing.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 3
@@ -60,7 +72,13 @@ Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretor
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neurotransmitter Receptor Families**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A transmitter produces an effect only where an appropriate receptor and response mechanism are present. Different receptor subtypes for the same transmitter can engage different channels or intracellular pathways. As a result, one transmitter can produce different effects in different cells or circuits.
+
+The keyed option correctly treats a receptor as a signaling protein rather than as a transporter that carries transmitter across the membrane. Binding changes the receiving cell's activity through the receptor's mechanism. This is why the transmitter name alone does not establish whether a particular response is excitatory or inhibitory. Specify the receptor subtype, cellular location, and downstream action before predicting the functional outcome.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 4
@@ -78,7 +96,13 @@ Designer receptors exclusively activated by designer drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **DREADDs**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+DREADDs are engineered receptors used to change cellular activity through administration of a suitable activating ligand. The name emphasizes their experimental design: receptor expression and drug administration are combined to manipulate a selected cell population rather than merely observe it.
+
+This makes the method different from staining tissue or measuring naturally occurring transmitter concentrations. The causal question is whether changing the activity of the targeted cells changes an outcome. Appropriate comparisons must separate effects of receptor expression, ligand administration, and their combination. The lecture supplies the acronym rather than a full protocol, so the explanation should remain at the level of experimental logic and not assume that every receptor–ligand system has identical effects or perfect specificity.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 5
@@ -96,7 +120,13 @@ Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A phospholipid membrane presents a lipid-rich barrier. A sufficiently lipid-soluble drug can enter that barrier and move across it by passive diffusion, with net movement down its concentration gradient. A larger gradient can increase the rate of net transfer, but passive diffusion does not actively pump drug toward a region of higher concentration.
+
+The keyed option therefore connects a molecular property—lipid solubility—to a transport mechanism. The other options concern ionization, distribution, or specialized brain barriers. They can influence the same overall journey, but they answer different parts of it. The lecture's prodrug example adds a further distinction: a compound can enter tissue readily yet require metabolism before the principal active form is produced.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 6
@@ -114,7 +144,13 @@ When summation of local potentials reaches the threshold of -50 mV, many voltage
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Local excitatory and inhibitory influences are integrated near the axon's initiation region. In the lecture's illustrative values, sufficient depolarization brings the membrane from about −70 mV toward a threshold near −50 mV. Voltage-gated sodium channels then open, allowing rapid sodium entry and generating the rising phase of an action potential.
+
+This is a transition from graded input to an all-or-none event. A stronger suprathreshold input does not simply create an indefinitely larger spike. Sodium-channel inactivation then produces an absolute refractory period, during which another action potential cannot be initiated in that membrane region. The key therefore links summation, threshold, and regenerative channel opening, rather than treating firing as a direct synonym for any depolarization.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 7
@@ -132,7 +168,13 @@ Resting state = ion channel closed. Neurotransmitter binding opens the channel.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+An ionotropic receptor contains an ion channel as part of its receptor complex. Transmitter binding changes the receptor's state and permits selected ions to move through the channel. This provides a relatively direct route from chemical binding to a change in membrane conductance and potential.
+
+The key captures the simple closed–open–closed sequence. However, prolonged exposure can also produce desensitization, in which responsiveness falls despite the continued presence of ligand. The effect depends on which ions the channel conducts and their driving forces, not merely on the fact that a channel opens. This differs from a metabotropic receptor, which initiates signaling through G proteins rather than being the conducting pore itself.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 8
@@ -150,7 +192,13 @@ Highlights brain activity, receptor density, and neurotransmitter release. Scann
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Positron emission tomography (PET)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+PET detects signals from an administered radioactive tracer. What the image means depends on the tracer: a glucose-related tracer can inform metabolic activity, while an appropriate receptor-binding tracer can inform receptor availability or related pharmacological processes. The scanner does not directly photograph neurotransmitter molecules firing between cells.
+
+The keyed option correctly connects PET with radioactivity and several possible applications. Those applications should not be collapsed into one universal readout. A change in tracer signal must be interpreted in relation to the tracer's binding, uptake, and distribution. The lecture's FDG example therefore differs from a radioligand selected to investigate a particular drug target.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 9
@@ -168,7 +216,13 @@ Once a drug enters the blood it is quickly delivered to areas with high blood fl
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Distribution of a drug in the body**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Blood first delivers a drug especially rapidly to well-perfused tissues. As concentrations in blood and tissues change, molecules can move again, including away from an initially exposed organ. **Redistribution** can therefore reduce the concentration at a site of action without requiring the whole dose to have been eliminated from the body.
+
+The textbook's rapidly acting anesthetic example makes the distinction clear: an early brain effect can end as drug moves into other tissues. This is different from metabolic destruction or renal excretion. The lecture's equilibrium language describes the tendency for distribution to adjust; the main learning point is the changing location of drug, not an assumption that every tissue always has an identical concentration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 10
@@ -186,7 +240,13 @@ The lecture treats **Ionic basis of the action potential** as a key concept that
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Ionic basis of the action potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Follow the sequence of channel states. Initial depolarization brings the membrane to threshold; rapid opening of voltage-gated sodium channels produces further depolarization. Sodium channels then become unavailable for renewed opening, while delayed potassium conductance helps return the membrane toward its resting level. Continued potassium conductance can briefly produce an after-hyperpolarization.
+
+These changes explain the shape of the action-potential curve. The rising and falling phases are not caused by the sodium–potassium pump rapidly reversing direction. The pump maintains gradients over longer periods, whereas voltage-dependent channel changes generate the rapid waveform. Match each part of the figure to the predominant ion movement rather than memorizing the curve without its mechanism.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 11
@@ -204,7 +264,13 @@ Act slower but response lasts longer. Activate G proteins when transmitter binds
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A metabotropic receptor communicates through an associated G protein. After ligand binding, the G protein can influence an ion channel or regulate an effector enzyme involved in producing or removing intracellular second messengers. The receptor therefore initiates a chain of events rather than directly opening a pore within its own structure.
+
+This helps explain the lecture's contrast between slower onset and longer-lasting effects relative to many ionotropic responses. The key should not be read as saying every metabotropic response must alter gene expression or that every G-protein pathway uses the same messenger. The pathway can branch and act at several levels. Follow receptor activation to its specific effector before predicting the cell's response.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 12
@@ -222,7 +288,13 @@ Behavioral pharmacology helps us. Understanding the neurochemical basis of behav
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Integration: Behavioral Pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Behavioral pharmacology is defined by its scientific question: how drugs alter behavior and what those alterations reveal about underlying mechanisms. Animal research is one experimental setting in which that question can be investigated under controlled conditions. The two are connected, but they are not equivalent definitions.
+
+The keyed option describes the purpose of the field, whereas statements about controlled housing or known histories describe practical features of an animal study. To reason beyond the labels, specify the drug manipulation and the behavioral outcome, then ask what the comparison can establish. A controlled behavioral effect can support further mechanistic investigation without automatically identifying the responsible receptor or proving relevance to every human condition.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 13
@@ -240,7 +312,13 @@ Blood-brain barrier: separation between brain capillaries and cerebrospinal flui
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Selective barriers affecting drug distribution**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The blood–brain barrier is selective rather than completely impermeable. Its principal structural feature is the specialized endothelium of brain capillaries: tight junctions restrict movement between adjacent cells. Molecules must therefore use routes compatible with these cells, including appropriate membrane passage or specific transport systems. Astrocytic processes help maintain the barrier's properties.
+
+This explains why a drug can circulate throughout the body yet have limited access to neural tissue. The key does not describe a simple wall surrounding the outside of the brain. It describes a property of its blood–tissue interface. Distribution depends on both blood delivery and access across that interface, so reaching a brain capillary is not equivalent to reaching a neuronal receptor.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 14
@@ -258,7 +336,13 @@ Rising membrane potential opens voltage-gated K+ channels; K+ moves out and memb
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Repolarization occurs as sodium-channel availability changes and potassium moves outward through opened voltage-gated channels. Because potassium conductance persists briefly, the membrane can become more negative than its usual resting value. During this relative refractory period, a stronger excitatory input is needed to bring the membrane back to threshold.
+
+This differs from the absolute refractory period, when sodium-channel inactivation prevents another spike regardless of ordinary increases in stimulation. The distinction explains limits on firing and the relationship between stimulation strength and firing frequency. “Resetting” is therefore a sequence of changing channel states, not simply the cell receiving a new packet of neurotransmitter or instantly restoring all ions by pumping.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 15
@@ -276,7 +360,13 @@ Some receptors have additional binding sites (allosteric sites). Allosteric modu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Allosteric modulation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+An allosteric site is distinct from the principal agonist-binding site. A modulator binding there can change how the receptor responds to an agonist. A positive modulator increases the response under the relevant conditions, while a negative modulator reduces it.
+
+The key therefore describes modification of another ligand's action, not simply replacement of that ligand at its binding site. This distinction becomes important in the GABA lecture, where drug effects depend on receptor modulation. Do not assume that a positive modulator directly produces the same action as an agonist in the absence of transmitter. The course emphasizes changing receptor responsiveness through a separate binding location.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 16
@@ -294,7 +384,13 @@ Behavioral pharmacology helps us. Understanding the neurochemical basis of behav
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Behavioral Pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Behavioral pharmacology connects drug administration to a measurable change in behavior. The scientific aim is not simply to observe that an animal moves differently, but to use controlled comparisons to investigate the relationship between a drug, nervous-system processes, and behavioral outcomes.
+
+The lecture identifies applications in understanding mechanisms, developing models, and screening candidate compounds. A behavioral change does not by itself identify a specific receptor or establish clinical benefit. Those interpretations require additional evidence. The keyed option states the field's purpose; the methods introduced later specify how that purpose is pursued. Keep the research question, the experimental manipulation, and the measured outcome distinct.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 17
@@ -312,7 +408,13 @@ The lecture treats **Structure of the blood-brain barrier** as a key concept tha
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Structure of the blood-brain barrier**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The figure contrasts ordinary capillaries with brain capillaries. Ordinary capillaries provide comparatively accessible routes for exchange with surrounding tissue. In brain capillaries, adjoining endothelial cells form tight junctions, large openings are absent, and nonspecific vesicular transport is limited. Surrounding astrocytic processes support the maintenance of this specialized environment.
+
+The consequence is controlled exchange, not complete isolation. Lipid-compatible molecules and substances with suitable transport mechanisms can still enter. To explain the figure, connect each structural feature to its functional consequence: restricting passage between cells makes the chemical characteristics of the molecule and the available transport routes more important. Simply naming the blood–brain barrier does not explain how it works.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 18
@@ -330,7 +432,13 @@ The lecture treats **The benefit of myleniation** as a key concept that should b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **The benefit of myleniation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Myelin insulates stretches of axon, while nodes of Ranvier provide exposed regions at which action potentials are regenerated. Depolarizing current spreads between nodes, so regeneration does not need to occur continuously along every point of membrane. This is **saltatory conduction**.
+
+The lecture emphasizes faster transmission and reduced energy demands associated with restoring ion gradients. Myelin does not make an individual action potential progressively larger as it travels. Instead, it changes the efficiency of propagation. This is why damage to myelin can disrupt communication even when the neuron has not lost every part of its axon. Connect the structural arrangement—insulated internodes and exposed nodes—to the functional benefit.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 19
@@ -348,7 +456,13 @@ Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Tyrosine Kinase Receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Tyrosine kinase receptors provide a route by which neurotrophic signals influence cellular growth, survival, and longer-term functioning. Binding initiates intracellular signaling that can change protein activity and gene expression. Their significance extends beyond generating an immediate excitatory or inhibitory postsynaptic potential.
+
+The keyed option identifies the relationship with neurotrophic factors. This distinguishes them from ionotropic receptor channels and from the G-protein-coupled class discussed immediately before. All transmit information across the cell boundary, but they do so through different molecular machinery. An explanation should connect the receptor class to its signaling function rather than treating “growth factor” as simply another transmitter stored in every synaptic vesicle.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 20
@@ -366,7 +480,13 @@ Studies using animals have several advantages:. Rigorous control of living condi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Animals are necessary for behavioural pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Animal studies can permit close control of living conditions, prior experience, and genetic background. They can also support measurements or interventions that would not be appropriate in human participants. These features help researchers isolate possible causes of a behavioral effect.
+
+The key identifies one advantage, but control does not automatically make an animal model an exact copy of a human disorder. The lecture's generalization argument depends on meaningful similarities alongside awareness of differences. It also emphasizes animal-care requirements and the three Rs. A good explanation therefore combines experimental value with limits and ethical obligations, rather than interpreting the title as a claim that every psychopharmacological question must be studied in animals.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 21
@@ -384,7 +504,13 @@ Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g.,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Depot binding Depot Binding alters the magnitude and duration of drug action**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Depot binding holds drug at sites that do not produce the intended pharmacological response, such as plasma proteins or tissue stores. A molecule bound at such a site is not simultaneously available to bind its active target. This can reduce the immediately available fraction and delay or reduce an effect.
+
+Binding is reversible. As free concentrations fall, stored molecules can return to circulation, helping prolong the drug's presence. Competition between drugs for binding sites can also change the free fraction. Keep **inactive binding** distinct from receptor activation: both involve association with a site, but only the latter initiates the response under discussion. The textbook identifies albumin as a major plasma binding protein.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 22
@@ -402,7 +528,13 @@ Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channe
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Drugs can alter electrical conduction in neurons**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Voltage-gated sodium channels are required for the rapid depolarizing phase of an action potential. Blocking them can prevent a signal from propagating along an axon. A local anesthetic therefore interrupts transmission of information from an affected region, rather than requiring that the brain reinterpret an otherwise unchanged incoming signal.
+
+The lecture contrasts this with antiepileptic effects that prolong channel unavailability and limit sustained rapid firing. The exact interaction matters: indiscriminate conduction block and selective reduction of excessive firing are not equivalent outcomes. The toxin example reinforces the same principle but illustrates systemic danger. These mechanisms act on electrical excitability, whereas many other psychoactive drugs act primarily on chemical transmission at synapses.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 23
@@ -420,7 +552,13 @@ The lecture treats **Drugs can alter all aspects of synaptic transmission** as a
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Drugs can alter all aspects of synaptic transmission**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A drug can alter transmission at several steps: precursor supply or synthesis, vesicular storage, release, receptor activation, reuptake, or enzymatic breakdown. The same overall increase in transmitter influence can therefore arise from different mechanisms. A reuptake inhibitor, for example, prolongs availability without necessarily acting as a direct receptor agonist.
+
+Conversely, reducing synthesis and blocking postsynaptic receptors both weaken signaling but act at different locations. The lecture's overview should be read as a sequence of possible intervention points. For any example, identify **the immediate target, the change in transmitter availability or receptor function, and the predicted downstream effect**. The existing keyed statement names the overview without supplying these causal steps.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 24
@@ -438,7 +576,13 @@ In animal experiments, the placebo is often injection of solution the drug is di
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Controls in animal behavioural pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A vehicle control receives the preparation used to deliver the drug without the active test compound. It helps distinguish effects of the compound from effects of injection, handling, or the vehicle itself. A positive control receives a treatment with a well-characterized effect in the assay.
+
+The controls answer different questions. The vehicle establishes a comparison without the test drug, while the positive control checks that the procedure can detect the expected kind of effect. If a candidate appears ineffective and the positive control also fails, the assay may be the problem. The keyed option correctly separates these functions; neither control alone establishes every aspect of specificity, validity, or safety.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 25
@@ -456,7 +600,13 @@ Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, o
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Mechanisms of drug metabolism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Metabolism changes a drug chemically; it is not simply movement of unchanged drug from one tissue to another. The lecture identifies the liver as a major site. Phase I reactions include oxidation, reduction, and hydrolysis. Phase II reactions involve coupling the drug or a metabolite to another chemical group, generally facilitating elimination through increased water solubility.
+
+A crucial qualification is that metabolism does not always mean immediate loss of activity. Some products remain active, and some drugs require bioactivation. Thus, an explanation should connect the reaction to the activity and eliminability of its products, rather than assuming that every metabolic step ends the drug effect. Enzyme induction and inhibition concern how fast such reactions occur.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 26
@@ -474,7 +624,13 @@ Astrocytes Provide structural support Maintain ionic and chemical environment St
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Glia - Astrocytes Cell Function**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Astrocytes help maintain the environment in which neurons function. The lecture lists regulation of ions and chemicals, nutrient support, structural support, changes following injury, regulation of local blood flow, and interaction with neuronal signaling. These are active physiological contributions, not merely a passive packing function.
+
+The textbook's neurotransmitter-uptake example shows why this matters: limiting extracellular transmitter can help control the duration of a signal and protect tissue. Astrocytes also help connect neural activity with metabolic support. The keyed list therefore differs from the myelinating role of oligodendrocytes and Schwann cells or the principal immune role of microglia. A useful answer connects each glial function to the conditions required for reliable neural communication.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 27
@@ -492,7 +648,13 @@ Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The final slide is an invitation to another course, not a substantive scientific claim. Its wording cannot establish a correct mechanism or distinguish scientifically valid alternatives. The only defensible interpretation of the existing key is recognition of the slide's closing message.
+
+For scientific review, the supplied textbook separately discusses endocrine communication: hormones enter the circulation and influence cells with appropriate receptors, whereas conventional synaptic signaling operates across a much more localized junction. That comparison is textbook context, not content stated on this promotional slide. This item should not be used to judge understanding of neuroendocrinology until it is rewritten with an actual conceptual question and answer.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 28
@@ -510,7 +672,13 @@ Simple observation of behaviors such as tremors, salivation, catalepsy, or sexua
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **You can just watch them and see what they do!**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Direct observation can identify changes such as tremor, salivation, immobility, or altered activity. Quantifying these behaviors helps describe a drug's effect and can reveal whether a compound is sedating or stimulating. The important step is turning observation into a defined, consistently measured outcome.
+
+A change in movement does not automatically identify a change in mood, anxiety, or motivation. For example, a drug that impairs movement could alter performance in a test whose intended interpretation concerns something else. The key therefore describes useful initial measurements, not a complete diagnosis of an internal state. Later behavioral assays need to be interpreted in light of such basic motor and physiological effects.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 29
@@ -528,7 +696,13 @@ Enzyme induction: repeated use of drug increases number of enzymes; increases ra
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Factors influencing drug metabolism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Enzyme induction and enzyme inhibition change metabolism in opposite directions. Induction increases metabolic capacity, often after repeated exposure has increased the amount of a relevant enzyme. Inhibition reduces enzyme activity. For an active drug normally cleared by that pathway, faster metabolism tends to reduce exposure, while slower metabolism can increase or prolong exposure.
+
+These changes also affect other drugs sharing the pathway, which explains the possibility of drug interactions. The lecture separately includes competition for enzymes and individual differences such as genetic variation. Do not confuse enzyme induction with receptor up-regulation: the first changes drug handling, whereas the second changes a target's response. Active metabolites and prodrugs require additional attention to which chemical form is being measured.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 30
@@ -546,7 +720,13 @@ Microglia Perform phagocytosis Provide immune system function.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Glia - Microglia Cell Function**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Microglia participate in immune defense and the response to damage within the central nervous system. Phagocytosis allows them to engulf debris and material from damaged or dying cells. Their activation is also associated with inflammatory responses, linking them to the condition of surrounding neural tissue.
+
+The keyed option identifies these immune and clearance functions. It should not be confused with myelin production, which is associated with other glia, or with axonal signal transmission by neurons. Nor does identifying microglia as immune cells imply that every inflammatory response is beneficial. The lecture's central distinction is the specialization of different supporting cell types within a functioning nervous system.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 # Section B — Short Essay
@@ -562,7 +742,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Metabolism of drugs**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Separate **chemical transformation** from the **time course of disappearance**. Metabolism changes the molecular form, often through Phase I reactions and Phase II conjugation. The products can be easier to excrete, but some retain activity or represent activation of a prodrug. Excretion then removes material from the body.
+
+First-order elimination removes a constant fraction over equal intervals. For a half-life example, 100 units become 50, then 25, then 12.5: the amount removed becomes smaller even though the fractional decline is constant. Zero-order elimination removes approximately a constant amount per interval when the relevant elimination process is saturated. The lecture uses alcohol as the example; the textbook qualifies this by discussing concentration-dependent saturation rather than treating zero-order elimination as universal at every concentration. Connect these patterns to mechanism by explaining that metabolic capacity influences the rate at which exposure falls. Neither a short half-life nor rapid metabolism alone establishes that every metabolite is inactive.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 2
@@ -576,7 +762,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **The squid giant axon**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+The squid giant axon is used in the source material as an accessible preparation for studying the electrical properties of a neuron. The key measurement compares voltage inside the axon with an external reference. An electrode outside compared with another outside does not measure the transmembrane difference; placing one electrode inside allows that difference to be recorded.
+
+Connect the preparation to resting potential by explaining why the interior is negative relative to the exterior under resting conditions. Unequal ion distributions, selective membrane permeability, and maintenance of gradients are central. Then connect it to excitability: changing membrane conductances can produce local voltage changes and, at threshold, an action potential. The question does not require biographical detail about the researchers or unsupported historical claims. It requires an explanation of how a physical preparation makes a cellular electrical phenomenon measurable. The existing answer is a topic placeholder rather than a model response.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 3
@@ -590,7 +782,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neurotransmitters in the periphery**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+The same signaling chemical can participate in central and peripheral functions because suitable receptors occur in multiple tissues. A transmitter acting in an autonomic pathway or at a peripheral target does not need a different name simply because the target is outside the brain. Its effect depends on receptor subtype, cellular machinery, and the organ or circuit involved.
+
+This connects directly to receptor families. A drug can affect the intended central pathway while also acting on peripheral receptors, producing additional effects. The lecture's opioid example illustrates why gastrointestinal actions can accompany central actions. The gut–brain discussion adds bidirectional communication and possible microbiome-related influences. Do not infer from that discussion that every neurotransmitter made in the gut directly enters the brain; the source describes a communication system, not a universal transport route. A strong response identifies the shared chemical, distinguishes target locations, and explains how receptor distribution creates multiple physiological consequences.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 4
@@ -604,6 +802,12 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Rat in Operant Chamber (“Skinner Box”)**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+In an operant chamber, an animal learns that a response produces a consequence. A lever press followed by access to a reinforcer is different from a cue merely predicting an event. The schedule determines the response requirement: a fixed-ratio schedule requires a specified number of responses, while a progressive-ratio schedule raises that requirement and permits measurement of the breakpoint.
+
+The key connection is between a controlled contingency and quantified behavior. Emerging video-analysis methods can add detailed descriptions of movement or action patterns, but observing behavior does not itself create an operant contingency. An automated system may measure the behavior in a chamber or a more naturalistic environment; the researcher still needs to specify which actions have which consequences. Distinguish reinforcement, defined by its effect on responding, from an unsupported claim about subjective pleasure. Also consider whether a drug changes the ability to perform the response rather than only the value of its consequence.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 

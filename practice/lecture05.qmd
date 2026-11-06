@@ -23,7 +23,11 @@ Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What is a catecholamine?** from Lecture 5 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Catecholamines share a chemical structural feature: a catechol group together with an amine-containing component. The lecture includes dopamine, norepinephrine, and epinephrine in this group. Their related structures are reflected in a linked biosynthetic pathway, but the three are not interchangeable in their distribution or functions.
+
+The keyed option identifies chemical classification rather than a receptor type or an effect such as arousal. “Dopaminergic” describes a dopamine-related cell, pathway, or process; “noradrenergic” refers to norepinephrine. Distinguish these adjectives from the receptor families and transporters introduced later. A molecule's chemical family helps organize its metabolism and synthesis, while its functional effects require information about its targets and circuitry.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -44,7 +48,11 @@ Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the r
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The biosynthetic pathway for catecholamines** from Lecture 5 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The catecholamine pathway begins with tyrosine. Tyrosine hydroxylase converts it to L-DOPA and is emphasized as the rate-limiting enzyme; subsequent enzymatic steps produce dopamine and, in appropriate cells, norepinephrine and epinephrine. The enzymes expressed by a cell therefore help determine which final transmitter it can synthesize.
+
+This explains why blocking tyrosine hydroxylase reduces synthesis and why supplying L-DOPA can bypass that particular step. Feedback from catecholamine availability and changes associated with cell firing regulate pathway activity. The key concerns synthesis, not vesicular packaging or reuptake. A transporter inhibitor can change extracellular dopamine without being an inhibitor of the enzyme that initially produces it.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -65,7 +73,11 @@ Catecholamines are loaded into synaptic vesicles by vesicular monoamine transpor
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Vesicular packaging of dopamine in the axon terminal** from Lecture 5 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Synthesis in the terminal cytoplasm is not sufficient for normal vesicular release. VMAT transports monoamines into synaptic vesicles, where they are available for later exocytosis and are protected from some cytoplasmic metabolic processes. Blocking this packaging step can progressively reduce the vesicular supply.
+
+Reserpine is the lecture's example of a VMAT inhibitor. Its effect should not be confused with blocking DAT at the cell surface: DAT clears extracellular dopamine into the cell, whereas VMAT loads intracellular vesicles. Blocking these two transporters can therefore have very different consequences. The key correctly identifies the packaging mechanism; the behavioral effects follow from changing transmitter availability rather than directly antagonizing every dopamine receptor.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -86,7 +98,11 @@ Psychostimulants amphetamine and methamphetamine cause release of catecholamines
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Psychostimulants increase dopamine release** from Lecture 5 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Amphetamine-type stimulants can increase extracellular catecholamine availability through mechanisms that differ from ordinary action-potential-triggered vesicular release. The lecture emphasizes that release can occur without the usual firing-dependent sequence. The textbook relates this to transmitter redistribution and transporter-mediated outward movement.
+
+The key then links increased catecholamine signaling to changes in activity. At higher exposure, repetitive stereotyped actions can replace more general locomotion, so greater stimulation does not always appear as more distance traveled. This also distinguishes a drug's immediate molecular action from its behavioral endpoint. Increased release is not the same mechanism as directly stimulating a dopamine receptor, even though both can enhance some dopamine-related effects.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -107,7 +123,11 @@ DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeat
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Catecholamine synapses are not “normal”** from Lecture 5 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Catecholamine axons can have repeated swellings, or varicosities, along their length rather than only one terminal at an endpoint. These en passant arrangements support a broader distribution of potential signaling sites and fit the lecture's discussion of modulatory transmission.
+
+However, the source explicitly cautions that not every dopamine varicosity is a demonstrated release site. A visible swelling containing relevant material is therefore not sufficient evidence for identical functional release at every location. The key identifies the anatomical arrangement, not a proof that all catecholamine communication is diffuse or nonsynaptic. Connect structure to possible signaling opportunities while retaining the lecture's uncertainty about the function of every varicosity.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -128,7 +148,11 @@ Reuptake: DA and NE transporters return the transmitters to the releasing cell f
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Reuptake of catecholamines** from Lecture 5 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+After release, dopamine and norepinephrine can be removed from the extracellular space by membrane transporters. Reuptake returns transmitter to a releasing cell, where it can be metabolized or repackaged. Uptake by other cells supplies additional clearance routes.
+
+Blocking a transporter can increase the amount of transmitter remaining available outside the cell and prolong receptor exposure. This is an indirect enhancement of signaling, not necessarily direct receptor agonism or increased synthesis. Keep DAT and NET at the plasma membrane distinct from VMAT on vesicles. The sequence is **release → extracellular action → clearance → reuse or metabolism**, and the transporter acts at the clearance step.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -149,7 +173,11 @@ Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-meth
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Enzymatic degradation of catecholamines** from Lecture 5 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+MAO and COMT chemically transform catecholamines. Their actions differ from reuptake, which moves transmitter without necessarily destroying it. Inhibiting a metabolic enzyme can increase the availability or persistence of its substrates, but the consequences depend on which enzyme form and tissues are affected.
+
+The lecture contrasts nonselective and selective MAO inhibitors and gives therapeutic examples. The main reasoning point is selectivity: the same enzyme family participates in more than one physiological setting, so changing metabolism can create effects beyond the intended neural target. Do not interpret “breakdown enzyme” as implying that inhibition automatically improves every function. Identify the affected substrate, location, and pathway before predicting the outcome.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -170,7 +198,11 @@ COMT acts on compounds containing the catechol structure. Action of MAO and COMT
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Byproducts of catecholamine metabolism** from Lecture 5 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Metabolism produces identifiable breakdown products. The lecture associates dopamine with homovanillic acid, while norepinephrine metabolism is discussed through MHPG and VMA in different settings. These compounds can provide indirect information about catecholamine handling.
+
+A metabolite measurement is not the same as a direct measurement of moment-to-moment receptor activation. Its concentration reflects production, metabolism, transport, and elimination over the sampled setting and interval. The key's reference to COMT identifies one contributing enzyme, but the fuller answer must name the relevant metabolite and explain what the measurement can and cannot indicate. Avoid substituting a dopamine metabolite for a norepinephrine metabolite simply because both parent substances are catecholamines.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -191,7 +223,11 @@ Nigrostriatal tract facilitates voluntary movement. Research on the motor functi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **How to kill a dopamine neuron** from Lecture 5 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture uses loss of nigrostriatal dopamine function to investigate the contribution of that pathway to movement. Dopamine neurons in the substantia nigra project to the dorsal striatum; their degeneration in Parkinson's disease and experimental disruption in animal models support a role in motor function.
+
+The key concerns the relationship between pathway integrity and behavior, not a practical method for producing neuronal injury. A lesion experiment asks how behavior changes when a defined system is disrupted, but interpretation must consider the location and specificity of the manipulation. Distinguish loss of dopamine synthesis or signaling from physical loss of the neuron itself; those interventions can produce related deficits without being biologically identical.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -212,7 +248,11 @@ Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral acti
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Cool little spinning trick** from Lecture 5 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A unilateral dopamine-system lesion creates an imbalance between the two sides. Amphetamine depends on available presynaptic dopamine mechanisms, so its effect is greater on the relatively intact side. Apomorphine acts directly at dopamine receptors and can reveal altered postsynaptic sensitivity on the denervated side.
+
+The resulting rotation is therefore a behavioral readout of asymmetry, not proof that all dopamine-enhancing drugs act identically. The relevant contrast is **enhancing transmitter output** versus **direct receptor stimulation**. To interpret the experiment, identify which side retains functioning terminals and which receptors may have adapted after loss of input. The abbreviated key names the drugs, but the mechanistic explanation is what accounts for their differing effects.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -233,7 +273,11 @@ Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for D
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ascending dopamine pathways have been implicated in several important behavioral functions** from Lecture 5 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The dopamine-deficient mouse separates a transmitter's function from destruction of the whole neuron. The animals show severe reductions in feeding, drinking, and activity, and L-DOPA restores these behaviors by bypassing the missing synthesis step. This supports a role for dopamine in activating and organizing behavior, not simply in the physical ability to swallow or grasp food.
+
+The existing key oversimplifies the genetic design. **Chapter 5 specifies that tyrosine hydroxylase is knocked out and then restored in DBH-expressing noradrenergic cells**, preserving norepinephrine synthesis. Merely leaving the DBH gene intact would not explain preserved synthesis upstream of its substrate. This source clarification is essential to understanding what the model selectively tests.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -254,7 +298,11 @@ Mesolimbic dopamine pathway activates arousal and locomotor behavior; different 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Heterogenous behavioural functionality of dopamine neurons** from Lecture 5 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Dopamine's effects depend on the neurons and targets involved. The lecture links mesolimbic projections with arousal, locomotion, and responses to rewarding or aversive events, while mesocortical projections support prefrontal functions such as attention and working memory. This is why dopamine should not be reduced to a single “pleasure chemical.”
+
+The key identifies functional diversity across pathways. The COMT example further shows that transmitter handling in a particular region can influence cognition. A change in dopamine is therefore incomplete information unless its location, timing, and target receptors are specified. The same transmitter can participate in different computations because it acts within differently organized circuits.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -275,7 +323,11 @@ D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The fascinating pharmacodynamics of dopamine** from Lecture 5 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture presents an affinity-based hypothesis linking firing pattern to receptor recruitment. Relatively low tonic dopamine can engage higher-affinity D2 receptors, while larger phasic increases can additionally recruit lower-affinity D1 receptors. The proposed consequence depends on both concentration and receptor properties.
+
+This is explicitly a model in the source, not a rule that every tonic event affects only D2 receptors and every burst only D1 receptors. D2 receptors also provide inhibitory autoreceptor feedback at terminals and somatodendritic sites. Distinguish affinity from efficacy, and distinguish a receptor's location from its molecular family. These distinctions explain how the same dopamine increase can have different effects across cells and stages of signaling.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -296,7 +348,11 @@ DA transporter knockout animals are extremely hyperactive because of the persist
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Behavioural outcome of DAT knockout** from Lecture 5 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+DAT normally contributes to clearing extracellular dopamine. Removing DAT disrupts that clearance, allowing altered and prolonged dopamine exposure. The lecture connects this manipulation with hyperactivity, impulsivity, and cognitive changes in the animal model.
+
+The reasoning runs from transporter function to extracellular signaling and then to behavior. It does not follow that the mouse is a complete model of every aspect of ADHD, or that matching one behavioral feature proves an identical human cause. Genetic deletion can also produce adaptations over development. The key therefore supports a role for dopamine clearance in behavioral regulation, while the clinical comparison remains a comparison of selected features rather than a diagnosis.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -317,7 +373,11 @@ D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating e
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Behavioural outcome of D1 knockout** from Lecture 5 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A drug can elevate extracellular dopamine without producing its usual behavioral effect if a necessary receptor-mediated step is missing. The receptor-knockout examples therefore help test the contribution of D1- and D2-related signaling to stimulant-induced locomotion.
+
+The lecture also contrasts transporter overexpression and amphetamine responsiveness, reinforcing that both the presynaptic transporter and postsynaptic receptor machinery matter. These are different experimental manipulations, not interchangeable ways of “removing dopamine.” The key's generalization should be read in the context of the reported locomotor endpoint. Failure of that response does not establish that every effect of the drug, every dopamine function, or every compensatory mechanism has disappeared.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -338,7 +398,11 @@ Which statement best matches the lecture discussion of **Intrastriatal shifts ar
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)** from Lecture 5 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture describes progressive recruitment of dorsolateral striatal circuitry during extended drug seeking. Its diagram links ventral and dorsal striatal systems through interacting dopamine-related loops. This provides a circuit-level account of a shift in the control of behavior over time.
+
+The source then proposes altered DAT as a possible molecular contributor, while explicitly stating that the precise mechanism is unresolved. Do not turn that proposal into an established explanation. A change in regional activity, a change in transporter expression, and a causal role for a particular cell type are separate claims requiring different evidence. The later experiments are introduced to investigate this gap, not to show that the question was already settled.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -359,7 +423,11 @@ Heroin self-administration has little effect on DAT protein but dramatically red
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA** from Lecture 5 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The reported result is a mismatch between two measurements: striatal DAT protein changes little, whereas measured DAT mRNA is markedly reduced after heroin self-administration. Protein abundance and transcript abundance are not interchangeable, so this is not automatically a contradiction.
+
+The lecture uses the mismatch to motivate questions about cellular origin and anatomical location. Protein in an axon terminal can originate from synthesis in a cell body elsewhere, while locally measured RNA may belong to another cell population. The key should therefore be interpreted as the specific result presented in the lecture, not a universal finding for every heroin exposure. The next step is to identify which cells contribute to each measurement.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -380,7 +448,11 @@ The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striata
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain** from Lecture 5 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's proposed explanation depends on anatomy. Dopamine-neuron cell bodies lie in the ventral midbrain, while their axons carry DAT protein into striatal tissue. A striatal protein measurement can therefore include material from neurons whose cell bodies and principal RNA-synthesis machinery are elsewhere.
+
+The source asks which locally situated cells account for the striatal DAT transcript signal and proposes astrocytes as a candidate. “We bet on astrocytes” is a hypothesis leading to a cell-localization test, not evidence by itself. Distinguish the location of a protein, the origin of its cell, and the identity of a locally detected transcript. The explanation should preserve the hypothesis-to-test sequence rather than assuming the answer from the initial bulk assay.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -401,7 +473,11 @@ self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin** from Lecture 5 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture reports that RNAscope in situ hybridization localized a reduction in DAT mRNA to striatal astrocytes after heroin self-administration. This adds cell-related spatial information that a bulk protein or transcript assay alone cannot provide.
+
+The result concerns **RNA expression in the reported cells and condition**. It does not by itself demonstrate the amount of functional DAT protein at the membrane or quantify how much dopamine clearance those cells perform. Those are later functional questions. The key should therefore be connected to the previous hypothesis: localization supplies evidence about the source of the transcript change, while selective manipulation is needed to investigate its physiological contribution.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -422,7 +498,11 @@ Used to record activity from a group of neurons. Neurons express a fluorescent s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **FiberPhotometry &Optogenetics** from Lecture 5 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Fiber photometry records fluorescence from a population expressing a sensor such as GCaMP. The signal provides an indirect indicator related to cellular activity while behavior is occurring. It does not ordinarily resolve the independent spike train of every neuron contributing to the collected light.
+
+Optogenetics, shown alongside it in the lecture, serves a different purpose: light-sensitive proteins allow activity to be manipulated. The distinction is **recording a signal** versus **causally perturbing a system**. The key describes photometry, not the entire combined slide. A complete interpretation identifies what the sensor reports, which population expresses it, and how a recorded association differs from a manipulation that tests contribution to behavior.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -443,7 +523,11 @@ Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astroc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **CONTROL DAT KO CONTROL DAT KO** from Lecture 5 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The proof-of-principle slide compares control and DAT-knockout conditions in targeted cell populations. Its purpose is to establish that the intended manipulation can be achieved in the relevant neuronal or astrocytic preparation before interpreting downstream effects on dopamine handling.
+
+Demonstrating a change in a molecular marker is an important validation step, but it is not yet the same as demonstrating a change in clearance or behavior. The key names the manipulation and cell groups rather than stating the full result. Follow the evidential order: **targeted intervention → confirmation of the intended cellular change → functional measurement → behavioral interpretation**. Skipping the validation step makes a negative or positive functional outcome difficult to explain.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 27. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -464,7 +548,11 @@ organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake** from Lecture 5 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The source reports that DAT deletion in VTA neurons only partially reproduces the effect of an organism-wide DAT knockout on dopamine reuptake. This comparison motivates a question about the remaining clearance capacity and whether astrocytic DAT contributes to it.
+
+It does not prove that all residual uptake is astrocytic. Incomplete deletion, other cell populations, or other clearance processes would also require consideration. The lecture itself ends with a question rather than a definitive causal attribution. A careful explanation separates the observed partial effect from the proposed source of the remainder. The next informative experiment would selectively test the candidate contribution while verifying the specificity and effectiveness of the manipulation.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 28. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -485,7 +573,11 @@ Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: What is a catecholamine?** from Lecture 5 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Chemical classification identifies dopamine, norepinephrine, and epinephrine as catecholamines because of their shared structural features. The biosynthetic pathway explains how cells make these related chemicals from tyrosine through successive enzymatic steps. The first statement is about **what belongs to the family**; the second is about **how family members are produced**.
+
+The keyed option gives the classification. It should not be replaced by a statement about TH, VMAT, or DAT, because those identify an enzyme or a transporter rather than the chemical group itself. Connecting classification to synthesis is useful, but the two are not identical definitions. A catecholamine can share a precursor pathway with another while acting in different neural systems.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -506,7 +598,11 @@ Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the r
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: The biosynthetic pathway for catecholamines** from Lecture 5 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The pathway question asks about conversion of a precursor into transmitter. Tyrosine hydroxylase acts at the rate-limiting step from tyrosine toward L-DOPA, after which additional enzymes produce dopamine and, in appropriate cells, further catecholamines. This is why enzyme expression constrains the products a cell can make.
+
+Chemical classification instead identifies the shared structure of catecholamines. Vesicular transport and plasma-membrane reuptake occur after transmitter has been synthesized and should not be substituted for its biosynthesis. The key correctly emphasizes precursor and enzyme. A useful check is to ask whether the proposed mechanism changes the molecule chemically, packages it inside a vesicle, or moves it back across the cell surface.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
@@ -524,7 +620,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Dopamine output depends on both firing and feedback. Tonic single-spike activity produces a different pattern of release from a burst of closely spaced spikes. During a burst, release can temporarily exceed clearance and produce a larger extracellular change. Terminal autoreceptors reduce release, while somatodendritic autoreceptors can reduce firing; the lecture connects these effects to calcium- and potassium-channel regulation.
+
+Relate this to catecholamine axonal anatomy. Varicosities distribute possible release sites along a fiber, and released dopamine can influence targets beyond a simple one-terminal/one-receptor picture. However, the lecture cautions that not every varicosity has demonstrated dopamine release machinery. Thus, the amount and distribution of signaling depend on **where release can occur, the firing pattern, autoreceptor feedback, and the rate of removal**. The response should explain these interacting controls rather than assuming that every action potential produces a fixed, identical dopamine concentration at every nearby receptor.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Short Essay 2 — Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia {#l05-sa02}
@@ -538,7 +640,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Identify the origin and target of each major pathway. The nigrostriatal projection runs from substantia nigra to dorsal striatum and is emphasized for movement. The mesolimbic projection originates in the VTA and reaches limbic-related targets, including nucleus accumbens. Mesocortical projections also originate in the VTA but reach cortex, including prefrontal regions involved in cognition.
+
+The lesion example connects this anatomical map to function. Disrupting the nigrostriatal system can produce motor deficits, while changing another projection may affect a different combination of motivational or cognitive processes. This is why “dopamine loss” is an incomplete explanation without a location. Also distinguish a neuron that cannot synthesize dopamine from a neuron that has been physically destroyed. Both alter signaling, but they leave different cellular structures and possible compensations. The intended lesson is selective pathway analysis, not a practical procedure for damaging neurons.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Short Essay 3 — There are five main subtypes of dopamine receptors organized into {#l05-sa03}
@@ -552,7 +660,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+All five dopamine receptor subtypes discussed in the textbook are metabotropic, grouped into D1-like and D2-like families. In the lecture's central contrast, D1 activation promotes adenylyl cyclase activity and cAMP production, while D2 activation reduces that pathway and can regulate potassium conductance. Receptor family therefore predicts a signaling tendency, not a single behavior.
+
+Connect this to the affinity hypothesis: tonic and phasic dopamine concentrations may recruit receptor populations differently because D2 receptors have higher affinity in the course's account. Then add location. D2 receptors on dopamine neurons can function as autoreceptors and reduce further output, while receptors on target cells participate in postsynaptic responses. A complete explanation therefore combines **family, affinity, signaling mechanism, and cellular location**. Avoid assuming that all D2 activation means less movement or that all D1 activation has the same effect regardless of the circuit.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Short Essay 4 — WesternBlot&qPCR {#l05-sa04}
@@ -566,7 +680,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Western blotting measures a protein-related signal after separation and antibody detection, while quantitative PCR measures amplification of a selected nucleic-acid sequence. When studying mRNA expression, the RNA is first represented through a complementary-DNA preparation; the amplification signal is then used to compare abundance. This additional step clarifies the lecture's compressed description of qPCR and gene expression.
+
+The heroin example illustrates why the two readouts need not agree: striatal DAT protein changes little while DAT mRNA decreases. Protein stability, translation, cellular composition, and the origin of axons can separate a tissue's transcript and protein signals. The lecture particularly pursues the anatomical possibility that transported neuronal DAT protein and locally expressed transcripts come from different cellular sources. A strong answer identifies the target measured by each assay and explains the mismatch as a research question requiring localization and functional tests, not as proof that either assay must be wrong.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Short Essay 5 — Moving forward:manipulations ofastrocyticorneuronalDAT Question: Can we utilize a CRISPR/Cas9 {#l05-sa05}
@@ -580,7 +700,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The proposed experiment asks whether DAT in different cell populations contributes differently to dopamine handling. Selective CRISPR/Cas9-based deletion is intended to distinguish neuronal from astrocytic contributions rather than eliminating the transporter throughout the whole organism. The targeting strategy is therefore part of the causal question.
+
+The proof-of-principle images address whether the desired manipulation was achieved. A subsequent reuptake measurement asks whether that manipulation changes function. These stages must remain separate: successful targeting does not automatically establish a large physiological role, and a functional result is hard to interpret without confirming targeting. The source then compares neuronal deletion with the more extensive effect of organism-wide deletion and raises, but does not settle, the possibility of an astrocytic contribution. A strong response follows the experimental sequence and identifies the need for matched controls, evidence of cell specificity, and an appropriate functional outcome without presenting the proposed mechanism as an established conclusion.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Short Essay 6 — Integration: What is a catecholamine? and The biosynthetic pathway for catecholamines {#l05-sa06}
@@ -594,6 +720,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 5, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A catecholamine is identified by its chemical structure, while its biosynthetic pathway explains how that structure is produced and modified in a cell. The lecture includes dopamine, norepinephrine, and epinephrine and traces their common origin to tyrosine. Tyrosine hydroxylase controls the rate-limiting step toward L-DOPA, and additional enzymes determine the later products.
+
+The connection is that a shared pathway creates a family of related transmitters, but not every cell expresses every enzyme needed for every family member. This helps explain why dopamine and norepinephrine neurons can share packaging and metabolic features while remaining distinct signaling systems. Include one pharmacological implication: inhibiting a synthesis enzyme changes transmitter production, whereas blocking reuptake changes the persistence of transmitter already released. A complete comparison therefore links chemical identity, enzyme availability, and possible intervention points rather than treating “catecholamine” as another name for dopamine alone.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 

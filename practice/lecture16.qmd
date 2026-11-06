@@ -23,7 +23,11 @@ The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Nicotine pharmacokinetics and metabolism** from Lecture 16 (source page 1). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Chapter 13 explains nicotine exposure through **absorption, distribution, and metabolism**. Rapid pulmonary uptake can produce a relatively abrupt rise in brain exposure, whereas slower delivery systems produce different concentration–time profiles. Much nicotine is metabolized to cotinine, primarily through CYP2A6, and metabolites are eliminated mainly in urine.
+
+Variations in enzyme activity help explain differences in exposure and use patterns; they do not justify assuming that every person clears nicotine at the same rate. Pharmacokinetics is distinct from nicotine's receptor action, which is addressed next. No Lecture 16 presentation was supplied, and the existing keyed option is a placeholder. This textbook-based explanation provides substantive study material, but does not make the unchanged MCQ a valid test with a meaningful uniquely correct choice.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -44,7 +48,11 @@ The lecture treats **Nicotinic acetylcholine receptors** as a key concept that s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Nicotinic acetylcholine receptors** from Lecture 16 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Nicotine acts principally at **nicotinic acetylcholine receptors**, which are ligand-gated cation channels. They are normally activated by acetylcholine; nicotine is an exogenous agonist. Channel opening can produce rapid excitation, and receptor subunit composition influences sensitivity and function across tissues.
+
+Chapter 13 also emphasizes desensitization: receptors can become temporarily less responsive during exposure. Receptor activation, desensitization, and longer-term adaptation are therefore different processes, not interchangeable descriptions of nicotine simply “stimulating the brain.” Muscarinic ACh receptors belong to a different receptor family. The original answer only says this topic is important, and no lecture presentation is available. The explanation is grounded in the assigned chapter; the choices require revision before the item can meaningfully assess receptor knowledge.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -65,7 +73,11 @@ The lecture treats **Behavioral and physiological effects of nicotine** as a key
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Behavioral and physiological effects of nicotine** from Lecture 16 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Nicotine can influence **arousal, attention, autonomic function, reinforcement, and aversive responses**, with effects depending on exposure and prior use. Chapter 13 discusses both pharmacological effects and the relief of withdrawal, so feeling calmer after nicotine does not necessarily mean the drug is simply a sedative.
+
+In a dependent user, relief of an unpleasant abstinence state can help maintain taking behavior. In another context, nicotine may produce nausea or other aversive effects. These differences require attention to baseline state and the outcome measured, rather than treating a drug's subjective effect as fixed. This is chapter-based material because the lecture presentation is missing. The original placeholder answer supplies no actual effect or mechanism and should not be treated as a substantive correct response.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -86,7 +98,11 @@ The lecture treats **Smoking, vaping, dependence and treatment** as a key concep
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Smoking, vaping, dependence and treatment** from Lecture 16 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The chapter distinguishes **nicotine dependence from the full hazards of a delivery product**. Cigarette smoke adds combustion-related exposures, while vaping has a different exposure profile and should not be equated with harmless air or assumed identical across devices. Both pharmacological reinforcement and learned cues can contribute to continued use.
+
+The treatment discussion compares behavioral approaches with nicotine replacement and receptor- or transporter-targeting medications. For example, varenicline's partial agonism at α4β2 nicotinic receptors offers a different mechanism from nicotine replacement itself. These are textbook mechanisms, not updated product comparisons or individual treatment advice. With no supplied lecture presentation and only a placeholder key, this item needs substantive choices; the explanation cannot validate the current MCQ merely by adding detail.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -107,7 +123,11 @@ The lecture treats **Adenosine receptor antagonism** as a key concept that shoul
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Adenosine receptor antagonism** from Lecture 16 (source page 6). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+At concentrations associated with common dietary use, Chapter 13 identifies **adenosine-receptor antagonism**, particularly involving A1 and A2A receptors, as central to caffeine's stimulant effects. Caffeine blocks a signal rather than directly mimicking an excitatory transmitter at its receptor.
+
+This shows why receptor antagonism can increase behavioral activation: the net effect depends on what the blocked signaling normally does. The chapter distinguishes this mechanism from other biochemical actions requiring much higher concentrations, such as phosphodiesterase inhibition. Those actions should not be given equal explanatory weight for ordinary exposure. The original answer is a placeholder and there is no lecture deck to verify its scope. The meaningful concept here comes from the assigned chapter, not from the unchanged keyed sentence.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -128,7 +148,11 @@ The lecture treats **Behavioral and physiological effects of caffeine** as a key
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Behavioral and physiological effects of caffeine** from Lecture 16 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Caffeine can **increase alertness and reduce perceived sleepiness**, but its effects depend on amount, timing, prior exposure, and individual sensitivity. Chapter 13 also discusses anxiety, sleep disturbance, and physiological effects, showing that greater stimulation is not automatically a greater benefit.
+
+Repeated use can lead to adaptation, and part of an apparent improvement after consumption may be relief of withdrawal in a habitual user. Feeling less sleepy also does not replace the functions of adequate sleep. The mechanism is connected to adenosine-receptor blockade rather than creation of new energy in the body. This explanation is textbook-led because no Lecture 16 presentation was supplied; the existing placeholder answer does not itself specify a testable behavioral or physiological claim.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -149,7 +173,11 @@ The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Nicotine pharmacokinetics and metabolism** from Lecture 16 (source page 1). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The integration point is **exposure timing → receptor engagement → adaptation and behavior**. Rapid nicotine delivery can create a different reinforcing time course from slower, sustained delivery. Metabolism, including CYP2A6-mediated conversion toward cotinine, then influences how exposure declines between administrations.
+
+These kinetic processes interact with receptor activation and desensitization, so an identical administered amount need not have the same effect across different patterns of use. They also explain why a metabolite measurement and a current receptor effect are not interchangeable observations. No lecture deck was available, so the account is based on Chapter 13. The repeated placeholder key remains an assessment limitation, not a scientific statement made more valid by repetition.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -170,7 +198,11 @@ The lecture treats **Nicotinic acetylcholine receptors** as a key concept that s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Nicotinic acetylcholine receptors** from Lecture 16 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Nicotinic receptors connect an **external ligand to rapid ion-channel signaling**, but their effects must be interpreted in a circuit. Activation on different neurons or terminals can alter firing or transmitter release, and subunit composition changes how receptors respond to agonists and sustained exposure.
+
+The chapter's desensitization discussion adds a time dimension: continued ligand exposure can reduce responsiveness even while nicotine remains present. Recovery between exposures and chronic adaptations help explain why the effect of a later exposure may differ from the first. This is more informative than equating agonism with endlessly increasing activation. The explanation uses the assigned textbook because the presentation is missing; the unchanged topic-placeholder choice is not a satisfactory assessment answer.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
 
 **Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
@@ -188,7 +220,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 16, source page 5. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Caffeine pharmacology requires separating **drug exposure from receptor mechanism**. Absorption and metabolism determine the concentration–time profile; at common dietary exposure levels, Chapter 13 emphasizes antagonism of adenosine receptors as the principal explanation for behavioral stimulation. Other biochemical actions described in the chapter require substantially higher concentrations and should not be treated as equally important at all doses.
+
+Connect this to behavior by explaining reduced sleepiness and increased alertness alongside possible anxiety or disrupted sleep. Prior exposure matters because tolerance and withdrawal can alter the baseline against which an effect is measured. A useful response distinguishes direct stimulation from relief of an abstinence-related state and does not imply that caffeine replaces sleep or improves every cognitive task. The original answer contains no model explanation, and the lecture deck was not supplied. This response therefore develops the assigned chapter's concepts without claiming to reproduce an instructor-verified Lecture 16 emphasis or providing personal consumption advice.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 ### Short Essay 2 — Integration: Nicotine pharmacokinetics and metabolism and Nicotinic acetylcholine receptors {#l16-sa02}
@@ -202,6 +240,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 16, source page 1. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Pharmacokinetics explains **how much nicotine reaches receptors and when**; pharmacodynamics explains **what happens when it gets there**. Delivery route changes the speed and pattern of exposure, while CYP2A6-related metabolism contributes to its decline. Nicotinic ACh receptors then translate ligand binding into cation-channel activity, with properties that depend partly on subunit composition.
+
+The connection is dynamic rather than a simple one-dose/one-effect rule. Receptors can activate and then desensitize during exposure, recover as conditions change, and show longer-term adaptations with repeated use. A complete comparison follows delivery → concentration at targets → activation/desensitization → behavioral and physiological consequences. It should not confuse the metabolic product cotinine with the receptor mechanism or assume that slower clearance means a fixed outcome for every person. Because no Lecture 16 presentation was available, this explanation is based on Chapter 13; the original placeholder answer needs substantive replacement before it can serve as a formal assessment key.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 

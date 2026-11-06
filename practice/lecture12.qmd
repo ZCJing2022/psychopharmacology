@@ -23,7 +23,11 @@ of psychoactive drugs. Caffeine.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Most humans are regular users** from Lecture 12 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's list includes **therapeutic, recreational, and commonly consumed psychoactive substances**. A psychoactive drug affects mental processes or behavior; the term does not, by itself, specify whether use is prescribed, legal, harmful, or addictive. Caffeine is one familiar example, but the complete slide also includes several medication and recreational-drug classes.
+
+This sets up the distinction between exposure and addiction. Regular use does not automatically demonstrate impaired control, continued use despite serious harm, or other features of a substance use disorder. The question should therefore be read as identifying the breadth of psychoactive-drug use, not as claiming that everyone using a listed substance has an addiction or that all listed substances have the same risks.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -44,7 +48,11 @@ Which statement best matches the lecture discussion of **Most humans use psychoa
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Most humans use psychoactive drugs without experiencing addiction** from Lecture 12 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The main point is **drug use and addiction are not equivalent categories**. The lecture's percentages illustrate that many people use psychoactive substances without developing the persistent, harmful pattern being discussed. A lower population frequency does not mean that addiction has minor consequences for those affected.
+
+The numerical estimates belong to the lecture's source context. The slide does not provide enough information to treat them as current universal prevalence rates across all countries, age groups, or definitions of addiction. A sound explanation prioritizes the conceptual contrast and the need for a defined denominator. It should not turn the figures into either a guarantee of safety for an individual or a claim that ordinary exposure inevitably progresses to addiction.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -65,7 +73,11 @@ Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. pers
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Addiction is a nuanced term surrounded by stigma** from Lecture 12 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The terms in the slide describe **overlapping but nonidentical phenomena and social categories**. Physical dependence involves adaptation and possible withdrawal, while addiction concerns a broader pattern of impaired control and harmful persistence. A person can develop physical dependence during treatment without that alone establishing addiction.
+
+The lecture also distinguishes self-stigma, social stigma, and structural stigma: negative beliefs can be internalized, expressed by others, or embedded in institutions and access to support. Person-first language helps avoid reducing someone to a diagnosis or behavior. The explanation should therefore do more than list alternative labels. It should connect precise terminology to better interpretation of evidence and less stigmatizing responses, while rejecting the simplistic claim that addiction is merely a failure of willpower.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -86,7 +98,11 @@ one morning and decide to be a drug addict. It takes at least three months’ sh
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **William S. Burroughs, Junky** from Lecture 12 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The literary passage illustrates **an experienced transition from experimentation to a felt need for continued use**. It contributes a first-person perspective on a process that may not begin with an intention to become dependent. Its emphasis on sickness and need connects to the later discussion of withdrawal and negative reinforcement.
+
+However, a memoir is not a controlled study or a universal biological timetable. The specific duration and frequency of use described in the passage must not be treated as a safe threshold before dependence can occur. Nor should its explanation in terms of weak competing motivations be accepted as a complete causal model of addiction. Use it as an illustration to interpret alongside the lecture's biological, psychological, and social framework, not as clinical evidence.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -107,7 +123,11 @@ Who is particularly at risk?. What causes drug addiction?.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What do we really want to know about drug addiction?** from Lecture 12 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture organizes addiction research around **risk, causes, and treatment**. Risk asks why some individuals or circumstances are associated with a greater probability of developing problems. Causal mechanisms ask how drug exposure, learning, adaptation, and environment help generate and maintain those problems. Treatment asks which interventions improve relevant outcomes.
+
+These questions require different kinds of evidence. A risk factor is not necessarily a sufficient cause, and identifying a neural change does not automatically establish an effective treatment. The keyed option names only the first two questions; the full slide also asks what can be done to treat addiction. A developed response explains the relationship among these aims rather than assuming that one statistical association answers all three.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -128,7 +148,11 @@ Men? Women?. Dependent on the drug, but usually men.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Who is particularly at risk?** from Lecture 12 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Risk varies with **the substance, pattern of exposure, developmental stage, health, and social environment**. The lecture discusses sex-related patterns, adolescent initiation, and co-occurring mental-health conditions, then adds genetic and environmental influences on the following slide. Its “telescoping” example concerns a potentially faster progression through stages in some groups and contexts.
+
+None of these associations makes an individual's outcome inevitable. Higher rates in a demographic group do not establish an inherent moral or biological defect, and earlier initiation can be entangled with longer exposure and other circumstances. The key's short male/female comparison is therefore only a fragment of the lecture's risk discussion. A strong interpretation keeps the drug-specific and contextual qualifications rather than ranking whole groups as uniformly vulnerable.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -149,7 +173,11 @@ These drugs act on the brain. Alter our motivation, leading to increased drug-se
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What causes drug addiction?** from Lecture 12 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture emphasizes **changes in brain function and motivation** that can increase drug seeking. Drugs act on neural systems, and repeated exposure interacts with adaptation and learning. This helps explain why stopping is not adequately described as a simple choice made in an unchanged motivational system.
+
+The mechanism should still be placed within the broader risk discussion. Genetics, stress, adversity, and social conditions can influence exposure and responses, so a neural account need not exclude psychological or environmental causes. The presence of a brain difference also does not by itself establish whether it preceded drug use or resulted from it. The key identifies one explanatory level, not a complete claim that every case has the same cause or irreversible outcome.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -170,7 +198,11 @@ Pleasing effects. Craving.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Features of drug addiction** from Lecture 12 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture lists a **pattern of interacting features**: rewarding effects, craving, tolerance, escalation, dependence, relapse, and continued use despite adverse consequences. Each term describes something different. Tolerance is a reduced response after repeated exposure; dependence concerns adaptation and withdrawal; craving is a motivational experience; relapse concerns renewed use after reduction or cessation.
+
+No single feature on the list should be substituted automatically for the whole concept of addiction. In particular, tolerance or withdrawal can occur without the broader pattern of harmful loss of control. The answer panel's first two terms are therefore incomplete as an explanation. The important skill is to distinguish the features and show how they can contribute to a persistent cycle rather than merely memorize a list.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -191,7 +223,11 @@ AKA withdrawal theory (Koob). Explains some (e.g. opioids).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opponent Process Theory of Drug Addiction** from Lecture 12 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Opponent-process theory explains how **compensatory responses can oppose an initial drug effect**. With repeated exposure, the opposing process can become more influential. The same dose then produces less of the original net effect, and when the drug is absent the compensatory state may remain, producing withdrawal or negative affect.
+
+This supports the lecture's transition from taking a drug for a pleasurable effect to taking it to relieve an unpleasant state. Relief can reinforce further use even when the original pleasure has diminished. The theory is informative but not exhaustive: it does not by itself explain every initial exposure, all cue-triggered seeking, or relapse long after acute withdrawal. The lecture explicitly develops those limitations rather than treating withdrawal as the sole cause of addiction.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -212,7 +248,11 @@ Intoxication/binge. Development of dependence (withdrawal).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Stages of drug addiction (a common framework) as related to opponent process theory** from Lecture 12 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The three-stage framework links **binge/intoxication, withdrawal/negative affect, and preoccupation/anticipation**. Intoxication emphasizes drug effects and reinforcement; withdrawal emphasizes the negative state associated with adaptation; anticipation emphasizes craving and processes that motivate renewed seeking.
+
+The diagram represents a recurring interaction, not a rigid sequence that every person completes in exactly the same way. Opponent processes help explain the shift in motivation between intoxication and withdrawal, while learning and cue effects contribute to anticipation. The original keyed option names only two stages, so a complete explanation must include the third. The model is useful because it organizes changing motives and neural processes without equating all drug use with the same clinical trajectory.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -233,7 +273,11 @@ BUT opponent processes can’t be the whole story Withdrawal 17.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **BUT opponent processes can’t be the whole story Withdrawal** from Lecture 12 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide challenges the idea that **relieving acute withdrawal explains all continued drug seeking**. Withdrawal has a time course, while craving, cue responses, and relapse can persist beyond the most obvious acute symptoms. The examples also show that withdrawal patterns differ across substances.
+
+The original answer contains only a heading and figure label, so it supplies no actual explanation. The conceptual answer is that opponent processes contribute to addiction but need to be combined with mechanisms of reinforcement, associative learning, and persistent motivational change. The timelines in the figure are illustrative and should not be used to predict an individual's withdrawal course or to plan unsupervised detoxification. The lesson is a limitation of the theory, not a clinical schedule.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -254,7 +298,11 @@ Operant conditioning. Reinforcement.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Associative Learning Principles Used in Addiction Models** from Lecture 12 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Operant conditioning concerns how **the consequences of an action change the likelihood of that action recurring**. A drug can positively reinforce taking behavior through its effects. Relief from an aversive state can negatively reinforce behavior; “negative” means removal of something aversive, not punishment.
+
+Pavlovian learning supplies a complementary route: cues repeatedly associated with a drug can acquire motivational significance. Such cues may influence seeking even when no drug is immediately present. The lecture's conditioned-reinforcement and incentive-salience terms therefore should not be reduced to the pleasurable effect of a dose alone. A strong answer distinguishes the action–consequence relationship from the cue–outcome relationship and explains how both can maintain behavior.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 9.
 
 **Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
@@ -272,7 +320,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 12, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The figure compares drugs along **dependence-related and physical-harm dimensions**, rather than treating “drug danger” as one self-evident quantity. A substance can occupy a different relative position depending on which outcome is measured. The accompanying ranking and legal-class colors invite comparison between a harm assessment and a regulatory category, but those categories are not the same measurement.
+
+Connect this to the lecture's research questions by distinguishing potential harm, probability of problematic use, and consequences for a particular person or population. Dependence potential does not directly equal prevalence, and a group-level ranking does not predict the outcome of one exposure. The figure is a historical analysis attributed to Nutt and colleagues, not a newly established universal league table. A complete response should explain its axes, identify what comparison they permit, and state the limits of inference. The original answer panel only names the figure and therefore needs this substantive interpretation.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Short Essay 2 — Example of tolerance: caffeine Withdrawal {#l12-sa02}
@@ -286,7 +340,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 12, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The caffeine illustrations provide a **receptor-adaptation example of tolerance and withdrawal**. The lecture depicts caffeine blocking adenosine-related signaling, followed by a compensatory increase in receptor availability during repeated exposure. When caffeine is removed, the compensatory system is no longer opposed in the same way, helping explain a rebound state.
+
+Connect that sequence to opponent-process theory: the initial drug effect is countered by an adaptation, reducing the net effect of the same exposure. In the drug's absence, the adaptation can contribute to an effect opposite to the original response. The diagram is a simplified teaching model, not a complete description of every caffeine effect or individual difference. A strong answer names the initial action, the compensatory change, the resulting tolerance, and what happens during withdrawal. Finally, distinguish this physiological adaptation from addiction: tolerance and withdrawal alone do not establish the broader harmful pattern discussed elsewhere in the lecture.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Short Essay 3 — Motivation for… Brain Stimulation? {#l12-sa03}
@@ -300,6 +360,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 12, source page 19. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The brain-stimulation example shows that an animal can **perform an action to obtain electrical stimulation**, allowing investigators to study reinforcement without first administering a recreational drug. Repeated lever pressing demonstrates the consequence's reinforcing value in that experimental arrangement; it is not a direct verbal report of pleasure.
+
+The lecture connects this research to dopamine projections from the VTA to the nucleus accumbens and asks whether dopamine should simply be equated with pleasure. The question mark matters: motivated responding and subjective liking are not identical observations. The broader connection to psychoactive-drug use is that drugs can interact with systems governing reinforcement and motivation, but ordinary use does not automatically become addiction. A developed response explains the action–consequence contingency, identifies the pathway discussed, and avoids the circular claim that a region is a “pleasure center” merely because an animal works to stimulate it.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 

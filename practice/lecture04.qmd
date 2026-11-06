@@ -23,7 +23,11 @@ Behavioral pharmacology helps us. Understanding the neurochemical basis of behav
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Behavioral Pharmacology** from Lecture 4 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Behavioral pharmacology connects drug administration to a measurable change in behavior. The scientific aim is not simply to observe that an animal moves differently, but to use controlled comparisons to investigate the relationship between a drug, nervous-system processes, and behavioral outcomes.
+
+The lecture identifies applications in understanding mechanisms, developing models, and screening candidate compounds. A behavioral change does not by itself identify a specific receptor or establish clinical benefit. Those interpretations require additional evidence. The keyed option states the field's purpose; the methods introduced later specify how that purpose is pursued. Keep the research question, the experimental manipulation, and the measured outcome distinct.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -44,7 +48,11 @@ Studies using animals have several advantages:. Rigorous control of living condi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Animals are necessary for behavioural pharmacology** from Lecture 4 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Animal studies can permit close control of living conditions, prior experience, and genetic background. They can also support measurements or interventions that would not be appropriate in human participants. These features help researchers isolate possible causes of a behavioral effect.
+
+The key identifies one advantage, but control does not automatically make an animal model an exact copy of a human disorder. The lecture's generalization argument depends on meaningful similarities alongside awareness of differences. It also emphasizes animal-care requirements and the three Rs. A good explanation therefore combines experimental value with limits and ethical obligations, rather than interpreting the title as a claim that every psychopharmacological question must be studied in animals.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -65,7 +73,11 @@ In animal experiments, the placebo is often injection of solution the drug is di
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Controls in animal behavioural pharmacology** from Lecture 4 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A vehicle control receives the preparation used to deliver the drug without the active test compound. It helps distinguish effects of the compound from effects of injection, handling, or the vehicle itself. A positive control receives a treatment with a well-characterized effect in the assay.
+
+The controls answer different questions. The vehicle establishes a comparison without the test drug, while the positive control checks that the procedure can detect the expected kind of effect. If a candidate appears ineffective and the positive control also fails, the assay may be the problem. The keyed option correctly separates these functions; neither control alone establishes every aspect of specificity, validity, or safety.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -86,7 +98,11 @@ Simple observation of behaviors such as tremors, salivation, catalepsy, or sexua
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **You can just watch them and see what they do!** from Lecture 4 (source page 6). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Direct observation can identify changes such as tremor, salivation, immobility, or altered activity. Quantifying these behaviors helps describe a drug's effect and can reveal whether a compound is sedating or stimulating. The important step is turning observation into a defined, consistently measured outcome.
+
+A change in movement does not automatically identify a change in mood, anxiety, or motivation. For example, a drug that impairs movement could alter performance in a test whose intended interpretation concerns something else. The key therefore describes useful initial measurements, not a complete diagnosis of an internal state. Later behavioral assays need to be interpreted in light of such basic motor and physiological effects.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -107,7 +123,11 @@ Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-lik
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Does the drug alter affective states?** from Lecture 4 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture presents fear-conditioning and forced-swim procedures as examples of assays aimed at aspects of affect-related behavior. In fear conditioning, an initially neutral cue can acquire significance through pairing with an aversive event. A subsequent response to the cue is a learned behavioral measure.
+
+The crucial qualification is **fear-related or depressive-like behavior**, not direct access to an animal's complete subjective experience or a clinical diagnosis. Drug effects on movement, learning, or perception can influence the measured response. The keyed option identifies the relevant tests, but explanation requires naming what is observed and distinguishing it from the broader state being inferred. One assay result should not be treated as proof of an entire disorder.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -128,7 +148,11 @@ Tests of chronic stress:. Chronic mild unpredictable stress.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Does the drug alter the stress response?** from Lecture 4 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Chronic-stress paradigms examine consequences of repeated or prolonged adverse conditions rather than a single immediate response. The lecture lists unpredictable mild stress, social defeat, and maternal separation as different experimental approaches. Their procedures and the questions they address are not interchangeable.
+
+Sucrose preference is introduced as a measure related to anhedonia, the reduced responsiveness to normally rewarding experiences. Interpreting a change requires considering what the animal can perceive, consume, and physically do. The keyed option gives one stress paradigm, not the full definition of stress. A complete explanation connects the exposure manipulation to the subsequent behavioral measure and avoids equating the procedure's name with an observed outcome.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -149,7 +173,11 @@ Methods of assessing drug reward and reinforcement:. Drug self-administration me
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Does the drug alter reward and reinforcement?** from Lecture 4 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Reward and reinforcement are related but distinct experimental concepts. A reinforcer is identified by its effect on behavior: obtaining it increases or maintains the response that produces it. In drug self-administration, the animal performs an action to obtain the drug, allowing researchers to examine its reinforcing properties.
+
+The lecture also includes intracranial self-stimulation, progressive-ratio breakpoint, and conditioned place preference. These measure different aspects of the relationship between an event and behavior. A high response rate is not a direct reading of pleasure, because motor capacity and the response requirement also matter. The key identifies a relevant method; the explanation should specify what the animal does and what consequence follows.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -170,7 +198,11 @@ Pavlovian conditioning. Measures the rewarding property of the unconditioned sti
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Conditioned place preference** from Lecture 4 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Conditioned place preference uses an association between an environment and an experience. One setting is paired with a drug or other event, and later preference for that setting is assessed. The environment can acquire motivational significance even when the drug is not being delivered during the preference test.
+
+This is principally a Pavlovian arrangement: the context predicts the event. It differs from self-administration, in which an action produces the drug. The key therefore identifies learned place preference as evidence about rewarding associations, not as a direct measure of every aspect of addiction. Initial preferences, learning, and the ability to explore are relevant to interpreting the observed choice.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -191,7 +223,11 @@ New technologies such as computer vision are used to quantify behavior. Artifici
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Emerging technologies in ethology** from Lecture 4 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Computer vision can convert video into quantified descriptions of behavior, such as movement patterns or the occurrence of defined actions. The lecture emphasizes the possibility of collecting richer observations in habitat-based environments and extends the idea to wearable sensors in humans.
+
+Automation changes how behavior is measured; it does not remove the need to define the behavior or interpret it appropriately. An algorithm's label is not, by itself, proof of anxiety, pleasure, or a specific neural mechanism. The keyed option concerns measurement technology rather than a new neurotransmitter assay. Connect the data to the scientific question, and distinguish a detected movement pattern from the psychological construct it may be used to investigate.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -212,7 +248,11 @@ Stereotaxic surgery is needed for accurate in vivo measures of brain function:. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Stereotaxic Surgery** from Lecture 4 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Stereotaxic methods use an anatomical coordinate system to position an implant or intervention relative to a targeted brain location. A brain atlas and reference landmarks help translate a desired region into a reproducible placement. This is important when a research question concerns a particular circuit or nucleus.
+
+The key identifies precise placement as the contribution of the method. Stereotaxic surgery does not itself measure transmitter concentration, identify a protein, or establish a behavioral effect; it enables other tools to be placed appropriately. Anatomical verification remains important because a result depends on where the intervention actually occurred. Distinguish the positioning procedure from the recording, sampling, or manipulation that follows it.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -233,7 +273,11 @@ In vivo microdialysis: measurement of neurotransmitters released in a specific b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Invasive measurement of neurotransmitters** from Lecture 4 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Microdialysis and fast-scan cyclic voltammetry both provide information about extracellular neurochemistry, but they use different measurement principles. Microdialysis samples substances across a probe membrane for analysis. Voltammetry uses electrochemical changes at an electrode to detect suitable electroactive chemicals and can follow relatively rapid fluctuations.
+
+The key groups them as invasive neurochemical methods because the sensing device is placed in the relevant tissue. Neither is identical to recording action potentials, and neither measurement alone establishes how much transmitter activated a particular postsynaptic receptor. Link the observed chemical signal to its sampling location and timing. Behavioral and neurochemical data can complement one another without becoming interchangeable measurements.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -254,7 +298,11 @@ The lecture treats **Invasive measurement of electrical activity** as a key conc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Invasive measurement of electrical activity** from Lecture 4 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Electrical recording asks about neural voltage changes or firing activity, rather than directly measuring the concentration of a transmitter. An electrode positioned in or near the relevant tissue can detect electrical events, with the interpretation depending on placement and recording arrangement.
+
+The distinction from the preceding slide is the quantity measured: microdialysis and voltammetry investigate neurochemistry, while electrophysiological recording investigates electrical activity. A change in firing may accompany a change in transmitter release, but one cannot simply substitute for the other. The keyed option is a topic placeholder. A meaningful answer needs to name the measurement and explain how it relates to the neural process of interest without claiming that all electrical recordings reveal the same level of activity.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -275,7 +323,11 @@ Important caveat: mRNA does not always equal protein In situ hybridization Post-
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **enkephalin** from Lecture 4 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The enkephalin example illustrates **in situ hybridization**, which locates a specified RNA sequence in tissue. Detecting messenger RNA provides evidence about expression of the corresponding gene in particular cells or regions. It does not directly measure the amount of translated protein present at that moment.
+
+This is why the slide emphasizes that mRNA does not always equal protein. Translation, processing, transport, and degradation separate transcript abundance from the final protein signal. Immunohistochemistry addresses protein localization through a different assay. The key's important content is this measurement distinction; “enkephalin” is the example being examined, not the name of the technique or a reason to equate the two readouts.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -296,7 +348,11 @@ Designer receptors exclusively activated by designer drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **DREADDs** from Lecture 4 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+DREADDs are engineered receptors used to change cellular activity through administration of a suitable activating ligand. The name emphasizes their experimental design: receptor expression and drug administration are combined to manipulate a selected cell population rather than merely observe it.
+
+This makes the method different from staining tissue or measuring naturally occurring transmitter concentrations. The causal question is whether changing the activity of the targeted cells changes an outcome. Appropriate comparisons must separate effects of receptor expression, ligand administration, and their combination. The lecture supplies the acronym rather than a full protocol, so the explanation should remain at the level of experimental logic and not assume that every receptor–ligand system has identical effects or perfect specificity.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -317,7 +373,11 @@ Highlights brain activity, receptor density, and neurotransmitter release. Scann
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Positron emission tomography (PET)** from Lecture 4 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+PET detects signals from an administered radioactive tracer. What the image means depends on the tracer: a glucose-related tracer can inform metabolic activity, while an appropriate receptor-binding tracer can inform receptor availability or related pharmacological processes. The scanner does not directly photograph neurotransmitter molecules firing between cells.
+
+The keyed option correctly connects PET with radioactivity and several possible applications. Those applications should not be collapsed into one universal readout. A change in tracer signal must be interpreted in relation to the tracer's binding, uptake, and distribution. The lecture's FDG example therefore differs from a radioligand selected to investigate a particular drug target.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -338,7 +398,11 @@ Behavioral pharmacology helps us. Understanding the neurochemical basis of behav
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Behavioral Pharmacology** from Lecture 4 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Behavioral pharmacology is defined by its scientific question: how drugs alter behavior and what those alterations reveal about underlying mechanisms. Animal research is one experimental setting in which that question can be investigated under controlled conditions. The two are connected, but they are not equivalent definitions.
+
+The keyed option describes the purpose of the field, whereas statements about controlled housing or known histories describe practical features of an animal study. To reason beyond the labels, specify the drug manipulation and the behavioral outcome, then ask what the comparison can establish. A controlled behavioral effect can support further mechanistic investigation without automatically identifying the responsible receptor or proving relevance to every human condition.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
 
 **Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
@@ -356,7 +420,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 4, source page 7. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+An anxiolytic assay needs a defined behavioral measure linked to anxiety-like responses. The lecture includes open-field, elevated plus-maze, and defensive-burying procedures. Explain what changes in approach, avoidance, or defensive behavior are being interpreted, rather than assuming that the animal's subjective anxiety has been directly measured.
+
+The connection to other affect-related tests is the distinction between an observable response and the broader construct inferred from it. Fear conditioning and forced-swim behavior measure different aspects of performance and should not be treated as interchangeable diagnoses. A drug that changes locomotion, sensation, learning, or coordination can also change performance. Appropriate vehicle and positive controls, together with basic activity measures, help interpret the result. A strong response therefore describes the assay, predicts the behavioral change of interest, and explains at least one alternative explanation that must be considered before calling the compound anxiolytic.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Short Essay 2 — Rat in Operant Chamber (“Skinner Box”) {#l04-sa02}
@@ -370,7 +440,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 4, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+In an operant chamber, an animal learns that a response produces a consequence. A lever press followed by access to a reinforcer is different from a cue merely predicting an event. The schedule determines the response requirement: a fixed-ratio schedule requires a specified number of responses, while a progressive-ratio schedule raises that requirement and permits measurement of the breakpoint.
+
+The key connection is between a controlled contingency and quantified behavior. Emerging video-analysis methods can add detailed descriptions of movement or action patterns, but observing behavior does not itself create an operant contingency. An automated system may measure the behavior in a chamber or a more naturalistic environment; the researcher still needs to specify which actions have which consequences. Distinguish reinforcement, defined by its effect on responding, from an unsupported claim about subjective pleasure. Also consider whether a drug changes the ability to perform the response rather than only the value of its consequence.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Short Essay 3 — Immunohistochemistry (immunocytochemistry) Hypocretin (orexin) {#l04-sa03}
@@ -384,7 +460,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 4, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Immunohistochemistry uses recognition of a protein to reveal its distribution in prepared tissue. The orexin example therefore concerns a protein-related signal. In situ hybridization instead detects a complementary RNA sequence, with the enkephalin example illustrating the location of a particular transcript.
+
+The connection is that both provide spatial information about a biological target, but at different stages of expression. RNA must be translated and the resulting protein may be processed, transported, or degraded, so the signals need not match exactly. A high transcript signal does not automatically prove a high concentration of functional protein at the same location. A strong answer identifies the target measured by each technique, explains the gene-expression relationship between them, and states what cannot be concluded from either assay alone. Neither tissue-localization method directly records moment-to-moment firing or behavioral reinforcement.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Short Essay 4 — Integration: Behavioral Pharmacology and Animals are necessary for behavioural pharmacology {#l04-sa04}
@@ -398,6 +480,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 4, source page 3. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Behavioral pharmacology defines the research aim: understanding drug-induced changes in behavior and their mechanisms. Animal studies provide particular ways to pursue that aim, including control of environment and prior experience, defined manipulations, and access to measurements not appropriate in humans. These advantages can help test causal explanations rather than relying only on correlations.
+
+The connection is methodological, not an identity between the field and one species or assay. The value of a model depends on how the measured behavior and underlying mechanism relate to the human question. Shared mammalian organization can support comparison, while species differences and the limits of the assay constrain generalization. The lecture also emphasizes animal-care standards and the three Rs. A complete response should therefore explain a controlled drug–behavior comparison, describe what animal work makes possible, and acknowledge why a successful animal result is not automatically a successful clinical treatment.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 

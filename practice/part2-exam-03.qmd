@@ -24,7 +24,13 @@ D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating e
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **Behavioural outcome of D1 knockout**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A drug can elevate extracellular dopamine without producing its usual behavioral effect if a necessary receptor-mediated step is missing. The receptor-knockout examples therefore help test the contribution of D1- and D2-related signaling to stimulant-induced locomotion.
+
+The lecture also contrasts transporter overexpression and amphetamine responsiveness, reinforcing that both the presynaptic transporter and postsynaptic receptor machinery matter. These are different experimental manipulations, not interchangeable ways of “removing dopamine.” The key's generalization should be read in the context of the reported locomotor endpoint. Failure of that response does not establish that every effect of the drug, every dopamine function, or every compensatory mechanism has disappeared.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 2
@@ -42,7 +48,13 @@ NE neurons in the brain are located in the pons and medulla, especially in the l
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Integration: Organization and function of the central noradrenergic system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The central noradrenergic system is an anatomical projection system, whereas an adrenergic autoreceptor is one molecular feedback mechanism within it. The locus coeruleus and related brainstem groups provide norepinephrine-containing projections to many targets. DBH expression supports the transmitter identity of those neurons.
+
+An autoreceptor detects the neuron's own released transmitter and can regulate further firing or release. The keyed option describes the origin and chemical identity of the system, not the complete receptor mechanism. The connection is that broad projection systems still require local regulation. A change in autoreceptor signaling can alter output from a neuron whose axons influence many distant regions.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 3
@@ -60,7 +72,13 @@ Which statement best matches the lecture discussion of **Serotonin in anxiety**?
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Serotonin in anxiety**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture brings together pharmacological and genetic evidence for serotonin's involvement in anxiety. It describes anxiolytic effects of 5-HT1A agonists in experimental animals and increased anxiety-like behavior in 5-HT1A-knockout mice. These observations support a role for the receptor, but do not by themselves identify the responsible brain region or receptor location.
+
+That limitation is central to the answer. A systemically administered agonist can act at both autoreceptors and postsynaptic receptors, and a whole-animal knockout has broad consequences. It would therefore be premature to conclude that one particular serotonergic projection mediates the effect. The following lecture example narrows the question by manipulating nerve terminals and examining behavior in a defined circuit.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 4
@@ -78,7 +96,13 @@ ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VACh
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **Compounds affecting acetylcholine storage and release**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+VAChT packages acetylcholine into **synaptic vesicles**, making it available for regulated release when the terminal is activated. Vesamicol blocks this packaging step, so less transmitter can be released even if ACh synthesis and the arrival of an action potential still occur.
+
+The lecture contrasts storage blockade with toxins affecting release itself. Botulinum toxin prevents vesicle fusion, while black widow spider venom is described as promoting massive peripheral ACh release. These are different interventions in the same signaling sequence. Identify whether the change concerns transmitter production, vesicle filling, or fusion with the terminal membrane. The keyed option concerns filling vesicles, not receptor antagonism or enzymatic breakdown of ACh after it reaches the synaptic cleft.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 5
@@ -96,7 +120,13 @@ Ischemic brain damage. One mechanism of ischemia.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **Glutamate toxicity in stroke**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture connects ischemia to **excessive extracellular glutamate and injury to nearby neurons**. Loss of adequate blood supply compromises normal cellular function, and disrupted glutamate regulation can lead to prolonged activation of excitatory receptors. The preceding receptor discussion explains why sustained ion entry, especially calcium signaling under pathological conditions, can become damaging.
+
+This mechanism motivates efforts to protect tissue around an infarct. It does not mean glutamate is the initial vascular blockage or the only pathway of ischemic damage. The clinical-treatment question is separate: even if excitotoxicity contributes to injury, blocking one receptor class must still be shown to improve outcomes safely under actual treatment conditions. That is why the next slide discusses unsuccessful NMDA-blocker trials.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 6
@@ -114,7 +144,13 @@ Co-release of GABA has been demonstrated for neurons that also use glycine, ACh,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **Co-release of GABA is common**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The co-release examples challenge a strict **one-neuron/one-transmitter rule**. The lecture describes GABA release from neurons also associated with glycine, ACh, dopamine, or glutamate. In some cases multiple vesicular transport systems coexist; in others, packaging involves transport machinery ordinarily associated with another transmitter.
+
+Co-release does not make the two transmitters functionally identical. Simultaneous glutamate and GABA signaling can have different effects on the target cell because their receptors and conductances differ. This allows finer control than labeling a whole neuron simply “excitatory” or “inhibitory.” The evidence to look for concerns transmitter handling and release, not merely whether a molecule can be detected somewhere inside the cell for metabolic reasons.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 7
@@ -132,7 +168,13 @@ Which statement best matches the lecture discussion of **Intrastriatal shifts ar
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture describes progressive recruitment of dorsolateral striatal circuitry during extended drug seeking. Its diagram links ventral and dorsal striatal systems through interacting dopamine-related loops. This provides a circuit-level account of a shift in the control of behavior over time.
+
+The source then proposes altered DAT as a possible molecular contributor, while explicitly stating that the precise mechanism is unresolved. Do not turn that proposal into an established explanation. A change in regional activity, a change in transporter expression, and a causal role for a particular cell type are separate claims requiring different evidence. The later experiments are introduced to investigate this gap, not to show that the question was already settled.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 8
@@ -150,7 +192,13 @@ NE neurons in the brain are located in the pons and medulla, especially in the l
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Organization and function of the central noradrenergic system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Noradrenergic cell bodies are concentrated in brainstem groups, especially the locus coeruleus, but their projections reach many distant regions. The enzyme dopamine beta-hydroxylase is important because it converts dopamine toward norepinephrine synthesis and helps identify the noradrenergic phenotype.
+
+The key concerns anatomical origin and transmitter identity. It does not imply that norepinephrine acts only in the locus coeruleus. Extensive projections allow this relatively localized system to influence arousal, sensory processing, and cognition across the forebrain and other targets. The lecture also connects it to familiar catecholamine mechanisms—vesicular storage, reuptake, metabolism, and tonic or phasic activity—so anatomy and transmitter handling should be understood together.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 9
@@ -168,7 +216,13 @@ Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiment
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Identifying the precise anxiety-modulating mechanism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The experiment narrows the anxiety question by manipulating **serotonergic nerve terminals**, rather than simply administering a drug throughout the body. In the lecture's account, terminal excitation increases serotonin release and increases open-arm time in the elevated plus-maze; terminal inhibition produces the opposite, anxiety-like pattern.
+
+The lecture interprets this evidence as supporting a contribution from postsynaptic 5-HT1A receptors in the studied circuit. The logic is that increasing transmitter delivery to target cells reduces the measured anxiety-like behavior, rather than reducing transmitter output through autoreceptor inhibition. Keep the scope specific: open-arm time is a behavioral index, not a direct report of subjective anxiety, and the finding does not establish that every serotonergic projection has the same function.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 10
@@ -186,7 +240,13 @@ Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **The cholinergic pharmacology of Botox**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The essential mechanism is **presynaptic inhibition of acetylcholine release**. Botulinum toxin enters peripheral cholinergic terminals and disrupts the machinery needed for synaptic vesicles to fuse with the membrane. At a neuromuscular junction, reduced ACh release means less stimulation of the muscle's nicotinic receptors, producing weakness or paralysis.
+
+This explains why a toxin can also have carefully controlled therapeutic uses in conditions involving excessive muscle contraction. The molecular action is not the same as blocking the muscle receptor directly or inhibiting ACh breakdown. The answer's bacterial origin and uptake description identify the substance, but the release-to-muscle-response chain explains the effect. The course examples describe pharmacological principles, not instructions for handling or administering the toxin.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 11
@@ -204,7 +264,13 @@ They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **NMDA receptor blockers in stroke**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture contrasts a **plausible neuroprotective mechanism with disappointing clinical trial results**. NMDA receptors participate in excitotoxic processes, so blocking them seemed a reasonable strategy for limiting ischemic injury. However, the historical trials cited on the slide did not establish the hoped-for clinical benefit.
+
+This does not prove that NMDA receptors play no role in the injury mechanism. It shows that mechanistic involvement is not sufficient to demonstrate that a particular treatment improves patient outcomes. The supplied slide does not give enough information to attribute failure to one specific cause, such as dose, timing, or adverse effects, so those explanations should not be invented. Interpret “they don't seem to work” within the trials and course context, not as a current universal treatment guideline.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 12
@@ -222,7 +288,13 @@ Thalamus Thalamus.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **GABAergic projections: direct and indirect pathway Direct**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The direct and indirect basal-ganglia diagrams illustrate **inhibition and disinhibition across a chain of connections**. In the simplified direct pathway, striatal inhibition of an inhibitory output region can reduce its inhibition of the thalamus, facilitating motor-related signaling. The indirect pathway involves additional connections that can increase inhibitory output and restrain that signaling.
+
+The key “Thalamus Thalamus” is a figure-label extraction error, not a meaningful answer. A useful explanation must trace the sign of each connection rather than assume that activating any GABAergic neuron suppresses every downstream region. The Parkinson's comparison then shows how altered dopamine input changes the balance of these pathways. This item needs substantive choices before it can validly assess the circuit concept.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 13
@@ -240,7 +312,13 @@ Heroin self-administration has little effect on DAT protein but dramatically red
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The reported result is a mismatch between two measurements: striatal DAT protein changes little, whereas measured DAT mRNA is markedly reduced after heroin self-administration. Protein abundance and transcript abundance are not interchangeable, so this is not automatically a contradiction.
+
+The lecture uses the mismatch to motivate questions about cellular origin and anatomical location. Protein in an axon terminal can originate from synthesis in a cell body elsewhere, while locally measured RNA may belong to another cell population. The key should therefore be interpreted as the specific result presented in the lecture, not a universal finding for every heroin exposure. The next step is to identify which cells contribute to each measurement.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 14
@@ -258,7 +336,13 @@ Adrenergic receptors THE AUTORECEPTOR.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Adrenergic receptors THE AUTORECEPTOR**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Adrenergic receptors include several subtypes with different signaling functions. The lecture highlights the inhibitory autoreceptor role of alpha-2 receptors: when activated on a norepinephrine neuron, they can reduce further transmitter output through effects on firing or release.
+
+This is negative feedback, not a statement that every adrenergic receptor suppresses activity. Alpha-2 receptors can also occur at other locations, where their functional consequences depend on the receiving cell. The existing key names “the autoreceptor” but does not identify the mechanism. The useful distinction is between a receptor detecting the neuron's own transmitter to regulate output and a receptor on a different target cell mediating that cell's response.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 15
@@ -276,7 +360,13 @@ Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melano
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Serotonin in hunger and eating**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The feeding example distinguishes **appetite-suppressing and appetite-promoting signals** within hypothalamic circuitry. The lecture describes arcuate-nucleus neurons associated with α-MSH and others associated with NPY and AgRP. Their projections reach the paraventricular nucleus, where melanocortin signaling contributes to the regulation of feeding.
+
+α-MSH activates MC3/4 receptors and favors appetite suppression; AgRP antagonizes those receptors and favors feeding. This receptor opposition explains more than saying that serotonin “controls hunger.” Serotonin can influence the balance within the circuit, but the downstream peptides and receptors determine how that influence is expressed. The lorcaserin example belongs to the course's historical pharmacology discussion; it should not be interpreted here as a current prescribing recommendation.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 16
@@ -294,7 +384,13 @@ Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four sub
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **Acetylcholine is broken down by acetylcholinesterase**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Acetylcholinesterase terminates cholinergic signaling by **hydrolyzing ACh to choline and acetic acid**, as described in the lecture. Rapid removal matters at neuromuscular junctions because continuing receptor stimulation would interfere with the separation of successive contractions and relaxation.
+
+The slide distinguishes soluble and membrane-associated enzyme arrangements, including the specialized form at the neuromuscular junction. Their positioning helps bring enzyme and released transmitter together efficiently. Reversible AChE inhibitors have the opposite effect from blocking ACh release: they prolong the availability of transmitter that has already been released. The dementia examples illustrate that mechanism in the course; they do not mean that these drugs restore lost neurons or reverse every cause of cognitive impairment.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 17
@@ -312,7 +408,13 @@ Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **Glutamate biosynthesis**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Glutaminase converts **glutamine to glutamate**, supplying part of the transmitter pool used by glutamatergic neurons. Glutamate is also an amino acid with metabolic roles in many kinds of cells, so its mere presence in a cell does not establish that the cell releases it as a neurotransmitter.
+
+The lecture distinguishes the specialized transmitter pool from these other biochemical functions. Glutamatergic neurons must also package glutamate into vesicles and release it at appropriate terminals. Do not confuse glutaminase with glutamine synthetase: the latter converts glutamate into glutamine in astrocytes, helping recycle material back to neurons. The two enzymes support opposite steps in a shared neuron–glia cycle rather than performing the same reaction.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 18
@@ -330,7 +432,13 @@ The lecture treats **GABAergic interneurons** as a key concept that should be un
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **GABAergic interneurons**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The slide illustrates **disinhibition of a VTA dopamine neuron**. At baseline, a GABA interneuron inhibits the dopamine cell. Activation of the μ-opioid receptor on the inhibitory neuron reduces its activity and GABA release. With less inhibitory input, the dopamine neuron can increase firing.
+
+The critical reasoning involves two inhibitory steps: inhibiting an inhibitor can increase activity downstream. It would therefore be wrong to infer that an inhibitory cellular drug action must always reduce activity throughout the entire circuit. The original keyed option is a topic placeholder and omits the illustrated mechanism. The figure supplies the actual teaching point; it should be used to understand disinhibition, while the MCQ's answer choices remain a revision issue.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 19
@@ -348,7 +456,13 @@ The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striata
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture's proposed explanation depends on anatomy. Dopamine-neuron cell bodies lie in the ventral midbrain, while their axons carry DAT protein into striatal tissue. A striatal protein measurement can therefore include material from neurons whose cell bodies and principal RNA-synthesis machinery are elsewhere.
+
+The source asks which locally situated cells account for the striatal DAT transcript signal and proposes astrocytes as a candidate. “We bet on astrocytes” is a hypothesis leading to a cell-localization test, not evidence by itself. Distinguish the location of a protein, the origin of its cell, and the identity of a locally detected transcript. The explanation should preserve the hypothesis-to-test sequence rather than assuming the answer from the initial bulk assay.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 20
@@ -366,7 +480,13 @@ Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory co
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **What is impulsivity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture separates **impulsive action** from **impulsive choice**. Motor impulsivity concerns difficulty withholding or stopping a response, such as acting before the appropriate cue. Cognitive impulsivity concerns choices favoring an immediate outcome over a delayed one, with insufficient forethought about later consequences.
+
+The keyed option defines the motor component. It should not be taken as a complete definition of every form of impulsivity. The source also distinguishes impulsivity from broader problems learning rules, evaluating risk, or using probabilities. Someone can perform poorly on one kind of task without necessarily failing on another. The measurement must match the specific component being discussed.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 21
@@ -384,7 +504,13 @@ Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for D
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Integration: A point of clarity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+This integration item revisits the dopamine-deficient mouse to reinforce **cell-type-selective synthesis**. TH is needed upstream of both dopamine and norepinephrine. Restoring functional TH under DBH regulatory control enables norepinephrine-producing cells to recover their pathway while dopamine-producing cells remain deficient.
+
+The useful connection to this lecture is that transmitter availability depends on particular enzymes in particular cells. In the serotonergic system, tryptophan hydroxylase and precursor availability supply a different synthesis pathway. Neither case is equivalent to a receptor antagonist: reducing synthesis changes the supply of transmitter, whereas antagonism changes how a target cell responds to transmitter already present. Read the full restoration detail, not the misleading shorthand that an intact DBH gene alone preserves norepinephrine synthesis.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 22
@@ -402,7 +528,13 @@ Choline is taken back up by choline transporters; transporters can be blocked by
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **What happens to the byproducts of ACh catabolism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The recycled molecule is **choline**, not intact acetylcholine. AChE first breaks released ACh down in the extracellular space. Choline transporters then return choline to the terminal, where ChAT can use it with acetyl-CoA to synthesize new transmitter.
+
+Blocking choline uptake with hemicholinium-3 reduces precursor availability and therefore reduces subsequent ACh production. This differs from the monoamine examples in which the transmitter itself is taken back up by a transporter such as SERT or DAT. It also differs from inhibiting AChE, which slows transmitter breakdown rather than limiting precursor recycling. A complete explanation follows the cycle from release to hydrolysis, precursor uptake, and resynthesis instead of calling every transport process “ACh reuptake.”
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 23
@@ -420,7 +552,13 @@ Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 o
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **Vesicular packaging of glutamate**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+VGLUT proteins transport glutamate into **synaptic vesicles**. They are therefore markers of the capacity for vesicular glutamate signaling, not enzymes that synthesize glutamate or transporters that remove it from the extracellular space. EAATs perform the latter uptake function.
+
+The co-transmission examples qualify an overly rigid “one neuron, one transmitter” rule. A cell identified by dopamine, serotonin, ACh, or GABA markers may also express a VGLUT and release glutamate. In the VTA example, the lecture describes dopamine and glutamate release from separate vesicles at different terminal types. Thus, co-expression does not imply that the two chemicals necessarily occupy the same vesicle or are released identically at every synapse of that neuron.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 24
@@ -438,7 +576,13 @@ GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA r
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **GABAA receptors are most common The actions of GABA are primarily**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+GABAA receptors are **ligand-gated ion channels**, commonly assembled from five subunits. In the adult-neuron example used by the lecture, opening the channel permits chloride conductance that inhibits the postsynaptic cell. GABAB receptors, by contrast, work through G proteins and indirect effects on channels and signaling pathways.
+
+The common two-α, two-β, one-γ arrangement is a useful example, not the composition of every GABAA receptor. Differences in subunits help explain why receptor populations respond differently to modulators such as benzodiazepines, anesthetics, and neurosteroids. The central distinction is receptor mechanism: rapid channel-mediated inhibition versus metabotropic inhibition. Do not mistake the receptor family name for the enzyme GAD or the uptake transporters GATs.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 25
@@ -456,7 +600,13 @@ self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture reports that RNAscope in situ hybridization localized a reduction in DAT mRNA to striatal astrocytes after heroin self-administration. This adds cell-related spatial information that a bulk protein or transcript assay alone cannot provide.
+
+The result concerns **RNA expression in the reported cells and condition**. It does not by itself demonstrate the amount of functional DAT protein at the membrane or quantify how much dopamine clearance those cells perform. Those are later functional questions. The key should therefore be connected to the previous hypothesis: localization supplies evidence about the source of the transcript change, while selective manipulation is needed to investigate its physiological contribution.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 26
@@ -474,7 +624,13 @@ Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Measuringimpulsivityinthelab-humans**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Questionnaires and performance tasks measure different aspects of impulsivity. The Barratt scale collects reports across attentional, motor, and nonplanning dimensions. Stop-signal and go/no-go tasks examine response inhibition, whereas delay-discounting tasks examine how delay changes the value assigned to an outcome.
+
+The key names the questionnaire approach, but a full explanation should connect each measure to the intended construct. A questionnaire score is not identical to the latency of stopping a response, and neither directly measures every aspect of everyday decision-making. The lecture's range of methods reinforces that impulsivity is multidimensional. Choosing an assay requires first specifying whether the concern is action, choice, attention, or planning.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 27
@@ -492,7 +648,13 @@ Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for D
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **A point of clarity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The important detail is the **selective restoration of tyrosine hydroxylase (TH)**, not simply the presence of the dopamine β-hydroxylase (DBH) gene. TH performs the first step in the catecholamine synthesis pathway. Removing TH would otherwise prevent the production of dopamine and the norepinephrine made from it. Placing a functional TH sequence under DBH regulatory control restores synthesis in cells that normally make norepinephrine.
+
+Dopaminergic cells do not receive this restoration, so they remain dopamine deficient. The opening slide clarifies the model from the preceding lecture. The key's first sentence is incomplete without its second sentence: an intact DBH gene alone cannot compensate for a missing upstream precursor. This is a genetic manipulation of synthesis, not blockade of a dopamine receptor.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 28
@@ -510,7 +672,13 @@ Preganglionic neurons of both branches of the autonomic nervous system are choli
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **Acetylcholine in the autonomic nervous system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Both autonomic branches use **ACh at the preganglionic-to-ganglionic synapse**. In the simplified organization emphasized by the lecture, parasympathetic postganglionic neurons also release ACh at their targets, whereas sympathetic postganglionic neurons generally release norepinephrine. The position of the synapse matters as much as the branch name.
+
+Thus, “sympathetic means norepinephrine” is incomplete: it overlooks the cholinergic first synapse. Likewise, identifying a neuron as cholinergic does not by itself tell you whether it is sympathetic or parasympathetic. Trace CNS → autonomic ganglion → target organ, and label the transmitter at each connection. The key summarizes the course's general arrangement; it should not be used as an exceptionless inventory of every peripheral autonomic pathway.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 29
@@ -528,7 +696,13 @@ Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur i
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **Glutamate reuptake**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+EAATs remove glutamate from the **extracellular space**, limiting the duration and spread of excitation. Astrocytic EAAT2 has a particularly prominent role in the lecture's account, illustrating that transmitter inactivation is not exclusively a job for the presynaptic neuron.
+
+This uptake has two linked consequences: it helps end a signal and prevents excessive extracellular glutamate from stimulating receptors continuously. Glutamate taken into astrocytes can subsequently enter the glutamate–glutamine recycling pathway. The approximate uptake percentage in the key expresses the course's emphasis on astrocytes; the mechanistic distinction is more important than treating that number as universal. VGLUT fills vesicles, EAAT removes extracellular transmitter, and glutamine synthetase performs an intracellular chemical conversion.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 30
@@ -546,7 +720,13 @@ Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicucull
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **Modulation of the GABAA receptor**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Muscimol is an **orthosteric GABAA agonist**, acting at the transmitter-recognition site to activate the receptor. Bicuculline is a competitive antagonist that prevents GABA from acting at that site. Picrotoxin and the other channel-modulating examples illustrate inhibition at sites different from the GABA-binding pocket.
+
+These distinctions explain why reduced GABAA function can increase network excitability and provoke convulsions: the intervention removes part of the system's inhibitory restraint. The lecture notes additional complexity in PTZ's interaction, so “different binding site” should not be turned into an oversimplified claim about every dose–response relationship. Identify the drug's site and functional effect first, then distinguish direct agonism, competitive antagonism, and channel/allosteric inhibition.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 31
@@ -564,7 +744,13 @@ Used to record activity from a group of neurons. Neurons express a fluorescent s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **FiberPhotometry &Optogenetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Fiber photometry records fluorescence from a population expressing a sensor such as GCaMP. The signal provides an indirect indicator related to cellular activity while behavior is occurring. It does not ordinarily resolve the independent spike train of every neuron contributing to the collected light.
+
+Optogenetics, shown alongside it in the lecture, serves a different purpose: light-sensitive proteins allow activity to be manipulated. The distinction is **recording a signal** versus **causally perturbing a system**. The key describes photometry, not the entire combined slide. A complete interpretation identifies what the sensor reports, which population expresses it, and how a recorded association differs from a manipulation that tests contribution to behavior.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 32
@@ -582,7 +768,13 @@ Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture associates medial and dorsolateral/dorsomedial prefrontal systems with attention, planning, executive control, and the inhibition of actions. Orbitofrontal systems are emphasized for action–outcome relationships, reward value, and updating choices when circumstances change.
+
+The keyed option identifies the first grouping. The distinction helps explain why response inhibition and delay-related choice are not necessarily the same deficit. These functions still depend on interactions with striatum and other regions; the slide is not a claim that one prefrontal area works alone. Interpret the anatomical labels as components of control networks, and match the behavioral task to the particular operation being tested.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 33
@@ -600,7 +792,13 @@ Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic n
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Serotonin synthesis is regulated by enzymatic**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Serotonin, **5-hydroxytryptamine or 5-HT**, is an indoleamine rather than a catecholamine. Its precursor is tryptophan. Tryptophan hydroxylase first converts tryptophan to 5-hydroxytryptophan (5-HTP); aromatic amino acid decarboxylase then converts 5-HTP to serotonin. The hydroxylation step is the rate-limiting step emphasized in the lecture.
+
+The keyed option correctly identifies the transmitter and its chemical class, but a fuller understanding also requires this two-step sequence. Enzyme activity and the availability of tryptophan jointly influence how much serotonin can be synthesized. Do not substitute tyrosine hydroxylase merely because its name sounds similar: that enzyme belongs to the catecholamine pathway, whereas tryptophan hydroxylase belongs to the serotonin pathway.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 34
@@ -618,7 +816,13 @@ The neuromuscular junction. a special type of synapse.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **Acetylcholine in the somatic nervous system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A neuromuscular junction is the synapse between a **somatic motor neuron and a skeletal muscle fiber**. The motor terminal releases ACh, which activates nicotinic ACh receptors on the muscle membrane. Channel opening depolarizes that membrane and links the nervous system's signal to muscle activation.
+
+The short keyed phrase names the junction but does not explain why it belongs to this topic. The important distinction is from an autonomic pathway, which uses a ganglionic relay to regulate organs and glands. It is also distinct from an ACh synapse between two neurons within the brain. Keep the transmitter, receptor class, and target cell together: ACh is the signal, the nicotinic receptor is the detector, and skeletal muscle is the target.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 35
@@ -636,7 +840,13 @@ High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develo
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **EAAT knockout**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Removing EAAT2 compromises a major route for **clearing extracellular glutamate**. The lecture reports seizures and shortened survival in knockout mice, linking disrupted clearance to excessive excitation. The result demonstrates why a normally useful excitatory transmitter must be tightly regulated outside cells.
+
+The manipulation is not equivalent to eliminating glutamate synthesis or blocking all glutamate receptors. Transmitter can still be released, but its removal is impaired. This makes the experiment informative about transport and extracellular regulation. However, a constitutive knockout affects an animal over development as well as during testing, so its full phenotype should not be reduced to the effect of one brief drug exposure. The evidence supports the importance of uptake, not an unrestricted claim that glutamate is inherently harmful.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 36
@@ -654,7 +864,13 @@ BDZs and ethanol can only modulate receptor activity, regardless of dose; high d
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **Allosteric modulation of the GABAA receptor**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The decisive comparison is **a modulator with GABA present versus the same modulator without GABA**. In the lecture's diazepam example, the drug enhances the receptor's response to GABA but does not activate the channel alone. That supports classification as a positive allosteric modulator rather than an orthosteric agonist.
+
+The slide contrasts this with sufficiently high concentrations of certain barbiturates, anesthetics, or neurosteroids, which can directly gate channels. It also describes inverse effects at the benzodiazepine site that reduce GABA's effectiveness. These distinctions concern receptor pharmacology, not an assurance that a GABA-dependent drug is harmless. The course's broad ethanol statement belongs to this simplified comparison and should not be extended to explain every action of alcohol in the brain.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 37
@@ -672,7 +888,13 @@ Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astroc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **CONTROL DAT KO CONTROL DAT KO**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The proof-of-principle slide compares control and DAT-knockout conditions in targeted cell populations. Its purpose is to establish that the intended manipulation can be achieved in the relevant neuronal or astrocytic preparation before interpreting downstream effects on dopamine handling.
+
+Demonstrating a change in a molecular marker is an important validation step, but it is not yet the same as demonstrating a change in clearance or behavior. The key names the manipulation and cell groups rather than stating the full result. Follow the evidential order: **targeted intervention → confirmation of the intended cellular change → functional measurement → behavioral interpretation**. Skipping the validation step makes a negative or positive functional outcome difficult to explain.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 27. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 38
@@ -690,7 +912,13 @@ Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Subcortical systems contribute to selecting, initiating, inhibiting, and valuing actions. The lecture connects dorsal striatum with action control, nucleus accumbens with motivational influences, and amygdala with learned value and the significance of cues. Brainstem and midbrain catecholamine systems modulate these interactions.
+
+The key therefore identifies striatum as relevant to both choice and motor impulsivity. It does not support a simple contrast in which cortex supplies control and all subcortical activity supplies impulsivity. Organized behavior depends on communication among these systems. The source's emphasis on interactions is essential: a change in one node can alter the function of the network without that node containing the entire psychological process.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 39
@@ -708,7 +936,13 @@ The lecture treats **Tryptophan hydroxylase** as a key concept that should be un
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Tryptophan hydroxylase**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The original keyed option is a **topic placeholder**, not a substantive statement about the enzyme. The figure on this slide distinguishes TPH2, associated with serotonergic neurons, from TPH1 in non-neuronal cells, including cells of the gut and pineal gland. Both concern serotonin synthesis, but their tissue locations matter when interpreting a drug's effects.
+
+The slide's telotristat example illustrates this distinction. It describes inhibition of peripheral serotonin synthesis without entry across the blood–brain barrier, linking drug distribution to the tissues in which enzyme inhibition occurs. Thus, inhibiting a serotonin-synthesis enzyme does not automatically mean lowering brain serotonin. This explanation supplies the missing concept; the existing choices should not be treated as a well-formed, uniquely discriminating MCQ.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Question 40
@@ -726,7 +960,13 @@ Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 8, topic **Cholinergic projections in the NS**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture distinguishes **long-range cholinergic projection systems** from local interneurons. Basal forebrain neurons provide cholinergic input to cortex, hippocampus, and other limbic structures. Cholinergic cells in the laterodorsal and pedunculopontine tegmental nuclei project to regions including the thalamus and basal ganglia.
+
+The origin of a projection is not the same as its target. A cholinergic terminal in the cortex can belong to a neuron whose cell body lies in the basal forebrain. This organization helps explain how a relatively localized population can influence widespread neural processing. By contrast, the striatal interneurons discussed later act within a local circuit. The key is the source-to-target arrangement, not an assumption that ACh has one function in every destination.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Question 41
@@ -744,7 +984,13 @@ Astrocyte transporters convert the glutamate they take up to glutamine using glu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 9, topic **Astrocytic metabolism of glutamate**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The recycling sequence is **uptake into astrocytes → conversion to glutamine → transport to neurons → reconversion to glutamate**. Glutamine synthetase catalyzes the astrocytic conversion; glutaminase catalyzes the neuronal conversion. This couples removal of released transmitter to replenishment of the supply used for later signaling.
+
+There is a wording problem in the original key: transporters do not themselves convert glutamate into glutamine. The lecture's shorthand should be distinguished from the clearer account in Chapter 8, which assigns transport to EAATs and conversion to the enzyme glutamine synthetase. Keeping movement and chemical transformation separate makes the cycle intelligible and explains how astrocytes support both signal termination and continued neurotransmission.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Question 42
@@ -762,7 +1008,13 @@ Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 10, topic **Organization and Function of the GABAergic System (6 of 9)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The table links anesthetic effects to **patterns of receptor modulation**, especially enhancement of GABAA-mediated inhibition. The lecture also shows that different agents have effects at other receptor classes and that receptor subunit composition can influence sensitivity.
+
+This helps explain why sharing an anesthetic effect does not imply identical molecular actions or identical side effects. In the figure, the principal GABAA effect is distinguished from additional actions labeled as high-dose or antiemetic effects. The mixed phrases in the original answer are extracted labels, not a coherent causal explanation. Read the table by comparing a drug across receptor columns and distinguishing its primary inhibitory action from additional receptor effects, rather than treating every listed effect as equally strong or universal.
+
+**Source:** Lecture 10 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
 :::
 
 ### Question 43
@@ -780,7 +1032,13 @@ organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 5, topic **Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The source reports that DAT deletion in VTA neurons only partially reproduces the effect of an organism-wide DAT knockout on dopamine reuptake. This comparison motivates a question about the remaining clearance capacity and whether astrocytic DAT contributes to it.
+
+It does not prove that all residual uptake is astrocytic. Incomplete deletion, other cell populations, or other clearance processes would also require consideration. The lecture itself ends with a question rather than a definitive causal attribution. A careful explanation separates the observed partial effect from the proposed source of the remainder. The next informative experiment would selectively test the candidate contribution while verifying the specificity and effectiveness of the manipulation.
+
+**Source:** Lecture 5 presentation, original topic anchor at PDF p. 28. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
 :::
 
 ### Question 44
@@ -798,7 +1056,13 @@ Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 6, topic **Circuits involved in impulse control Circuitsinvolvedin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The circuit diagram integrates the preceding lists of brain regions. Impulse control requires information about goals, current stimuli, expected outcomes, motivational state, and whether an action should be performed or stopped. These functions are distributed across interacting prefrontal and subcortical systems.
+
+The key's phrase “interactions between many regions” is correct but needs this functional interpretation. A connection diagram does not by itself prove that every link is equally important for every task. Impulsive action and impulsive choice can place different demands on the network. Use the diagram to explain how information is coordinated, rather than treating it as a list of independent locations with one-to-one labels for behavior.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Question 45
@@ -816,6 +1080,12 @@ Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from di
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 7, topic **Uptake of dietary tryptophan**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The relevant quantity is not simply how much tryptophan a meal contains, but **tryptophan relative to the other large neutral amino acids competing for transport into the brain**. More circulating tryptophan may not increase brain entry if competing amino acids increase at the same time. Brain entry affects the precursor available to tryptophan hydroxylase and therefore can influence serotonin synthesis.
+
+The lecture uses a low-protein, high-carbohydrate meal to illustrate this ratio. In its account, insulin promotes uptake of competing amino acids into peripheral tissues, increasing tryptophan's relative access to transport. The point is a transport-and-synthesis mechanism, not a guarantee that a particular meal will produce a predictable mood change in every individual.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 

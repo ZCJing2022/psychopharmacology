@@ -23,7 +23,11 @@ Otto Lowei. ”vagustoff”.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Discovery of a Neurotransmitter** from Lecture 3 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The historical example concerns evidence that a nerve can influence another tissue through a released chemical. In the textbook's account of the heart experiment, stimulation of the vagus nerve slowed the heart, and fluid from that preparation transferred the effect to another heart. The transferable effect supported a chemical mediator rather than only direct electrical continuity.
+
+The lecture calls the substance “vagustoff” and identifies it as acetylcholine. The key names the investigator and substance but omits the experimental logic. The important connection is **nerve stimulation → release of a substance → altered target activity**. This provides a foundation for the later distinction between electrical signaling along an axon and chemical signaling across a synapse.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -44,7 +48,11 @@ Communication between neurons occurs at synapses via chemical neurotransmitters 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **General Concepts** from Lecture 3 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+At a typical chemical synapse, the presynaptic terminal releases neurotransmitter into a gap, and the transmitter binds receptors on the receiving cell. The releasing and receiving machinery occupy different locations, explaining the usual direction of communication from presynaptic to postsynaptic cell.
+
+The key summarizes this standard arrangement. It should not be generalized to every form of neural communication: the lecture explicitly mentions exceptions, including electrical synapses, and later introduces retrograde signals. Also distinguish crossing the synaptic cleft from crossing the postsynaptic membrane. A transmitter can activate a membrane receptor without entering the receiving cell. Receptors transmit information about binding, not necessarily the transmitter molecule itself.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -65,7 +73,11 @@ The lecture treats **Types of Synapses** as a key concept that should be underst
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Types of Synapses** from Lecture 3 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Synapses can be classified by the cellular structures that meet. An axon may contact a dendrite, a soma, or another axon. These arrangements place a signal at different points in the receiving neuron's processing machinery. The textbook also distinguishes chemical communication from electrical connections.
+
+The functional question is therefore not just where two cells touch, but what that location permits the signal to influence. A contact on an axon terminal can regulate release, whereas a contact on a dendrite can contribute to the inputs being integrated by the receiving neuron. The existing key merely names “types of synapses.” A substantive answer should identify the arrangement and connect it to its possible signaling role.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -86,7 +98,11 @@ Astrocytes regulate synapses TRIPARTITE SYNAPSE.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Astrocytes regulate synapses TRIPARTITE SYNAPSE** from Lecture 3 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A tripartite synapse includes the presynaptic element, the postsynaptic element, and associated astrocytic processes. The concept expands the usual two-neuron picture by recognizing that the surrounding glial cell helps regulate the chemical environment and the handling of released transmitter.
+
+For example, astrocytic uptake can limit extracellular transmitter and participate in recycling precursor material. This can influence how long a signal lasts and how surrounding cells are exposed. The key's short label should therefore be unpacked into a functional explanation, not memorized as a three-part slogan. Astrocytes are not simply an extra neuron transmitting the same action potential; they contribute through their own regulatory processes.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -107,7 +123,11 @@ Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, ser
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurotransmitters Encompass Several Different Kinds of Chemical Substances** from Lecture 3 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Neurotransmitters are chemically diverse. The lecture distinguishes amino acids such as glutamate and GABA, monoamines such as dopamine and serotonin, acetylcholine, purines, peptides, lipids, and gases. Classification matters because these substances do not necessarily share the same synthesis, storage, release, or inactivation mechanisms.
+
+The keyed option correctly identifies amino-acid and monoamine examples, but it is not an exhaustive list. Nor does membership in a chemical class specify a single behavioral effect. The receptor subtype, location, and circuit remain important. Some neurons can produce more than one transmitter, so identifying a neuron by its principal transmitter is useful shorthand rather than a claim that it contains only one signaling substance.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -128,7 +148,11 @@ Most transmitters are synthesized in the axon terminals. Neuropeptides are synth
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neuropeptides are synthesized differently** from Lecture 3 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Small-molecule transmitters are generally synthesized using enzymes available in axon terminals. Neuropeptides instead begin as larger precursor proteins produced through the cell's protein-synthesis machinery, chiefly in the soma, and are processed and transported toward terminals. Their supply therefore depends on a longer production-and-delivery sequence.
+
+This explains the lecture's point that peptide replenishment is slower. Releasing a peptide-containing vesicle cannot simply be followed by immediate local synthesis of an entirely new precursor protein in the same way as replenishing many small-molecule transmitters. The key concerns **where and how the signal is made**, not whether peptides can influence neural activity. Both categories can be effective signals despite using different supply pathways.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -149,7 +173,11 @@ Neuromodulators alter the action of standard neurotransmitters. They diffuse awa
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters** from Lecture 3 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Volume transmission allows a released chemical to influence cells beyond a narrowly defined synaptic contact. A neuromodulator can change the responsiveness of a region or alter how other transmitter signals operate. The lecture contrasts this with the more spatially focused “wiring” picture of one release site aligned with a particular receiving site.
+
+The distinction is about signaling arrangement and action, not an absolute list of chemicals. The same substance can participate in more than one mode depending on where and how it is released. Varicosities help illustrate release along neuronal processes. The key therefore should not be interpreted as saying that neuromodulators never bind receptors or that they always generate a completely separate kind of biochemical response.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -170,7 +198,11 @@ Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles** from Lecture 3 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+An arriving action potential depolarizes the terminal membrane and opens voltage-gated calcium channels. Calcium entry triggers the machinery that allows a docked vesicle to fuse with the membrane and release its contents. This is exocytosis, concentrated at specialized release regions called active zones.
+
+The key correctly identifies calcium as the link between electrical activity and vesicular transmitter release. Calcium is not simply another name for the transmitter, and sodium influx producing an axonal spike is not the same event as calcium-triggered fusion at the terminal. After release, membrane can be retrieved by endocytosis and reused. A complete explanation follows the sequence from depolarization to calcium entry to fusion, rather than skipping directly from spike to receptor binding.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -191,7 +223,11 @@ Not stored in vesicles. Synthesized on demand by postsynaptic cell after recepto
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles** from Lecture 3 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture uses lipid and gaseous signals to show that the vesicle-release model has exceptions. These signals can be synthesized when needed rather than stored in conventional synaptic vesicles. Some are produced postsynaptically and travel back to influence the presynaptic cell, making them retrograde messengers.
+
+The direction of signaling is therefore different from the standard presynaptic-release sequence. Endocannabinoids and nitric oxide illustrate this broader range of mechanisms in the source material. The key does not mean that all signaling molecules diffuse in the same way or have identical targets. Identify the relevant contrast: on-demand synthesis and nonvesicular signaling versus storage in vesicles followed by calcium-triggered exocytosis.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -212,7 +248,11 @@ Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Release Involves Exocytosis and Recycling of Synaptic Vesicles** from Lecture 3 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Exocytosis adds vesicle membrane to the cell surface, so continued release requires membrane retrieval and rebuilding of release-ready vesicles. The lecture distinguishes clathrin-mediated endocytosis, ultrafast retrieval involving endosomal processing, and kiss-and-run release, in which a vesicle does not fully collapse into the surface membrane.
+
+These models differ in timing and membrane handling, but all address the problem of sustaining repeated secretion. During strong activity, bulk endocytosis can retrieve larger amounts of membrane. The keyed option names one retrieval mechanism; it does not establish that every vesicle follows that route. Keep **endocytosis**, which retrieves membrane, separate from **exocytosis**, which releases transmitter.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -233,7 +273,11 @@ Terminal autoreceptors inhibit further transmitter release. Somatodendritic auto
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Autoreceptors control the rate of neurotransmitter release** from Lecture 3 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Autoreceptors respond to the same transmitter released by the neuron that bears them. In the inhibitory feedback examples taught here, terminal autoreceptors reduce further release, while somatodendritic autoreceptors reduce the neuron's firing rate. Both can limit transmitter output, but at different points in the sequence.
+
+This explains why stimulating an autoreceptor can reduce overall transmission even though the drug is a receptor agonist. Agonism describes what happens at a receptor; it does not guarantee greater output from the whole pathway. Heteroreceptors instead respond to a different transmitter and can enhance or suppress release. The key distinguishes the location and immediate consequence of autoreceptor feedback.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -254,7 +298,11 @@ Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cle
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mechanisms of Neurotransmitter Inactivation** from Lecture 3 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A synaptic signal needs a way to end. The lecture describes enzymatic breakdown, transporter-mediated reuptake into the presynaptic terminal, and uptake into other cells, including glia. These mechanisms reduce the amount of transmitter available to continue activating receptors.
+
+Reuptake and degradation are not identical: a transporter moves a molecule, whereas an enzyme chemically transforms it. This distinction explains different drug targets. Blocking reuptake can prolong extracellular transmitter action without directly stimulating the postsynaptic receptor. Blocking degradation changes a different part of the same cycle. The keyed option names two major inactivation routes; a full explanation connects removal to the duration and spread of the signal.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -275,7 +323,11 @@ Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretor
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurotransmitter Receptor Families** from Lecture 3 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A transmitter produces an effect only where an appropriate receptor and response mechanism are present. Different receptor subtypes for the same transmitter can engage different channels or intracellular pathways. As a result, one transmitter can produce different effects in different cells or circuits.
+
+The keyed option correctly treats a receptor as a signaling protein rather than as a transporter that carries transmitter across the membrane. Binding changes the receiving cell's activity through the receptor's mechanism. This is why the transmitter name alone does not establish whether a particular response is excitatory or inhibitory. Specify the receptor subtype, cellular location, and downstream action before predicting the functional outcome.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -296,7 +348,11 @@ Resting state = ion channel closed. Neurotransmitter binding opens the channel.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel** from Lecture 3 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+An ionotropic receptor contains an ion channel as part of its receptor complex. Transmitter binding changes the receptor's state and permits selected ions to move through the channel. This provides a relatively direct route from chemical binding to a change in membrane conductance and potential.
+
+The key captures the simple closed–open–closed sequence. However, prolonged exposure can also produce desensitization, in which responsiveness falls despite the continued presence of ligand. The effect depends on which ions the channel conducts and their driving forces, not merely on the fact that a channel opens. This differs from a metabotropic receptor, which initiates signaling through G proteins rather than being the conducting pore itself.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -317,7 +373,11 @@ Act slower but response lasts longer. Activate G proteins when transmitter binds
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins** from Lecture 3 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A metabotropic receptor communicates through an associated G protein. After ligand binding, the G protein can influence an ion channel or regulate an effector enzyme involved in producing or removing intracellular second messengers. The receptor therefore initiates a chain of events rather than directly opening a pore within its own structure.
+
+This helps explain the lecture's contrast between slower onset and longer-lasting effects relative to many ionotropic responses. The key should not be read as saying every metabotropic response must alter gene expression or that every G-protein pathway uses the same messenger. The pathway can branch and act at several levels. Follow receptor activation to its specific effector before predicting the cell's response.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -338,7 +398,11 @@ Some receptors have additional binding sites (allosteric sites). Allosteric modu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Allosteric modulation** from Lecture 3 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+An allosteric site is distinct from the principal agonist-binding site. A modulator binding there can change how the receptor responds to an agonist. A positive modulator increases the response under the relevant conditions, while a negative modulator reduces it.
+
+The key therefore describes modification of another ligand's action, not simply replacement of that ligand at its binding site. This distinction becomes important in the GABA lecture, where drug effects depend on receptor modulation. Do not assume that a positive modulator directly produces the same action as an agonist in the absence of transmitter. The course emphasizes changing receptor responsiveness through a separate binding location.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -359,7 +423,11 @@ Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Tyrosine Kinase Receptors** from Lecture 3 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tyrosine kinase receptors provide a route by which neurotrophic signals influence cellular growth, survival, and longer-term functioning. Binding initiates intracellular signaling that can change protein activity and gene expression. Their significance extends beyond generating an immediate excitatory or inhibitory postsynaptic potential.
+
+The keyed option identifies the relationship with neurotrophic factors. This distinguishes them from ionotropic receptor channels and from the G-protein-coupled class discussed immediately before. All transmit information across the cell boundary, but they do so through different molecular machinery. An explanation should connect the receptor class to its signaling function rather than treating “growth factor” as simply another transmitter stored in every synaptic vesicle.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -380,7 +448,11 @@ The lecture treats **Drugs can alter all aspects of synaptic transmission** as a
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Drugs can alter all aspects of synaptic transmission** from Lecture 3 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A drug can alter transmission at several steps: precursor supply or synthesis, vesicular storage, release, receptor activation, reuptake, or enzymatic breakdown. The same overall increase in transmitter influence can therefore arise from different mechanisms. A reuptake inhibitor, for example, prolongs availability without necessarily acting as a direct receptor agonist.
+
+Conversely, reducing synthesis and blocking postsynaptic receptors both weaken signaling but act at different locations. The lecture's overview should be read as a sequence of possible intervention points. For any example, identify **the immediate target, the change in transmitter availability or receptor function, and the predicted downstream effect**. The existing keyed statement names the overview without supplying these causal steps.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -401,7 +473,11 @@ Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!** from Lecture 3 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The final slide is an invitation to another course, not a substantive scientific claim. Its wording cannot establish a correct mechanism or distinguish scientifically valid alternatives. The only defensible interpretation of the existing key is recognition of the slide's closing message.
+
+For scientific review, the supplied textbook separately discusses endocrine communication: hormones enter the circulation and influence cells with appropriate receptors, whereas conventional synaptic signaling operates across a much more localized junction. That comparison is textbook context, not content stated on this promotional slide. This item should not be used to judge understanding of neuroendocrinology until it is rewritten with an actual conceptual question and answer.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -422,7 +498,11 @@ Otto Lowei. ”vagustoff”.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Discovery of a Neurotransmitter** from Lecture 3 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The discovery example asks how chemical communication was demonstrated. The transferable effect in the heart preparation supported the presence of a released substance, later identified as acetylcholine. That is an inference from an experimental manipulation and an observed effect, not merely the naming of a neurotransmitter.
+
+General synaptic concepts describe the broader mechanism illustrated by the experiment: a releasing cell communicates chemically with a receptive target. The keyed historical names point to the demonstration, while the neighboring topic supplies the general model. Explain the link by distinguishing **evidence for a chemical mediator** from **the standard organization of chemical transmission**. Remember that the lecture later includes exceptions to the simplest one-way vesicular model.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 3.
 
 **Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
@@ -440,7 +520,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 3, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Organize the diversity into chemical groups rather than trying to memorize an isolated total. The lecture includes amino acids, monoamines, acetylcholine, purines, peptides, lipids, and gases. Give representative examples and then explain why the classification matters: it predicts differences in synthesis, storage, release, and removal.
+
+For instance, peptide signaling depends on precursor-protein synthesis and transport, while many small-molecule transmitters can be replenished at terminals. Some lipid and gaseous signals are synthesized on demand rather than released from conventional vesicles. Receptor diversity adds a second level of complexity: one transmitter can act on several receptor subtypes, and some neurons release more than one signaling substance. The connection to psychopharmacology is that there is no single universal “neurotransmitter mechanism” for every drug to modify. A useful answer moves from chemical diversity to mechanistic diversity and then to the need to identify a specific drug target.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 2 — Mechanism of exocytosis {#l03-sa02}
@@ -454,7 +540,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 3, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Trace exocytosis from the arrival of a depolarizing signal. Voltage-gated calcium channels open, calcium enters the terminal, and calcium-sensitive machinery promotes fusion of a prepared vesicle with the presynaptic membrane. The contents are released into the cleft, after which membrane retrieval supports further rounds of secretion.
+
+The slide's protein list is abbreviated. Chapter 3 distinguishes the calcium-sensing role of synaptotagmin from the fusion machinery involving SNARE proteins, including synaptobrevin. This distinction explains why both calcium detection and membrane interaction are needed. Then contrast the pathway with lipid and gaseous signals: these are not packaged and released through the same vesicular cycle and can be synthesized on demand, including in the postsynaptic cell. Some act retrogradely on the presynaptic element. The answer should therefore compare **stored, vesicular release** with **on-demand, nonvesicular signaling**, rather than assuming that every transmitter uses exocytosis.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 3 — Neurotransmitters in the periphery {#l03-sa03}
@@ -468,7 +560,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 3, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The same signaling chemical can participate in central and peripheral functions because suitable receptors occur in multiple tissues. A transmitter acting in an autonomic pathway or at a peripheral target does not need a different name simply because the target is outside the brain. Its effect depends on receptor subtype, cellular machinery, and the organ or circuit involved.
+
+This connects directly to receptor families. A drug can affect the intended central pathway while also acting on peripheral receptors, producing additional effects. The lecture's opioid example illustrates why gastrointestinal actions can accompany central actions. The gut–brain discussion adds bidirectional communication and possible microbiome-related influences. Do not infer from that discussion that every neurotransmitter made in the gut directly enters the brain; the source describes a communication system, not a universal transport route. A strong response identifies the shared chemical, distinguishes target locations, and explains how receptor distribution creates multiple physiological consequences.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 4 — Second Messenger Systems {#l03-sa04}
@@ -482,7 +580,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 3, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A first messenger, such as a transmitter, binds a receptor outside the cell. Receptor-linked machinery then changes an intracellular second messenger. Second messengers can activate protein kinases, which add phosphate groups to target proteins and change their functioning. Depending on the target, this can alter channels, enzymes, or longer-term cellular responses.
+
+The textbook examples include cAMP, cGMP, calcium-related signaling, and phosphoinositide pathways. Phosphodiesterases help terminate cyclic-nucleotide signals, so inhibiting these enzymes can prolong the intracellular message. Connect this to tyrosine kinase receptors by identifying a shared purpose—transmitting an extracellular signal into intracellular regulation—without collapsing distinct receptor mechanisms into one. Tyrosine kinase receptors are not simply another name for G-protein-coupled receptors. The lecture's typed “gAMP” should be read against the textbook's cGMP terminology, and the explanation should distinguish the messenger molecule from the kinase that acts downstream.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 5 — Integration: Discovery of a Neurotransmitter and General Concepts {#l03-sa05}
@@ -496,6 +600,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 3, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The discovery example supplies experimental evidence for a chemical mediator, while the general-concepts slide presents a model of how chemical communication usually operates. In the heart experiment described by the textbook, a transferable substance reproduced an effect of nerve stimulation. That supported chemical mediation and led to the identification associated with vagal signaling.
+
+Connect this to a typical synapse: a presynaptic element releases transmitter, the transmitter crosses a gap, and a receiving cell responds through appropriate receptors. Electrical activity within the releasing neuron and chemical signaling to the target are therefore linked but distinct. The general model is not an absolute rule for all communication; the lecture mentions electrical synapses and later discusses retrograde signals. A strong answer explains what the experiment established and then shows how the synaptic model extends that insight, rather than treating a scientist's name and a list of synaptic parts as separate facts.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 

@@ -24,7 +24,13 @@ Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Takeaways**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture's takeaways combine **distributed clocks, coordination, and two-way drug interactions**. Cellular clocks can oscillate locally, while the SCN helps synchronize the wider system. Rhythmic drug handling and target responses can then change the effect of a dose administered at different times.
+
+Drugs can also alter timing through photic signaling or non-photic routes, including changes in behavior. The opening question about the same pill at 8 a.m. versus 8 p.m. is therefore answered at two levels: the molecule is the same, but the physiological setting may differ. The lesson is to identify the mechanism and biological time involved, not simply to add clock time as an unexplained label to a drug effect.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 27. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Question 2
@@ -42,7 +48,13 @@ Intoxication/binge. Development of dependence (withdrawal).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **Stages of drug addiction (a common framework) as related to opponent process theory**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The three-stage framework links **binge/intoxication, withdrawal/negative affect, and preoccupation/anticipation**. Intoxication emphasizes drug effects and reinforcement; withdrawal emphasizes the negative state associated with adaptation; anticipation emphasizes craving and processes that motivate renewed seeking.
+
+The diagram represents a recurring interaction, not a rigid sequence that every person completes in exactly the same way. Opponent processes help explain the shift in motivation between intoxication and withdrawal, while learning and cue effects contribute to anticipation. The original keyed option names only two stages, so a complete explanation must include the third. The model is useful because it organizes changing motives and neural processes without equating all drug use with the same clinical trajectory.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Question 3
@@ -60,7 +72,13 @@ Many compounds have been tested as potential medications, but none have been app
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **Potential pharmacotherapies for cocaine use disorder**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The slide discusses **candidate treatment mechanisms**, not an established medication recommendation. Replacement-oriented approaches aim to alter the reinforcing or motivational consequences of cocaine use, while immune-based approaches aim to bind cocaine or enhance its breakdown before it reaches relevant brain targets.
+
+These strategies act at different levels: receptor/transmitter systems versus drug availability in the circulation. A plausible mechanism must still be evaluated for efficacy and safety. The statement that no medication had been approved belongs to the supplied course/textbook context and is not independently updated here as a current regulatory claim. The explanation should preserve the difference between a proposed intervention, evidence from a study, and an approved treatment rather than treating the candidate list as instructions for clinical use.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 29. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Question 4
@@ -78,7 +96,13 @@ Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **Alcohol is poison**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture describes **multiple pathways of alcohol-related brain injury**, including thiamine deficiency and excitotoxic processes. Thiamine-related disorders involve damage to brain systems important for memory and other functions; this is different from the temporary memory impairment that occurs during an acute episode of intoxication.
+
+Heavy long-term use can contribute to deficiency and other injury, but the key's wording should not be read as saying every exposed individual inevitably develops Wernicke's encephalopathy. Likewise, all observed tissue loss cannot be attributed to nutrition alone. A strong explanation distinguishes nutritional deficiency, direct or indirect neural injury, and withdrawal-related hyperexcitability, instead of using the heading “poison” as a substitute for specifying the mechanism and time course.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Question 5
@@ -96,7 +120,13 @@ A taxonomy of opioids Opiates Opioids.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 15, topic **A taxonomy of opioids Opiates**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The taxonomy distinguishes **natural opiates, semisynthetic drugs, fully synthetic drugs, and endogenous opioid peptides**. Morphine and codeine appear under natural opiates; chemically modified derivatives form another category; fentanyl and methadone illustrate synthetic compounds; enkephalins, endorphins, and dynorphins are produced by the body.
+
+The broad term “opioid” links these categories through their pharmacological relationships, not through identical origin or molecular shape. The answer panel's words “Opiates Opioids” do not state that distinction and are not a complete answer. Read the hierarchy in the source figure rather than assuming every opioid is a poppy extract. The taxonomy is descriptive: placement in a natural or synthetic category does not by itself determine potency, safety, or dependence potential.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Question 6
@@ -114,7 +144,13 @@ The lecture treats **Nicotinic acetylcholine receptors** as a key concept that s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 16, topic **Nicotinic acetylcholine receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Nicotine acts principally at **nicotinic acetylcholine receptors**, which are ligand-gated cation channels. They are normally activated by acetylcholine; nicotine is an exogenous agonist. Channel opening can produce rapid excitation, and receptor subunit composition influences sensitivity and function across tissues.
+
+Chapter 13 also emphasizes desensitization: receptors can become temporarily less responsive during exposure. Receptor activation, desensitization, and longer-term adaptation are therefore different processes, not interchangeable descriptions of nicotine simply “stimulating the brain.” Muscarinic ACh receptors belong to a different receptor family. The original answer only says this topic is important, and no lecture presentation is available. The explanation is grounded in the assigned chapter; the choices require revision before the item can meaningfully assess receptor knowledge.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 ### Question 7
@@ -132,7 +168,13 @@ Circadian rhythms review. Clock → drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Integration: Overview**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The overview integrates **endogenous timing with drug action in both directions**. A clock-dependent change in liver metabolism is an example of timing changing drug exposure; a drug-dependent change in the response to light is an example of a drug changing clock resetting. These should not be described as the same causal process.
+
+The circadian review supplies the distinction between phase, entrainment, and immediate behavioral output needed to interpret both examples. The existing keyed option gives a fragment of the outline, so it is not a complete mechanistic answer. Use this repeated overview item as a synthesis prompt: specify what changes first, what is measured afterward, and whether the proposed pathway involves pharmacokinetics, pharmacodynamics, or an input to the clock.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 2. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Question 8
@@ -150,7 +192,13 @@ BUT opponent processes can’t be the whole story Withdrawal 17.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **BUT opponent processes can’t be the whole story Withdrawal**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The slide challenges the idea that **relieving acute withdrawal explains all continued drug seeking**. Withdrawal has a time course, while craving, cue responses, and relapse can persist beyond the most obvious acute symptoms. The examples also show that withdrawal patterns differ across substances.
+
+The original answer contains only a heading and figure label, so it supplies no actual explanation. The conceptual answer is that opponent processes contribute to addiction but need to be combined with mechanisms of reinforcement, associative learning, and persistent motivational change. The timelines in the figure are illustrative and should not be used to predict an individual's withdrawal course or to plan unsupervised detoxification. The lesson is a limitation of the theory, not a clinical schedule.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Question 9
@@ -168,7 +216,13 @@ Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **There are many amphetamines to choose from**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture groups **amphetamine-related psychostimulants by structural and pharmacological relationships**. It distinguishes amphetamine forms and methamphetamine while also introducing structurally related plant compounds such as cathinone and ephedrine. Similarity to catecholamine structures helps motivate the later discussion of monoamine transport and release.
+
+Being related does not make the compounds interchangeable in potency, distribution, duration, or adverse effects. Nor does a natural plant origin guarantee safety; the lecture explicitly uses plant compounds to challenge that assumption. The keyed answer provides only the beginning of the list. The important explanation is the relation between chemical family and mechanism, not a catalog of brand names or any practical description of how to synthesize or prepare the substances.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 30. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Question 10
@@ -186,7 +240,13 @@ Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Li
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **Psychopharmacology of Alcohol (13 of 16)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Alcohol's effects are **not limited to the brain**. Reduced antidiuretic-hormone signaling can increase water loss through urine, while chronic exposure can be associated with different forms of liver injury, including fatty change, hepatitis, and cirrhosis. These examples involve different organs and time courses.
+
+The lecture also distinguishes subjective sexual arousal from performance, which is developed in the following figure. Feeling more aroused does not demonstrate improved physiological function. The common lesson is that one drug can have multiple effects because it acts through several systems. Do not treat diuresis as evidence that alcohol has been rapidly cleared, or assume that a short-term effect and a chronic organ disorder are simply the same process at different intensities.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Question 11
@@ -204,7 +264,13 @@ Effects of opioids on the CNS depend on dose and rate of absorption. Low to mode
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 15, topic **Physiological and psychological effects of opioids**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture emphasizes **dose and rate of absorption** as influences on opioid effects. Analgesia, constricted pupils, drowsiness, reduced concentration, and changes in subjective experience can occur together because receptors operate in multiple systems.
+
+Euphoria can contribute to reinforcement, but it is not the defining mechanism of every therapeutic effect. Likewise, drowsiness is not identical to pain relief, and relief of distress does not establish that an opioid is appropriate for every cause of anxiety. The question's keyed list identifies effects; the explanation links their variability to exposure and receptor distribution. Increasing exposure can move beyond intended analgesia toward severe CNS and respiratory depression, so apparent familiarity with an effect is not a complete indicator of safety.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Question 12
@@ -222,7 +288,13 @@ The lecture treats **Behavioral and physiological effects of nicotine** as a key
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 16, topic **Behavioral and physiological effects of nicotine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Nicotine can influence **arousal, attention, autonomic function, reinforcement, and aversive responses**, with effects depending on exposure and prior use. Chapter 13 discusses both pharmacological effects and the relief of withdrawal, so feeling calmer after nicotine does not necessarily mean the drug is simply a sedative.
+
+In a dependent user, relief of an unpleasant abstinence state can help maintain taking behavior. In another context, nicotine may produce nausea or other aversive effects. These differences require attention to baseline state and the outcome measured, rather than treating a drug's subjective effect as fixed. This is chapter-based material because the lecture presentation is missing. The original placeholder answer supplies no actual effect or mechanism and should not be treated as a substantive correct response.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 ### Question 13
@@ -240,7 +312,13 @@ PART 1: Circadian Rhythms Review.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Integration: PART 1: Circadian Rhythms**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The first part supplies the **criteria for recognizing an internally generated circadian rhythm**. Persistence in constant conditions distinguishes a clock-driven pattern from simple tracking of an external event, while entrainment shows that the internal timing system can synchronize with environmental cues.
+
+Those criteria matter when a later drug experiment changes sleep or activity. A temporary increase in movement is not automatically a change in the rhythm's phase or period. The repeated section-heading answer does not test that reasoning and should not be used as a stand-alone mastery item. A useful interpretation of the integration prompt is to explain how the foundational definitions constrain claims that a drug has “changed the clock.”
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 3. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Question 14
@@ -258,7 +336,13 @@ Operant conditioning. Reinforcement.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **Associative Learning Principles Used in Addiction Models**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Operant conditioning concerns how **the consequences of an action change the likelihood of that action recurring**. A drug can positively reinforce taking behavior through its effects. Relief from an aversive state can negatively reinforce behavior; “negative” means removal of something aversive, not punishment.
+
+Pavlovian learning supplies a complementary route: cues repeatedly associated with a drug can acquire motivational significance. Such cues may influence seeking even when no drug is immediately present. The lecture's conditioned-reinforcement and incentive-salience terms therefore should not be reduced to the pleasurable effect of a dose alone. A strong answer distinguishes the action–consequence relationship from the cue–outcome relationship and explains how both can maintain behavior.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Question 15
@@ -276,7 +360,13 @@ Some users go on binges or runs – repeated injections every 2 hours for 3 to 6
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **Amphetamine pharmacokinetics make facilitate binging**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Amphetamine-related drugs have a **longer elimination time course than cocaine in the lecture's comparison**. Continued exposure can therefore accumulate when additional drug is taken before earlier drug has been cleared. Prolonged stimulation, reduced sleep, and disrupted eating can then combine with the drug's direct physiological effects.
+
+The repeated-use schedule in the original key describes a hazardous pattern, not a dosing recommendation or a necessary feature of all use. The approximate half-lives are teaching summaries and vary with conditions. The mechanistic lesson is that onset and elimination are separate dimensions: a drug can enter rapidly and remain active for much longer. Understanding that distinction explains why repeated exposure can extend effects and risks rather than simply produce isolated, independent episodes.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 32. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Question 16
@@ -294,7 +384,13 @@ The lecture treats **Effect of alcohol on male sexual function** as a key concep
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **Effect of alcohol on male sexual function**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The figure distinguishes **physiological performance measures from subjective arousal**. Across the illustrated blood-alcohol concentrations, the rate of tumescence decreases and orgasmic latency increases. Maximum tumescence shows a less uniform low-dose pattern before declining at the higher concentrations shown.
+
+These outcomes explain why the preceding slide can describe increased arousal together with poorer performance. The graph is evidence about the measurements and conditions depicted, not proof that every individual responds identically. The original keyed option is merely a placeholder and does not state any of these results. A substantive answer should identify the axes, describe each trend accurately, and avoid converting a nuanced graph into the blanket claim that every sexual response changes monotonically in the same direction.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Question 17
@@ -312,7 +408,13 @@ Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morph
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 15, topic **Mechanisms of opioid overdose**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The central overdose mechanism highlighted by the lecture is **depression of brainstem respiratory function**. At sufficiently high exposure, opioid effects can impair breathing and lead to respiratory failure. Profound sedation, constricted pupils, and reductions in blood pressure or temperature are associated observations, but naming them does not replace explaining the respiratory mechanism.
+
+Nausea and vomiting involve another brainstem site, the area postrema, demonstrating that different adverse effects need not share one immediate pathway. The original answer excerpt omits the slide's key respiratory-failure statement, so the full slide is needed for a complete response. This explanation concerns the biological mechanism; it is not an estimate of a safe dose, a diagnostic checklist, or instructions for managing an overdose independently.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Question 18
@@ -330,7 +432,13 @@ The lecture treats **Smoking, vaping, dependence and treatment** as a key concep
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 16, topic **Smoking, vaping, dependence and treatment**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The chapter distinguishes **nicotine dependence from the full hazards of a delivery product**. Cigarette smoke adds combustion-related exposures, while vaping has a different exposure profile and should not be equated with harmless air or assumed identical across devices. Both pharmacological reinforcement and learned cues can contribute to continued use.
+
+The treatment discussion compares behavioral approaches with nicotine replacement and receptor- or transporter-targeting medications. For example, varenicline's partial agonism at α4β2 nicotinic receptors offers a different mechanism from nicotine replacement itself. These are textbook mechanisms, not updated product comparisons or individual treatment advice. With no supplied lecture presentation and only a placeholder key, this item needs substantive choices; the explanation cannot validate the current MCQ merely by adding detail.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 ### Question 19
@@ -348,7 +456,13 @@ Sleep/wake cycles. Physiological processes.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Integration: What Are Circadian Rhythms?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Sleep–wake cycles and physiological processes illustrate that **circadian timing organizes both behavior and internal function**. The common feature emphasized by the lecture is an endogenous cycle near 24 hours, not the particular tissue or behavioral output being recorded.
+
+This connects directly to chronopharmacology: a rhythm in sleep can be visible, while rhythms in metabolic enzymes or drug targets may be less obvious but still relevant to drug effects. The two should not be assumed to have identical timing merely because both are circadian. A good answer adds the defining criteria to the examples in the key and explains why repeated daily measurements can reveal patterns that a single measurement at one time would miss.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 4. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Question 20
@@ -366,7 +480,13 @@ of psychoactive drugs. Caffeine.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **Most humans are regular users**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture's list includes **therapeutic, recreational, and commonly consumed psychoactive substances**. A psychoactive drug affects mental processes or behavior; the term does not, by itself, specify whether use is prescribed, legal, harmful, or addictive. Caffeine is one familiar example, but the complete slide also includes several medication and recreational-drug classes.
+
+This sets up the distinction between exposure and addiction. Regular use does not automatically demonstrate impaired control, continued use despite serious harm, or other features of a substance use disorder. The question should therefore be read as identifying the breadth of psychoactive-drug use, not as claiming that everyone using a listed substance has an addiction or that all listed substances have the same risks.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Question 21
@@ -384,7 +504,13 @@ Amphetamines are indirect catecholamine agonists; stimulate DA and NE release an
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **Pharmacodynamics of amphetamine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Amphetamine acts as an **indirect catecholamine agonist** by changing transmitter handling rather than simply replacing dopamine at its receptor. The lecture describes entry through DAT, redistribution of vesicular dopamine, and outward transport that increases extracellular dopamine; norepinephrine handling is also affected.
+
+The slide calls transporter reversal “inverse agonism,” but Chapter 12 of the full textbook distinguishes transporter-mediated release from receptor inverse agonism. An inverse receptor agonist reduces constitutive receptor activity; reversing the direction of a transporter is a different mechanism. The explanation should therefore use the more precise transport language. This also distinguishes amphetamine from cocaine's predominant reuptake-blocking action, even though both can increase monoamine availability and produce stimulant effects.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 33. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Question 22
@@ -402,7 +528,13 @@ Alcohol is a very small molecule with the ability to cross easily across lipid b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **The pharmacodynamic profile of ethanol is diverse**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture contrasts **broad membrane effects with actions on particular signaling proteins**. Ethanol can alter membrane properties and also influence ligand-gated channels and intracellular signaling. This helps explain why no single receptor mechanism accounts for its full behavioral and physiological profile.
+
+The small molecule's ability to distribute readily supports widespread access, but access is not the same as a specific action at every target. The following GABA, glutamate, dopamine, and opioid examples provide distinct mechanisms and circuit consequences. A good explanation therefore separates pharmacokinetics—reaching tissues—from pharmacodynamics—changing their function. Calling alcohol a CNS depressant summarizes an important overall effect without implying that every neuron or transmitter pathway is directly inhibited in the same way.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Question 23
@@ -420,7 +552,13 @@ Opium and morphine have been used to treat diarrhea and can be life-saving in se
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 15, topic **Opioids are very important in the GI tract**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Opioid receptors in the gastrointestinal system can **slow intestinal function**, helping explain both antidiarrheal action and constipation during analgesic treatment. The same physiological effect can be desired in one context and unwanted in another.
+
+The loperamide example adds a pharmacokinetic distinction: Chapter 11 describes restricted CNS effects at recommended doses, allowing a predominantly peripheral action. That restriction is not an assurance of safety at very high exposure. The lecture specifically warns about cardiac toxicity associated with misuse; no high-dose amount should be interpreted as a strategy for treating withdrawal. The historical claim about diarrheal illnesses illustrates an effect on symptoms, not a general recommendation to suppress every episode of infectious diarrhea or a treatment of its underlying cause.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Question 24
@@ -438,7 +576,13 @@ The lecture treats **Adenosine receptor antagonism** as a key concept that shoul
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 16, topic **Adenosine receptor antagonism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+At concentrations associated with common dietary use, Chapter 13 identifies **adenosine-receptor antagonism**, particularly involving A1 and A2A receptors, as central to caffeine's stimulant effects. Caffeine blocks a signal rather than directly mimicking an excitatory transmitter at its receptor.
+
+This shows why receptor antagonism can increase behavioral activation: the net effect depends on what the blocked signaling normally does. The chapter distinguishes this mechanism from other biochemical actions requiring much higher concentrations, such as phosphodiesterase inhibition. Those actions should not be given equal explanatory weight for ordinary exposure. The original answer is a placeholder and there is no lecture deck to verify its scope. The meaningful concept here comes from the assigned chapter, not from the unchanged keyed sentence.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 ### Question 25
@@ -456,7 +600,13 @@ Circadian rhythms review. Clock → drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Overview**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The overview establishes a **two-way relationship between circadian timing and pharmacology**. The clock can alter a drug's absorption, distribution, metabolism, elimination, or target response. Conversely, a drug can influence clock timing through light-input pathways, behavior, or other clock-related mechanisms.
+
+The initial circadian review supplies the vocabulary needed to distinguish these directions. Taking a drug at different times does not change its chemical identity, but it may change the biological conditions in which the drug acts. The original keyed option gives only part of the outline; the full slide also includes “drugs → clock.” This is an orientation question, not evidence that a student can yet explain a specific pharmacokinetic or clock-shifting mechanism.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 2. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Question 26
@@ -474,7 +624,13 @@ Which statement best matches the lecture discussion of **Most humans use psychoa
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **Most humans use psychoactive drugs without experiencing addiction**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The main point is **drug use and addiction are not equivalent categories**. The lecture's percentages illustrate that many people use psychoactive substances without developing the persistent, harmful pattern being discussed. A lower population frequency does not mean that addiction has minor consequences for those affected.
+
+The numerical estimates belong to the lecture's source context. The slide does not provide enough information to treat them as current universal prevalence rates across all countries, age groups, or definitions of addiction. A sound explanation prioritizes the conceptual contrast and the need for a defined denominator. It should not turn the figures into either a guarantee of safety for an individual or a claim that ordinary exposure inevitably progresses to addiction.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Question 27
@@ -492,7 +648,13 @@ Amphetamines cause heightened alertness, increased confidence, feelings of exhil
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **Subjective effects of amphetamines**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The subjective effects reflect **increased arousal and altered perception of fatigue**, including greater alertness, confidence, and feelings of energy. The lecture also describes reduced sleep, particularly REM sleep, during exposure. These observations concern how a person feels and behaves, not proof that the physiological need for recovery has been removed.
+
+The distinction matters because sustained activity without normal sleep can coexist with accumulating impairment and risk. Therapeutic use, nonmedical use, and repeated high exposure cannot be treated as identical situations simply because they involve the same drug family. A strong explanation connects the arousal profile to monoamine actions while avoiding the inference that feeling more capable necessarily means safer or uniformly better cognitive and physical performance.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 34. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Question 28
@@ -510,7 +672,13 @@ GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **Ethanol at GABA receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+In the lecture's account, acute alcohol exposure can **enhance GABAA-mediated inhibition**, increasing the effect of GABA on chloride conductance. This is described as positive allosteric modulation, rather than alcohol substituting for GABA at its usual transmitter-binding site.
+
+Repeated exposure can be associated with compensatory reductions in this inhibitory response. That provides one contribution to tolerance while alcohol is present and hyperexcitability when it is removed. The mechanism must be combined with the glutamate and other examples, because alcohol's actions are diverse and receptor populations differ. A stronger GABA-related inhibitory effect at one point in the system does not automatically specify the net activity of every connected neuron or explain all alcohol-related behavior.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Question 29
@@ -528,7 +696,13 @@ Inhibitory (Gi) GPCRs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 15, topic **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The opioid receptors discussed are **inhibitory G-protein-coupled receptors**, rather than ligand-gated chloride channels. The source figure links receptor activation to opening potassium channels postsynaptically, reducing excitability, and closing calcium channels at terminals, reducing transmitter release.
+
+These are cellular mechanisms, not a guarantee that every connected neuron becomes less active. If an opioid inhibits an inhibitory interneuron, the next neuron can be disinhibited, as in the VTA example from the GABA lecture. The same receptor class can therefore contribute to analgesia in one pathway and enhanced downstream activity in another. Identify the receptor's location and the sign of the intervening synapses before predicting the circuit-level effect.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Question 30
@@ -546,7 +720,13 @@ The lecture treats **Behavioral and physiological effects of caffeine** as a key
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 16, topic **Behavioral and physiological effects of caffeine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Caffeine can **increase alertness and reduce perceived sleepiness**, but its effects depend on amount, timing, prior exposure, and individual sensitivity. Chapter 13 also discusses anxiety, sleep disturbance, and physiological effects, showing that greater stimulation is not automatically a greater benefit.
+
+Repeated use can lead to adaptation, and part of an apparent improvement after consumption may be relief of withdrawal in a habitual user. Feeling less sleepy also does not replace the functions of adequate sleep. The mechanism is connected to adenosine-receptor blockade rather than creation of new energy in the body. This explanation is textbook-led because no Lecture 16 presentation was supplied; the existing placeholder answer does not itself specify a testable behavioral or physiological claim.
+
+**Source:** Meyer et al. (2023), Chapter 13. No Lecture 16 presentation was supplied; this explanation is textbook-based.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
 :::
 
 # Section B — Short Essay
@@ -562,7 +742,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 11, topic **Metabolism and excretion**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Rhythmic liver enzymes and kidney filtration can produce **time-dependent drug clearance**, a pharmacokinetic effect. The lecture's mouse acetaminophen example links a toxicity rhythm to the liver clock, while its barbiturate example shows that an observed duration of sleep can vary with administration time. These are examples of why equal doses do not guarantee equal concentration–time profiles or behavioral durations.
+
+Pharmacodynamics is a separate possibility: rhythmic receptors or signaling can change the effect produced by a comparable concentration. A complete comparison therefore asks whether the clock changes exposure, response to exposure, or both. Do not infer the cause of every behavioral time-of-day difference solely from the behavior itself. The mouse liver-clock experiment supports a specific mechanism in that preparation, not a universal schedule for human medication. Explain the causal chain and preserve the species and outcome limitations of the lecture evidence.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 16. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 2
@@ -576,7 +762,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 12, topic **Drugs, addiction, harm Nutt et al., 2007**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+The figure compares drugs along **dependence-related and physical-harm dimensions**, rather than treating “drug danger” as one self-evident quantity. A substance can occupy a different relative position depending on which outcome is measured. The accompanying ranking and legal-class colors invite comparison between a harm assessment and a regulatory category, but those categories are not the same measurement.
+
+Connect this to the lecture's research questions by distinguishing potential harm, probability of problematic use, and consequences for a particular person or population. Dependence potential does not directly equal prevalence, and a group-level ranking does not predict the outcome of one exposure. The figure is a historical analysis attributed to Nutt and colleagues, not a newly established universal league table. A complete response should explain its axes, identify what comparison they permit, and state the limits of inference. The original answer panel only names the figure and therefore needs this substantive interpretation.
+
+**Source:** Lecture 12 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 9.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
 :::
 
 ### Short Essay 3
@@ -590,7 +782,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 13, topic **Amphetamines are addictive**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Dependence and problematic use can develop with **amphetamine-related stimulants even when withdrawal does not resemble severe alcohol or opioid withdrawal**. This is one reason a withdrawal-only theory cannot explain every addictive pattern. Cue-triggered motivation, reinforcement, and changes in control can contribute alongside negative affect during abstinence.
+
+The lecture also describes cognitive impairments and psychotic reactions associated with substantial methamphetamine use. These are different outcomes and should not be treated as interchangeable definitions of dependence. Its comparative phrase “less severe” concerns the course's contrast in withdrawal syndromes; it should not minimize distress, psychiatric risk, or the need for appropriate care. A complete answer links the evidence to the theoretical limitation, distinguishes acute and persistent effects, and avoids claiming that every person follows the same progression. The broad comparison with other amphetamines requires attention to dose, route, and exposure pattern rather than relying on the lecture heading alone.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 36. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 4
@@ -604,6 +802,12 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 14, topic **Integration: How alcohol is made and Pharmacokinetics - solubility**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+The production question asks **where the molecule comes from**, while the solubility question asks **how that molecule behaves in the body**. Fermentation of sugars by yeast produces ethanol and carbon dioxide. Ethanol's small size, lack of appreciable ionization under physiological conditions, and ready mixing with water help explain its absorption and widespread distribution.
+
+The connection is that the same chemical product can reach the brain and other tissues after consumption, regardless of the cultural setting in which the beverage was made. Amount ingested still does not directly determine blood concentration: body-water distribution, absorption rate, and elimination also matter. A strong comparison therefore moves from production to molecular properties to exposure, without providing production procedures or treating fermentation as evidence of harmlessness. The historical comment about accidental first consumption is incidental; the pharmacological explanation rests on chemical identity and the processes governing concentration over time.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 

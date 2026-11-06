@@ -24,7 +24,13 @@ The lecture treats **Pharmacokinetics contributions to bioavailability** as a ke
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Pharmacokinetics contributions to bioavailability**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Follow the drug through the body rather than thinking only about the administered dose. Its route determines how it enters; absorption moves it into blood; distribution carries it to tissues; binding can temporarily hold it at inactive sites; metabolism transforms it; and excretion removes drug or metabolites. These processes operate together, determining how much drug can reach a target and how long it remains available.
+
+The lecture uses **bioavailability** in this discussion to emphasize drug available to bind at target sites. Two equal administered doses can therefore produce different effects when their routes, absorption, metabolism, or binding differ. Intravenous administration and first-pass metabolism are specific examples within this larger sequence, not substitutes for the complete account.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 2
@@ -42,7 +48,13 @@ Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Regulation of gene transcription**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Gene expression can change without changing the underlying DNA sequence. The lecture identifies DNA methylation and modifications affecting chromatin organization as examples of epigenetic regulation. These changes influence how accessible a gene is to transcriptional machinery and therefore how much of its RNA and protein product is produced.
+
+The keyed reference to methyl groups is the beginning of this explanation, not the whole mechanism. Its relevance is that environmental experience or drug exposure can alter later cellular function through gene regulation. Axoplasmic transport moves proteins after they have been produced, while membrane channels perform signaling functions. Neither describes the regulation of transcription itself. Avoid equating every epigenetic modification with a mutation.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 3
@@ -60,7 +72,13 @@ Neuromodulators alter the action of standard neurotransmitters. They diffuse awa
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Volume transmission allows a released chemical to influence cells beyond a narrowly defined synaptic contact. A neuromodulator can change the responsiveness of a region or alter how other transmitter signals operate. The lecture contrasts this with the more spatially focused “wiring” picture of one release site aligned with a particular receiving site.
+
+The distinction is about signaling arrangement and action, not an absolute list of chemicals. The same substance can participate in more than one mode depending on where and how it is released. Varicosities help illustrate release along neuronal processes. The key therefore should not be interpreted as saying that neuromodulators never bind receptors or that they always generate a completely separate kind of biochemical response.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 4
@@ -78,7 +96,13 @@ Pavlovian conditioning. Measures the rewarding property of the unconditioned sti
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Conditioned place preference**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Conditioned place preference uses an association between an environment and an experience. One setting is paired with a drug or other event, and later preference for that setting is assessed. The environment can acquire motivational significance even when the drug is not being delivered during the preference test.
+
+This is principally a Pavlovian arrangement: the context predicts the event. It differs from self-administration, in which an action produces the drug. The key therefore identifies learned place preference as evidence about rewarding associations, not as a direct measure of every aspect of addiction. Initial preferences, learning, and the ability to explore are relevant to interpreting the observed choice.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 5
@@ -96,7 +120,13 @@ Systemic routes: drug moves throughout the body through general circulation. Ora
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Routes of drug administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The route of administration matters because a drug must reach its target before it can act. With a systemic route, circulating blood distributes the drug beyond the initial administration site. After oral administration, the preparation must release its drug, the drug must survive the gastrointestinal environment, and molecules must cross an absorbing surface before entering circulation.
+
+This explains why **absorption** is not the same as swallowing a dose. The dose can be present in the digestive tract without yet being available to distant tissues. The other options describe particular routes or first-pass metabolism. They are related, but the keyed option most directly links systemic delivery, oral administration, and entry into blood.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 6
@@ -114,7 +144,13 @@ Axoplasmic transport: proteins made in the soma must be transported to the axon 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Where do the proteins go?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A neuron may have an axon extending far from its cell body. Proteins produced in the soma must therefore be delivered to distant regions that need them. Axoplasmic transport uses the cytoskeleton, particularly microtubules, as an organized transport system rather than relying on proteins simply diffusing the entire distance.
+
+The textbook distinguishes anterograde transport toward terminals from retrograde transport back toward the soma. This supports maintenance and recycling as well as communication within the cell. The keyed option correctly connects the site of synthesis to the need for transport. Do not confuse this movement of cellular materials with an action potential: an electrical signal and a transported protein are different kinds of events.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 7
@@ -132,7 +168,13 @@ Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+An arriving action potential depolarizes the terminal membrane and opens voltage-gated calcium channels. Calcium entry triggers the machinery that allows a docked vesicle to fuse with the membrane and release its contents. This is exocytosis, concentrated at specialized release regions called active zones.
+
+The key correctly identifies calcium as the link between electrical activity and vesicular transmitter release. Calcium is not simply another name for the transmitter, and sodium influx producing an axonal spike is not the same event as calcium-triggered fusion at the terminal. After release, membrane can be retrieved by endocytosis and reused. A complete explanation follows the sequence from depolarization to calcium entry to fusion, rather than skipping directly from spike to receptor binding.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 8
@@ -150,7 +192,13 @@ New technologies such as computer vision are used to quantify behavior. Artifici
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Emerging technologies in ethology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Computer vision can convert video into quantified descriptions of behavior, such as movement patterns or the occurrence of defined actions. The lecture emphasizes the possibility of collecting richer observations in habitat-based environments and extends the idea to wearable sensors in humans.
+
+Automation changes how behavior is measured; it does not remove the need to define the behavior or interpret it appropriately. An algorithm's label is not, by itself, proof of anxiety, pleasure, or a specific neural mechanism. The keyed option concerns measurement technology rather than a new neurotransmitter assay. Connect the data to the scientific question, and distinguish a detected movement pattern from the psychological construct it may be used to investigate.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 9
@@ -168,7 +216,13 @@ First-pass metabolism: ingested chemicals pass via the portal vein to the liver,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **The problem with enteral administration Methods of Drug Administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+First-pass metabolism concerns the route a drug takes **before reaching general circulation**. Following gastrointestinal absorption, blood carries much of the absorbed drug through the portal circulation to the liver. Enzymes can transform part of it during this initial passage, reducing the amount of unchanged drug that reaches other tissues.
+
+Thus, an oral dose and a dose delivered directly into systemic circulation need not produce the same exposure. Do not confuse first-pass metabolism with failure to absorb: a molecule may cross the intestinal wall successfully and still be metabolized before reaching its target. The other options describe injection, nasal delivery, or rectal absorption, whereas the keyed option identifies the particular limitation emphasized for enteral administration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 10
@@ -186,7 +240,13 @@ Proteins in the cell membrane include receptors, enzymes, ion channels, and tran
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **What do the proteins do?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Membrane proteins carry out several distinct jobs. Receptors recognize signals, enzymes catalyze reactions, transporters move particular substances, and ion channels provide pathways for ions to cross the membrane. A gated channel changes between states in response to a suitable trigger.
+
+For a ligand-gated channel, the trigger is binding of a chemical signal. For a voltage-gated channel, it is a change in membrane potential. The lecture also introduces modification through second messengers. The key therefore identifies functional machinery, not merely structural components. A transporter is not interchangeable with a receptor, and a channel's opening does not mean that all ions can cross equally freely.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 11
@@ -204,7 +264,13 @@ Not stored in vesicles. Synthesized on demand by postsynaptic cell after recepto
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture uses lipid and gaseous signals to show that the vesicle-release model has exceptions. These signals can be synthesized when needed rather than stored in conventional synaptic vesicles. Some are produced postsynaptically and travel back to influence the presynaptic cell, making them retrograde messengers.
+
+The direction of signaling is therefore different from the standard presynaptic-release sequence. Endocannabinoids and nitric oxide illustrate this broader range of mechanisms in the source material. The key does not mean that all signaling molecules diffuse in the same way or have identical targets. Identify the relevant contrast: on-demand synthesis and nonvesicular signaling versus storage in vesicles followed by calcium-triggered exocytosis.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 12
@@ -222,7 +288,13 @@ Stereotaxic surgery is needed for accurate in vivo measures of brain function:. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Stereotaxic Surgery**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Stereotaxic methods use an anatomical coordinate system to position an implant or intervention relative to a targeted brain location. A brain atlas and reference landmarks help translate a desired region into a reproducible placement. This is important when a research question concerns a particular circuit or nucleus.
+
+The key identifies precise placement as the contribution of the method. Stereotaxic surgery does not itself measure transmitter concentration, identify a protein, or establish a behavioral effect; it enables other tools to be placed appropriately. Anatomical verification remains important because a result depends on where the intervention actually occurred. Distinguish the positioning procedure from the recording, sampling, or manipulation that follows it.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 13
@@ -240,7 +312,13 @@ Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; dange
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **The beauty of parenteral routes**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Parenteral routes avoid delivery through the gastrointestinal tract, but they do not all produce the same time course. Intravenous administration places drug directly into blood, so there is no absorption step from an injection depot. This permits rapid exposure but also leaves little time to respond to an excessive effect. Intramuscular administration requires absorption from muscle and can produce a slower, more sustained rise.
+
+The lecture also distinguishes subcutaneous delivery and inhalation. The relevant principle is that **location, absorbing surface, and local blood flow** affect delivery speed. Avoid interpreting “parenteral” as meaning uniformly instantaneous or automatically safer; the keyed comparison explicitly includes both the rapidity and hazards of intravenous administration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 14
@@ -258,7 +336,13 @@ What is the membrane potential?. How is it measured?.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Electrical properties of the neuron Resting membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Membrane potential is an electrical potential difference between the inside and outside of a cell. It is measured by comparing electrodes placed on opposite sides of the membrane. In the resting-neuron example, the intracellular electrode records a negative value relative to the extracellular reference.
+
+The important point is the **difference across the membrane**, not an absolute charge assigned to the entire cell. Changes in that difference provide the basis for local potentials and action potentials. The existing keyed option asks what membrane potential is and how it is measured, but does not answer those questions. A complete explanation must connect the measurement to unequal ion distributions and the membrane's selective permeability.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 15
@@ -276,7 +360,13 @@ Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Release Involves Exocytosis and Recycling of Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Exocytosis adds vesicle membrane to the cell surface, so continued release requires membrane retrieval and rebuilding of release-ready vesicles. The lecture distinguishes clathrin-mediated endocytosis, ultrafast retrieval involving endosomal processing, and kiss-and-run release, in which a vesicle does not fully collapse into the surface membrane.
+
+These models differ in timing and membrane handling, but all address the problem of sustaining repeated secretion. During strong activity, bulk endocytosis can retrieve larger amounts of membrane. The keyed option names one retrieval mechanism; it does not establish that every vesicle follows that route. Keep **endocytosis**, which retrieves membrane, separate from **exocytosis**, which releases transmitter.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 16
@@ -294,7 +384,13 @@ In vivo microdialysis: measurement of neurotransmitters released in a specific b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Invasive measurement of neurotransmitters**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Microdialysis and fast-scan cyclic voltammetry both provide information about extracellular neurochemistry, but they use different measurement principles. Microdialysis samples substances across a probe membrane for analysis. Voltammetry uses electrochemical changes at an electrode to detect suitable electroactive chemicals and can follow relatively rapid fluctuations.
+
+The key groups them as invasive neurochemical methods because the sensing device is placed in the relevant tissue. Neither is identical to recording action potentials, and neither measurement alone establishes how much transmitter activated a particular postsynaptic receptor. Link the observed chemical signal to its sampling location and timing. Behavioral and neurochemical data can complement one another without becoming interchangeable measurements.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 17
@@ -312,7 +408,13 @@ Rectum is highly vascularized and can directly absorb alcohol. Partially reduces
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Rectal administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The rectal example illustrates why changing the route can change exposure even when the substance is unchanged. A vascular absorbing surface can transfer drug into blood, and some rectal drainage avoids the initial hepatic passage associated with oral delivery. The lecture therefore describes a **partial reduction**, not a guaranteed elimination, of first-pass metabolism.
+
+For alcohol, the case is presented as a danger: absorption and metabolism differ from oral consumption, so an apparently comparable quantity may produce a much greater effect. This is not a recommendation to use the route. The other options discuss general pharmacokinetics or membrane diffusion; the distinctive point here is the connection between the administration site, vascular drainage, and unpredictable exposure.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 18
@@ -330,7 +432,13 @@ Resting membrane potential: inside of cell is more negative than outside: –70 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **The membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The lecture uses approximately −70 mV to represent a resting neuron: the inside is negative relative to the outside. Potassium is more concentrated inside, while sodium is more concentrated outside. Potassium can move through resting channels, experiencing an outward concentration force and an inward electrical attraction.
+
+Selective permeability and these opposing forces contribute to the resting potential. The sodium–potassium pump maintains the unequal ion distributions over time. Do not imagine that resting means every ion stops moving, or that the pump itself is the rapid event producing each action potential. The key describes a maintained electrical state from which rapid, channel-mediated changes can occur.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 19
@@ -348,7 +456,13 @@ Terminal autoreceptors inhibit further transmitter release. Somatodendritic auto
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Autoreceptors control the rate of neurotransmitter release**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Autoreceptors respond to the same transmitter released by the neuron that bears them. In the inhibitory feedback examples taught here, terminal autoreceptors reduce further release, while somatodendritic autoreceptors reduce the neuron's firing rate. Both can limit transmitter output, but at different points in the sequence.
+
+This explains why stimulating an autoreceptor can reduce overall transmission even though the drug is a receptor agonist. Agonism describes what happens at a receptor; it does not guarantee greater output from the whole pathway. Heteroreceptors instead respond to a different transmitter and can enhance or suppress release. The key distinguishes the location and immediate consequence of autoreceptor feedback.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 20
@@ -366,7 +480,13 @@ The lecture treats **Invasive measurement of electrical activity** as a key conc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Invasive measurement of electrical activity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Electrical recording asks about neural voltage changes or firing activity, rather than directly measuring the concentration of a transmitter. An electrode positioned in or near the relevant tissue can detect electrical events, with the interpretation depending on placement and recording arrangement.
+
+The distinction from the preceding slide is the quantity measured: microdialysis and voltammetry investigate neurochemistry, while electrophysiological recording investigates electrical activity. A change in firing may accompany a change in transmitter release, but one cannot simply substitute for the other. The keyed option is a topic placeholder. A meaningful answer needs to name the measurement and explain how it relates to the neural process of interest without claiming that all electrical recordings reveal the same level of activity.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 21
@@ -384,7 +504,13 @@ The lecture treats **Effect of administration route on pharmacokinetics** as a k
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Effect of administration route on pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Read a concentration–time graph by separating **onset**, **peak**, and **duration**. Direct delivery into blood can produce an immediate high concentration followed by decline. A route requiring absorption produces a rising phase; slower absorption may flatten the peak and spread exposure over time. Metabolism and redistribution continue while absorption is occurring.
+
+Consequently, equal doses can have different concentration curves and different periods above a threshold for effect. A delayed peak does not necessarily mean that the drug is intrinsically less effective at its receptor. The lecture's route comparison is primarily pharmacokinetic: it changes delivery over time, whereas receptor efficacy describes what a drug can do once it reaches its target.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 22
@@ -402,7 +528,13 @@ The lecture treats **Ionic basis of the membrane potential** as a key concept th
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Ionic basis of the membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The ion-distribution figure explains why opening a channel can change membrane potential. Sodium, potassium, and chloride do not have equal concentrations on the two sides of the membrane. Movement through an available channel depends on both the concentration difference and the electrical force on the ion.
+
+At rest, potassium permeability is especially important, while the sodium–potassium pump helps preserve the concentration gradients. The pump uses energy to maintain a nonequilibrium distribution rather than allowing all concentrations to equalize. Relate the figure's arrows to the relevant ion and force. A statement that ions move only because of concentration overlooks the electrical component emphasized in the lecture.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 23
@@ -420,7 +552,13 @@ Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cle
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Mechanisms of Neurotransmitter Inactivation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A synaptic signal needs a way to end. The lecture describes enzymatic breakdown, transporter-mediated reuptake into the presynaptic terminal, and uptake into other cells, including glia. These mechanisms reduce the amount of transmitter available to continue activating receptors.
+
+Reuptake and degradation are not identical: a transporter moves a molecule, whereas an enzyme chemically transforms it. This distinction explains different drug targets. Blocking reuptake can prolong extracellular transmitter action without directly stimulating the postsynaptic receptor. Blocking degradation changes a different part of the same cycle. The keyed option names two major inactivation routes; a full explanation connects removal to the duration and spread of the signal.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 24
@@ -438,7 +576,13 @@ Important caveat: mRNA does not always equal protein In situ hybridization Post-
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **enkephalin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+The enkephalin example illustrates **in situ hybridization**, which locates a specified RNA sequence in tissue. Detecting messenger RNA provides evidence about expression of the corresponding gene in particular cells or regions. It does not directly measure the amount of translated protein present at that moment.
+
+This is why the slide emphasizes that mRNA does not always equal protein. Translation, processing, transport, and degradation separate transcript abundance from the final protein signal. Immunohistochemistry addresses protein localization through a different assay. The key's important content is this measurement distinction; “enkephalin” is the example being examined, not the name of the technique or a reason to equate the two readouts.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 25
@@ -456,7 +600,13 @@ Route of administration. Drug concentration.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Other factors affecting pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Route and concentration are two contributors to the amount and speed of drug absorption. Route determines the tissues and barriers encountered. Concentration helps establish the gradient driving passive movement. The lecture also includes solubility, ionization, and transport through phospholipid membranes, so the short keyed option is only part of the full explanation.
+
+These factors interact. A large concentration difference does not make every molecule cross every membrane equally well; the drug's chemical properties and the membrane remain important. Similarly, rapid circulation after absorption cannot explain whether the drug crossed the original absorbing surface. Keep **entry into blood** distinct from **distribution after entry** when evaluating the nearby alternatives.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 26
@@ -474,7 +624,13 @@ Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; ins
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Post synaptic potentials Local Potentials Are Small,**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A postsynaptic potential is a local change following synaptic input. In the lecture's examples, sodium entry makes the inside less negative, producing depolarization and moving the membrane toward firing threshold. Chloride entry can make the inside more negative, producing hyperpolarization and moving it away from threshold. Opening potassium channels can also produce an inhibitory change.
+
+The key distinguishes these directions of change, not two types of action potential. Local potentials are graded and can combine with other inputs. The consequence depends on the channel and ionic conditions; the transmitter's name alone is not a complete explanation. Ask which ions move and how that movement changes the likelihood of firing.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Question 27
@@ -492,7 +648,13 @@ Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretor
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Neurotransmitter Receptor Families**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A transmitter produces an effect only where an appropriate receptor and response mechanism are present. Different receptor subtypes for the same transmitter can engage different channels or intracellular pathways. As a result, one transmitter can produce different effects in different cells or circuits.
+
+The keyed option correctly treats a receptor as a signaling protein rather than as a transporter that carries transmitter across the membrane. Binding changes the receiving cell's activity through the receptor's mechanism. This is why the transmitter name alone does not establish whether a particular response is excitatory or inhibitory. Specify the receptor subtype, cellular location, and downstream action before predicting the functional outcome.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Question 28
@@ -510,7 +672,13 @@ Designer receptors exclusively activated by designer drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **DREADDs**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+DREADDs are engineered receptors used to change cellular activity through administration of a suitable activating ligand. The name emphasizes their experimental design: receptor expression and drug administration are combined to manipulate a selected cell population rather than merely observe it.
+
+This makes the method different from staining tissue or measuring naturally occurring transmitter concentrations. The causal question is whether changing the activity of the targeted cells changes an outcome. Appropriate comparisons must separate effects of receptor expression, ligand administration, and their combination. The lecture supplies the acronym rather than a full protocol, so the explanation should remain at the level of experimental logic and not assume that every receptor–ligand system has identical effects or perfect specificity.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 
 ### Question 29
@@ -528,7 +696,13 @@ Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+A phospholipid membrane presents a lipid-rich barrier. A sufficiently lipid-soluble drug can enter that barrier and move across it by passive diffusion, with net movement down its concentration gradient. A larger gradient can increase the rate of net transfer, but passive diffusion does not actively pump drug toward a region of higher concentration.
+
+The keyed option therefore connects a molecular property—lipid solubility—to a transport mechanism. The other options concern ionization, distribution, or specialized brain barriers. They can influence the same overall journey, but they answer different parts of it. The lecture's prodrug example adds a further distinction: a compound can enter tissue readily yet require metabolism before the principal active form is produced.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Question 30
@@ -546,7 +720,13 @@ When summation of local potentials reaches the threshold of -50 mV, many voltage
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+Local excitatory and inhibitory influences are integrated near the axon's initiation region. In the lecture's illustrative values, sufficient depolarization brings the membrane from about −70 mV toward a threshold near −50 mV. Voltage-gated sodium channels then open, allowing rapid sodium entry and generating the rising phase of an action potential.
+
+This is a transition from graded input to an all-or-none event. A stronger suprathreshold input does not simply create an indefinitely larger spike. Sodium-channel inactivation then produces an absolute refractory period, during which another action potential cannot be initiated in that membrane region. The key therefore links summation, threshold, and regenerative channel opening, rather than treating firing as a direct synonym for any depolarization.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 # Section B — Short Essay
@@ -562,7 +742,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 1, topic **Types of agonists**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Distinguish **affinity**, the tendency to bind, from **efficacy**, the ability to activate the receptor after binding. A full agonist produces the maximal response available in the system, a partial agonist produces less activation, and a neutral antagonist blocks agonist access without activating the receptor. An inverse agonist reduces constitutive receptor activity rather than merely preventing agonist binding.
+
+Connect these categories to curves. Potency concerns the dose needed for a specified effect and is reflected in horizontal position; efficacy is reflected in the attainable maximum. A partial agonist can therefore have high affinity without producing the same maximum as a full agonist. In the presence of a full agonist, it can also reduce the overall response by occupying receptors that would otherwise receive stronger activation. The existing answer's statement that antagonists “produce no effects” refers to lack of intrinsic agonist activation, not to absence of observable effects when an endogenous signal is blocked.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 2
@@ -576,7 +762,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 2, topic **Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+The neural tube develops into the spinal cord and major brain divisions. Use the developmental map to organize adult structures: forebrain divisions include telencephalon and diencephalon, the midbrain is the mesencephalon, and hindbrain divisions include metencephalon and myelencephalon. Within these regions, nuclei are clusters of cell bodies and tracts are bundles of axons.
+
+The functional connection is hierarchical but overlapping organization. Later or more elaborated regions do not eliminate the functions of other levels; they participate in more complex regulation and behavioral control. For example, cortical planning still depends on pathways connecting to motor and brainstem systems. The prompt repeats the developmental-origin topic rather than specifying a separate comparison, so the clearest response links the embryological scheme to recognizable adult structures and communication pathways. Do not turn the map into a rigid claim that each psychological function belongs exclusively to one developmental compartment.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 31. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 3
@@ -590,7 +782,13 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 3, topic **Mechanism of exocytosis**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Trace exocytosis from the arrival of a depolarizing signal. Voltage-gated calcium channels open, calcium enters the terminal, and calcium-sensitive machinery promotes fusion of a prepared vesicle with the presynaptic membrane. The contents are released into the cleft, after which membrane retrieval supports further rounds of secretion.
+
+The slide's protein list is abbreviated. Chapter 3 distinguishes the calcium-sensing role of synaptotagmin from the fusion machinery involving SNARE proteins, including synaptobrevin. This distinction explains why both calcium detection and membrane interaction are needed. Then contrast the pathway with lipid and gaseous signals: these are not packaged and released through the same vesicular cycle and can be synthesized on demand, including in the postsynaptic cell. Some act retrogradely on the presynaptic element. The answer should therefore compare **stored, vesicular release** with **on-demand, nonvesicular signaling**, rather than assuming that every transmitter uses exocytosis.
+
+**Source:** Lecture 3 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 3.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
 :::
 
 ### Short Essay 4
@@ -604,6 +802,12 @@ A complete response should identify the relevant mechanism, explain the causal s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-**Source:** Lecture 4, topic **Integration: Behavioral Pharmacology and Animals are necessary for behavioural pharmacology**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+Behavioral pharmacology defines the research aim: understanding drug-induced changes in behavior and their mechanisms. Animal studies provide particular ways to pursue that aim, including control of environment and prior experience, defined manipulations, and access to measurements not appropriate in humans. These advantages can help test causal explanations rather than relying only on correlations.
+
+The connection is methodological, not an identity between the field and one species or assay. The value of a model depends on how the measured behavior and underlying mechanism relate to the human question. Shared mammalian organization can support comparison, while species differences and the limits of the assay constrain generalization. The lecture also emphasizes animal-care standards and the three Rs. A complete response should therefore explain a controlled drug–behavior comparison, describe what animal work makes possible, and acknowledge why a successful animal result is not automatically a successful clinical treatment.
+
+**Source:** Lecture 4 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 4.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
 :::
 

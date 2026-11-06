@@ -23,7 +23,11 @@ Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glutamate biosynthesis** from Lecture 9 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Glutaminase converts **glutamine to glutamate**, supplying part of the transmitter pool used by glutamatergic neurons. Glutamate is also an amino acid with metabolic roles in many kinds of cells, so its mere presence in a cell does not establish that the cell releases it as a neurotransmitter.
+
+The lecture distinguishes the specialized transmitter pool from these other biochemical functions. Glutamatergic neurons must also package glutamate into vesicles and release it at appropriate terminals. Do not confuse glutaminase with glutamine synthetase: the latter converts glutamate into glutamine in astrocytes, helping recycle material back to neurons. The two enzymes support opposite steps in a shared neuron–glia cycle rather than performing the same reaction.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -44,7 +48,11 @@ Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 o
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Vesicular packaging of glutamate** from Lecture 9 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+VGLUT proteins transport glutamate into **synaptic vesicles**. They are therefore markers of the capacity for vesicular glutamate signaling, not enzymes that synthesize glutamate or transporters that remove it from the extracellular space. EAATs perform the latter uptake function.
+
+The co-transmission examples qualify an overly rigid “one neuron, one transmitter” rule. A cell identified by dopamine, serotonin, ACh, or GABA markers may also express a VGLUT and release glutamate. In the VTA example, the lecture describes dopamine and glutamate release from separate vesicles at different terminal types. Thus, co-expression does not imply that the two chemicals necessarily occupy the same vesicle or are released identically at every synapse of that neuron.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -65,7 +73,11 @@ Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur i
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glutamate reuptake** from Lecture 9 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+EAATs remove glutamate from the **extracellular space**, limiting the duration and spread of excitation. Astrocytic EAAT2 has a particularly prominent role in the lecture's account, illustrating that transmitter inactivation is not exclusively a job for the presynaptic neuron.
+
+This uptake has two linked consequences: it helps end a signal and prevents excessive extracellular glutamate from stimulating receptors continuously. Glutamate taken into astrocytes can subsequently enter the glutamate–glutamine recycling pathway. The approximate uptake percentage in the key expresses the course's emphasis on astrocytes; the mechanistic distinction is more important than treating that number as universal. VGLUT fills vesicles, EAAT removes extracellular transmitter, and glutamine synthetase performs an intracellular chemical conversion.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -86,7 +98,11 @@ High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develo
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **EAAT knockout** from Lecture 9 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Removing EAAT2 compromises a major route for **clearing extracellular glutamate**. The lecture reports seizures and shortened survival in knockout mice, linking disrupted clearance to excessive excitation. The result demonstrates why a normally useful excitatory transmitter must be tightly regulated outside cells.
+
+The manipulation is not equivalent to eliminating glutamate synthesis or blocking all glutamate receptors. Transmitter can still be released, but its removal is impaired. This makes the experiment informative about transport and extracellular regulation. However, a constitutive knockout affects an animal over development as well as during testing, so its full phenotype should not be reduced to the effect of one brief drug exposure. The evidence supports the importance of uptake, not an unrestricted claim that glutamate is inherently harmful.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -107,7 +123,11 @@ Astrocyte transporters convert the glutamate they take up to glutamine using glu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Astrocytic metabolism of glutamate** from Lecture 9 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The recycling sequence is **uptake into astrocytes → conversion to glutamine → transport to neurons → reconversion to glutamate**. Glutamine synthetase catalyzes the astrocytic conversion; glutaminase catalyzes the neuronal conversion. This couples removal of released transmitter to replenishment of the supply used for later signaling.
+
+There is a wording problem in the original key: transporters do not themselves convert glutamate into glutamine. The lecture's shorthand should be distinguished from the clearer account in Chapter 8, which assigns transport to EAATs and conversion to the enzyme glutamine synthetase. Keeping movement and chemical transformation separate makes the cycle intelligible and explains how astrocytes support both signal termination and continued neurotransmission.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -128,7 +148,11 @@ Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Anatomical organization of the glutamate system** from Lecture 9 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Glutamate supports **widely distributed fast excitatory transmission**, including cortical pyramidal-cell projections and excitatory hippocampal pathways. This broad anatomical presence is why the lecture calls it a “workhorse” rather than assigning it one narrow psychological function.
+
+Its contribution depends on the circuit and receptor involved. In one setting glutamate carries an immediate signal; in another, receptor activation contributes to plasticity and longer-lasting changes in synaptic strength. The unfinished list in the answer panel is not a complete account of the pathway anatomy. Also note a source discrepancy: the slide says “parallel fibers of the cerebrum,” whereas the assigned chapter describes cerebellar parallel fibers. That wording should be checked rather than memorized uncritically.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -149,7 +173,11 @@ AMPA receptor, named for selective agonist AMPA; most fast excitatory responses 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ionotropic glutamate receptors** from Lecture 9 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+AMPA, kainate, and NMDA receptors are **ionotropic glutamate receptors**, named after agonists used to distinguish their pharmacology. Activation opens a channel directly, rather than beginning the G-protein signaling sequence characteristic of metabotropic glutamate receptors.
+
+The lecture emphasizes AMPA receptors as major mediators of fast excitatory responses. NMDA receptors add special requirements and a calcium-permeable component that links activity to intracellular signaling and plasticity. Receptor names identify pharmacological categories, not the transmitter normally released at each synapse: endogenous glutamate can act at these receptor families. The key begins with AMPA and kainate, but understanding the topic requires recognizing NMDA as the third ionotropic family in the lecture's comparison.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -170,7 +198,11 @@ Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **NMDA receptors are very interesting** from Lecture 9 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+NMDA channel opening requires more than glutamate alone. A **co-agonist, glycine or D-serine, must also occupy its site**, and sufficient depolarization must relieve the magnesium block within the channel. Once those conditions are met, sodium and calcium can pass, linking excitation to intracellular signaling.
+
+This combination explains the receptor's coincidence-detection role: transmitter arrival must coincide with a sufficiently depolarized postsynaptic cell. A source qualification matters here. The slide associates the co-agonists with astrocytic release, but Chapter 8 explicitly discusses evidence for primarily neuronal D-serine formation. The sources should not be collapsed into a claim that astrocytes are the exclusive origin. The shared, well-supported point is the co-agonist requirement and voltage-dependent magnesium block.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -191,7 +223,11 @@ Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Metabotropic glutamate receptors** from Lecture 9 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Metabotropic glutamate receptors signal through **G proteins and intracellular effectors**, rather than directly forming the ion channel of an AMPA or NMDA receptor. The lecture groups mGluR1 and mGluR5 with postsynaptic phosphoinositide signaling, and Groups II and III mainly with mechanisms that reduce transmitter release through inhibitory signaling.
+
+This shows why an excitatory transmitter can also recruit feedback that limits further transmission. The relevant question is which receptor is activated and where it is located, not simply whether glutamate is present. The lecture marks mGluR6 as an exception in its grouping, so the broad presynaptic description should not be treated as an exceptionless location rule for every metabotropic subtype.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -212,7 +248,11 @@ AMPA receptor positive allosteric modulators have been shown to enhance learning
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **AMPA and NMDA receptors in learning and memory** from Lecture 9 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A positive allosteric modulator **enhances the response to glutamate already present**, rather than acting as a direct substitute at the transmitter's binding site. This offers a way to modify ongoing signaling while retaining some dependence on the timing and location of endogenous glutamate release.
+
+The lecture reports learning or memory enhancement in experimental animals but not the same success in the clinical trials it discusses. That contrast is an important limitation, not a detail to omit. Its question about direct agonists connects to the later excitotoxicity discussion: indiscriminate enhancement of excitation can be hazardous. A plausible receptor mechanism and encouraging animal performance are not enough to establish safe, effective cognitive enhancement in humans.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -233,7 +273,11 @@ One aspect of long-term potentiation (LTP): the coincidence detector feature of 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **A mechanism for glutamate in memory formation** from Lecture 9 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The NMDA receptor can detect the conjunction of **presynaptic glutamate release and postsynaptic depolarization**. In the lecture's Pavlovian-learning example, a conditioned-stimulus input releases glutamate while another input helps depolarize the postsynaptic cell. With co-agonist binding and relief of the magnesium block, calcium can enter through NMDA receptors and initiate strengthening processes.
+
+This provides a cellular model for why appropriately paired inputs may become more effective together. The phrase “fire together, wire together” is a summary, not a substitute for explaining the receptor requirements. It is also not proof that every form of learning uses precisely this mechanism. The lecture presents LTP as a mechanistic connection between patterned activity and lasting changes in synaptic effectiveness.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -254,7 +298,11 @@ LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Long-term potentiation** from Lecture 9 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Long-term potentiation is a **lasting increase in synaptic effectiveness**, commonly evaluated as a larger EPSP evoked by a comparable input after an induction event. A larger EPSP brings the postsynaptic membrane closer to firing threshold, but it is not itself the same thing as an action potential.
+
+The lecture lists several routes to a stronger response: increased presynaptic transmitter release, more postsynaptic receptors, changes in receptor function, and structural changes. These possibilities distinguish an observed physiological effect from its underlying mechanism. To demonstrate potentiation, compare the response to an equivalent test input before and after induction; merely increasing the stimulus strength during testing would not establish that the synapse itself had strengthened.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -275,7 +323,11 @@ Measuring LTP in the laboratory Stim Record.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Measuring LTP in the laboratory Stim** from Lecture 9 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The figure separates **stimulation of an input pathway from recording the postsynaptic response**. Its hippocampal example shows stimulation of Schaffer-collateral input and recording in the CA1 region. The accompanying traces illustrate a larger postsynaptic EPSP after LTP induction than before, following a comparable presynaptic event.
+
+This comparison tests a change in communication between cells, not simply the existence of electrical activity. A bigger response is meaningful only relative to the baseline and the controlled test input. The original keyed phrase, “Stim Record,” labels the apparatus but does not explain the measurement. A substantive answer should identify where stimulation and recording occur and what before-versus-after change would count as evidence of potentiation.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -296,7 +348,11 @@ AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMD
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate** from Lecture 9 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+AMPA-mediated excitation can depolarize a postsynaptic neuron sufficiently to **relieve the NMDA channel's magnesium block**. With glutamate and the required co-agonist present, the unblocked NMDA channel can then carry calcium as well as sodium. Calcium supplies the intracellular signal that links this brief electrical event to subsequent plasticity mechanisms.
+
+Do not interpret the slide's shorthand as saying glutamate cannot bind an NMDA receptor at resting voltage. The assigned chapter distinguishes ligand binding from ion flow: magnesium can block the channel even when the required ligands are bound. Nor must AMPA be the only possible source of depolarization. It is the source emphasized in this example of cooperation between two glutamate receptor classes.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -317,7 +373,11 @@ CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfr
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and** from Lecture 9 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Calcium entering through activated NMDA receptors can engage **protein kinases and signaling pathways that strengthen transmission**. The lecture links CaMKII to additional AMPA receptors in the membrane and associates CaMKII and PKC with increased AMPA-receptor conductance. These changes can make the same future input produce a larger response.
+
+The keyed sentence selects the lecture's retrograde-messenger branch: a signal originating postsynaptically, described as nitric oxide, can influence the presynaptic terminal and increase glutamate release. That direction is the reverse of the usual transmitter handoff. Read it as part of the lecture's schematic account, not as the sole necessary pathway for all LTP. The slide also includes transcription and protein synthesis associated with longer-lasting structural changes.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -338,7 +398,11 @@ CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfr
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein** from Lecture 9 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This slide distinguishes **early changes in synaptic function from later changes supported by gene expression and structure**. AMPA-receptor trafficking and altered conductance can strengthen the postsynaptic response, while CREB-related transcription and protein synthesis provide a route to longer-lasting modifications of dendrites and synapses.
+
+The original key repeats the nitric-oxide example from the previous question, but that is only one branch of the slide. A complete explanation follows calcium entry through NMDA receptors into kinase activity, receptor regulation, and longer-term cellular changes. “Retrograde” refers specifically to a signal traveling from the postsynaptic cell toward the presynaptic terminal; it does not mean that all transmitter release runs backward or that every strengthening mechanism is presynaptic.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -359,7 +423,11 @@ Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osm
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Multiple ways to die** from Lecture 9 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The substantive distinction is between **lytic cell injury and programmed cell-death mechanisms**. Necrosis can involve osmotic swelling, membrane rupture, and release of cellular contents. Programmed death involves regulated biochemical processes; apoptosis includes removal of cellular material without the same pattern of lytic spillage.
+
+The original keyed timing statement should not be treated as settled. Lecture slide 22 describes necrosis as slow and apoptosis as fast, whereas Chapter 8 describes relatively rapid necrosis under intense exposure and delayed programmed death. The chapter also distinguishes adult programmed necrosis from apoptosis and assigns different roles to synaptic GluN2A and extrasynaptic GluN2B receptors. These are explicit source discrepancies requiring instructor review; they cannot support a unique timing-based answer as currently written.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -380,7 +448,11 @@ Cerebrovascular disorder of sudden onset. Infarct.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Stroke** from Lecture 9 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A stroke is a **sudden cerebrovascular event**. The lecture distinguishes hemorrhage, involving bleeding, from ischemia, involving inadequate blood supply. It identifies an infarct as an area of dead or dying tissue and the surrounding penumbra as important to the discussion of further injury.
+
+The point of introducing these terms is to connect a vascular problem to cellular consequences. Reduced blood supply can disrupt the energy-dependent processes that normally maintain ion gradients and regulate neurotransmitter availability. Subsequent excitotoxic signaling is one proposed contributor to damage, not the definition of stroke itself. The answer's two short labels therefore need the vascular distinction and tissue context; neither “infarct” nor “glutamate toxicity” alone describes every aspect of the event.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -401,7 +473,11 @@ Ischemic brain damage. One mechanism of ischemia.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glutamate toxicity in stroke** from Lecture 9 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture connects ischemia to **excessive extracellular glutamate and injury to nearby neurons**. Loss of adequate blood supply compromises normal cellular function, and disrupted glutamate regulation can lead to prolonged activation of excitatory receptors. The preceding receptor discussion explains why sustained ion entry, especially calcium signaling under pathological conditions, can become damaging.
+
+This mechanism motivates efforts to protect tissue around an infarct. It does not mean glutamate is the initial vascular blockage or the only pathway of ischemic damage. The clinical-treatment question is separate: even if excitotoxicity contributes to injury, blocking one receptor class must still be shown to improve outcomes safely under actual treatment conditions. That is why the next slide discusses unsuccessful NMDA-blocker trials.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -422,7 +498,11 @@ They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **NMDA receptor blockers in stroke** from Lecture 9 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture contrasts a **plausible neuroprotective mechanism with disappointing clinical trial results**. NMDA receptors participate in excitotoxic processes, so blocking them seemed a reasonable strategy for limiting ischemic injury. However, the historical trials cited on the slide did not establish the hoped-for clinical benefit.
+
+This does not prove that NMDA receptors play no role in the injury mechanism. It shows that mechanistic involvement is not sufficient to demonstrate that a particular treatment improves patient outcomes. The supplied slide does not give enough information to attribute failure to one specific cause, such as dose, timing, or adverse effects, so those explanations should not be invented. Interpret “they don't seem to work” within the trials and course context, not as a current universal treatment guideline.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 8.
 
 **Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
@@ -440,7 +520,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 9, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+EAATs are **plasma-membrane transporters that remove extracellular glutamate**, with subtype distributions that differ across cells and regions. The lecture emphasizes astrocytic EAAT2, EAAT1 in cerebellar astrocytes, neuronal EAAT3, EAAT4 in Purkinje cells, and EAAT5 in retinal bipolar cells. This distribution illustrates division of labor rather than five interchangeable labels for a single presynaptic mechanism.
+
+Connect uptake to recycling by following astrocytic glutamate into glutamine synthetase, which converts it to glutamine. Glutamine can then return to neurons and be converted back to glutamate by glutaminase. Uptake both limits receptor exposure and supports continued transmitter supply. Keep the molecular roles separate: EAATs move the molecule across a membrane; enzymes change its chemical identity; VGLUT later packages neuronal glutamate into vesicles. The EAAT2-knockout seizure example further shows why the uptake step matters for network stability, not merely for conserving precursor material.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Short Essay 2 — Another binding site directly inside the channel {#l09-sa02}
@@ -454,7 +540,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 9, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The NMDA channel contains a site at which the lecture's named drugs can **block ion flow without competing for glutamate's binding site**. The lecture calls these uncompetitive antagonists because channel activation is required before they gain access to their relevant blocking site. Thus, receptor activation can enable the blocker to exert its inhibitory action.
+
+This differs from an ordinary competitive antagonist that prevents an agonist from occupying its own site. It also differs from metabotropic glutamate receptors: those receptors engage G proteins and intracellular pathways rather than supplying the NMDA ion-channel pore. A strong response identifies the location of action, the dependence on channel activation, and the consequence—reduced ion flow through the activated receptor. PCP, ketamine, MK-801, and memantine illustrate the category in the lecture, but sharing a broad channel-blocking mechanism does not make their clinical effects, risks, or uses interchangeable.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Short Essay 3 — ✤ Withslice electrophysiology,we can induce LTPin cells and record thechange in EPSP 1.Establish a baseline: stimulatepresynapticaxons @low  {#l09-sa03}
@@ -468,7 +560,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 9, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The experimental logic has **baseline, induction, and post-induction testing**. A low-frequency test input first establishes the size of the evoked postsynaptic response. A stronger patterned input is then used to induce plasticity. Finally, the original test conditions are reinstated so that any persistent increase can be attributed to altered synaptic responsiveness rather than simply continued stronger stimulation.
+
+The lecture uses EPSPs and the possibility of reaching action-potential threshold to illustrate the change. A larger EPSP to the same input is the central measure; generating an action potential is not required in every demonstration of LTP. Connect the procedure to NMDA-dependent plasticity by explaining that sufficient depolarization and glutamate signaling during induction permit calcium entry and subsequent strengthening processes. The diagram's separate stimulation and recording locations make this an assessment of transmission between cells. A complete answer must compare responses before and after induction, not just state that high-frequency stimulation makes neurons fire.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Short Essay 4 — High levels of glutamate is toxic {#l09-sa04}
@@ -482,7 +580,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 9, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Excitotoxicity is injury caused by **excessive or prolonged excitatory receptor activation**, not the ordinary presence of glutamate in neural tissue. Normally, release and EAAT-mediated uptake keep signaling spatially and temporally regulated. When that regulation fails, sustained ion entry and associated intracellular processes can overwhelm cells and activate damaging pathways.
+
+The supplied sources disagree on some details of cell death, so identify that explicitly. Chapter 8 describes rapid lytic necrosis under severe exposure, delayed programmed death under other conditions, and a distinction between apoptosis and programmed necrosis. The lecture reverses some timing labels and includes broader “good/bad” and cancer statements that are not established by the assigned chapter's explanation. A strong answer should describe swelling, membrane rupture, programmed biochemical changes, and receptor context without treating apoptosis as always beneficial or claiming excitotoxic necrosis automatically causes cancer. The reliable connection is between dysregulated excitation and cell injury, with the disputed details reserved for instructor clarification.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 
 ### Short Essay 5 — What about MSG {#l09-sa05}
@@ -496,6 +600,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 9, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The key distinction is **where the glutamate is and how tissue is exposed to it**. Glutamate has normal metabolic and neurotransmitter functions and also occurs in food, contributing to umami taste. Excitotoxicity refers to excessive receptor exposure in neural tissue; it does not follow merely from identifying glutamate in something eaten.
+
+The lecture explains its MSG example through the blood–brain barrier and the separation between dietary intake and extracellular brain concentrations. Connect this to synthesis and recycling: neurons and astrocytes regulate the brain's transmitter pool through their own transport and metabolic processes. The original answer ends with a rhetorical question, so it needs this compartment-based reasoning. Claims about particular sensitivity symptoms, regulatory status, or the design of the cited feeding study should be interpreted as course statements, not expanded into universal safety guarantees. The scientific lesson is to distinguish substance identity from dose, route, tissue distribution, and the exposure required to produce a specific effect.
+
+**Source:** Lecture 9 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 8.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
 :::
 

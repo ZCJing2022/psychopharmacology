@@ -23,7 +23,11 @@ NE neurons in the brain are located in the pons and medulla, especially in the l
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Organization and function of the central noradrenergic system** from Lecture 6 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Noradrenergic cell bodies are concentrated in brainstem groups, especially the locus coeruleus, but their projections reach many distant regions. The enzyme dopamine beta-hydroxylase is important because it converts dopamine toward norepinephrine synthesis and helps identify the noradrenergic phenotype.
+
+The key concerns anatomical origin and transmitter identity. It does not imply that norepinephrine acts only in the locus coeruleus. Extensive projections allow this relatively localized system to influence arousal, sensory processing, and cognition across the forebrain and other targets. The lecture also connects it to familiar catecholamine mechanisms—vesicular storage, reuptake, metabolism, and tonic or phasic activity—so anatomy and transmitter handling should be understood together.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -44,7 +48,11 @@ Adrenergic receptors THE AUTORECEPTOR.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Adrenergic receptors THE AUTORECEPTOR** from Lecture 6 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Adrenergic receptors include several subtypes with different signaling functions. The lecture highlights the inhibitory autoreceptor role of alpha-2 receptors: when activated on a norepinephrine neuron, they can reduce further transmitter output through effects on firing or release.
+
+This is negative feedback, not a statement that every adrenergic receptor suppresses activity. Alpha-2 receptors can also occur at other locations, where their functional consequences depend on the receiving cell. The existing key names “the autoreceptor” but does not identify the mechanism. The useful distinction is between a receptor detecting the neuron's own transmitter to regulate output and a receptor on a different target cell mediating that cell's response.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -65,7 +73,11 @@ Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory co
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What is impulsivity** from Lecture 6 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture separates **impulsive action** from **impulsive choice**. Motor impulsivity concerns difficulty withholding or stopping a response, such as acting before the appropriate cue. Cognitive impulsivity concerns choices favoring an immediate outcome over a delayed one, with insufficient forethought about later consequences.
+
+The keyed option defines the motor component. It should not be taken as a complete definition of every form of impulsivity. The source also distinguishes impulsivity from broader problems learning rules, evaluating risk, or using probabilities. Someone can perform poorly on one kind of task without necessarily failing on another. The measurement must match the specific component being discussed.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -86,7 +98,11 @@ Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Measuringimpulsivityinthelab-humans** from Lecture 6 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Questionnaires and performance tasks measure different aspects of impulsivity. The Barratt scale collects reports across attentional, motor, and nonplanning dimensions. Stop-signal and go/no-go tasks examine response inhibition, whereas delay-discounting tasks examine how delay changes the value assigned to an outcome.
+
+The key names the questionnaire approach, but a full explanation should connect each measure to the intended construct. A questionnaire score is not identical to the latency of stopping a response, and neither directly measures every aspect of everyday decision-making. The lecture's range of methods reinforces that impulsivity is multidimensional. Choosing an assay requires first specifying whether the concern is action, choice, attention, or planning.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -107,7 +123,11 @@ Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol** from Lecture 6 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture associates medial and dorsolateral/dorsomedial prefrontal systems with attention, planning, executive control, and the inhibition of actions. Orbitofrontal systems are emphasized for action–outcome relationships, reward value, and updating choices when circumstances change.
+
+The keyed option identifies the first grouping. The distinction helps explain why response inhibition and delay-related choice are not necessarily the same deficit. These functions still depend on interactions with striatum and other regions; the slide is not a claim that one prefrontal area works alone. Interpret the anatomical labels as components of control networks, and match the behavioral task to the particular operation being tested.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -128,7 +148,11 @@ Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol** from Lecture 6 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Subcortical systems contribute to selecting, initiating, inhibiting, and valuing actions. The lecture connects dorsal striatum with action control, nucleus accumbens with motivational influences, and amygdala with learned value and the significance of cues. Brainstem and midbrain catecholamine systems modulate these interactions.
+
+The key therefore identifies striatum as relevant to both choice and motor impulsivity. It does not support a simple contrast in which cortex supplies control and all subcortical activity supplies impulsivity. Organized behavior depends on communication among these systems. The source's emphasis on interactions is essential: a change in one node can alter the function of the network without that node containing the entire psychological process.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -149,7 +173,11 @@ Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Circuits involved in impulse control Circuitsinvolvedin** from Lecture 6 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The circuit diagram integrates the preceding lists of brain regions. Impulse control requires information about goals, current stimuli, expected outcomes, motivational state, and whether an action should be performed or stopped. These functions are distributed across interacting prefrontal and subcortical systems.
+
+The key's phrase “interactions between many regions” is correct but needs this functional interpretation. A connection diagram does not by itself prove that every link is equally important for every task. Impulsive action and impulsive choice can place different demands on the network. Use the diagram to explain how information is coordinated, rather than treating it as a list of independent locations with one-to-one labels for behavior.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -170,7 +198,11 @@ Inverted-U. Catecholamines in the PFC.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurochemicalregulationof impulsivity** from Lecture 6 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+An inverted-U relationship means that increasing catecholamine signaling is helpful only within part of the range. At a low level, prefrontal functioning may be under-supported; at an intermediate level, performance is better; at an excessive level, such as under stress, performance can deteriorate again.
+
+The key names the shape, but the mechanism-relevant point is **dependence on the starting state**. The same direction of drug-induced change can move one system toward the optimum and another beyond it. This explains why “more dopamine” or “more norepinephrine” is not a universal prescription for improved cognition. The source uses the model to frame prefrontal control and stimulant effects, not to provide an individual dosing rule.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -191,7 +223,11 @@ Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:fema
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)** from Lecture 6 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture presents ADHD as a neurodevelopmental disorder involving patterns of inattention and/or hyperactivity–impulsivity. It distinguishes inattentive, hyperactive, and combined presentations. These categories emphasize that the disorder is not equivalent to a single episode of distractibility or one impulsive choice.
+
+The numerical diagnostic and prevalence statements in the key are part of the supplied lecture and should not be treated as a current clinical assessment guide. The conceptual point is the organization of persistent behavioral difficulties and their developmental context. Later slides explore possible neural mechanisms, but a group-level imaging finding is not interchangeable with a diagnosis. This question is for understanding course framing, not diagnosing oneself or another person.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -212,7 +248,11 @@ Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies** from Lecture 6 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The early PET examples use a dopamine precursor tracer to investigate aspects of dopamine synthesis or handling in specified regions. The lecture relates these findings to a hypothesis of reduced prefrontal dopaminergic functioning in ADHD. The interpretation depends on what the tracer signal represents and which comparison region is used.
+
+This is different from directly counting receptors or measuring all dopamine activity with one universal scan. The lecture later introduces findings that complicate a single-deficit account, including receptor-availability comparisons and performance-related variation. The key should therefore be read as the reported interpretation of particular studies, not proof that every person with ADHD has the same measurable prefrontal dopamine abnormality.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -233,7 +273,11 @@ Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC an
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurobiologyof ADHD–animalstudies** from Lecture 6 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The animal-study comparison emphasizes regional selectivity. In the presented results, methylphenidate increases catecholamine measures in prefrontal and striatal regions, whereas atomoxetine's reported dopamine and norepinephrine increases are concentrated in prefrontal cortex. Their transporter actions therefore do not translate into an identical regional pattern.
+
+A NET inhibitor can affect dopamine in prefrontal cortex because local clearance mechanisms differ from those in dopamine-rich striatal systems. The key concerns the specific study comparison, not an absolute statement about every dose, species, or brain region. Connect transporter target, regional anatomy, and measured extracellular transmitter before predicting behavior. Similar clinical aims do not mean that two drugs have the same pharmacological mechanism.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -254,7 +298,11 @@ Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Neurobiologyof ADHD–PETstudies** from Lecture 6 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture combines structural and molecular imaging findings, which must be kept separate. Reduced gray-matter volume is a structural MRI result, whereas a PET radioligand can provide information about receptor availability. Equivalent receptor availability does not imply identical structure, transmitter release, or task performance.
+
+The presented studies also relate striatal dopamine measures to attentional performance across diagnostic groups. This complicates the idea that every observed difference is unique to ADHD. The key identifies only part of the evidence. A careful interpretation specifies the modality and measured quantity for each result, then distinguishes a group comparison from a performance association and from the effect of methylphenidate.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -275,7 +323,11 @@ DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NET
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Methylphenidate (Ritalin)** from Lecture 6 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Methylphenidate is presented as blocking dopamine and norepinephrine transporters, reducing reuptake and prolonging extracellular transmitter availability. Amphetamine has a different mechanism that includes transporter-mediated outward movement and increased catecholamine release. Both can enhance signaling, but they act differently on transmitter handling.
+
+The slide uses the phrase “inverse DAT/NET agonist” for amphetamine. Its intended point here is **reverse transport**, not the receptor-pharmacology definition of inverse agonism involving constitutive receptor activity. DAT and NET are transporters, not dopamine or adrenergic receptors. Keeping these categories separate prevents a common error: interpreting a transporter blocker as necessarily blocking the postsynaptic effects of the transmitter.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -296,7 +348,11 @@ Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Sideeffectsof stimulant medications** from Lecture 6 (source page 21). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Stimulant effects are not confined to the cognitive process being targeted. The lecture includes insomnia, appetite reduction, anxiety, nausea, and cardiovascular effects among possible unwanted outcomes. These illustrate the broader distribution and functions of catecholamine systems.
+
+The source also links ventral striatal dopamine effects to concerns about reinforcement and misuse. That is a mechanism-based reason for distinguishing compounds and delivery patterns, not a conclusion that every prescribed exposure inevitably produces addiction. The keyed list should be understood as possible effects rather than a prediction for every person. This is course-level pharmacology, not advice to start, stop, or alter medication.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -317,7 +373,11 @@ Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefron
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)** from Lecture 6 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Guanfacine acts at alpha-2A adrenergic receptors, while atomoxetine acts primarily by blocking NET. One therefore changes receptor signaling and the other changes transmitter clearance. The lecture connects guanfacine with prefrontal functioning and signal-to-noise regulation.
+
+The key labels alpha-2A as an autoreceptor, but receptor location matters. **Chapter 5 discusses alpha-2-mediated facilitation of prefrontal cognition as well as inhibitory autoreceptor effects elsewhere.** It would be misleading to explain every cognitive benefit solely as suppressing norepinephrine release. Identify the receptor subtype and relevant circuit before interpreting the outcome. This distinction is the reason a receptor agonist and a reuptake inhibitor need separate mechanistic explanations.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -338,7 +398,11 @@ NE neurons in the brain are located in the pons and medulla, especially in the l
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Organization and function of the central noradrenergic system** from Lecture 6 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The central noradrenergic system is an anatomical projection system, whereas an adrenergic autoreceptor is one molecular feedback mechanism within it. The locus coeruleus and related brainstem groups provide norepinephrine-containing projections to many targets. DBH expression supports the transmitter identity of those neurons.
+
+An autoreceptor detects the neuron's own released transmitter and can regulate further firing or release. The keyed option describes the origin and chemical identity of the system, not the complete receptor mechanism. The connection is that broad projection systems still require local regulation. A change in autoreceptor signaling can alter output from a neuron whose axons influence many distant regions.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
 
 **Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
@@ -356,7 +420,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 6, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Match each rodent task to the component it measures. Delay discounting examines choices between outcomes differing in timing and value, making it relevant to cognitive impulsivity. Stop-signal procedures examine stopping an initiated action. In the five-choice serial reaction-time task, premature responding before the appropriate cue provides a measure relevant to motor impulsivity, while other performance measures concern attention.
+
+Connect these tasks to the lecture's prefrontal distinctions. Medial and related prefrontal systems contribute to top-down control and response inhibition, while orbitofrontal functions include updating values and action–outcome relationships. These are network contributions, not exclusive locations for entire behaviors. A strong answer also notes that a drug can change sensory detection, movement, motivation, or learning and thereby affect task performance. Explain what the animal does, which response is scored, and why that score supports a particular interpretation rather than simply naming a task and a brain region.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Short Essay 2 — Impulsivityandpsychiatricdisorders {#l06-sa02}
@@ -370,7 +440,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 6, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture places several disorders within a discussion of impaired control, including substance-use, gambling, binge-eating, obsessive-compulsive, and attention-related disorders. This grouping highlights overlapping behavioral dimensions; it does not mean the conditions are identical or arise from one uniform mechanism.
+
+ADHD is introduced as neurodevelopmental and can involve inattention, hyperactivity, and impulsivity in different combinations. Relate it to the broader discussion by distinguishing failure to inhibit an action from preference for an immediate outcome and from persistent repetitive behavior. A person can show different profiles across these dimensions. Neural explanations therefore need to connect a specified task or symptom to a relevant circuit and transmitter mechanism. A strong answer describes the overlap while preserving diagnostic and mechanistic differences. The course examples are not sufficient for diagnosing an individual or interpreting every impulsive act as evidence of psychiatric disorder.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Short Essay 3 — Attention-deficit hyperactivedisorder (ADHD) {#l06-sa03}
@@ -384,7 +460,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 6, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture uses an inverted-U model to explain why increasing catecholamine signaling can sometimes improve control rather than simply produce more overt activity. When prefrontal function is on the low side of the proposed optimum, an appropriate increase in dopamine or norepinephrine signaling may improve attention and executive performance. Excessive signaling can instead impair it.
+
+Methylphenidate changes transmitter handling by blocking DAT and NET. Its mechanism is therefore not a direct instruction to “calm” a neuron; behavioral improvement is an outcome of altered signaling in relevant circuits. The lecture's imaging examples also complicate a universal low-prefrontal-dopamine account, showing the need to distinguish structure, synthesis-related signals, receptor availability, and performance. A complete explanation presents the model as a course framework, links the drug to its immediate target, and avoids concluding that every individual has the same deficit or will respond identically.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 
 ### Short Essay 4 — Integration: Organization and function of the central noradrenergic system and Adrenergic receptors THE AUTORECEPTOR {#l06-sa04}
@@ -398,6 +480,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 6, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The noradrenergic system describes where norepinephrine neurons originate, where they project, and which functions they influence. The locus coeruleus is a prominent source of extensive projections, allowing a relatively localized cell group to modulate many regions. Adrenergic receptors describe how cells respond to the transmitter.
+
+An autoreceptor is a particular functional placement: the receptor is on a norepinephrine neuron and responds to its own transmitter. In the inhibitory alpha-2 feedback mechanism emphasized here, activation reduces further output by changing firing or release. This connects a local molecular event to a widely distributed projection system. However, the same receptor family can also occur on other cells, so receptor subtype alone does not determine whether it is acting as an autoreceptor. A strong comparison distinguishes anatomy, receptor identity, cellular location, and downstream function before predicting a drug effect.
+
+**Source:** Lecture 6 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 5.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
 :::
 

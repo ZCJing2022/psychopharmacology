@@ -23,7 +23,11 @@ Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousn
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opioids are narcotic analgesics** from Lecture 15 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Analgesia means **reduction of pain**, not necessarily loss of consciousness. The lecture contrasts this therapeutic effect with general anesthesia, while also noting that increasing opioid exposure can produce sedation, coma, and life-threatening respiratory effects.
+
+The phrase “without producing unconsciousness” therefore describes the intended distinction, not an absolute guarantee at every dose. The same drug can affect pain processing, alertness, mood, and autonomic function through receptors in different locations. A strong explanation separates desired analgesia from unwanted sedation and toxicity. It also avoids assuming that powerful pain relief automatically means addiction: repeated exposure can produce tolerance or physical dependence, but those adaptations are not, by themselves, the complete behavioral pattern of addiction.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -44,7 +48,11 @@ Opium: extract of poppy plants; source of the opiate or opioid family of drugs. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opium has been around for a long time** from Lecture 15 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Opium is a **plant-derived mixture**, and compounds such as morphine and codeine connect its historical use to the pharmacology of opiates. The lecture uses laudanum and older remedies to illustrate that medical and nonmedical opioid use long predate modern receptor science.
+
+Historical familiarity does not establish safety, and not every opioid is extracted directly from the plant. The later taxonomy includes semisynthetic substances, fully synthetic compounds, and endogenous peptides. Thus, “opioid” is a broader functional category than a particular botanical preparation. The relevant explanation connects source history to the emergence of chemically characterized agents, while distinguishing the historical claim from a mechanism of receptor activation or an assessment of modern treatment practices.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -65,7 +73,11 @@ Morphine: principle active ingredient in opium; also contains codeine, thebaine,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The structure of opioids determines their pharmacokinetics** from Lecture 15 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Changing molecular structure can change **lipid solubility, brain entry, metabolism, and duration**, even when related compounds ultimately affect similar receptor systems. The lecture uses heroin's greater lipid solubility and metabolic conversion to illustrate how access to the brain contributes to its different time course from morphine.
+
+These are pharmacokinetic explanations: they concern the amount and timing of active substance reaching targets. They should be distinguished from pharmacodynamic differences in affinity or efficacy at a receptor. Nor should the diagram be taken as saying that one simple chemical modification predicts every aspect of safety or dependence risk. Follow the causal chain from structure to distribution and metabolism, rather than treating milligram potency as a complete measure of clinical usefulness or danger.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -86,7 +98,11 @@ Some modifications produce partial agonists – have less analgesic effect, but 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The structure of opioids determines their pharmacodynamics** from Lecture 15 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Molecular changes can also alter **what a ligand does after binding a receptor**. A full agonist can produce greater intrinsic activation than a partial agonist in the same system; a neutral antagonist binds without producing that agonist response and can block an agonist's action. Naloxone illustrates antagonism in the lecture.
+
+This distinction is pharmacodynamic, unlike a change in how quickly a compound crosses the blood–brain barrier. The key's claim about partial agonists should not be generalized into “no dependence” or guaranteed safety: receptor efficacy is only one determinant of the whole-drug effect. Receptor subtype and experimental context also matter. A complete answer identifies binding versus activation and separates intrinsic efficacy from dose, delivery rate, and the eventual behavioral response.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -107,7 +123,11 @@ A taxonomy of opioids Opiates Opioids.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **A taxonomy of opioids Opiates** from Lecture 15 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The taxonomy distinguishes **natural opiates, semisynthetic drugs, fully synthetic drugs, and endogenous opioid peptides**. Morphine and codeine appear under natural opiates; chemically modified derivatives form another category; fentanyl and methadone illustrate synthetic compounds; enkephalins, endorphins, and dynorphins are produced by the body.
+
+The broad term “opioid” links these categories through their pharmacological relationships, not through identical origin or molecular shape. The answer panel's words “Opiates Opioids” do not state that distinction and are not a complete answer. Read the hierarchy in the source figure rather than assuming every opioid is a poppy extract. The taxonomy is descriptive: placement in a natural or synthetic category does not by itself determine potency, safety, or dependence potential.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -128,7 +148,11 @@ Effects of opioids on the CNS depend on dose and rate of absorption. Low to mode
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Physiological and psychological effects of opioids** from Lecture 15 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture emphasizes **dose and rate of absorption** as influences on opioid effects. Analgesia, constricted pupils, drowsiness, reduced concentration, and changes in subjective experience can occur together because receptors operate in multiple systems.
+
+Euphoria can contribute to reinforcement, but it is not the defining mechanism of every therapeutic effect. Likewise, drowsiness is not identical to pain relief, and relief of distress does not establish that an opioid is appropriate for every cause of anxiety. The question's keyed list identifies effects; the explanation links their variability to exposure and receptor distribution. Increasing exposure can move beyond intended analgesia toward severe CNS and respiratory depression, so apparent familiarity with an effect is not a complete indicator of safety.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -149,7 +173,11 @@ Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morph
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mechanisms of opioid overdose** from Lecture 15 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The central overdose mechanism highlighted by the lecture is **depression of brainstem respiratory function**. At sufficiently high exposure, opioid effects can impair breathing and lead to respiratory failure. Profound sedation, constricted pupils, and reductions in blood pressure or temperature are associated observations, but naming them does not replace explaining the respiratory mechanism.
+
+Nausea and vomiting involve another brainstem site, the area postrema, demonstrating that different adverse effects need not share one immediate pathway. The original answer excerpt omits the slide's key respiratory-failure statement, so the full slide is needed for a complete response. This explanation concerns the biological mechanism; it is not an estimate of a safe dose, a diagnostic checklist, or instructions for managing an overdose independently.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -170,7 +198,11 @@ Opium and morphine have been used to treat diarrhea and can be life-saving in se
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opioids are very important in the GI tract** from Lecture 15 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Opioid receptors in the gastrointestinal system can **slow intestinal function**, helping explain both antidiarrheal action and constipation during analgesic treatment. The same physiological effect can be desired in one context and unwanted in another.
+
+The loperamide example adds a pharmacokinetic distinction: Chapter 11 describes restricted CNS effects at recommended doses, allowing a predominantly peripheral action. That restriction is not an assurance of safety at very high exposure. The lecture specifically warns about cardiac toxicity associated with misuse; no high-dose amount should be interpreted as a strategy for treating withdrawal. The historical claim about diarrheal illnesses illustrates an effect on symptoms, not a general recommendation to suppress every episode of infectious diarrhea or a treatment of its underlying cause.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -191,7 +223,11 @@ Inhibitory (Gi) GPCRs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)** from Lecture 15 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The opioid receptors discussed are **inhibitory G-protein-coupled receptors**, rather than ligand-gated chloride channels. The source figure links receptor activation to opening potassium channels postsynaptically, reducing excitability, and closing calcium channels at terminals, reducing transmitter release.
+
+These are cellular mechanisms, not a guarantee that every connected neuron becomes less active. If an opioid inhibits an inhibitory interneuron, the next neuron can be disinhibited, as in the VTA example from the GABA lecture. The same receptor class can therefore contribute to analgesia in one pathway and enhanced downstream activity in another. Identify the receptor's location and the sign of the intervening synapses before predicting the circuit-level effect.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -212,7 +248,11 @@ Endogenous opioids are peptides. Small proteins.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Where are endogenous opioids produced and released?** from Lecture 15 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Endogenous opioids are **peptides produced by the body**, not small monoamines such as dopamine. Their precursors and products can be investigated with methods that identify gene expression or peptide distribution. In situ hybridization detects relevant RNA, while immunohistochemistry detects the antigen recognized by an antibody.
+
+The lecture's brain and pituitary figures also distinguish local neural signaling from release into the circulation. Detecting a peptide in blood does not automatically establish its concentration at a particular brain synapse. The short key “small proteins” identifies chemical class but does not answer the anatomical question fully. A developed explanation connects peptide synthesis, the cells or tissues producing it, and the location where release can influence receptors.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -233,7 +273,11 @@ The lecture treats **An opioidergic projection for food reward** as a key concep
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **An opioidergic projection for food reward** from Lecture 15 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The source illustration **depicts an enkephalin-containing projection from the nucleus tractus solitarius to the nucleus accumbens shell**, linking gustatory input to opioid-related reward modulation. Within the drawing, opioid release acts at receptors on shell neurons and changes their excitability and motivational processing.
+
+This is what the diagram proposes, not a result established by the question's answer choices. The slide provides no primary-study citation or experimental comparison sufficient to verify the pathway and all of its claimed functions independently. The original key is only a placeholder. Use the illustration to trace the proposed sensory → projection → receptor → behavioral chain, but retain its source limitation rather than presenting every label as conclusively demonstrated evidence.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -254,7 +298,11 @@ First (early) component pain— immediate, sensory component; signal carried by 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The ascending pain pathway (anterolateral system)** from Lecture 15 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture contrasts **faster myelinated Aδ input with slower unmyelinated C-fiber input**. Their different conduction properties help explain distinguishable early and later aspects of pain. Ascending pathways relay information through the spinal cord and thalamic targets toward cortical and other brain systems.
+
+The sensory-discriminative component concerns features such as location and intensity, while affective processing concerns unpleasantness and motivational significance. These are interacting dimensions, not two completely independent experiences or an absolute rule that a fiber type carries only one psychological category. The key's “PVL” label should be checked against the source anatomy rather than treated as a self-explanatory nucleus name. The primary learning task is to link conduction, pathway organization, and multiple dimensions of pain.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -275,7 +323,11 @@ Opioid activity also occurs in supraspinal locations, including sensory areas, l
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Supraspinal modulation of pain by opioids** from Lecture 15 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Supraspinal opioid modulation concerns **processing above the spinal cord**, including sensory and affective components of pain. The lecture's PET example uses a μ-receptor radioligand and relates changes in its binding to reported pain scores in particular brain regions.
+
+Greater endogenous opioid engagement can compete with the tracer, so tracer displacement is an indirect measure requiring a binding model; it is not a direct photograph of pain or peptide concentration. The reported negative association with sensory pain scores is consistent with a role in pain modulation, but correlation alone does not identify every causal link. A complete answer distinguishes the molecular measurement, its anatomical location, and the subjective outcome instead of treating them as interchangeable quantities.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -296,7 +348,11 @@ Lot of people who use opioids for pain management become addicted. Opioids have 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opioid addiction** from Lecture 15 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture links opioid use to **reinforcement, tolerance, and physical dependence**, but these concepts must remain distinct. Tolerance concerns a reduced response after repeated exposure; dependence concerns adaptation and withdrawal; addiction involves a broader pattern of impaired control and continued harmful use.
+
+The keyed claim that “a lot” of people treated for pain become addicted is not a quantified rate and is not established by the supplied slide. It should not be interpreted as inevitability or used to equate medically supervised analgesia with addiction. The substantive learning point is that opioid effects and adaptations can contribute to risk, while the actual outcome depends on exposure and context. This item needs a more precise evidence-based statement before formal grading.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -317,7 +373,11 @@ Animals will self-administer opioids. Reinforcement value and the pattern of opi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Opioids are reinforcing and rewarding** from Lecture 15 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Self-administration demonstrates **reinforcement** when an animal performs an action to obtain an opioid. It provides a behavioral measure of the consequence's ability to sustain responding, not direct access to the animal's subjective experience. The lecture then asks whether dopamine release is necessary to explain all opioid reinforcement.
+
+Chapter 11 discusses both dopaminergic and nondopaminergic components, so the slide's “therefore reinforcing” phrase should not be treated as a complete proof. A contribution from dopamine does not establish that all reinforcement disappears whenever one dopamine mechanism is altered. Distinguish a drug's neurochemical consequences from the experiments needed to test necessity, sufficiency, or alternative pathways. Reward-related effects can be investigated without reducing them to one transmitter alone.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -338,7 +398,11 @@ Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedon
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The rewarding properties of opioids DAMGO** from Lecture 15 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The hotspot figures show that **opioid effects depend on precise location as well as receptor subtype**. DAMGO-related changes in hedonic reactions are mapped within the nucleus accumbens shell, while the comparison figure shows different preference outcomes for μ-, δ-, and κ-related manipulations across locations.
+
+This helps explain why the lecture calls some κ effects “paradoxical”: a broad association of κ signaling with aversion does not predict every effect of a local manipulation in a specialized circuit. Also distinguish taste-reactivity measures of liking from place-preference measures; they are not identical endpoints. The original answer lists figure headings, so the substantive explanation must identify spatial specificity, receptor identity, and the behavior actually measured rather than treating the whole accumbens as one uniform pleasure center.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -359,7 +423,11 @@ The LC and PAG are particularly sensitive to opioid antagonists in terms of prec
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The anti-reward system of the brain** from Lecture 15 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The antireward account emphasizes **systems contributing to negative affect and stress during adaptation and withdrawal**. The lecture links dynorphin acting at κ receptors to reduced reward-related function, CRF-related signaling in the BNST to stress, and locus-coeruleus norepinephrine to arousal and acute stress responses.
+
+Sensitivity of the LC and PAG to antagonist-precipitated withdrawal identifies involvement in particular withdrawal phenomena; it does not make those regions the only causes of addiction. The motivational connection is that relieving an aversive state can reinforce renewed drug use even when the original pleasurable effect has diminished. Keep the regional systems and transmitter mechanisms distinct, and avoid turning “antireward” into the name of a single discrete anatomical structure.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -380,7 +448,11 @@ Methadone maintenance program: most common and effective treatment for heroin ad
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal** from Lecture 15 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's maintenance-treatment rationale is to **stabilize opioid receptor engagement and reduce disruptive cycles of withdrawal and repeated seeking**. Methadone and buprenorphine differ pharmacologically, but both are discussed as ways of supporting a more sustained, controlled pattern than repeated short-lived intoxication and withdrawal.
+
+Buprenorphine's partial agonism is distinct from methadone's full agonism; partial does not mean that it cannot produce dependence or has no risks. The claims about relative frequency or superiority of particular treatments belong to the supplied course context, not a newly verified ranking of current clinical practice. A complete answer explains the kinetic and receptor rationale alongside the behavioral aim, without providing dosing instructions or assuming that medication removes every psychological and social contributor.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -401,7 +473,11 @@ Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousn
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Opioids are narcotic analgesics** from Lecture 15 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This integration item revisits the distinction between **analgesic action and loss of consciousness**. Opioids can reduce pain while a person remains conscious, but they can also cause sedation and, at excessive exposure, dangerous respiratory depression. The therapeutic classification is not a guarantee that the undesired effects are absent.
+
+Connect this to receptor distribution: inhibition at pain-related synapses contributes to analgesia, while actions in other brainstem and peripheral systems produce additional effects. The same receptor-level principles can therefore yield different outcomes in different circuits. A good explanation does not equate pain relief with pleasure or interpret the word “narcotic” as a complete mechanism. It identifies the intended effect and separates it from other consequences of exposure.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -422,7 +498,11 @@ Opium: extract of poppy plants; source of the opiate or opioid family of drugs. 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Opium has been around for a long time** from Lecture 15 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The historical example introduces **opium as a source of naturally occurring opiates**, while the broader lecture explains how related and synthetic compounds act at opioid receptors. The connection is continuity of pharmacological effects despite differences in origin, chemical modification, and delivery.
+
+A long history of use does not establish that an agent is harmless or that older preparations had predictable potency. Nor does every opioid trace directly to plant extraction: the taxonomy includes synthetic drugs and endogenous peptides. The original answer's historical statements are therefore background, not an explanation of receptor action. Use this integration prompt to distinguish where a substance comes from, what class it belongs to, and how its effects are studied.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 11.
 
 **Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
@@ -440,7 +520,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 15, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Bioavailability and distribution determine **how much active drug reaches relevant targets and how quickly**. The lecture contrasts morphine's relatively limited entry into the brain with the different brain-access profiles of more lipid-soluble opioids. Structural changes can therefore alter onset and apparent potency without requiring a wholly different receptor system.
+
+Connect this to the taxonomy by distinguishing origin from behavior in the body. Natural, semisynthetic, and synthetic categories describe how compounds are related or obtained; they do not alone determine brain entry, duration, or safety. The source also discusses placental transfer and elimination, emphasizing that exposure can extend beyond the intended target. Its broad claims about uniform peripheral distribution and clearance within a day should not be used as exact rules for all opioids, formulations, or individuals. A developed answer specifies the particular compound and mechanism and avoids treating the whole opioid class as having a single pharmacokinetic profile.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Short Essay 2 — Opioid receptors {#l15-sa02}
@@ -454,7 +540,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 15, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Structure–activity relationships suggested **selective binding sites**, but receptor identification required experimental evidence. The lecture describes competition between agonists and antagonists and radioligand-binding methods. If compounds that compete for binding also show corresponding pharmacological effects, that supports a relationship between the measured site and function.
+
+Connect binding evidence to the receptor mechanism: the identified opioid receptor families are G-protein-coupled and can reduce excitability through potassium-channel effects or reduce release through presynaptic calcium-channel effects. Binding affinity is not the same as intrinsic efficacy; an antagonist can bind well without activating the receptor as an agonist. Nor does radioligand binding by itself prove the downstream behavioral effect. A strong response follows the evidence from selective recognition to receptor identification, signaling, and physiological consequences, while noting the multiple receptor subtypes and endogenous peptide ligands rather than assuming one universal opioid receptor.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Short Essay 3 — Inhibition of pain (analgesia) by opioids Opioids inhibit pain transmission at spinal and {#l15-sa03}
@@ -468,7 +560,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 15, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Opioids can reduce pain transmission through **both spinal mechanisms and descending or supraspinal modulation**. At the spinal level, inhibitory actions can reduce transmitter release from incoming terminals and reduce the excitability of projection neurons. Local opioid-containing interneurons contribute to this regulation.
+
+Descending pathways associated with the PAG and connected regions can influence the spinal circuitry, while opioid actions above the spinal cord also affect sensory and affective processing. The pain experience is therefore not determined solely by the strength of the signal at the skin. Connect this to the PET example by distinguishing evidence for regional endogenous opioid engagement from a full causal map of descending control. A developed answer explains where inhibition occurs and how it changes onward transmission, rather than merely listing brain regions. It should also avoid assuming every opioidergic action suppresses the next region directly: inhibitory interneurons can create disinhibitory circuit effects.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Short Essay 4 — Chronic opioid use results in all the hallmarks of addiction {#l15-sa04}
@@ -482,7 +580,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 15, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Repeated opioid exposure can produce **tolerance, cross-tolerance, sensitization, and physical dependence**, but each term refers to a particular change rather than automatically establishing addiction. The lecture's withdrawal table illustrates effects opposite to many acute opioid actions, such as constipation versus diarrhea and sedation versus restlessness.
+
+The mechanistic connection is compensation: adaptations persist when receptor stimulation falls, producing a rebound state. Antireward and stress-related systems can make that state aversive, so renewed use may be negatively reinforced by relief. At the same time, cue-related wanting can remain strong even when liking declines. A complete response therefore links adaptation to motivation while preserving the distinction between physiological dependence and the broader pattern of impaired control and harmful persistence. The heading “all the hallmarks” is too sweeping to use as a diagnostic rule; the individual phenomena and their evidential support must be described separately.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 
 ### Short Essay 5 — Integration: Opioids are narcotic analgesics and Opium has been around for a long time {#l15-sa05}
@@ -496,6 +600,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 15, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The analgesic classification explains **what opioids can do**, while the history of opium explains **one important source of the drug family**. Analgesia is reduced pain without necessarily producing unconsciousness. Opium supplies natural opiates, but the broader opioid category includes semisynthetic drugs, synthetic compounds, and endogenous peptides.
+
+Their connection is that historical observations of pain relief led to more specific chemical and receptor-based investigation. A modern mechanistic account distinguishes receptor action, tissue distribution, dose, and adaptation rather than relying on a preparation's long use. A strong comparison also notes that neither natural origin nor therapeutic usefulness eliminates risk: sedation, respiratory effects, constipation, and dependence can coexist with analgesia. The task is not to oppose “natural” and “medical” substances, but to separate historical origin from pharmacological function and explain how compounds with different origins can interact with related receptor systems.
+
+**Source:** Lecture 15 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 11.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
 :::
 

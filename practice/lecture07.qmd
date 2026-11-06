@@ -23,7 +23,11 @@ Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for D
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **A point of clarity** from Lecture 7 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The important detail is the **selective restoration of tyrosine hydroxylase (TH)**, not simply the presence of the dopamine β-hydroxylase (DBH) gene. TH performs the first step in the catecholamine synthesis pathway. Removing TH would otherwise prevent the production of dopamine and the norepinephrine made from it. Placing a functional TH sequence under DBH regulatory control restores synthesis in cells that normally make norepinephrine.
+
+Dopaminergic cells do not receive this restoration, so they remain dopamine deficient. The opening slide clarifies the model from the preceding lecture. The key's first sentence is incomplete without its second sentence: an intact DBH gene alone cannot compensate for a missing upstream precursor. This is a genetic manipulation of synthesis, not blockade of a dopamine receptor.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -44,7 +48,11 @@ Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic n
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Serotonin synthesis is regulated by enzymatic** from Lecture 7 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Serotonin, **5-hydroxytryptamine or 5-HT**, is an indoleamine rather than a catecholamine. Its precursor is tryptophan. Tryptophan hydroxylase first converts tryptophan to 5-hydroxytryptophan (5-HTP); aromatic amino acid decarboxylase then converts 5-HTP to serotonin. The hydroxylation step is the rate-limiting step emphasized in the lecture.
+
+The keyed option correctly identifies the transmitter and its chemical class, but a fuller understanding also requires this two-step sequence. Enzyme activity and the availability of tryptophan jointly influence how much serotonin can be synthesized. Do not substitute tyrosine hydroxylase merely because its name sounds similar: that enzyme belongs to the catecholamine pathway, whereas tryptophan hydroxylase belongs to the serotonin pathway.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -65,7 +73,11 @@ The lecture treats **Tryptophan hydroxylase** as a key concept that should be un
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Tryptophan hydroxylase** from Lecture 7 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The original keyed option is a **topic placeholder**, not a substantive statement about the enzyme. The figure on this slide distinguishes TPH2, associated with serotonergic neurons, from TPH1 in non-neuronal cells, including cells of the gut and pineal gland. Both concern serotonin synthesis, but their tissue locations matter when interpreting a drug's effects.
+
+The slide's telotristat example illustrates this distinction. It describes inhibition of peripheral serotonin synthesis without entry across the blood–brain barrier, linking drug distribution to the tissues in which enzyme inhibition occurs. Thus, inhibiting a serotonin-synthesis enzyme does not automatically mean lowering brain serotonin. This explanation supplies the missing concept; the existing choices should not be treated as a well-formed, uniquely discriminating MCQ.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -86,7 +98,11 @@ Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from di
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Uptake of dietary tryptophan** from Lecture 7 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The relevant quantity is not simply how much tryptophan a meal contains, but **tryptophan relative to the other large neutral amino acids competing for transport into the brain**. More circulating tryptophan may not increase brain entry if competing amino acids increase at the same time. Brain entry affects the precursor available to tryptophan hydroxylase and therefore can influence serotonin synthesis.
+
+The lecture uses a low-protein, high-carbohydrate meal to illustrate this ratio. In its account, insulin promotes uptake of competing amino acids into peripheral tissues, increasing tryptophan's relative access to transport. The point is a transport-and-synthesis mechanism, not a guarantee that a particular meal will produce a predictable mood change in every individual.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -107,7 +123,11 @@ Tryptophan loading: administration of pure tryptophan. Dietary:.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Elevating tryptophan to asses its role in behaviour** from Lecture 7 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tryptophan loading increases the availability of the **precursor** used to synthesize serotonin. The lecture contrasts direct administration of tryptophan with dietary approaches, including tryptophan-rich proteins and changes in the balance between carbohydrate and protein. These approaches seek to alter precursor availability rather than directly activate a serotonin receptor.
+
+Their interpretation depends on the preceding transport principle: tryptophan competes with other large neutral amino acids for brain entry. An increase in total dietary protein is therefore not equivalent to an increase in the tryptophan-to-competitor ratio. The answer panel's unfinished “Dietary” phrase should be read using the complete slide, not as a complete explanation. These are research examples, not instructions for self-treatment.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -128,7 +148,11 @@ Reducing brain 5-HT using the ATD method seems to impair memory consolidation of
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Serotonin depletion effects psychological processing** from Lecture 7 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Acute tryptophan depletion reduces the precursor available for brain serotonin synthesis. The lecture reports **selective effects**, including poorer consolidation of verbal information, negative cognitive bias, and reduced sleep duration or quality. It also notes relatively little effect on working memory or attention in the studies discussed.
+
+This pattern matters because “serotonin affects cognition” is much broader than the evidence presented. Consolidating information into memory is not identical to briefly holding and manipulating information in working memory. Likewise, a negative processing bias is not itself a diagnosis of depression. A good interpretation names the manipulation, identifies the particular measured outcome, and avoids concluding that lowering serotonin uniformly impairs every cognitive function or necessarily causes a psychiatric disorder.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -149,7 +173,11 @@ Which statement best matches the lecture discussion of **Most dietary tryptophan
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Most dietary tryptophan never becomes serotonin** from Lecture 7 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tryptophan has metabolic destinations other than serotonin. The lecture emphasizes the **kynurenine pathway**, reporting that most ingested tryptophan is metabolized through that route rather than converted to 5-HT. This explains why dietary tryptophan intake cannot be equated directly with serotonin production.
+
+Stress and inflammation can influence enzymes involved in this alternative pathway. Consequently, changing tryptophan metabolism may affect both the substrate available for serotonin synthesis and the production of kynurenine metabolites. The lecture links these metabolites to several psychiatric and neurodegenerative conditions, but involvement is not the same as a complete causal explanation of those diseases. The percentage in the key is the course's stated estimate, not a fixed conversion rule for every individual and physiological condition.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -170,7 +198,11 @@ Which statement best matches the lecture discussion of **Synaptic pharmacodynami
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Synaptic pharmacodynamics similar to catecholamines** from Lecture 7 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+VMAT2 moves serotonin from the cytoplasm into **synaptic vesicles**, where it is stored for release. This is different from SERT, which returns released serotonin across the neuron's plasma membrane. Blocking VMAT with reserpine interferes with storage, leaving transmitter vulnerable to intracellular metabolism and eventually reducing vesicular serotonin available for release.
+
+The lecture also distinguishes two feedback locations. Terminal autoreceptors inhibit release locally, whereas somatodendritic autoreceptors can reduce release indirectly by slowing neuronal firing. These mechanisms resemble the catecholamine systems because all are monoaminergic systems, but their transmitter-specific plasma-membrane transporters and receptors differ. Identify which step is affected—storage, firing, release, or reuptake—rather than treating all transporter blockers as equivalent.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -191,7 +223,11 @@ Serotonergic neurons in the CNS are found along the midline of the brainstem (me
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Anatomical organization of serotonin projections** from Lecture 7 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Serotonergic cell bodies are concentrated in brainstem groups associated with the **raphe nuclei**, while their axons reach much more widely. The dorsal and median raphe groups highlighted in the lecture provide most serotonergic fibers to the forebrain. A small set of source regions can therefore influence many anatomically separated target areas.
+
+Distinguish a neuron's cell-body location from the location of its terminals. Finding serotonergic fibers in the hippocampus or cortex does not mean that all of their parent cell bodies are located there. This source-to-target organization helps explain serotonin's involvement in multiple functions, while also warning against treating the entire serotonergic system as one uniform circuit with one behavioral effect.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -212,7 +248,11 @@ TPH2 in dorsal raphe SERT in hippocampus.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Immunohistochemistry of TPH2 & SERT** from Lecture 7 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The images use **different molecular markers to visualize different parts of the serotonergic system**. TPH2 is an enzyme involved in neuronal serotonin synthesis; its staining in the dorsal raphe helps identify serotonergic cells. SERT is the serotonin transporter, and staining in the hippocampus reveals serotonergic innervation in a target region.
+
+The contrast connects anatomy to molecular function: a transmitter-synthesis marker can identify a source population, while a transporter marker can reveal fibers extending through other tissue. Immunohistochemistry indicates where the recognized protein is detected; it does not by itself measure moment-to-moment serotonin release or neuronal firing. The very short answer label therefore needs this interpretation, rather than just memorization of two region names.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -233,7 +273,11 @@ First demonstrated in cats: when awake, each nerve cell fires at a regular rate 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Electrophysiological properties of serotonin neurons** from Lecture 7 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture presents observations from different preparations rather than one simple rule that “serotonin causes wakefulness.” Earlier cat recordings associated regular firing with waking, more irregular activity with slow-wave sleep, and cessation during REM sleep. The later mouse work described on the slide distinguishes slow tonic activity from bursts, with different consequences for sleep and waking.
+
+The central lesson is that **firing pattern, cell population, and experimental method matter**. Observing activity during a behavioral state is not the same as manipulating that activity and demonstrating an effect on the state. Preserve those distinctions when comparing the findings; they should not be collapsed into a claim that every increase in serotonergic activity necessarily has the same effect on sleep.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -254,7 +298,11 @@ Which statement best matches the lecture discussion of **There are LOTS of diffe
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **There are LOTS of different serotonin receptors** from Lecture 7 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Serotonin's effects depend on which receptor subtype it activates. The lecture's 5-HT1A example links receptor activation to **reduced adenylyl cyclase activity, less cAMP, and increased potassium-channel opening**. These changes can hyperpolarize the membrane and reduce the likelihood of firing.
+
+Location adds another layer. A 5-HT1A receptor on a serotonergic neuron can function as an autoreceptor, reducing that neuron's activity; the same subtype on another neuron acts postsynaptically. Therefore, an inhibitory cellular effect does not translate automatically into one predictable behavioral effect throughout the brain. The listed brain regions help identify possible sites of action, but identifying the region and receptor location requires additional evidence beyond a systemic drug response.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -275,7 +323,11 @@ Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Deeper look at the IP3 signaling pathway** from Lecture 7 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The pathway begins with ligand binding to a G-protein-coupled receptor and proceeds to **phospholipase C (PLC)**. PLC cleaves PIP₂ into IP₃ and DAG. IP₃ moves through the cytosol to receptors on the endoplasmic reticulum, where it triggers calcium release into the cytosol. DAG and calcium then support activation of protein kinase C.
+
+Follow the sequence rather than memorizing disconnected abbreviations. The receptor detects the extracellular signal; the intracellular messengers distribute it; calcium and kinase activity help generate the cellular response. The calcium increase described here comes from an intracellular store, not necessarily from calcium entering through the receptor itself. That distinction separates this metabotropic pathway from direct opening of an ionotropic receptor channel.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -296,7 +348,11 @@ DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of ly
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **5-HT2A is implicated in hallucinations** from Lecture 7 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The question concerns a **receptor-level link to hallucinogenic effects**, not simply the amount of serotonin present in the brain. The lecture associates DOI and the effects of LSD with stimulation of 5-HT2A receptors, which are abundant in the cortex and signal through intracellular pathways.
+
+This is different from blocking serotonin reuptake or reducing its synthesis. Those manipulations change transmitter availability across multiple receptor populations rather than selectively reproducing one receptor's signaling. The lecture also contrasts stimulation with inverse agonist actions at relevant serotonin receptors in some antipsychotic drugs. Keep its cautious wording: a receptor contribution to hallucinations does not make every serotonergic drug hallucinogenic, nor does it provide a complete explanation of schizophrenia or psychedelic experience.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -317,7 +373,11 @@ Sodium in and potassium out. Fast neuronal excitation.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **5-HT3A is ionotropic** from Lecture 7 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The 5-HT3 receptor is the important **ionotropic exception** among the serotonin receptor families discussed. Ligand binding opens a cation channel directly, allowing the ion movements described on the slide and producing rapid excitation. This differs from 5-HT1A or 5-HT2A signaling through G proteins and intracellular pathways.
+
+The lecture places 5-HT3 receptors both in the CNS and on vagal terminals associated with the gut. Its ondansetron example links receptor blockade to suppression of nausea and vomiting signals. The drug is not described as removing all serotonin or blocking every serotonin receptor. The explanatory chain is receptor subtype → channel function → anatomical pathway → physiological effect, rather than “serotonin is always excitatory.”
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -338,7 +398,11 @@ The lecture treats **There are heaps of serotonin receptors** as a key concept t
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **There are heaps of serotonin receptors** from Lecture 7 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The receptor-family diagram organizes the many serotonin receptors into groups. Its main contrast is **5-HT3 as a ligand-gated ion channel versus the other depicted families as G-protein-coupled receptors**. Subtypes within those families differ in signaling, distribution, and function, so naming the transmitter alone does not specify the response.
+
+The original answer is only a statement that the topic is important; it supplies no receptor distinction and is not an adequate substantive answer. For revision, be able to contrast 5-HT1A inhibition of cAMP signaling, 5-HT2A phosphoinositide signaling, and rapid 5-HT3 channel-mediated excitation. The current MCQ should be improved before formal grading rather than treating its placeholder as proof of mastery.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -359,7 +423,11 @@ Which statement best matches the lecture discussion of **Serotonin in anxiety**?
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Serotonin in anxiety** from Lecture 7 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture brings together pharmacological and genetic evidence for serotonin's involvement in anxiety. It describes anxiolytic effects of 5-HT1A agonists in experimental animals and increased anxiety-like behavior in 5-HT1A-knockout mice. These observations support a role for the receptor, but do not by themselves identify the responsible brain region or receptor location.
+
+That limitation is central to the answer. A systemically administered agonist can act at both autoreceptors and postsynaptic receptors, and a whole-animal knockout has broad consequences. It would therefore be premature to conclude that one particular serotonergic projection mediates the effect. The following lecture example narrows the question by manipulating nerve terminals and examining behavior in a defined circuit.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -380,7 +448,11 @@ Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiment
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Identifying the precise anxiety-modulating mechanism** from Lecture 7 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The experiment narrows the anxiety question by manipulating **serotonergic nerve terminals**, rather than simply administering a drug throughout the body. In the lecture's account, terminal excitation increases serotonin release and increases open-arm time in the elevated plus-maze; terminal inhibition produces the opposite, anxiety-like pattern.
+
+The lecture interprets this evidence as supporting a contribution from postsynaptic 5-HT1A receptors in the studied circuit. The logic is that increasing transmitter delivery to target cells reduces the measured anxiety-like behavior, rather than reducing transmitter output through autoreceptor inhibition. Keep the scope specific: open-arm time is a behavioral index, not a direct report of subjective anxiety, and the finding does not establish that every serotonergic projection has the same function.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -401,7 +473,11 @@ Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melano
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Serotonin in hunger and eating** from Lecture 7 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The feeding example distinguishes **appetite-suppressing and appetite-promoting signals** within hypothalamic circuitry. The lecture describes arcuate-nucleus neurons associated with α-MSH and others associated with NPY and AgRP. Their projections reach the paraventricular nucleus, where melanocortin signaling contributes to the regulation of feeding.
+
+α-MSH activates MC3/4 receptors and favors appetite suppression; AgRP antagonizes those receptors and favors feeding. This receptor opposition explains more than saying that serotonin “controls hunger.” Serotonin can influence the balance within the circuit, but the downstream peptides and receptors determine how that influence is expressed. The lorcaserin example belongs to the course's historical pharmacology discussion; it should not be interpreted here as a current prescribing recommendation.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -422,7 +498,11 @@ Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for D
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: A point of clarity** from Lecture 7 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This integration item revisits the dopamine-deficient mouse to reinforce **cell-type-selective synthesis**. TH is needed upstream of both dopamine and norepinephrine. Restoring functional TH under DBH regulatory control enables norepinephrine-producing cells to recover their pathway while dopamine-producing cells remain deficient.
+
+The useful connection to this lecture is that transmitter availability depends on particular enzymes in particular cells. In the serotonergic system, tryptophan hydroxylase and precursor availability supply a different synthesis pathway. Neither case is equivalent to a receptor antagonist: reducing synthesis changes the supply of transmitter, whereas antagonism changes how a target cell responds to transmitter already present. Read the full restoration detail, not the misleading shorthand that an intact DBH gene alone preserves norepinephrine synthesis.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 6.
 
 **Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
@@ -440,7 +520,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 7, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A developed response should distinguish **enzyme inhibition from precursor depletion**. PCPA inhibits tryptophan hydroxylase, interrupting the rate-limiting synthesis step even when precursor is available. Acute tryptophan depletion instead reduces tryptophan availability relative to the competing amino acids used for brain transport. Both approaches can reduce serotonin synthesis, but they act at different points in the causal chain.
+
+Connect these approaches to tryptophan loading by explaining the opposite manipulation: increasing accessible precursor can increase the opportunity for serotonin synthesis when the relevant enzymes and transport conditions permit it. Then interpret the evidence carefully. A behavioral change after depletion supports a contribution from the manipulated serotonergic processes; it does not demonstrate that serotonin alone controls the behavior or that all brain regions are affected identically. The lecture's memory, cognitive-bias, and sleep findings illustrate distinct outcomes that should be named separately. These are research manipulations, not personal medication or dietary advice.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Short Essay 2 — The serotonin transporter (SERT) {#l07-sa02}
@@ -454,7 +540,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 7, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+SERT is the **plasma-membrane transporter that retrieves released serotonin**, helping terminate its extracellular action. It is not VMAT2, which loads transmitter into intracellular vesicles, and it is not MAO-A, which participates in metabolic breakdown. Blocking SERT with an SSRI changes serotonin's availability outside cells rather than directly activating a serotonin receptor.
+
+The anatomical connection is that raphe neurons send projections to widespread forebrain targets, including cortex and hippocampus. SERT at their terminals therefore influences signaling in the regions those projections reach. The effect in a given target depends on its receptor populations, local circuitry, and feedback regulation; a common transporter target does not imply an identical response everywhere. A strong answer traces release → extracellular receptor exposure → reuptake, then connects terminal location to the raphe-to-forebrain organization. The lecture's knockout observations additionally remind us that lifelong removal of a transporter is not necessarily equivalent to acute pharmacological inhibition.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Short Essay 3 — 5-HT2A {#l07-sa03}
@@ -468,7 +560,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 7, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+5-HT2A is a **metabotropic serotonin receptor**. In the pathway emphasized by the lecture, receptor activation engages phospholipase C, which splits PIP₂ into IP₃ and DAG. IP₃ acts at endoplasmic-reticulum receptors to release stored calcium into the cytosol; calcium together with DAG promotes PKC activation. The kinase then changes the activity of cellular targets.
+
+Explain how each stage passes information onward. Serotonin is the extracellular signal; IP₃ and DAG carry the signal within the cell; calcium and PKC translate it into a cellular response. This is not a channel through which serotonin itself enters the neuron. Contrast it with 5-HT1A signaling, which reduces cAMP and can increase potassium conductance, or with the ionotropic 5-HT3 receptor. The comparison shows why two drugs acting on different serotonin receptor subtypes can have different physiological and behavioral effects despite being described broadly as serotonergic.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Short Essay 4 — Behavioral effects of serotonin {#l07-sa04}
@@ -482,7 +580,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 7, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture associates serotonergic manipulations with changes in eating, anxiety, pain sensitivity, learning, memory, and aggression. To explain this rather than merely list functions, connect the widespread projections of raphe neurons to the diversity of receptor subtypes in their target circuits. Changing serotonin availability can therefore affect several processes, with effects that depend on where and how the manipulation is made.
+
+Use the anxiety examples to illustrate the evidence hierarchy. Systemic 5-HT1A agonists and knockout findings implicate the receptor but leave its relevant location unresolved; targeted terminal manipulations provide more circuit-specific evidence. Lesion and neurotoxin studies are another approach, but the slide's grouping of substances should not be interpreted as proving identical toxicity or selective neuronal killing under every exposure condition. Chapter 6 treats MDMA-related findings with greater qualification. A strong response separates the manipulation, measured behavior, and inference, rather than concluding that serotonin is a single-purpose “mood chemical.”
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 
 ### Short Essay 5 — Integration: A point of clarity and Serotonin synthesis is regulated by enzymatic {#l07-sa05}
@@ -496,6 +600,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 7, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+These topics concern different transmitter systems but share the principle that **neurotransmission depends on selective biochemical synthesis**. In the dopamine-deficient model, TH is removed and selectively restored in DBH-expressing cells, preserving norepinephrine synthesis while leaving dopaminergic cells deficient. Simply leaving DBH intact would not supply the missing upstream precursor.
+
+Serotonin synthesis instead begins with tryptophan. Tryptophan hydroxylase produces 5-HTP, and aromatic amino acid decarboxylase converts 5-HTP to serotonin. The rate-limiting enzyme and precursor availability influence the supply of transmitter. The connection is experimental: manipulating enzymes or their expression can change transmitter availability and allow researchers to test contributions to behavior. The distinction is equally important: TH and TPH belong to different pathways, and a result obtained from a dopamine-deficient animal cannot be assumed to describe serotonin function. Explain the shared logic without merging the two pathways or treating synthesis deficits as receptor blockade.
+
+**Source:** Lecture 7 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 6.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
 :::
 

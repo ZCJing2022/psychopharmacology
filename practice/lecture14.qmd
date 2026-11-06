@@ -23,7 +23,11 @@ Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **How alcohol is made** from Lecture 14 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Ethanol is the **alcohol in alcoholic beverages**, produced when yeasts ferment sugars, generating ethanol and carbon dioxide. Identifying the chemical matters because other small alcohols have different metabolic products and toxicity profiles; “alcohol” is a chemical category, not a guarantee of interchangeability.
+
+The contrast also does not mean ethanol itself is harmless. The lecture later describes dose-dependent intoxication, toxicity, and chronic injury. Its nutritional point is that alcohol supplies energy without replacing the nutrients needed for normal health. The historical suggestion about accidental first consumption is speculative context rather than a necessary pharmacological fact. The substantive answer should focus on fermentation, chemical identity, and why a source of calories is not necessarily an adequate source of nutrition.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -44,7 +48,11 @@ Ethanol is a small molecule that can’t be ionized*; mixes readily with water; 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacokinetics - solubility** from Lecture 14 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Ethanol's **small size and ready mixing with water** help explain its absorption and broad distribution through body fluids and tissues. The lecture's ionization statement concerns physiological conditions; it is not a claim about every possible chemical environment. Modest lipid affinity does not prevent this small molecule from reaching the brain.
+
+The relevant behavioral exposure measure is blood alcohol concentration rather than simply the number or volume of drinks consumed. The same amount ingested can yield different concentrations when body-water volume, absorption, or metabolism differs. This connects chemical properties to pharmacokinetics: what enters the body, how it distributes, and the concentration achieved at a given time are related but not identical quantities.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -65,7 +73,11 @@ Alcohol (PO) is mostly absorbed from the small intestine into the blood by passi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacokinetics - absorption** from Lecture 14 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Most oral alcohol absorption in the lecture's account occurs across the **small intestine**, so the rate of gastric emptying influences how quickly blood concentrations rise. Food can delay movement from the stomach to this large absorptive surface and therefore change the timing of the concentration peak.
+
+Do not confuse slower absorption with complete prevention of intoxication. The ingested alcohol can still be absorbed later, while distribution and metabolism occur at the same time. The lecture also discusses concentration and average physiological differences, but these should not become exact predictions for every individual. A developed explanation follows the route from ingestion to the intestine and blood, rather than assuming that the amount in a glass directly specifies the concentration in the brain.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -86,7 +98,11 @@ About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Metabolism of ethanol – gastric and hepatic** from Lecture 14 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Alcohol dehydrogenase converts **ethanol to acetaldehyde**, and aldehyde dehydrogenase converts acetaldehyde onward to acetate, described in the lecture as acetic acid. Acetaldehyde accumulation helps explain the flushing and other adverse reactions discussed when its metabolism is impaired.
+
+The lecture emphasizes approximately constant-rate elimination under the relevant conditions, contrasting it with first-order removal of a fixed fraction per interval. If intake exceeds elimination, alcohol accumulates. The “ounces per hour” statement is underspecified in the answer because beverage strength and units matter; it must not be used as a personal clearance calculator or a rule for deciding when driving is safe. Learn the enzyme sequence and kinetic principle rather than treating an approximate course number as an individual prediction.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -107,7 +123,11 @@ Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolera
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Tolerance to ethanol** from Lecture 14 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tolerance means a **smaller response to comparable exposure after prior use**, but it can arise through several mechanisms. The lecture distinguishes increased metabolism, compensatory changes in neural function, and learned behavioral compensation. These mechanisms need not develop equally for all effects.
+
+Acute tolerance adds an important warning: a person may experience fewer apparent effects on the falling limb of the blood-concentration curve than at the same concentration while it was rising. Feeling less intoxicated therefore does not establish absence of impairment. Cross-tolerance with some sedative–hypnotics reflects overlapping actions or adaptations, not protection from all combined-drug hazards. Specify the response being measured rather than describing an experienced drinker as globally resistant to alcohol's effects.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -128,7 +148,11 @@ Physical dependence: intensity and duration of withdrawal is dependent on amount
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ethanol dependence** from Lecture 14 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Physical dependence reflects **adaptation to repeated alcohol exposure**, so removing alcohol can leave compensatory activity temporarily unopposed. The lecture lists tremor, anxiety, autonomic activation, and potentially severe withdrawal states, connecting those symptoms to a system no longer functioning under its adapted drug condition.
+
+Severity depends on exposure history and individual circumstances; a hangover should not automatically be equated with the same withdrawal syndrome. Cross-dependence means another drug with overlapping actions may affect withdrawal expression, not that combining sedatives is a safe self-management strategy. This is a mechanism question, not a detoxification plan. Distinguish dependence from addiction and distinguish the pharmacological explanation of withdrawal from the clinical assessment needed for someone at risk of severe symptoms.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -149,7 +173,11 @@ Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxicat
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Effects of alcohol** from Lecture 14 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Alcohol's central effects vary with **dose, exposure, and context**. Early relaxation or reduced anxiety can coexist with declining judgment and coordination, while greater exposure can impair memory, produce blackouts or sleep, and at high levels cause dangerous depression of vital functions.
+
+A blackout refers to impaired memory formation for events during intoxication, not necessarily loss of consciousness throughout those events. The behavioral risks on the slide also depend on setting and expectations, as Chapter 10 discusses. Thus, the same pharmacological exposure does not make every person behave identically. The explanation should connect increasing CNS effects to impaired functioning rather than assume that a positive subjective feeling accurately measures safety or cognitive performance.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -170,7 +198,11 @@ Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Alcohol is poison** from Lecture 14 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture describes **multiple pathways of alcohol-related brain injury**, including thiamine deficiency and excitotoxic processes. Thiamine-related disorders involve damage to brain systems important for memory and other functions; this is different from the temporary memory impairment that occurs during an acute episode of intoxication.
+
+Heavy long-term use can contribute to deficiency and other injury, but the key's wording should not be read as saying every exposed individual inevitably develops Wernicke's encephalopathy. Likewise, all observed tissue loss cannot be attributed to nutrition alone. A strong explanation distinguishes nutritional deficiency, direct or indirect neural injury, and withdrawal-related hyperexcitability, instead of using the heading “poison” as a substitute for specifying the mechanism and time course.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -191,7 +223,11 @@ Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Li
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Psychopharmacology of Alcohol (13 of 16)** from Lecture 14 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Alcohol's effects are **not limited to the brain**. Reduced antidiuretic-hormone signaling can increase water loss through urine, while chronic exposure can be associated with different forms of liver injury, including fatty change, hepatitis, and cirrhosis. These examples involve different organs and time courses.
+
+The lecture also distinguishes subjective sexual arousal from performance, which is developed in the following figure. Feeling more aroused does not demonstrate improved physiological function. The common lesson is that one drug can have multiple effects because it acts through several systems. Do not treat diuresis as evidence that alcohol has been rapidly cleared, or assume that a short-term effect and a chronic organ disorder are simply the same process at different intensities.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -212,7 +248,11 @@ The lecture treats **Effect of alcohol on male sexual function** as a key concep
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Effect of alcohol on male sexual function** from Lecture 14 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The figure distinguishes **physiological performance measures from subjective arousal**. Across the illustrated blood-alcohol concentrations, the rate of tumescence decreases and orgasmic latency increases. Maximum tumescence shows a less uniform low-dose pattern before declining at the higher concentrations shown.
+
+These outcomes explain why the preceding slide can describe increased arousal together with poorer performance. The graph is evidence about the measurements and conditions depicted, not proof that every individual responds identically. The original keyed option is merely a placeholder and does not state any of these results. A substantive answer should identify the axes, describe each trend accurately, and avoid converting a nuanced graph into the blanket claim that every sexual response changes monotonically in the same direction.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -233,7 +273,11 @@ Alcohol is a very small molecule with the ability to cross easily across lipid b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The pharmacodynamic profile of ethanol is diverse** from Lecture 14 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture contrasts **broad membrane effects with actions on particular signaling proteins**. Ethanol can alter membrane properties and also influence ligand-gated channels and intracellular signaling. This helps explain why no single receptor mechanism accounts for its full behavioral and physiological profile.
+
+The small molecule's ability to distribute readily supports widespread access, but access is not the same as a specific action at every target. The following GABA, glutamate, dopamine, and opioid examples provide distinct mechanisms and circuit consequences. A good explanation therefore separates pharmacokinetics—reaching tissues—from pharmacodynamics—changing their function. Calling alcohol a CNS depressant summarizes an important overall effect without implying that every neuron or transmitter pathway is directly inhibited in the same way.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -254,7 +298,11 @@ GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ethanol at GABA receptors** from Lecture 14 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+In the lecture's account, acute alcohol exposure can **enhance GABAA-mediated inhibition**, increasing the effect of GABA on chloride conductance. This is described as positive allosteric modulation, rather than alcohol substituting for GABA at its usual transmitter-binding site.
+
+Repeated exposure can be associated with compensatory reductions in this inhibitory response. That provides one contribution to tolerance while alcohol is present and hyperexcitability when it is removed. The mechanism must be combined with the glutamate and other examples, because alcohol's actions are diverse and receptor populations differ. A stronger GABA-related inhibitory effect at one point in the system does not automatically specify the net activity of every connected neuron or explain all alcohol-related behavior.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -275,7 +323,11 @@ Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Why might alcohol be addictive?** from Lecture 14 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture links alcohol reinforcement to **increased activity in mesolimbic dopamine pathways**, including VTA projections to the nucleus accumbens. It also notes reduced dopaminergic activity during withdrawal in the rodent examples, illustrating that acute and adapted states can differ.
+
+The slide's “core = reinforcement, shell = reward” labels are simplified teaching cues, not exclusive one-function maps. As the preceding lecture emphasized, dopamine release, reinforcing behavior, and subjective liking are related but nonidentical measurements. A complete explanation therefore connects alcohol's circuit effects to motivated behavior without reducing addiction to a single pleasure signal. It also leaves room for opioid, glutamate, GABA, and learned-cue contributions rather than treating dopamine as the only relevant system.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -296,7 +348,11 @@ Opioid systems: endorphins contribute to the rewarding and reinforcing effects o
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ethanol causes endogenous opioid release** from Lecture 14 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Endogenous opioid signaling is presented as **one contributor to alcohol's rewarding and reinforcing effects**. The lecture links alcohol exposure to opioid release and reports that opioid-receptor blockade or μ-receptor knockout reduces the relevant self-administration outcome in the studied models.
+
+These comparisons motivate a receptor-level treatment rationale: blocking part of the opioid contribution can reduce alcohol's reinforcing effects without directly changing the molecule into another substance. However, release from the pituitary should not automatically be equated with identical signaling at every brain synapse; anatomical location matters. The chronic gene-expression statement also concerns adaptation over time, not the same process as acute peptide release. Keep acute action, repeated-exposure changes, and experimental manipulation distinct.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -317,7 +373,11 @@ Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacotherapy for alcohol use disorder** from Lecture 14 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The two strategies change **different consequences of drinking**. Disulfiram inhibits aldehyde dehydrogenase, so alcohol exposure can lead to acetaldehyde accumulation and an aversive reaction. Naltrexone blocks opioid receptors, aiming to reduce the reinforcing contribution of alcohol-associated endogenous opioid signaling.
+
+The lecture uses behavioral terminology to contrast adding an unpleasant consequence with weakening a reinforcing consequence. Neither mechanism is simply “removing alcohol from the blood,” and neither is established by the fact that it sounds plausible. These are course explanations of supervised treatment approaches, not instructions to combine a medication with alcohol or test a reaction. The small amount mentioned in the original key is a toxicity warning, not a threshold below which the combination is safe.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -338,7 +398,11 @@ Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: How alcohol is made** from Lecture 14 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This integration item connects **the identity and production of ethanol to its later biological effects**. Fermentation explains how ethanol can arise from sugars, but the resulting molecule's absorption, metabolism, and receptor-related actions explain intoxication and toxicity after consumption.
+
+The word “alcohol” therefore needs chemical precision: different alcohols can be metabolized differently, while ethanol itself can still be harmful. Its energy content also does not make it a substitute for nutritional intake. The original historical suggestion about accidental first use is not the mechanism being tested. A useful synthesis follows chemical product → exposure → metabolism and effects, rather than treating familiarity, natural production, or beverage status as evidence of safety.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 10.
 
 **Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
@@ -356,7 +420,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 14, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Hepatic metabolism can change through **competition and enzyme induction**, with different consequences. When substrates compete for a metabolic pathway, clearance of one or more substances can be reduced. With repeated exposure, increased abundance or activity of relevant enzymes can instead increase metabolic capacity. The lecture uses alcohol and CYP enzymes to illustrate these two situations.
+
+Connect induction to metabolic tolerance: less drug may reach or remain at the target for a given exposure. This differs from pharmacodynamic tolerance, in which cells respond less despite comparable exposure, and behavioral tolerance, in which learned compensation changes observed performance. A strong response also avoids assuming that every alcohol–drug interaction is explained by enzyme competition; overlapping sedative effects can create another kind of interaction. The course example teaches why acute co-exposure and a history of repeated exposure can produce different outcomes, not that a person can safely “train the liver” or predict a combination's safety from one mechanism alone.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Short Essay 2 — Some positive effects {#l14-sa02}
@@ -370,7 +440,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 14, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+This item requires **critical interpretation of claims presented as possible benefits**, not an endorsement of drinking for health. The lecture mentions vasodilation, lipid-related changes, and possible associations with some outcomes, but also notes increased hypertension, stroke, and cardiac risks with problematic use. An effect on one physiological variable is not equivalent to an overall clinical benefit.
+
+The supplied slide does not establish that the associations are causal, apply to every population, or outweigh other harms. Connect this to the following systemic-effects slide by showing that the same substance affects water balance, liver function, and other processes. A developed answer should distinguish a proposed mechanism, an observed association, and a recommendation, which would require a much broader evidence assessment. The original key should therefore not be used as current medical advice or as a reason to begin drinking. Its role here is to examine the course's historical claims and their evidential limits.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Short Essay 3 — Ethanol at glutamate receptors {#l14-sa03}
@@ -384,7 +460,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 14, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture contrasts **acute suppression of glutamatergic signaling with compensatory changes after repeated exposure**. Acute alcohol can reduce NMDA-related responses and glutamate release in the described regions. Repeated exposure can lead to adaptations that offset that suppression, including increased receptor-related responsiveness or availability.
+
+During withdrawal, alcohol's acute suppressive action is removed while adaptations may persist. The resulting imbalance can contribute to hyperexcitability, seizures, and potentially injurious calcium signaling. This is an opponent-process explanation, not a claim that all withdrawal effects arise from NMDA receptors alone. Connect it to addiction by explaining how an aversive withdrawal state can motivate renewed use through negative reinforcement, alongside dopamine- and opioid-related reinforcement and learned cue effects. Also distinguish acute blackouts from chronic injury: both involve impaired neural function, but they are not identical outcomes or proof of the same duration of damage.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 
 ### Short Essay 4 — Integration: How alcohol is made and Pharmacokinetics - solubility {#l14-sa04}
@@ -398,6 +480,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 14, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The production question asks **where the molecule comes from**, while the solubility question asks **how that molecule behaves in the body**. Fermentation of sugars by yeast produces ethanol and carbon dioxide. Ethanol's small size, lack of appreciable ionization under physiological conditions, and ready mixing with water help explain its absorption and widespread distribution.
+
+The connection is that the same chemical product can reach the brain and other tissues after consumption, regardless of the cultural setting in which the beverage was made. Amount ingested still does not directly determine blood concentration: body-water distribution, absorption rate, and elimination also matter. A strong comparison therefore moves from production to molecular properties to exposure, without providing production procedures or treating fermentation as evidence of harmlessness. The historical comment about accidental first consumption is incidental; the pharmacological explanation rests on chemical identity and the processes governing concentration over time.
+
+**Source:** Lecture 14 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 10.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
 :::
 

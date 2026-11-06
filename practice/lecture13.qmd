@@ -23,7 +23,11 @@ Olds, 1956. Scientific American.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** from Lecture 13 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The self-stimulation example helped establish that **brain stimulation can reinforce an action**. An animal repeatedly performs the action that produces stimulation, making the relationship between behavior and consequence observable. The historical “pleasure center” interpretation went further by treating that responding as evidence of a particular subjective experience.
+
+The lecture calls attention to the inferential gap: a reinforcing consequence is not automatically a direct measurement of pleasure, and electrical stimulation does not isolate dopamine as the only active mechanism. The keyed answer supplies a historical citation rather than the concept. The learning objective is to distinguish what the experiment measures—sustained responding for stimulation—from the stronger hedonic interpretation that the lecture later challenges.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -44,7 +48,11 @@ Drugs of abuse “hijack” the dopamine system “dopamine junctions represent 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction** from Lecture 13 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The hedonic account presented on this slide associates **dopamine signaling with the pleasurable effects of rewards and addictive drugs**. The drug-versus-natural-reward comparison illustrates why increased dopamine was interpreted as a common basis for reinforcing experiences.
+
+However, the lecture presents this as an account to examine critically, not as its final conclusion. Increased dopamine does not, by itself, demonstrate increased subjective pleasure. The subsequent slides distinguish wanting, learning, and motivated responding from liking. A correct explanation therefore identifies what the historical theory proposes and why the lecture questions a simple dopamine-equals-pleasure equation. The quoted theory in the answer should not be silently converted into an endorsed, universal description of dopamine function.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -65,7 +73,11 @@ What do you notice most of these drugs have in common?. Seminal paper of Di Chia
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Do you notice a pattern?** from Lecture 13 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The graphs compare **extracellular dopamine-related measurements after different drugs**, including stimulants, nicotine, morphine, and ethanol. Their shared pattern of increased dopamine in relevant reward-related regions motivates investigation of a common system even though the drugs have different primary molecular targets.
+
+The common neurochemical response does not make the drugs pharmacologically identical or prove that dopamine concentration directly measures pleasure. The question's original answer merely asks the reader to notice a pattern and names a study; it does not state the pattern itself. A substantive response should identify the measured variable, compare the traces with baseline, and distinguish the shared downstream response from the distinct mechanisms producing it. Avoid treating an illustrative graph comparison as a complete causal theory of addiction.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -86,7 +98,11 @@ Lay view of addiction: “People use drugs because they are morally corrupt hedo
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Drug Users as Hedonists - Social Implications** from Lecture 13 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide examines how a **pleasure-only explanation can become a moralizing account of drug use**. If addiction is portrayed simply as choosing immediate pleasure over everything else, responses may emphasize blame or punishment while overlooking adaptation, cue-driven motivation, and circumstances that limit access to support.
+
+The quotation in the key is the view being criticized, not a scientifically established description of people who use drugs. Nor does the slide prove that all members of a society hold the same opinion or that one belief explains every policy decision. Its purpose is to connect explanatory models with stigma and public responses. A sound answer identifies that connection without endorsing the stereotype or replacing a complex condition with a judgment about character.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -107,7 +123,11 @@ Early views emphasized positive (hedonic) and negative reinforcement (opponent p
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain** from Lecture 13 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture emphasizes **persistent, difficult-to-control drug seeking and recurrent relapse**, rather than defining addiction solely by pleasure or acute withdrawal. This makes it possible to ask why seeking continues even when the pleasurable effect has diminished or immediate withdrawal symptoms have ended.
+
+The brain-disease framing identifies neural mechanisms as important, but it need not exclude learning, social conditions, or recovery. Likewise, describing a disorder as often chronic or relapsing does not mean that every individual follows an inevitable lifelong course. The key contrasts explanatory emphases; it should not be read as proving that reinforcement has become irrelevant. Later cue and sensitization examples extend, rather than erase, the earlier account of how drug-taking behavior is learned and maintained.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -128,7 +148,11 @@ Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Diagnostic criteria are informed by empirical theory Positive** from Lecture 13 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The diagram distinguishes **experimental theories from diagnostic criteria**. Positive reinforcement concerns obtaining rewarding consequences; negative reinforcement concerns relief from aversive states; incentive sensitization concerns increased cue-triggered wanting; habit accounts concern increasingly cue-driven patterns of seeking. These explain different aspects of behavior rather than functioning as interchangeable diagnostic labels.
+
+The cue examples also broaden the environment: objects can act as external cues, bodily arousal as internal cues, and time of day as a temporal cue. A theory helps design a test of a proposed mechanism, while clinical criteria organize recognition of a problematic pattern. The original key combines many labels, so the task is to explain their relationships, not imply that any single cue response is sufficient to diagnose addiction.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -149,7 +173,11 @@ The lecture treats **Addictive potential depends on route of administration** as
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Addictive potential depends on route of administration** from Lecture 13 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The diagram links **speed of drug delivery and duration of action to reinforcing potential**. A rapid rise in brain exposure can produce a more immediate consequence of taking the drug, strengthening the connection between the act and its effects. Slower, more sustained delivery can create a different exposure pattern even for a related substance.
+
+This is a pharmacokinetic contribution to addiction risk, not a claim that route alone determines whether a person develops addiction. Dose, history, setting, and other factors also matter. The original answer is only a topic placeholder. The substantive concept is the time course connecting administration to brain effect, illustrated by the different formulations and delivery routes in the slide, not instructions for changing how a drug is used.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -170,7 +198,11 @@ Positive reinforcers: consuming the drug strengthens whatever preceding behavior
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Reward vs. reinforcement vs. relapse** from Lecture 13 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A **reinforcer** is defined by its effect on behavior: its consequence increases the likelihood of the preceding action. The lecture uses “drug reward” for a positive subjective experience, such as euphoria. Those measures can be related, but one should not be substituted automatically for the other.
+
+Reinstatement procedures model another question: after drug delivery has stopped and responding has declined, can cues, stress, or a drug exposure renew seeking? Renewed responding is an experimental outcome relevant to relapse, not an exact reproduction of every human relapse episode. The distinction helps interpret evidence: lever pressing measures behavior, self-reported pleasure measures experience, and reinstatement measures renewed seeking under specified conditions.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -191,7 +223,11 @@ Development of addiction: drug-taking behavior progresses from an “impulsive�
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)** from Lecture 13 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The proposed progression from impulsive to compulsive use involves **changes in the motivational state maintained by repeated exposure**. The lecture describes recruitment of an antireward system and a neuroadapted state in which avoiding negative affect may become increasingly important.
+
+That account explains why continued use need not mean continued enjoyment of the original intensity. It also has limits: physical dependence does not fully explain relapse after detoxification, and cue learning, stress, and other factors can maintain seeking. The wording “may be due to” matters because this is a theoretical explanation, not an observation that directly identifies every causal step. Describe the proposed adaptation and its behavioral consequence without presenting one pathway as sufficient for all cases.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -212,7 +248,11 @@ Development of addiction has been conceptualized as a repeating cycle of three s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **A Koobian view of addiction** from Lecture 13 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The three-stage account organizes addiction as a **repeating interaction of anticipation, binge/intoxication, and withdrawal-related negative effects**. The order in which a diagram begins is less important than understanding how each state can feed into renewed use. Drug effects can reinforce taking, adaptation can make absence aversive, and anticipation can organize further seeking.
+
+The lecture also questions whether this account fully explains cue-triggered craving. Its comment that the theory “ignores craving” should not be taken literally, because preoccupation and anticipation are explicitly included. The useful critique concerns how craving is explained mechanistically, not whether the word appears in the model. A complete answer identifies all three stages and states both the model's contribution and its limits.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -233,7 +273,11 @@ Drug reward can decline due to tolerance; other motivating factors become import
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Incentive sensitization theory of addiction** from Lecture 13 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Incentive sensitization distinguishes **wanting a reward from liking its experience**. Repeated exposure can increase the motivational impact of drug-related cues even while tolerance reduces some pleasurable effects. Stronger seeking therefore need not imply a proportionately greater high.
+
+“Incentive salience” describes the motivational significance acquired by a cue or reward, not simply conscious knowledge that it is available. This helps explain why familiar places, objects, or internal states can provoke seeking after a period without drug use. The theory does not claim that every person becomes sensitized or that pleasure never matters. Its distinctive contribution is to make dissociation between cue-driven motivation and hedonic enjoyment a central, testable possibility.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -254,7 +298,11 @@ Schultz et al. (1990s). Pavlovian learning.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dopamine and reward prediction error** from Lecture 13 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's reward-prediction-error example compares **what happens with what was expected**. Initially, an unexpected reward is associated with a dopamine-neuron response. After learning, the response shifts toward a cue predicting that reward. If the expected reward is omitted, activity decreases around the time the reward should have occurred.
+
+This pattern is not a simple meter of how much reward is being consumed. The same delivered reward can evoke different responses depending on prediction, and a cue can evoke a response before consumption. That supports a role in learning and expectation. The slide's “go silent” wording summarizes the illustrated decrease; it should not be generalized to every dopamine neuron or all activity in the entire dopamine system.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -275,7 +323,11 @@ Which statement best matches the lecture discussion of **Dopamine Facilitates Le
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse** from Lecture 13 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide connects **learned cues, dopamine responses, and reported craving**. Its adapted prediction diagram illustrates how a response can become associated with the predictor rather than only the outcome. The accompanying human scatterplot relates cue-associated dopamine release to craving scores.
+
+The correlation supports a relationship but does not, by itself, prove that dopamine release is the sole cause of craving or that the people with the strongest response are generally superior learners. The slide's final question about learning propensity is explicitly a hypothesis for discussion. The original answer mostly repeats figure labels, so the substantive explanation must distinguish the behavioral/neurochemical measurements from that broader interpretation. Cues can influence motivation without requiring immediate drug consumption.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -296,7 +348,11 @@ Extremely rapid absorption occurs with IV injection and smoking; slower with sno
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacokinetics of cocaine** from Lecture 13 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Cocaine's route of administration influences **how rapidly exposure rises**, while metabolism and excretion help determine how it declines. The lecture contrasts rapid delivery with slower absorption and notes that the subjective effect can end well before all detectable metabolites have disappeared.
+
+This distinction explains why detecting benzoylecgonine in urine is not equivalent to showing that someone is currently experiencing the same acute high. The slide's approximate duration is a teaching summary, not a fixed duration for all routes, doses, and individuals. It also notes cocaethylene formation when cocaine and alcohol are combined, illustrating that metabolism can create an active product rather than merely terminate drug action. These mechanisms do not imply that combining substances is safe.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -317,7 +373,11 @@ Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacodynamics of cocaine** from Lecture 13 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Cocaine blocks the **plasma-membrane transporters for dopamine, norepinephrine, and serotonin**, reducing reuptake after release. Transmitter remains available outside cells for longer or at higher concentrations, increasing its opportunity to act on receptors. The drug is therefore not simply a direct agonist at dopamine receptors.
+
+The lecture emphasizes dopamine-transporter inhibition in the behavioral and reinforcing effects, while other monoamines contribute to the wider profile. The phrase “increases rate of transmission” is shorthand; transporter blockade changes transmitter clearance, and the final effect depends on receptor types, feedback, and circuit location. This differs from amphetamine's prominent transporter-mediated releasing action, which is discussed later. Identify the blocked step rather than equating all stimulant mechanisms.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -338,7 +398,11 @@ The cocaine high: feelings of exhilaration, euphoria, well-being, heightened ene
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Subjective effects of cocaine)** from Lecture 13 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture describes subjective effects such as **euphoria, heightened energy, and self-confidence**, with rapid delivery associated with a more abrupt “rush.” These experiences can contribute to reinforcing use, but their intensity and quality depend on exposure and circumstances.
+
+The following qualification is important: effects described as positive at one point can become unpleasant with higher exposure or prolonged use, including anxiety, irritability, or other adverse states. A report of feeling energetic is not evidence that normal physiological limits have disappeared or that performance is safely improved. This item concerns subjective experience; the later locomotor, stereotypy, and cardiovascular examples use different outcomes and should not be treated as identical measures of the same effect.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -359,7 +423,11 @@ Sympathomimetic: physiological effects include increased heart rate, vasoconstri
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Peripheral physiological effects of cocaine** from Lecture 13 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+“Sympathomimetic” means that cocaine produces effects resembling **increased sympathetic activation**, including faster heart rate, vasoconstriction, elevated blood pressure, and increased temperature. Its interference with norepinephrine handling helps connect the molecular mechanism to these peripheral consequences.
+
+The same drug also acts in the CNS, where agitation, paranoia, and other psychological effects may occur. The lecture separates these levels to show why a drug that changes mood can also pose serious cardiovascular and neurological hazards. Stronger arousal is not equivalent to healthier function. The key's physiological and behavioral lists should be organized by mechanism and target system rather than memorized as unrelated symptoms or assumed to occur identically after every exposure.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -380,7 +448,11 @@ Numerous microinjection and lesion studies have been done to illustrate the invo
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dopamine mediates the behavioural response to cocaine** from Lecture 13 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The table combines **regional manipulation with different behavioral endpoints**. In its examples, nucleus-accumbens interventions affect locomotor activation and reinforcement, while dorsal-striatal interventions are associated with stereotyped behavior. Local drug effects and lesion effects provide complementary evidence about the involvement of these pathways.
+
+The contrast matters because “dopamine mediates cocaine behavior” is too broad unless the region and behavior are specified. Increased movement, repetitive stereotypy, and working to obtain a drug are different measurements. Lesions can also influence baseline behavior and other functions, so reduced responding should not automatically be interpreted as a selective loss of pleasure. A complete reading matches each manipulation to its anatomical site and measured consequence instead of collapsing the whole table into one reward-center claim.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -401,7 +473,11 @@ Receptor-specific antagonists are used to study the roles of different DA recept
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **DA receptor subtypes contribute to the effects of cocaine** from Lecture 13 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Subtype-selective antagonists help test **which dopamine receptors contribute to a measured response**. However, the original key overstates the example by saying both D2 and D3 are required for locomotor stimulation. The lecture's own graph labels, consistent with Chapter 12 of the full textbook, show reduced cocaine-related locomotion after D2 blockade but increased locomotion after D3 blockade.
+
+Those opposite directions imply different contributions, not identical requirements. The knockout comparisons concern self-administration, a separate endpoint: D1-deficient mice do not self-administer in the cited account, while D2/D3 manipulations alter rather than simply eliminate responding. This question requires instructor review because its keyed claim conflicts with the displayed evidence. The correct reasoning must preserve both receptor subtype and behavioral measure.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -422,7 +498,11 @@ People usually start by snorting; some have a strong anxiety response and don’
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Most people who try cocaine do not become addicted** from Lecture 13 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture distinguishes **trying cocaine from developing a persistent use disorder**. Initial experiences can be aversive, and cost, availability, expectations, social circumstances, and other factors can discourage repeated use. Exposure therefore does not determine one inevitable trajectory.
+
+The same slide also describes escalation, binge patterns, cue effects, and incubation of craving in those who develop problems. “Incubation” emphasizes that craving or relapse vulnerability can increase during abstinence in the discussed models, rather than necessarily fading as acute withdrawal resolves. The route-progression description is a course example, not a universal sequence followed by every individual. A sound explanation considers both factors limiting repeated use and processes that can maintain seeking once learned.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -443,7 +523,11 @@ Psychostimulants can produce both tolerance and sensitization; depends on patter
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Cocaine produces both tolerance and sensitization** from Lecture 13 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tolerance and sensitization are **different changes in a specified response**, not mutually exclusive labels for an entire drug. Tolerance means a reduced effect with repeated exposure; sensitization means an enhanced response. Cocaine can produce different patterns depending on the endpoint, exposure schedule, and interval since the last administration.
+
+The lecture contrasts long-access patterns with more sustained exposure and intermittent patterns producing repeated concentration peaks. It associates these with different transporter-related adaptations and behavioral outcomes. Therefore, reduced sensitivity to one effect does not demonstrate reduced sensitivity to every other effect. Always state what was measured and when. This also explains how tolerance to a pleasurable effect can coexist with persistent or increased cue-related motivation.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 27. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -464,7 +548,11 @@ Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Cocaine is bad for you** from Lecture 13 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture links cocaine exposure to **multiple possible harms**, including cardiovascular strain, seizures, stroke, and severe psychological disturbances. These consequences follow from actions on both central and peripheral systems, rather than from dopamine-related reinforcement alone.
+
+Some harms also depend on the exposure route, such as damage to nasal tissue associated with repeated local use. That illustrates how pharmacology, tissue contact, and behavior combine to shape risk. The pregnancy slide uses a stigmatizing historical label that should not be adopted as a description of children; developmental outcomes require careful interpretation of exposure and other conditions. A substantive answer explains categories of harm and their mechanisms without treating every adverse outcome as inevitable or every association as a complete causal demonstration.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 28. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -485,7 +573,11 @@ Many compounds have been tested as potential medications, but none have been app
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Potential pharmacotherapies for cocaine use disorder** from Lecture 13 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide discusses **candidate treatment mechanisms**, not an established medication recommendation. Replacement-oriented approaches aim to alter the reinforcing or motivational consequences of cocaine use, while immune-based approaches aim to bind cocaine or enhance its breakdown before it reaches relevant brain targets.
+
+These strategies act at different levels: receptor/transmitter systems versus drug availability in the circulation. A plausible mechanism must still be evaluated for efficacy and safety. The statement that no medication had been approved belongs to the supplied course/textbook context and is not independently updated here as a current regulatory claim. The explanation should preserve the difference between a proposed intervention, evidence from a study, and an approved treatment rather than treating the candidate list as instructions for clinical use.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 29. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -506,7 +598,11 @@ Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **There are many amphetamines to choose from** from Lecture 13 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture groups **amphetamine-related psychostimulants by structural and pharmacological relationships**. It distinguishes amphetamine forms and methamphetamine while also introducing structurally related plant compounds such as cathinone and ephedrine. Similarity to catecholamine structures helps motivate the later discussion of monoamine transport and release.
+
+Being related does not make the compounds interchangeable in potency, distribution, duration, or adverse effects. Nor does a natural plant origin guarantee safety; the lecture explicitly uses plant compounds to challenge that assumption. The keyed answer provides only the beginning of the list. The important explanation is the relation between chemical family and mechanism, not a catalog of brand names or any practical description of how to synthesize or prepare the substances.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 30. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -527,7 +623,11 @@ Some users go on binges or runs – repeated injections every 2 hours for 3 to 6
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Amphetamine pharmacokinetics make facilitate binging** from Lecture 13 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Amphetamine-related drugs have a **longer elimination time course than cocaine in the lecture's comparison**. Continued exposure can therefore accumulate when additional drug is taken before earlier drug has been cleared. Prolonged stimulation, reduced sleep, and disrupted eating can then combine with the drug's direct physiological effects.
+
+The repeated-use schedule in the original key describes a hazardous pattern, not a dosing recommendation or a necessary feature of all use. The approximate half-lives are teaching summaries and vary with conditions. The mechanistic lesson is that onset and elimination are separate dimensions: a drug can enter rapidly and remain active for much longer. Understanding that distinction explains why repeated exposure can extend effects and risks rather than simply produce isolated, independent episodes.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 32. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -548,7 +648,11 @@ Amphetamines are indirect catecholamine agonists; stimulate DA and NE release an
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacodynamics of amphetamine** from Lecture 13 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Amphetamine acts as an **indirect catecholamine agonist** by changing transmitter handling rather than simply replacing dopamine at its receptor. The lecture describes entry through DAT, redistribution of vesicular dopamine, and outward transport that increases extracellular dopamine; norepinephrine handling is also affected.
+
+The slide calls transporter reversal “inverse agonism,” but Chapter 12 of the full textbook distinguishes transporter-mediated release from receptor inverse agonism. An inverse receptor agonist reduces constitutive receptor activity; reversing the direction of a transporter is a different mechanism. The explanation should therefore use the more precise transport language. This also distinguishes amphetamine from cocaine's predominant reuptake-blocking action, even though both can increase monoamine availability and produce stimulant effects.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 33. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -569,7 +673,11 @@ Amphetamines cause heightened alertness, increased confidence, feelings of exhil
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Subjective effects of amphetamines** from Lecture 13 (source page 34). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The subjective effects reflect **increased arousal and altered perception of fatigue**, including greater alertness, confidence, and feelings of energy. The lecture also describes reduced sleep, particularly REM sleep, during exposure. These observations concern how a person feels and behaves, not proof that the physiological need for recovery has been removed.
+
+The distinction matters because sustained activity without normal sleep can coexist with accumulating impairment and risk. Therapeutic use, nonmedical use, and repeated high exposure cannot be treated as identical situations simply because they involve the same drug family. A strong explanation connects the arousal profile to monoamine actions while avoiding the inference that feeling more capable necessarily means safer or uniformly better cognitive and physical performance.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 34. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -590,7 +698,11 @@ Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hour
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Therapeutic effects of amphetamines** from Lecture 13 (source page 35). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture identifies **narcolepsy and ADHD as therapeutic contexts** for stimulant pharmacology. In narcolepsy, reducing excessive daytime sleepiness is a different target from producing a recreational high. In ADHD, the intended outcomes concern attention and behavioral regulation, not generalized activation for its own sake.
+
+These examples show that a drug's classification as a stimulant does not determine whether a particular use is therapeutic or harmful. Dose, formulation, route, clinical indication, and monitoring matter. The symptom list in the key describes features discussed under narcolepsy, but does not establish that every patient has every listed feature. This course question concerns the rationale for therapeutic use, not diagnosis or a recommendation that a particular person take amphetamine.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 35. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -611,7 +723,11 @@ As methamphetamine use has increased, incidence of psychotic reactions has also 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Methamphetamine is worse for you than other amphetamines** from Lecture 13 (source page 37). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide emphasizes **psychotic reactions and possible persistent neurobehavioral consequences** associated with substantial methamphetamine exposure. Pre-existing vulnerability is identified as relevant, and the lecture distinguishes symptoms during use from a psychotic state that can continue after abstinence.
+
+Similarity to schizophrenia-like symptoms does not mean that every such episode is identical to schizophrenia or that every exposed person develops a persistent disorder. Likewise, the heading's broad comparison with “other amphetamines” is not a controlled ranking across all doses and routes. A careful explanation reports the particular risks and conditions discussed, distinguishes acute symptoms from longer-lasting outcomes, and avoids treating a general warning as evidence of a universal, inevitable effect.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 37. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -632,7 +748,11 @@ Hard-core methamphetamine users have increased risk of Parkinson’s disease, ca
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Crystal meth is unhealthy** from Lecture 13 (source page 38). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture describes **multisystem risks associated with heavy, chronic methamphetamine use**, extending beyond acute alertness or euphoria. Cardiovascular, oral, gastrointestinal, infectious, and neurological outcomes illustrate that a psychoactive drug can affect health through many direct and indirect pathways.
+
+The original wording is stigmatizing; “people with heavy or chronic use” more accurately identifies the exposure pattern without defining a person by it. Reported increased risks are not certainties for every individual, and observational associations can reflect interacting exposure, health, and environmental factors. The key should therefore be understood as a risk profile in the course's evidence base, not a prediction of one person's future or proof that all the listed outcomes have one identical mechanism.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 38. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -653,7 +773,11 @@ Olds, 1956. Scientific American.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** from Lecture 13 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This integration item returns to **the difference between an observed reinforcing effect and a proposed hedonic explanation**. Self-stimulation demonstrates that a consequence can sustain repeated responding. Calling that consequence pleasurable adds an interpretation that requires more than the response count itself.
+
+The connection to the rest of the lecture is that cocaine seeking, cue-driven behavior, and dopamine release can likewise be measured without being interchangeable with subjective liking. The historical citation in the answer does not explain this distinction. A useful response identifies the experimental observation first, then asks what additional evidence would be needed to support a claim about pleasure or a particular neurotransmitter. This avoids using the phrase “pleasure center” as its own proof.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -674,7 +798,11 @@ Drugs of abuse “hijack” the dopamine system “dopamine junctions represent 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction** from Lecture 13 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The historical hedonic theory links **drug reinforcement to dopamine-mediated pleasure**. The lecture uses that account as a starting point, then contrasts it with evidence and theories emphasizing learned predictions, incentive salience, and compulsive seeking. The integration lies in understanding why an influential explanation was attractive and why it is incomplete.
+
+A rise in dopamine after a drug is consistent with involvement of the system, but does not specify whether the relevant process is liking, wanting, learning, movement, or a combination. The correct answer here identifies the theory being discussed; it should not be read as endorsing every part of its quotation. Distinguish explaining a historical position from accepting that position as the lecture's final scientific conclusion.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
 
 **Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
@@ -692,7 +820,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The provocative heading is best interpreted as a **dissociation between wanting and liking**, not a literal claim that people consciously seek the dopamine molecule. The slide combines evidence relating dopamine measures to drug wanting, subjective ratings under receptor blockade, and hedonic reactions in an animal model. These are different measurements that challenge the idea of one simple pleasure scale.
+
+Connect this to addiction by explaining how cue-related motivation or seeking can remain strong even when reported pleasure is unchanged or diminished. That provides a rationale for focusing on craving and difficult-to-control behavior rather than defining the disorder solely by enjoyment. The title is broader than any single experiment establishes: the evidence does not prove that dopamine has no relationship to reward processing under all circumstances. A strong answer separates the specific findings, their common implication, and the limits of the generalization. The original answer's citations and figure labels are not a complete model response without that reasoning.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 2 — Drug dependence leads to withdrawal symptoms when abstinence is attempted {#l13-sa02}
@@ -706,7 +840,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Physical dependence involves **adaptation to repeated drug exposure**, with withdrawal when exposure is reduced or stopped. If taking the drug relieves an aversive withdrawal state, that relief can negatively reinforce taking. “Negative” refers to removal of an aversive consequence, not punishment or a morally negative act.
+
+The antireward/neuroadaptation account extends this idea by describing a motivational state in which avoiding distress becomes increasingly important. However, the lecture explicitly notes two limitations: not every addictive drug produces the same severe withdrawal syndrome, and relapse can occur after acute detoxification. A developed answer must therefore connect dependence to continued use without equating the two. Cue learning, stress, and persistent changes in motivation help explain phenomena beyond immediate withdrawal relief. The opioid replacement examples illustrate a treatment rationale within the course, but the question does not provide individual clinical guidance or justify treating all substances with the same approach.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 3 — Cocaine {#l13-sa03}
@@ -720,7 +860,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture distinguishes **chemical form, administration route, and the resulting exposure pattern**. Cocaine hydrochloride is a water-soluble salt; other forms differ in physical properties and suitability for different routes. The important pharmacological connection is that the speed with which exposure rises can alter the immediacy and reinforcing character of the effect. No preparation method is needed to explain that principle.
+
+Connect this to cue learning by considering the events consistently paired with taking the drug. Objects, contexts, and internal sensations can become predictors and later evoke motivation or craving even without immediate drug delivery. The acute pharmacokinetic effect and the learned cue effect are therefore complementary, not competing explanations. A strong response distinguishes the drug's physical properties, transporter-blocking action, and learned associations. It should not imply that every route has an identical risk profile or that cue-associated dopamine release directly measures subjective pleasure.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 4 — Behavioural effects of cocaine {#l13-sa04}
@@ -734,7 +880,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture describes **dose- and pattern-dependent changes in behavior**, including locomotor activation and more focused repetitive stereotypies. Stereotypy is not simply “more movement”: behavior can become restricted to repetitive acts even when general movement through the environment decreases.
+
+Connect this to peripheral physiology by explaining that the same exposure also affects monoamine signaling outside the relevant motor circuits. Sympathomimetic effects can include increased heart rate, vasoconstriction, blood-pressure elevation, and hyperthermia. Thus, a behavioral observation does not exhaust the drug's effects or indicate that the body is tolerating it safely. The regional manipulation table further distinguishes accumbens-related locomotor effects from dorsal-striatal stereotypy in the studied models. A complete answer specifies the behavioral endpoint, its relation to exposure, and a separate physiological consequence, avoiding the vague claim that cocaine simply “stimulates everything” in one uniform way.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 5 — Chronic cocaine exposure changes the brain {#l13-sa05}
@@ -748,7 +900,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The imaging examples associate chronic stimulant use with **altered striatal dopaminergic measures**, which the lecture interprets in relation to down-regulation and tolerance. The important point is that the state of the system after repeated exposure can differ from its response to an initial acute dose.
+
+Connect this to tolerance and sensitization by specifying the endpoint and exposure pattern. Reduced response in one measure can coexist with enhanced response in another, particularly under different schedules or after different abstinence intervals. A single scan or group difference does not, by itself, establish the complete causal history of every participant or prove permanent irreversible damage. A strong answer distinguishes the measured imaging signal, the adaptation proposed to explain it, and the behavioral consequences being inferred. The lecture's contrasting long-access and intermittent-access models show why the phrase “chronic cocaine changes dopamine” needs that additional precision.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 6 — Common routes of administration {#l13-sa06}
@@ -762,7 +920,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Route influences **onset**, while metabolism and excretion influence **persistence**. The lecture contrasts slower gastrointestinal absorption with more rapid delivery and notes the relatively long elimination time course of amphetamine-related drugs. These dimensions should be considered separately: rapid entry does not imply rapid clearance.
+
+Connect the distinction to repeated-use patterns. Additional exposure before earlier drug has been eliminated can prolong or accumulate effects, while reduced sleep and food intake add further physiological strain. The source's descriptions of repeated use are examples of hazardous behavior, not instructions or safe schedules. A developed response explains how concentration over time links administration to effects without providing techniques for maximizing intoxication. It should also avoid concluding that route alone determines addiction: reinforcement depends on immediacy, but individual history, context, exposure amount, and the broader learning and adaptation processes discussed in the lecture remain relevant.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 31. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 7 — Amphetamines are addictive {#l13-sa07}
@@ -776,7 +940,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 36. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Dependence and problematic use can develop with **amphetamine-related stimulants even when withdrawal does not resemble severe alcohol or opioid withdrawal**. This is one reason a withdrawal-only theory cannot explain every addictive pattern. Cue-triggered motivation, reinforcement, and changes in control can contribute alongside negative affect during abstinence.
+
+The lecture also describes cognitive impairments and psychotic reactions associated with substantial methamphetamine use. These are different outcomes and should not be treated as interchangeable definitions of dependence. Its comparative phrase “less severe” concerns the course's contrast in withdrawal syndromes; it should not minimize distress, psychiatric risk, or the need for appropriate care. A complete answer links the evidence to the theoretical limitation, distinguishes acute and persistent effects, and avoids claiming that every person follows the same progression. The broad comparison with other amphetamines requires attention to dose, route, and exposure pattern rather than relying on the lecture heading alone.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 36. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 
 ### Short Essay 8 — Integration: Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain” and Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction {#l13-sa08}
@@ -790,6 +960,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 13, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The two slides concern **different stages in the development of a pleasure-centered explanation**. Brain self-stimulation established an experimentally observable reinforcing consequence: animals worked to obtain stimulation. The later hedonic theory linked dopamine more explicitly to pleasurable reward and the effects of addictive drugs.
+
+Their connection is the inference from reinforcement or dopamine activation to subjective pleasure. The lecture challenges that inference by separating liking from wanting and by presenting cue-learning and sensitization accounts. A strong comparison should therefore identify what each approach observed or proposed, then explain why neither a high response rate nor a dopamine increase is automatically a direct pleasure measurement. The original answer combines a citation and a quotation but lacks this analytical distinction. The task is not to dismiss the historical work; it is to recognize its contribution while being precise about which conclusions the evidence supports and which require additional measures.
+
+**Source:** Lecture 13 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 9. Stimulant-specific context also draws on Chapter 12 of the supplied full textbook (not an assigned chapter in this folder).
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
 :::
 

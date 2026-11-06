@@ -23,7 +23,11 @@ Specialized areas:. Neuropharmacology: concerned with drug-induced changes to ne
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What is pharmacology?** from Lecture 1 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Pharmacology studies what drugs do to living organisms. The important distinction in this question is between the **field being studied** and a particular drug effect. Neuropharmacology examines changes in nervous-system function, whereas psychopharmacology emphasizes changes in mood, thought, and behavior. Neuropsychopharmacology connects these behavioral changes to their underlying neural mechanisms.
+
+The keyed option identifies one of these specialized fields. The alternatives describe placebo responses, the use of placebo controls, or therapeutic effects; those are topics within pharmacology rather than definitions of its branches. A useful way to connect the terms is to follow a drug from a molecular target, through altered neural activity, to a measurable change in behavior.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -44,7 +48,11 @@ Drug effects: alterations in physiological or psychological functions. Therapeut
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Drug action vs. drug effect** from Lecture 1 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+**Drug action** is the initial molecular interaction, such as binding to a receptor. A **drug effect** is a resulting physiological or psychological change. These occur at different explanatory levels: receptor activation can change a neural circuit, which can then alter pain perception, movement, or mood. The site of the eventual effect need not be the site where the drug first acts.
+
+The keyed option correctly describes effects and distinguishes a desired therapeutic outcome from other effects. Whether an effect is therapeutic depends on the purpose of treatment; the same change can be useful in one setting and unwanted in another. Bioavailability concerns delivery to targets, while placebo responses concern influences not explained by the tested drug's specific molecular action.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -65,7 +73,11 @@ Placebo: pharmacologically inert compound; may have therapeutic effects and side
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The placebo effect** from Lecture 1 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A placebo lacks the active pharmacological ingredient being tested, but this does not mean that the person receiving it experiences nothing. Expectations, previous learning, verbal suggestions, and the treatment setting can produce real changes in reported symptoms and measurable physiology. The textbook uses these responses to illustrate an interaction between psychological processes and bodily function.
+
+The keyed option is therefore correct because it separates **an inert preparation** from **an absent response**. A placebo response is not evidence that symptoms are invented. Conversely, negative expectations can contribute to a nocebo response. The other options concern experimental controls or drug availability; neither explains what makes the placebo effect distinctive.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -86,7 +98,11 @@ Placebos are essential in experimental design. Control group is unaware of place
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **We need placebos** from Lecture 1 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Improvement after taking a treatment does not, by itself, show that the active drug caused the improvement. Participants may expect to improve, respond to the treatment setting, or change over time for other reasons. A placebo comparison helps researchers ask whether outcomes differ when the active pharmacological ingredient is present rather than absent.
+
+The lecture adds **double blinding**: neither the participant nor the observer knows the treatment assignment. This reduces opportunities for expectations to influence experience, observation, or reporting. It does not mean that a placebo has no effects or that bias is impossible. The key distinction is between demonstrating change after treatment and demonstrating a treatment effect beyond the comparison condition.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -107,7 +123,11 @@ The lecture treats **Pharmacokinetics contributions to bioavailability** as a ke
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacokinetics contributions to bioavailability** from Lecture 1 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Follow the drug through the body rather than thinking only about the administered dose. Its route determines how it enters; absorption moves it into blood; distribution carries it to tissues; binding can temporarily hold it at inactive sites; metabolism transforms it; and excretion removes drug or metabolites. These processes operate together, determining how much drug can reach a target and how long it remains available.
+
+The lecture uses **bioavailability** in this discussion to emphasize drug available to bind at target sites. Two equal administered doses can therefore produce different effects when their routes, absorption, metabolism, or binding differ. Intravenous administration and first-pass metabolism are specific examples within this larger sequence, not substitutes for the complete account.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -128,7 +148,11 @@ Systemic routes: drug moves throughout the body through general circulation. Ora
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Routes of drug administration** from Lecture 1 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The route of administration matters because a drug must reach its target before it can act. With a systemic route, circulating blood distributes the drug beyond the initial administration site. After oral administration, the preparation must release its drug, the drug must survive the gastrointestinal environment, and molecules must cross an absorbing surface before entering circulation.
+
+This explains why **absorption** is not the same as swallowing a dose. The dose can be present in the digestive tract without yet being available to distant tissues. The other options describe particular routes or first-pass metabolism. They are related, but the keyed option most directly links systemic delivery, oral administration, and entry into blood.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -149,7 +173,11 @@ First-pass metabolism: ingested chemicals pass via the portal vein to the liver,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The problem with enteral administration Methods of Drug Administration** from Lecture 1 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+First-pass metabolism concerns the route a drug takes **before reaching general circulation**. Following gastrointestinal absorption, blood carries much of the absorbed drug through the portal circulation to the liver. Enzymes can transform part of it during this initial passage, reducing the amount of unchanged drug that reaches other tissues.
+
+Thus, an oral dose and a dose delivered directly into systemic circulation need not produce the same exposure. Do not confuse first-pass metabolism with failure to absorb: a molecule may cross the intestinal wall successfully and still be metabolized before reaching its target. The other options describe injection, nasal delivery, or rectal absorption, whereas the keyed option identifies the particular limitation emphasized for enteral administration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -170,7 +198,11 @@ Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; dange
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The beauty of parenteral routes** from Lecture 1 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Parenteral routes avoid delivery through the gastrointestinal tract, but they do not all produce the same time course. Intravenous administration places drug directly into blood, so there is no absorption step from an injection depot. This permits rapid exposure but also leaves little time to respond to an excessive effect. Intramuscular administration requires absorption from muscle and can produce a slower, more sustained rise.
+
+The lecture also distinguishes subcutaneous delivery and inhalation. The relevant principle is that **location, absorbing surface, and local blood flow** affect delivery speed. Avoid interpreting “parenteral” as meaning uniformly instantaneous or automatically safer; the keyed comparison explicitly includes both the rapidity and hazards of intravenous administration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -191,7 +223,11 @@ Rectum is highly vascularized and can directly absorb alcohol. Partially reduces
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Rectal administration** from Lecture 1 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The rectal example illustrates why changing the route can change exposure even when the substance is unchanged. A vascular absorbing surface can transfer drug into blood, and some rectal drainage avoids the initial hepatic passage associated with oral delivery. The lecture therefore describes a **partial reduction**, not a guaranteed elimination, of first-pass metabolism.
+
+For alcohol, the case is presented as a danger: absorption and metabolism differ from oral consumption, so an apparently comparable quantity may produce a much greater effect. This is not a recommendation to use the route. The other options discuss general pharmacokinetics or membrane diffusion; the distinctive point here is the connection between the administration site, vascular drainage, and unpredictable exposure.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -212,7 +248,11 @@ The lecture treats **Effect of administration route on pharmacokinetics** as a k
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Effect of administration route on pharmacokinetics** from Lecture 1 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Read a concentration–time graph by separating **onset**, **peak**, and **duration**. Direct delivery into blood can produce an immediate high concentration followed by decline. A route requiring absorption produces a rising phase; slower absorption may flatten the peak and spread exposure over time. Metabolism and redistribution continue while absorption is occurring.
+
+Consequently, equal doses can have different concentration curves and different periods above a threshold for effect. A delayed peak does not necessarily mean that the drug is intrinsically less effective at its receptor. The lecture's route comparison is primarily pharmacokinetic: it changes delivery over time, whereas receptor efficacy describes what a drug can do once it reaches its target.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -233,7 +273,11 @@ Route of administration. Drug concentration.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Other factors affecting pharmacokinetics** from Lecture 1 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Route and concentration are two contributors to the amount and speed of drug absorption. Route determines the tissues and barriers encountered. Concentration helps establish the gradient driving passive movement. The lecture also includes solubility, ionization, and transport through phospholipid membranes, so the short keyed option is only part of the full explanation.
+
+These factors interact. A large concentration difference does not make every molecule cross every membrane equally well; the drug's chemical properties and the membrane remain important. Similarly, rapid circulation after absorption cannot explain whether the drug crossed the original absorbing surface. Keep **entry into blood** distinct from **distribution after entry** when evaluating the nearby alternatives.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -254,7 +298,11 @@ Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Factors impacting drug absorption Multiple Factors Modify Drug Absorption** from Lecture 1 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A phospholipid membrane presents a lipid-rich barrier. A sufficiently lipid-soluble drug can enter that barrier and move across it by passive diffusion, with net movement down its concentration gradient. A larger gradient can increase the rate of net transfer, but passive diffusion does not actively pump drug toward a region of higher concentration.
+
+The keyed option therefore connects a molecular property—lipid solubility—to a transport mechanism. The other options concern ionization, distribution, or specialized brain barriers. They can influence the same overall journey, but they answer different parts of it. The lecture's prodrug example adds a further distinction: a compound can enter tissue readily yet require metabolism before the principal active form is produced.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -275,7 +323,11 @@ Once a drug enters the blood it is quickly delivered to areas with high blood fl
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Distribution of a drug in the body** from Lecture 1 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Blood first delivers a drug especially rapidly to well-perfused tissues. As concentrations in blood and tissues change, molecules can move again, including away from an initially exposed organ. **Redistribution** can therefore reduce the concentration at a site of action without requiring the whole dose to have been eliminated from the body.
+
+The textbook's rapidly acting anesthetic example makes the distinction clear: an early brain effect can end as drug moves into other tissues. This is different from metabolic destruction or renal excretion. The lecture's equilibrium language describes the tendency for distribution to adjust; the main learning point is the changing location of drug, not an assumption that every tissue always has an identical concentration.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -296,7 +348,11 @@ Blood-brain barrier: separation between brain capillaries and cerebrospinal flui
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Selective barriers affecting drug distribution** from Lecture 1 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The blood–brain barrier is selective rather than completely impermeable. Its principal structural feature is the specialized endothelium of brain capillaries: tight junctions restrict movement between adjacent cells. Molecules must therefore use routes compatible with these cells, including appropriate membrane passage or specific transport systems. Astrocytic processes help maintain the barrier's properties.
+
+This explains why a drug can circulate throughout the body yet have limited access to neural tissue. The key does not describe a simple wall surrounding the outside of the brain. It describes a property of its blood–tissue interface. Distribution depends on both blood delivery and access across that interface, so reaching a brain capillary is not equivalent to reaching a neuronal receptor.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -317,7 +373,11 @@ The lecture treats **Structure of the blood-brain barrier** as a key concept tha
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Structure of the blood-brain barrier** from Lecture 1 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The figure contrasts ordinary capillaries with brain capillaries. Ordinary capillaries provide comparatively accessible routes for exchange with surrounding tissue. In brain capillaries, adjoining endothelial cells form tight junctions, large openings are absent, and nonspecific vesicular transport is limited. Surrounding astrocytic processes support the maintenance of this specialized environment.
+
+The consequence is controlled exchange, not complete isolation. Lipid-compatible molecules and substances with suitable transport mechanisms can still enter. To explain the figure, connect each structural feature to its functional consequence: restricting passage between cells makes the chemical characteristics of the molecule and the available transport routes more important. Simply naming the blood–brain barrier does not explain how it works.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -338,7 +398,11 @@ Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g.,
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Depot binding Depot Binding alters the magnitude and duration of drug action** from Lecture 1 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Depot binding holds drug at sites that do not produce the intended pharmacological response, such as plasma proteins or tissue stores. A molecule bound at such a site is not simultaneously available to bind its active target. This can reduce the immediately available fraction and delay or reduce an effect.
+
+Binding is reversible. As free concentrations fall, stored molecules can return to circulation, helping prolong the drug's presence. Competition between drugs for binding sites can also change the free fraction. Keep **inactive binding** distinct from receptor activation: both involve association with a site, but only the latter initiates the response under discussion. The textbook identifies albumin as a major plasma binding protein.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -359,7 +423,11 @@ Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, o
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mechanisms of drug metabolism** from Lecture 1 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Metabolism changes a drug chemically; it is not simply movement of unchanged drug from one tissue to another. The lecture identifies the liver as a major site. Phase I reactions include oxidation, reduction, and hydrolysis. Phase II reactions involve coupling the drug or a metabolite to another chemical group, generally facilitating elimination through increased water solubility.
+
+A crucial qualification is that metabolism does not always mean immediate loss of activity. Some products remain active, and some drugs require bioactivation. Thus, an explanation should connect the reaction to the activity and eliminability of its products, rather than assuming that every metabolic step ends the drug effect. Enzyme induction and inhibition concern how fast such reactions occur.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -380,7 +448,11 @@ Enzyme induction: repeated use of drug increases number of enzymes; increases ra
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Factors influencing drug metabolism** from Lecture 1 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Enzyme induction and enzyme inhibition change metabolism in opposite directions. Induction increases metabolic capacity, often after repeated exposure has increased the amount of a relevant enzyme. Inhibition reduces enzyme activity. For an active drug normally cleared by that pathway, faster metabolism tends to reduce exposure, while slower metabolism can increase or prolong exposure.
+
+These changes also affect other drugs sharing the pathway, which explains the possibility of drug interactions. The lecture separately includes competition for enzymes and individual differences such as genetic variation. Do not confuse enzyme induction with receptor up-regulation: the first changes drug handling, whereas the second changes a target's response. Active metabolites and prodrugs require additional attention to which chemical form is being measured.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -401,7 +473,11 @@ Urine is the most important route for drug elimination. Kidneys filter materials
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Drug elimination** from Lecture 1 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Renal elimination involves more than filtration. After suitable molecules enter the kidney's tubular fluid, some can cross back into blood. A drug that remains highly ionized crosses lipid membranes less readily and is therefore less likely to be reabsorbed. This is why metabolism that increases water solubility can assist urinary elimination.
+
+The keyed option links filtration, protein binding, and reabsorption. Large or protein-bound material does not behave like freely filterable small molecules. Urinary pH can influence ionization and thus retention in tubular fluid, but this course mechanism is not a self-treatment instruction. Distinguish **excretion from the body** from **metabolism within the body**; the two processes often cooperate but are not identical.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -422,7 +498,11 @@ Receptors: proteins on cell surfaces or within cells. Cell surface receptors rel
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacodynamics Pharmacodynamics: study of the** from Lecture 1 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Pharmacodynamics asks what happens when a drug interacts with its target. Receptors may be on the cell surface or inside the cell. Surface receptors convert an extracellular binding event into an intracellular change; intracellular receptors allow suitable ligands to influence cellular processes from within. A ligand is a molecule capable of binding with some selectivity.
+
+The keyed option identifies the location and signaling role of receptors. In contrast, pharmacokinetics asks how the body delivers, distributes, transforms, and removes drug. Keeping the questions separate helps explain variable responses: a weak effect could reflect too little drug reaching the target, a different target response, or both. Receptor location is therefore part of mechanism, not simply anatomy to memorize.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -443,7 +523,11 @@ Dose–response curve: describes extent of biological or behavioral effect produ
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dose-response curves** from Lecture 1 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A dose–response curve relates dose or concentration to a measured effect. In the graded curve used here, the ED50 is the dose producing half of that drug's maximal response. A lower ED50 indicates greater potency for the measured effect: less drug is needed to reach that reference response.
+
+**Efficacy** is different. It concerns the attainable maximum, represented by the height of the curve. Two drugs can have different ED50 values but the same maximum, so the more potent drug is not necessarily capable of a greater effect. Also identify the endpoint before comparing curves; a curve for analgesia does not directly measure sedation or toxicity. Threshold marks the smallest measurable response, not the maximum.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 27. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -464,7 +548,11 @@ Undesirable or dangerous side effects of a drug must be evaluated carefully in a
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Therapeutic index** from Lecture 1 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The therapeutic index compares a toxic dose with an effective dose: **TI = TD50/ED50**. For this population-based comparison, TD50 produces the specified toxic outcome in half the population, while ED50 produces the specified therapeutic outcome in half. A greater separation usually indicates a larger margin between these outcomes.
+
+Do not confuse this use of ED50 with the half-maximal response on an individual graded effect curve. Nor does a favorable index make a drug harmless: different adverse effects have different thresholds, and individuals vary. The question emphasizes why benefit alone is insufficient. A therapeutic evaluation must specify both the desired effect and the unwanted effect being used in the safety comparison.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 28. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -485,7 +573,11 @@ Competitive antagonists: compete with agonists to bind receptors but don’t ini
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Receptor antagonism** from Lecture 1 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A competitive antagonist occupies the agonist's binding site without producing the agonist's receptor activation. At a fixed agonist concentration, fewer receptors are available to the agonist, so the measured response is reduced. In the simple reversible case taught here, adding enough agonist can overcome this competition.
+
+The corresponding curve shifts to the right: more agonist is required for the same effect, while the attainable maximum can remain unchanged. Noncompetitive antagonism reduces the response through a different interaction and commonly lowers the achievable maximum. These are experimental distinctions, not advice to increase a drug dose. Also, lack of intrinsic agonist efficacy does not mean an antagonist lacks biological effects; blocking an ongoing signal can itself change behavior or physiology.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 29. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -506,7 +598,11 @@ Chronic drug use can change the magnitude of response. Repeated drug exposure ca
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Effects of chronic drug use** from Lecture 1 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Tolerance means that repeated exposure produces a smaller response to a dose that previously produced a larger response. Equivalently, a greater dose may be needed to reproduce a particular effect. The lecture emphasizes that tolerance depends on the exposure pattern and can diminish when exposure stops.
+
+It is important to specify **which effect** has become tolerant. A person may develop tolerance to one effect without an equivalent reduction in another, including a dangerous effect. Cross-tolerance refers to reduced responsiveness to a second drug after repeated exposure to the first. Sensitization is the opposite change in a specified response. Neither tolerance nor physical adaptation alone is a complete definition of addiction.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 30. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -527,7 +623,11 @@ Pavlovian, or classical conditioning: the drug-taking procedure or the environme
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mechanisms of behavioural tolerance** from Lecture 1 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Behavioral tolerance includes learning about the drug-taking situation and learning to perform while affected by a drug. In a classical-conditioning account, cues that repeatedly precede a drug can elicit an anticipatory response. When that response compensates for the drug's effect, it can reduce the observed effect in the familiar setting.
+
+Operant learning provides a different route: practice and consequences can improve a person's performance despite intoxication. State-dependent learning concerns better retrieval or performance when the internal state at testing matches the state during learning. These ideas are related but not interchangeable. Improved outward performance does not establish that the drug has left the body or that every physiological effect has become safe.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 32. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -548,7 +648,11 @@ Sensitization, or reverse tolerance: enhancement of drug effects after repeated 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Sensitization to drug effects** from Lecture 1 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Sensitization is an increase in a particular response after repeated administration of the same dose. It is therefore called reverse tolerance: tolerance reduces a response, whereas sensitization enhances it. Cross-sensitization occurs when prior exposure to one drug enhances a response to another.
+
+The word **particular** matters. Repetition can reduce one effect of a drug while increasing another, so it is misleading to label the whole drug response as uniformly stronger or weaker. The textbook discusses exposure pattern and lasting neural changes as relevant to sensitization. When answering, identify the response being measured, compare equivalent doses, and distinguish a change produced by repeated exposure from simply giving a larger dose on the test occasion.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 33. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -569,7 +673,11 @@ Specialized areas:. Neuropharmacology: concerned with drug-induced changes to ne
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: What is pharmacology?** from Lecture 1 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This comparison separates the definition of a discipline from the events that discipline explains. Pharmacology studies drug actions and effects; neuropharmacology focuses on nervous-system changes, and psychopharmacology focuses on mood, thought, and behavior. The keyed option belongs to that classification of scientific fields.
+
+“Drug action versus drug effect” instead distinguishes a molecular interaction from its physiological or psychological consequences. Both distinctions are useful, but they answer different questions. A study of receptor binding and altered behavior may be neuropsychopharmacological, while the receptor interaction is its proposed action and the behavior is its measured effect. Placebos and bioavailability are further subject areas, not alternative names for the discipline.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -590,7 +698,11 @@ Drug effects: alterations in physiological or psychological functions. Therapeut
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Drug action vs. drug effect** from Lecture 1 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Start with a causal chain: **drug reaches target → molecular interaction → change in cell or circuit function → observable effect**. Drug action names the interaction near the beginning of that chain; drug effect names a resulting physiological or psychological outcome. The keyed option describes the outcome level, including the therapeutic effect sought in a particular use.
+
+By contrast, the specialized branches of pharmacology classify research according to its emphasis. Calling a study neuropharmacological does not specify what a particular drug does at a receptor. The question therefore requires a distinction between research fields and causal levels, not a choice between mutually exclusive scientific truths. Several alternative statements can be true while addressing a different concept.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 1.
 
 **Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
@@ -608,7 +720,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A strong response should trace the drug's journey rather than list the four letters ADME. **Absorption** transfers drug from its administration site into blood. **Distribution** determines where it moves and includes reversible binding to inactive depots. **Metabolism** chemically transforms it, sometimes producing active metabolites. **Excretion** removes drug or metabolites from the body. The balance of these processes determines exposure over time.
+
+Connect this sequence to the lecture's discussion of bioavailability by explaining why the administered dose is not necessarily the amount available at a receptor. An orally administered drug may be incompletely absorbed or undergo first-pass metabolism; another fraction may be temporarily protein-bound. Conversely, release from a depot can prolong availability after the initial absorption period. Conclude by separating delivery from response: pharmacokinetics determines access to the target, whereas pharmacodynamics concerns what happens there. This connection explains how equal administered doses can produce unequal effects without assuming different receptor efficacy.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 2 — Other routes of administration {#l01-sa02}
@@ -622,7 +740,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Organize the answer around the barriers and circulation encountered by each route. A topical preparation is often intended to act near its application site, although some drug can enter systemic circulation. Transdermal delivery requires movement through skin and can provide sustained delivery. Intranasal delivery uses a vascular mucosal surface and can avoid the gastrointestinal and initial hepatic pathway. The lecture also introduces specialized central delivery routes.
+
+The rectal example shows that route names alone do not guarantee predictable exposure. Vascular drainage can allow some absorbed drug to avoid first-pass metabolism, but the extent varies. In the alcohol example, altered absorption and metabolism create a serious overdose hazard. The broader connection is **administration site → absorption pathway → concentration–time profile → effect and risk**. The slide's statement that intranasal delivery bypasses the blood–brain barrier should not be generalized to every nasal drug; the textbook discusses this as a potential delivery advantage for suitable substances, not a universal property.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 3 — Role of pH and ionization of drugs {#l01-sa03}
@@ -636,7 +760,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Begin by explaining that many drugs are weak acids or bases and can exist in ionized and non-ionized forms. The balance depends on the surrounding pH and the drug's pKa; at pH equal to pKa, the two forms are present in equal proportions in the simple equilibrium described in the lecture. The non-ionized form generally crosses lipid membranes more readily.
+
+Then connect chemistry to distribution. When a drug moves into a compartment with a different pH, its balance of charged and uncharged forms can change. Increased ionization can reduce return across the membrane, producing ion trapping. Weak acids become more ionized in relatively alkaline conditions, while weak bases become more ionized in relatively acidic conditions. However, pH alone does not determine total absorption: surface area, blood flow, and contact time also matter. The answer should therefore explain a mechanism of unequal distribution without claiming that every drug is absorbed only where it is least ionized.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 4 — Metabolism of drugs {#l01-sa04}
@@ -650,7 +780,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Separate **chemical transformation** from the **time course of disappearance**. Metabolism changes the molecular form, often through Phase I reactions and Phase II conjugation. The products can be easier to excrete, but some retain activity or represent activation of a prodrug. Excretion then removes material from the body.
+
+First-order elimination removes a constant fraction over equal intervals. For a half-life example, 100 units become 50, then 25, then 12.5: the amount removed becomes smaller even though the fractional decline is constant. Zero-order elimination removes approximately a constant amount per interval when the relevant elimination process is saturated. The lecture uses alcohol as the example; the textbook qualifies this by discussing concentration-dependent saturation rather than treating zero-order elimination as universal at every concentration. Connect these patterns to mechanism by explaining that metabolic capacity influences the rate at which exposure falls. Neither a short half-life nor rapid metabolism alone establishes that every metabolite is inactive.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 5 — Types of agonists {#l01-sa05}
@@ -664,7 +800,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Distinguish **affinity**, the tendency to bind, from **efficacy**, the ability to activate the receptor after binding. A full agonist produces the maximal response available in the system, a partial agonist produces less activation, and a neutral antagonist blocks agonist access without activating the receptor. An inverse agonist reduces constitutive receptor activity rather than merely preventing agonist binding.
+
+Connect these categories to curves. Potency concerns the dose needed for a specified effect and is reflected in horizontal position; efficacy is reflected in the attainable maximum. A partial agonist can therefore have high affinity without producing the same maximum as a full agonist. In the presence of a full agonist, it can also reduce the overall response by occupying receptors that would otherwise receive stronger activation. The existing answer's statement that antagonists “produce no effects” refers to lack of intrinsic agonist activation, not to absence of observable effects when an endogenous signal is blocked.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 6 — Types of tolerance {#l01-sa06}
@@ -678,7 +820,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The three forms of tolerance differ in where the adaptation occurs. In **metabolic tolerance**, increased metabolic capacity reduces exposure at a given administered dose. In **pharmacodynamic tolerance**, the nervous system responds less strongly despite continued drug exposure, through changes in receptors or downstream function. In **behavioral tolerance**, learning and context influence the observed response.
+
+Explain behavioral tolerance in two ways. Repeatedly paired environmental cues can elicit compensatory responses, and practice can improve performance while a person is affected by the drug. These explanations do not require the drug to have vanished from the body. A useful comparison is between the same dose producing a lower concentration, the same concentration producing a smaller neural effect, and a similar drug state producing better learned performance. More than one mechanism can operate together. Finish by noting that tolerance is effect-specific: reduced impairment on one task does not demonstrate equivalent tolerance to respiratory, cardiovascular, or other harmful effects.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 31. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 
 ### Short Essay 7 — Integration: What is pharmacology? and Drug action vs. drug effect {#l01-sa07}
@@ -692,6 +840,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 1, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Pharmacology is the scientific field that studies drugs in living systems. Its branches emphasize different levels: neuropharmacology examines nervous-system changes, while psychopharmacology examines changes in mood, thinking, and behavior. Neuropsychopharmacology connects those observations to underlying neural mechanisms.
+
+Drug action and drug effect are concepts used within that field, not competing names for it. Action refers to a molecular interaction at a target; effect refers to a physiological or psychological consequence. For example, a receptor interaction can alter neural signaling and ultimately change a person's experience of pain. The interaction is the action and the altered experience is an effect. Explain their connection by following this causal sequence and noting that the sites of action and effect may differ. A therapeutic effect is an effect desired for the specific purpose of treatment; other effects can be unwanted in that context. This completes the comparison without reducing it to a list of definitions.
+
+**Source:** Lecture 1 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 1.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
 :::
 

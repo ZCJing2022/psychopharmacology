@@ -23,7 +23,11 @@ Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from c
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Acetylcholine biosynthesis** from Lecture 8 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Acetylcholine synthesis joins **choline and an acetyl group supplied by acetyl-CoA**, using choline acetyltransferase (ChAT). The product is acetylcholine, and neurons using it are described as cholinergic. ChAT therefore identifies a synthetic function, rather than a receptor or a transporter.
+
+The lecture emphasizes precursor availability and neuronal activity as influences on synthesis. Distinguish ChAT from acetylcholinesterase (AChE): the former makes ACh, whereas the latter breaks released ACh down. Also distinguish synthesis from vesicular loading, which uses VAChT. Following these separate steps prevents the common mistake of assuming that any drug reducing cholinergic transmission must directly inhibit ChAT; the course's examples often act instead on uptake, storage, or release.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -44,7 +48,11 @@ ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VACh
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Compounds affecting acetylcholine storage and release** from Lecture 8 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+VAChT packages acetylcholine into **synaptic vesicles**, making it available for regulated release when the terminal is activated. Vesamicol blocks this packaging step, so less transmitter can be released even if ACh synthesis and the arrival of an action potential still occur.
+
+The lecture contrasts storage blockade with toxins affecting release itself. Botulinum toxin prevents vesicle fusion, while black widow spider venom is described as promoting massive peripheral ACh release. These are different interventions in the same signaling sequence. Identify whether the change concerns transmitter production, vesicle filling, or fusion with the terminal membrane. The keyed option concerns filling vesicles, not receptor antagonism or enzymatic breakdown of ACh after it reaches the synaptic cleft.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -65,7 +73,11 @@ Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The cholinergic pharmacology of Botox** from Lecture 8 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The essential mechanism is **presynaptic inhibition of acetylcholine release**. Botulinum toxin enters peripheral cholinergic terminals and disrupts the machinery needed for synaptic vesicles to fuse with the membrane. At a neuromuscular junction, reduced ACh release means less stimulation of the muscle's nicotinic receptors, producing weakness or paralysis.
+
+This explains why a toxin can also have carefully controlled therapeutic uses in conditions involving excessive muscle contraction. The molecular action is not the same as blocking the muscle receptor directly or inhibiting ACh breakdown. The answer's bacterial origin and uptake description identify the substance, but the release-to-muscle-response chain explains the effect. The course examples describe pharmacological principles, not instructions for handling or administering the toxin.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -86,7 +98,11 @@ Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four sub
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Acetylcholine is broken down by acetylcholinesterase** from Lecture 8 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Acetylcholinesterase terminates cholinergic signaling by **hydrolyzing ACh to choline and acetic acid**, as described in the lecture. Rapid removal matters at neuromuscular junctions because continuing receptor stimulation would interfere with the separation of successive contractions and relaxation.
+
+The slide distinguishes soluble and membrane-associated enzyme arrangements, including the specialized form at the neuromuscular junction. Their positioning helps bring enzyme and released transmitter together efficiently. Reversible AChE inhibitors have the opposite effect from blocking ACh release: they prolong the availability of transmitter that has already been released. The dementia examples illustrate that mechanism in the course; they do not mean that these drugs restore lost neurons or reverse every cause of cognitive impairment.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -107,7 +123,11 @@ Choline is taken back up by choline transporters; transporters can be blocked by
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What happens to the byproducts of ACh catabolism** from Lecture 8 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The recycled molecule is **choline**, not intact acetylcholine. AChE first breaks released ACh down in the extracellular space. Choline transporters then return choline to the terminal, where ChAT can use it with acetyl-CoA to synthesize new transmitter.
+
+Blocking choline uptake with hemicholinium-3 reduces precursor availability and therefore reduces subsequent ACh production. This differs from the monoamine examples in which the transmitter itself is taken back up by a transporter such as SERT or DAT. It also differs from inhibiting AChE, which slows transmitter breakdown rather than limiting precursor recycling. A complete explanation follows the cycle from release to hydrolysis, precursor uptake, and resynthesis instead of calling every transport process “ACh reuptake.”
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -128,7 +148,11 @@ Preganglionic neurons of both branches of the autonomic nervous system are choli
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Acetylcholine in the autonomic nervous system** from Lecture 8 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Both autonomic branches use **ACh at the preganglionic-to-ganglionic synapse**. In the simplified organization emphasized by the lecture, parasympathetic postganglionic neurons also release ACh at their targets, whereas sympathetic postganglionic neurons generally release norepinephrine. The position of the synapse matters as much as the branch name.
+
+Thus, “sympathetic means norepinephrine” is incomplete: it overlooks the cholinergic first synapse. Likewise, identifying a neuron as cholinergic does not by itself tell you whether it is sympathetic or parasympathetic. Trace CNS → autonomic ganglion → target organ, and label the transmitter at each connection. The key summarizes the course's general arrangement; it should not be used as an exceptionless inventory of every peripheral autonomic pathway.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -149,7 +173,11 @@ The neuromuscular junction. a special type of synapse.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Acetylcholine in the somatic nervous system** from Lecture 8 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A neuromuscular junction is the synapse between a **somatic motor neuron and a skeletal muscle fiber**. The motor terminal releases ACh, which activates nicotinic ACh receptors on the muscle membrane. Channel opening depolarizes that membrane and links the nervous system's signal to muscle activation.
+
+The short keyed phrase names the junction but does not explain why it belongs to this topic. The important distinction is from an autonomic pathway, which uses a ganglionic relay to regulate organs and glands. It is also distinct from an ACh synapse between two neurons within the brain. Keep the transmitter, receptor class, and target cell together: ACh is the signal, the nicotinic receptor is the detector, and skeletal muscle is the target.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -170,7 +198,11 @@ Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origi
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Cholinergic projections in the NS** from Lecture 8 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture distinguishes **long-range cholinergic projection systems** from local interneurons. Basal forebrain neurons provide cholinergic input to cortex, hippocampus, and other limbic structures. Cholinergic cells in the laterodorsal and pedunculopontine tegmental nuclei project to regions including the thalamus and basal ganglia.
+
+The origin of a projection is not the same as its target. A cholinergic terminal in the cortex can belong to a neuron whose cell body lies in the basal forebrain. This organization helps explain how a relatively localized population can influence widespread neural processing. By contrast, the striatal interneurons discussed later act within a local circuit. The key is the source-to-target arrangement, not an assumption that ACh has one function in every destination.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -191,7 +223,11 @@ Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Acetylcholine receptor subtypes** from Lecture 8 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The two receptor families are distinguished by their responses to characteristic agonists: **nicotinic receptors respond to nicotine, and muscarinic receptors respond to muscarine**. Both are receptors for the endogenous transmitter acetylcholine; their names do not mean nicotine or muscarine is normally required for cholinergic signaling.
+
+The functional distinction is even more useful. Nicotinic receptors are ligand-gated ion channels that can produce rapid excitation. Muscarinic receptors couple to G proteins and influence intracellular signaling or ion channels indirectly. A drug acting at one family therefore need not reproduce all the effects of ACh. Do not confuse these receptor names with the enzymes ChAT and AChE, which respectively synthesize and break down the transmitter.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -212,7 +248,11 @@ Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Nicotinic receptors** from Lecture 8 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A nicotinic ACh receptor is an **ionotropic receptor**: its protein complex includes the channel through which cations move after agonist binding. The lecture emphasizes inward positive charge and depolarization, explaining the rapid excitatory response in neural and muscle targets.
+
+The receptor is assembled from five subunits, but Chapter 7 distinguishes different combinations in muscle and neuronal receptors. The slide's list of subunit names should not be interpreted as saying every receptor contains one of each listed type. Subunit composition matters because it changes receptor properties and drug sensitivity. The central contrast is with muscarinic signaling, which uses G proteins rather than making the receptor itself the directly gated ion channel.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -233,7 +273,11 @@ Muscarinic receptors are metabotropic – operate via second messengers. Five su
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Muscarinic receptors** from Lecture 8 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Muscarinic receptors act through **G-protein-linked signaling**, rather than forming the fast cation channel characteristic of nicotinic receptors. The lecture groups M1, M3, and M5 with phosphoinositide signaling, and M2 and M4 with inhibition of cAMP production, increased potassium conductance, and reduced terminal calcium-channel opening.
+
+These mechanisms explain why ACh does not have one fixed effect wherever it is released. Opening potassium channels can reduce excitability, while reducing presynaptic calcium entry can reduce transmitter release. Other muscarinic pathways produce different cellular changes. Start with the receptor subtype and its location, then infer the likely cellular consequence. The broad “excitatory” and “inhibitory” labels summarize the course examples rather than replace that mechanistic reasoning.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -254,7 +298,11 @@ Distribution of AChRs in the brain Let’s focus on the striatum.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Distribution of AChRs in the brain Let’s focus on the striatum** from Lecture 8 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The figure shows **regional differences in nicotinic receptor subunit combinations**, including receptors in the caudate-putamen, basal forebrain, temporal cortex, and cerebellum. It then directs attention to the striatum, where the following slide examines local cholinergic regulation of dopamine terminals.
+
+This connects anatomy to pharmacology: a receptor's location and composition help determine which circuit a drug can influence. Detecting receptors in a region does not mean every cell there synthesizes ACh. The original keyed option merely repeats the slide heading, so it does not actually identify a distribution or mechanism. Use the figure and subsequent striatal circuit to learn the concept, but treat this item as needing substantive answer choices before formal assessment.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -275,7 +323,11 @@ Conditioned stimuli can have a motivational effect. You see a crackpipe on the g
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pavlovian to instrumental transfer** from Lecture 8 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Pavlovian-to-instrumental transfer occurs when a **reward-predicting cue changes the performance of an independently learned action**. Pavlovian learning establishes the cue–outcome relationship; instrumental learning establishes that an action produces an outcome. During transfer, presentation of the cue can invigorate the action.
+
+The lecture's drug-cue example illustrates how an object associated with prior reward can acquire motivational significance. Merely recognizing the object is not the full phenomenon: the important result is a change in goal-directed effort or responding. Likewise, performing a previously rewarded action without a cue is instrumental behavior but not, by itself, evidence of transfer. The distinction lies in the interaction between the two forms of learning.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -296,7 +348,11 @@ The lecture treats **Pavlovian to instrumental transfer in the rat** as a key co
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pavlovian to instrumental transfer in the rat** from Lecture 8 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The slide's diagram separates three stages. First, a neutral cue is paired with reward. Second, an action such as lever pressing is trained to obtain reward. Finally, the cue is presented while the action is available, allowing comparison of **responding during the cue with responding without it**. Increased responding during the reward-predicting cue is the transfer effect illustrated.
+
+Testing without normal reward delivery helps distinguish the cue's motivational influence from new reinforcement during the test. The keyed option in this MCQ is only a topic placeholder and does not describe these stages. The diagram provides the substantive answer; a valid assessment should ask about the separate learning histories, test comparison, or interpretation instead of rewarding recognition of the heading alone.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -317,7 +373,11 @@ Phasic DA response (FSCV).
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014** from Lecture 8 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The plotted trace aligns dopamine measurements with **conditioned-stimulus presentation**. The lecture labels the response as phasic and identifies fast-scan cyclic voltammetry (FSCV) as the recording method. The important observation is a temporally associated dopamine increase when the reward-predicting cue appears during the transfer test.
+
+This is more specific than saying dopamine is present in the striatum, but it remains a measurement of a relationship between cue presentation and neurochemical activity. The trace alone does not establish that the measured rise is sufficient or necessary for increased lever pressing. That stronger causal question motivates the later manipulation of cholinergic interneurons and nicotinic receptors. Keep the observed signal separate from the causal interpretation being tested.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -338,7 +398,11 @@ DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of st
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019** from Lecture 8 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture describes a counterintuitive result: **stimulating striatal cholinergic interneurons suppresses PIT**, while blocking β2-containing nicotinic receptors with DHβE restores it in that condition. The comparison implicates nicotinic signaling in how the manipulation changes cue-driven responding.
+
+This does not justify the conclusion that dopamine is irrelevant to PIT. The lecture instead raises a tonic-versus-phasic hypothesis: changing ongoing cholinergic control of dopamine terminals may alter how cue-related dopamine signals are expressed. That remains a proposed interpretation in the supplied slide, not a fully established mechanism to be asserted as fact. Distinguish the observed stimulation/blockade results from the hypothesis offered to explain why “more activation” need not produce more motivated responding.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 7.
 
 **Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
@@ -356,7 +420,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 8, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+AChE is the **enzyme**, ACh is its **substrate**, and hydrolysis is the catalyzed reaction. The reaction is catabolic because it breaks ACh into smaller products, described in the lecture as choline and acetic acid. The enzyme accelerates this process rather than becoming the signal or being consumed each time a transmitter molecule is broken down.
+
+Connect breakdown to both termination and recycling. Removing ACh from the cleft limits receptor stimulation, helping separate successive signals. Choline is then taken back into the terminal and used by ChAT with acetyl-CoA to make new ACh. Thus, breakdown and synthesis are opposite chemical directions but complementary stages of the transmitter cycle. The original answer panel lists terms without developing this relationship; a complete response must supply it. Predicting drug effects further demonstrates understanding: AChE inhibition prolongs released ACh action, whereas inhibition of choline uptake limits precursor recycling and can reduce subsequent synthesis.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Short Essay 2 — Acetylcholine microcircuits in the central nervous system {#l08-sa02}
@@ -370,7 +440,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 8, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Striatal cholinergic interneurons provide **local regulation**, unlike the long-range basal-forebrain projections described earlier. Their activity interacts with dopamine signaling in circuits involved in movement and motivated behavior. The lecture uses reduced dopamine in Parkinson's disease to illustrate how changing one transmitter can disturb the balance of a circuit rather than simply turning the entire circuit off.
+
+Receptor identity explains the possible interactions. Nicotinic receptors are fast ligand-gated channels, including β2-containing receptors on dopamine terminals in the later example; muscarinic receptors use slower G-protein-linked mechanisms. ACh can therefore alter transmitter release and the activity of different cells through different receptor pathways. A strong answer connects local cell type → receptor location → cellular effect → circuit consequence. The course's anticholinergic treatment example illustrates this balance concept; it does not imply that blocking all cholinergic signaling is beneficial or that one transmitter's concentration alone determines every motor symptom.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Short Essay 3 — Cholinergic interneurons of the striatum {#l08-sa03}
@@ -384,7 +460,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 8, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The local circuit contains **cholinergic interneurons and dopamine terminals bearing β2-containing nicotinic receptors**. ACh can activate these receptors, promote calcium entry and influence vesicular dopamine release. The lecture proposes a role in maintaining tonic dopamine availability, which should be distinguished from brief, cue-related phasic responses.
+
+Connect the circuit to PIT by following the experiments: a reward-predicting cue can increase instrumental responding, and dopamine transients accompany cue presentation. However, optogenetic stimulation of cholinergic interneurons suppresses PIT in the reported experiment, while nicotinic blockade restores the effect under stimulation. This means that describing the circuit as simply “ACh increases dopamine, so behavior must increase” is inadequate. The slide suggests tonic-versus-phasic regulation as an explanation, but leaves the mechanism open. A developed response reports the observed comparisons accurately and labels that mechanistic account as a hypothesis rather than presenting an unresolved interpretation as the experiment's direct measurement.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 
 ### Short Essay 4 — Integration: Acetylcholine biosynthesis and Compounds affecting acetylcholine storage and release {#l08-sa04}
@@ -398,6 +480,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 8, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Synthesis and storage are **successive but distinct requirements** for cholinergic transmission. ChAT makes ACh from choline and acetyl-CoA in the terminal. VAChT then transports ACh into synaptic vesicles. When the release machinery is activated, filled vesicles can fuse with the membrane and release their contents.
+
+The distinction explains why normal synthesis does not guarantee normal transmission. Blocking VAChT with vesamicol reduces vesicular filling even if ACh continues to be produced; blocking fusion with botulinum toxin prevents release even if transmitter is present in vesicles. Conversely, limiting choline uptake can reduce the precursor supply for synthesis. These interventions affect different links in the same chain and should not all be described as receptor antagonists. A strong comparison identifies the enzyme versus transporter, the chemical production versus packaging step, and the shared consequence that disruption can reduce the ACh delivered to receptors when a neuron fires.
+
+**Source:** Lecture 8 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 7.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
 :::
 

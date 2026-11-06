@@ -24,6 +24,9 @@ jobs:
       - name: Materialize site source
         run: python scripts/materialize_site.py
 
+      - name: Apply detailed explanations
+        run: python scripts/apply_explanations.py
+
       - name: Commit materialized Quarto source
         run: |
           git config user.name "github-actions[bot]"

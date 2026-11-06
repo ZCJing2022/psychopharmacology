@@ -23,7 +23,11 @@ Circadian rhythms review. Clock → drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Overview** from Lecture 11 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The overview establishes a **two-way relationship between circadian timing and pharmacology**. The clock can alter a drug's absorption, distribution, metabolism, elimination, or target response. Conversely, a drug can influence clock timing through light-input pathways, behavior, or other clock-related mechanisms.
+
+The initial circadian review supplies the vocabulary needed to distinguish these directions. Taking a drug at different times does not change its chemical identity, but it may change the biological conditions in which the drug acts. The original keyed option gives only part of the outline; the full slide also includes “drugs → clock.” This is an orientation question, not evidence that a student can yet explain a specific pharmacokinetic or clock-shifting mechanism.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 2. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -44,7 +48,11 @@ PART 1: Circadian Rhythms Review.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **PART 1: Circadian Rhythms** from Lecture 11 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This heading introduces the lecture's **foundation in circadian rhythms** before applying it to drugs. The following slides define internally generated near-24-hour rhythms, describe entrainment and phase shifts, and introduce central and peripheral clocks. Those concepts make the later examples of time-dependent drug responses interpretable.
+
+However, the existing answer simply repeats a section title. It does not distinguish a circadian rhythm from another pattern or explain how a clock operates. The useful learning connection is that a later dosing-time effect could involve either drug handling or target sensitivity, and that a drug-induced change in activity need not itself be a phase shift. This item should be treated as an organizational prompt, not a substantive graded concept question.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 3. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -65,7 +73,11 @@ Sleep/wake cycles. Physiological processes.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What Are Circadian Rhythms?** from Lecture 11 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Circadian rhythms are **internally generated cycles with a period of approximately 24 hours**. Sleep–wake activity is a familiar example, but the lecture also emphasizes physiological processes throughout the body. A daily pattern alone does not prove an internal clock, because an external schedule can directly produce a repeating pattern.
+
+The next slide provides two useful criteria: persistence under constant conditions and the capacity to be entrained by external cues. Together, these distinguish an endogenous rhythm from a response that merely follows light turning on or off. The answer's examples are therefore correct but incomplete without the endogenous and near-24-hour features. This distinction becomes essential when evaluating whether a drug changes the clock or only changes behavior temporarily.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 4. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -86,7 +98,11 @@ Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Core terminology** from Lecture 11 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+An **actogram** displays the timing of activity across successive days, making recurring patterns and shifts easier to see. Diurnal organisms are primarily active during the day, while nocturnal organisms are primarily active at night. Those labels describe when activity occurs, not whether the rhythm is internally generated.
+
+To identify a circadian rhythm, the lecture also asks whether the pattern persists in constant conditions and can synchronize to an external cue. An actogram can help assess those properties, but interpretation depends on the lighting or other conditions represented. Do not confuse the graphical recording method with the underlying clock mechanism. The same type of plot can show normal entrainment, free-running activity, or a changed phase after an experimental manipulation.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 5. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -107,7 +123,11 @@ Bacteria. Plants.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Evolution of Circadian Clocks Circadian clocks are present** from Lecture 11 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture places circadian clocks across **bacteria, plants, and animals**, emphasizing that biological timing is not unique to human sleep. The broad distribution supports the idea that anticipating regular environmental change is useful in many kinds of organisms.
+
+The keyed option lists bacteria and plants but omits animals from the full slide. These examples do not establish that all species use an identical molecular clock, nor do they mean that every repeated behavior is circadian. The connection to pharmacology is conceptual: biological timing can be an intrinsic property of cells and tissues, rather than merely an imposed daily routine. Specific mechanisms and experimental findings still need to be interpreted in the species and tissue actually studied.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 7. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -128,7 +148,11 @@ Light/dark. Social coordination.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Evolution of Circadian Clocks Anticipation of daily** from Lecture 11 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A circadian clock can help an organism **anticipate predictable daily changes**, rather than respond only after those changes have occurred. The lecture lists light–dark transitions, social coordination, avoidance, and foraging as contexts in which appropriate timing may be advantageous.
+
+Anticipation is the key distinction. For example, activity before a regularly scheduled event is not simply a reaction to that event happening. This connects the evolutionary discussion to food-anticipatory activity later in the lecture. The list describes possible functions of biological timing, not separate molecular mechanisms or proof that every rhythm has the same adaptive history. A developed answer explains the advantage of matching preparation and behavior to recurring environmental conditions.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 8. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -149,7 +173,11 @@ Master clock. ~20 000 neurons.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Suprachiasmatic Nucleus (SCN)** from Lecture 11 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The **suprachiasmatic nucleus (SCN)** is presented as a coordinating clock that entrains to the light–dark cycle. The lesion comparison shows disruption of the normal temporal organization of sleep after SCN removal, linking this structure to the organization of daily rhythms rather than to the mere ability to sleep.
+
+The later peripheral-clock material limits the phrase “master clock”: the SCN coordinates many rhythms but is not the sole generator of every cellular oscillation. The transplant sketch on this slide has inconsistent host/donor labels, so its details should not be used to infer precisely which graft or animal determines period without clarification. The reliable teaching point here is central coordination and light entrainment, not an unsupported reading of the mislabeled diagram.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 9. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -170,7 +198,11 @@ Which statement best matches the lecture discussion of **Food Anticipatory Activ
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Food Anticipatory Activity (FAA)** from Lecture 11 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Food-anticipatory activity is an **increase in activity before a predictable mealtime**, described in the lecture as occurring roughly one to three hours beforehand. Because the activity precedes feeding, it is not simply movement caused by eating or by the food's immediate presence.
+
+The important experimental observation is persistence under some conditions without an intact SCN or with particular clock-gene manipulations. This challenges the idea that all timed behavior must be generated by the SCN's canonical clock mechanism. It does not establish that timing has no biological basis or that every clock-gene knockout leaves every rhythm unchanged. The result motivates consideration of food-related timing systems outside the usual SCN-centered account.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 10. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -191,7 +223,11 @@ Nearly every tissue has a clock. SCN synchronizes ○ not generate.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Peripheral Clocks** from Lecture 11 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Peripheral tissues can contain **cell-autonomous clocks**. The lecture describes the SCN as synchronizing these clocks rather than creating all of their oscillations. If central coordination is removed, individual rhythms can persist while drifting out of alignment with one another.
+
+This distinction between generating and coordinating rhythms is crucial for pharmacology. A liver clock may influence metabolism even though the animal's overall daily organization depends on additional signals and tissues. The slide's gene-rhythmicity percentages summarize the study discussed in class; they should not be interpreted as every gene oscillating in every tissue at every moment. The central lesson is distributed rhythmicity with coordination, not a single clock issuing every molecular event directly.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 12. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -212,7 +248,11 @@ PART 2: How the clock changes drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **PART 2: How the clock changes drugs** from Lecture 11 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This section changes the direction of explanation to **clock → drug response**. Circadian variation can affect the concentration of drug reaching a target or the target's sensitivity to that concentration. These are respectively pharmacokinetic and pharmacodynamic routes to a time-of-day effect.
+
+A useful prediction is that an equal administered dose need not produce an equal exposure or effect at two biological times. However, this section title does not itself establish that any particular medication should be taken at night or in the morning. That requires drug-specific evidence. Because the keyed option only repeats the heading, this item is an organizational marker; it should not be counted as demonstrating understanding of the mechanisms that follow.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 13. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -233,7 +273,11 @@ PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, sig
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacokinetics vs. Pharmacodynamics** from Lecture 11 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+**Pharmacokinetics asks what happens to the drug; pharmacodynamics asks how the drug acts on its targets.** Rhythms in gastric emptying, liver metabolism, or kidney filtration can change exposure. Rhythms in receptors or signaling can change the response even when exposure is comparable.
+
+To interpret a time-of-day difference, first ask which quantity was measured. Different blood concentrations after the same dose point toward drug handling; different responses at comparable concentrations suggest target or signaling differences. Both processes can operate together. The lecture's distinction prevents the assumption that a stronger nighttime effect must always mean slower metabolism, or that a change in receptor expression is itself a pharmacokinetic effect.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 14. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -254,7 +298,11 @@ Gastric emptying. Gut blood flow.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Absorption and distribution** from Lecture 11 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Rhythms in **gastric emptying, intestinal blood flow, and lipid absorption** can alter how quickly an orally administered drug enters the circulation. Distribution can also vary when transport across barriers is rhythmic. The lecture's blood–brain barrier efflux example specifically comes from Drosophila.
+
+The mechanism therefore concerns the path between administration and target exposure, not necessarily a change in receptor affinity. Faster absorption can alter the timing and height of a concentration peak, while efflux can influence access to a tissue. Preserve the experimental scope: findings in a fly barrier model do not automatically establish an identical rhythm for every human brain-active drug. Likewise, the lecture's daytime absorption statement is a course example, not a universal dosing rule.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 15. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -275,7 +323,11 @@ Drug targets are often rhythmic. 56 of 100 top-selling drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Pharmacodynamics** from Lecture 11 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Pharmacodynamic rhythms concern **the biological target and its downstream response**. If receptor availability or signaling varies across the day, a given concentration of drug may have different effects at different biological times. This is distinct from having different concentrations because of absorption or clearance.
+
+The counts of drugs with rhythmic targets are examples from the analysis cited in the lecture, not newly verified market statistics. The lecture emphasizes short-half-life drugs because a brief exposure samples a narrower time window; a sustained exposure may span more of the cycle. That provides a rationale for studying treatment timing, but it does not by itself show a clinical benefit for changing the timing of every drug with a rhythmic target.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 17. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -296,7 +348,11 @@ Cholesterol: evening statins. Asthma: nocturnal symptoms.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Chronotherapy in clinical practice** from Lecture 11 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Chronotherapy examines whether **matching treatment timing to biological rhythms** improves benefit or reduces unwanted effects. The lecture uses cholesterol synthesis, nocturnal asthma symptoms, and morning stiffness in rheumatoid arthritis as examples of relevant timing relationships. Its IL-6 example links a night-associated physiological rhythm to symptoms experienced later.
+
+The slide also gives a blood-pressure example with no difference, showing why the principle must be tested rather than assumed. These brief examples are not a complete set of prescribing instructions, and the statin statement does not distinguish every formulation or half-life. A sound answer explains the rationale and the need for drug- and outcome-specific evidence, rather than concluding that evening administration is generally superior.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 18. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -317,7 +373,11 @@ PART 3: How drugs change the clock.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **PART 3: How drugs change the clock** from Lecture 11 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+This section reverses the preceding causal direction: **drugs → clock**. A drug might alter the input that resets a clock, act on clock-related signaling, or change behavior that itself provides a timing signal. Those possibilities are different from the clock changing drug metabolism.
+
+A central interpretive problem is distinguishing a shift in rhythmic timing from a temporary change in activity, alertness, or sleep. The later alcohol, non-photic arousal, caffeine, and melatonin examples illustrate different routes and measurements. The existing answer is only a section title, so it does not test these distinctions. Its proper role is to orient the reader; a substantive assessment should ask which mechanism or observation supports a drug-induced timing change.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 19. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -338,7 +398,11 @@ Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Photic input to the SCN** from Lecture 11 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture traces photic input through **intrinsically photosensitive retinal ganglion cells, the retinohypothalamic tract, and the SCN**. It identifies glutamate as a transmitter in this resetting pathway and uses NMDA agonist and antagonist findings to connect synaptic signaling to phase shifts.
+
+Blocking a receptor involved in light signaling can reduce a light-induced clock shift without necessarily abolishing every aspect of vision or every clock rhythm. The slide's “not rods and cones” phrase emphasizes the identified pathway, but the supplied lecture alone is not sufficient to establish an absolute absence of all rod/cone influence. The key mechanism to explain is retinal input → glutamatergic signaling → SCN resetting, with drug effects assessed on the resulting phase change.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 20. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -359,7 +423,11 @@ A drug’s apparent effect on the clock may run through behaviour Van Reeth & Tu
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Non-photic arousal** from Lecture 11 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A drug-associated clock change may be **mediated by the behavior the drug produces**, rather than by a direct action on the clock's molecular machinery. The lecture's non-photic-arousal example compares phase shifts under conditions in which the animal's behavioral response is allowed or constrained.
+
+That comparison matters because observing a shift after drug administration alone leaves several causal routes open. A drug could alter arousal, movement, or other non-light signals that then influence rhythmic timing. The magnitude and direction can also depend on circadian phase. A strong interpretation therefore separates drug exposure, behavioral change, and measured phase shift, rather than treating every post-drug change in an actogram as direct binding to an SCN clock target.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 22. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -380,7 +448,11 @@ FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ M
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Non-SCN clocks in the brain** from Lecture 11 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture uses **rhythmic behavior surviving SCN lesions** to motivate consideration of timing systems outside the SCN. Food-anticipatory activity is associated with a food-entrainable oscillator account, while methamphetamine-associated rhythms are discussed under MASCO. It also reports persistence of MASCO under some canonical clock-gene disruptions.
+
+The inference is that the usual SCN-centered transcriptional-clock account does not explain every observed rhythm. It is not that methamphetamine repairs the SCN or that all rhythms are independent of clock genes. The observations concern particular behaviors, interventions, and experimental preparations. Distinguish the existence of a surviving rhythm from precise knowledge of its anatomical generator or complete molecular mechanism; the slide does not establish all of those details.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 23. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -401,7 +473,11 @@ Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et a
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Stimulants** from Lecture 11 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The stimulant examples connect **clock-related genes to behavioral responses to drugs**, including sensitization and conditioned place preference. Sensitization is a changed response across repeated exposures; CPP tests learned preference for a context associated with drug administration. These are related but different outcomes.
+
+The lecture's genetic comparisons suggest that particular clock genes contribute to the responses measured in the cited experiments. They do not show that possessing a gene inevitably causes addiction or that every stimulant effect requires the same clock pathway. Nor does a changed CPP score directly measure subjective pleasure. Interpret each graph in terms of the manipulated gene, the comparison group, and the behavioral endpoint, keeping the lecture's experimental results distinct from broader claims about humans.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 24. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -422,7 +498,11 @@ Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Caffeine** from Lecture 11 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's caffeine example concerns a **delay in rhythmic phase**, not merely feeling more awake after caffeine. A delay means that a recurring event in the rhythm occurs later relative to its previous timing. The actogram is used to visualize that change across successive cycles.
+
+The approximate 40-minute value and bright-light comparison refer to the conditions of the example presented, not a fixed effect of every cup of coffee at any time. Circadian phase, exposure conditions, and the measured rhythm all matter. The key distinction is between an acute stimulant effect and a lasting shift in timing: those effects may be related, but observing one does not automatically demonstrate the other.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 25. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -443,7 +523,11 @@ Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Takeaways** from Lecture 11 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture's takeaways combine **distributed clocks, coordination, and two-way drug interactions**. Cellular clocks can oscillate locally, while the SCN helps synchronize the wider system. Rhythmic drug handling and target responses can then change the effect of a dose administered at different times.
+
+Drugs can also alter timing through photic signaling or non-photic routes, including changes in behavior. The opening question about the same pill at 8 a.m. versus 8 p.m. is therefore answered at two levels: the molecule is the same, but the physiological setting may differ. The lesson is to identify the mechanism and biological time involved, not simply to add clock time as an unexplained label to a drug effect.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 27. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -464,7 +548,11 @@ Circadian rhythms review. Clock → drugs.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Overview** from Lecture 11 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The overview integrates **endogenous timing with drug action in both directions**. A clock-dependent change in liver metabolism is an example of timing changing drug exposure; a drug-dependent change in the response to light is an example of a drug changing clock resetting. These should not be described as the same causal process.
+
+The circadian review supplies the distinction between phase, entrainment, and immediate behavioral output needed to interpret both examples. The existing keyed option gives a fragment of the outline, so it is not a complete mechanistic answer. Use this repeated overview item as a synthesis prompt: specify what changes first, what is measured afterward, and whether the proposed pathway involves pharmacokinetics, pharmacodynamics, or an input to the clock.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 2. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -485,7 +573,11 @@ PART 1: Circadian Rhythms Review.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: PART 1: Circadian Rhythms** from Lecture 11 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The first part supplies the **criteria for recognizing an internally generated circadian rhythm**. Persistence in constant conditions distinguishes a clock-driven pattern from simple tracking of an external event, while entrainment shows that the internal timing system can synchronize with environmental cues.
+
+Those criteria matter when a later drug experiment changes sleep or activity. A temporary increase in movement is not automatically a change in the rhythm's phase or period. The repeated section-heading answer does not test that reasoning and should not be used as a stand-alone mastery item. A useful interpretation of the integration prompt is to explain how the foundational definitions constrain claims that a drug has “changed the clock.”
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 3. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -506,7 +598,11 @@ Sleep/wake cycles. Physiological processes.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: What Are Circadian Rhythms?** from Lecture 11 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Sleep–wake cycles and physiological processes illustrate that **circadian timing organizes both behavior and internal function**. The common feature emphasized by the lecture is an endogenous cycle near 24 hours, not the particular tissue or behavioral output being recorded.
+
+This connects directly to chronopharmacology: a rhythm in sleep can be visible, while rhythms in metabolic enzymes or drug targets may be less obvious but still relevant to drug effects. The two should not be assumed to have identical timing merely because both are circadian. A good answer adds the defining criteria to the examples in the key and explains why repeated daily measurements can reveal patterns that a single measurement at one time would miss.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 4. No assigned textbook chapter was provided for this lecture.
 
 **Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
@@ -524,7 +620,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A **zeitgeber** is an external timing cue that can entrain an internal rhythm. Entrainment means synchronization with that recurring cue, not destruction of the endogenous oscillator. A phase advance moves the timing of a recurring event earlier; a phase delay moves it later. A phase-response curve relates the timing of a stimulus within the internal cycle to the resulting phase shift.
+
+The lecture's light example shows why timing matters: early subjective-night exposure is associated with delays, late subjective-night exposure with advances, and mid-subjective-day exposure with little effect in the illustrated account. The same type of cue can therefore have different consequences depending on biological phase. Connect this to the broad occurrence of clocks by explaining that internal oscillators can anticipate regular environments while still adjusting to external timing. For pharmacology, this means that a drug affecting a resetting pathway cannot be interpreted without knowing when in the internal cycle it was given.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 6. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 2 — Clock Genes Transcription-Translation Feedback Loop (TTFL) {#l11-sa02}
@@ -538,7 +640,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture describes a **transcription–translation feedback loop** involving CLOCK and BMAL1 followed by PER and CRY. The latter proteins accumulate, repress the processes supporting their production, and are degraded, allowing the cycle to restart. The delay among transcription, protein accumulation, inhibition, and degradation supports an oscillation rather than a permanently on or off state.
+
+Connect the loop to peripheral clocks through the idea of cell autonomy. Many tissues can generate rhythmic activity locally; the SCN's coordinating role helps align those clocks rather than supplying every oscillation directly. When coordination is lost, rhythms may persist but drift apart. A strong answer therefore distinguishes the mechanism producing a cellular rhythm from the mechanisms synchronizing multiple tissues. The source presents the loop as approximately daily, not as a literal timer in which each isolated step takes a fixed fraction of 24 hours in every cell.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 11. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 3 — Metabolism and excretion {#l11-sa03}
@@ -552,7 +660,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Rhythmic liver enzymes and kidney filtration can produce **time-dependent drug clearance**, a pharmacokinetic effect. The lecture's mouse acetaminophen example links a toxicity rhythm to the liver clock, while its barbiturate example shows that an observed duration of sleep can vary with administration time. These are examples of why equal doses do not guarantee equal concentration–time profiles or behavioral durations.
+
+Pharmacodynamics is a separate possibility: rhythmic receptors or signaling can change the effect produced by a comparable concentration. A complete comparison therefore asks whether the clock changes exposure, response to exposure, or both. Do not infer the cause of every behavioral time-of-day difference solely from the behavior itself. The mouse liver-clock experiment supports a specific mechanism in that preparation, not a universal schedule for human medication. Explain the causal chain and preserve the species and outcome limitations of the lecture evidence.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 16. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 4 — Alcohol {#l11-sa04}
@@ -566,7 +680,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The alcohol example shows a **reduction in a light-induced phase advance** under the experimental conditions illustrated. The dose comparison indicates that the magnitude of the interference varies with alcohol exposure. Importantly, blocking or reducing a response to a resetting cue is not necessarily the same as producing an equal and opposite phase shift on its own.
+
+Connect this to non-photic arousal by distinguishing causal routes. Alcohol may alter how photic input affects clock timing in the illustrated experiment, whereas another drug's apparent clock effect may depend on the behavior or arousal it produces. To distinguish these explanations, an experiment must separate drug exposure, light conditions, behavioral opportunity, and the subsequent rhythmic phase measurement. A strong answer reports what the graph actually compares and does not claim that every sedative directly shifts the SCN. The lecture supports an experimental principle, not advice to use alcohol for sleep or circadian adjustment.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 21. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 5 — Melatonin {#l11-sa05}
@@ -580,7 +700,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+A **chronobiotic** changes the timing of a biological rhythm. The lecture uses melatonin to emphasize that the time of administration relative to internal circadian phase can determine the direction and size of the shift. Its phase-response curve therefore provides more information than simply knowing a dose or whether the person becomes sleepy.
+
+The dexamethasone comparison introduces tissue specificity: the lecture describes a shift in liver-clock timing without a corresponding SCN shift. This connects to the larger conclusion that clocks are distributed and coordinated, rather than one identical oscillator repeated everywhere. A developed response should distinguish shifting a clock from temporarily changing a physiological output and should explain why changing one tissue's rhythm need not reset all tissues equally. The figures illustrate mechanisms and timing dependence; they do not provide a personal dosing schedule, and the supplied lecture alone is not a complete clinical guide.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 26. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 
 ### Short Essay 6 — Integration: Overview and PART 1: Circadian Rhythms {#l11-sa06}
@@ -594,6 +720,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 11, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The overview and the Part 1 heading are **levels of organization, not competing biological mechanisms**. The overview lays out the full lecture: circadian foundations, clock effects on drugs, and drug effects on clocks. Part 1 develops the first of those components by defining rhythms, entrainment, phase shifts, and the organization of central and peripheral clocks.
+
+Their connection is that the foundational concepts are needed to interpret the later experiments. For example, a change in activity after a drug can only be called a phase shift if its timing relative to the ongoing rhythm is established; a different drug effect across the day can reflect rhythmic exposure or sensitivity. The original answer panel merely repeats headings and cannot serve as a full model essay. Treat this item as an organizational synthesis exercise, or revise it into a scientific comparison before formal grading. It should not be made to imply a substantive distinction that the sources do not contain.
+
+**Source:** Lecture 11 presentation, original topic anchor at PDF p. 2. No assigned textbook chapter was provided for this lecture.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
 :::
 

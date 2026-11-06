@@ -23,7 +23,11 @@ Embryonic stem cells differentiate into specialized neural cells:. Neurons: tran
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Origin of the cells of the nervous system** from Lecture 2 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture begins with differentiation: initially unspecialized embryonic cells develop the structures and functions needed for particular nervous-system roles. Neurons specialize in receiving and transmitting signals, while glia provide functions such as metabolic support, protection, and myelination. The distinction is functional, not simply a difference in cell shape.
+
+Sensory neurons convert incoming information into neural signals, motor neurons contribute to responses, and interneurons connect processing within the central nervous system. The keyed option identifies this developmental and functional classification. Descriptions of dendrites, axons, and the soma instead explain the parts of an already differentiated neuron. Cell origin and mature anatomy are related, but they are not the same question.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -44,7 +48,11 @@ Soma: cell body. Dendrites: receive information from other cells across the syna
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Anatomy a neuron** from Lecture 2 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A neuron's principal parts support different steps in information processing. Dendrites receive many incoming signals, the soma maintains the cell and participates in integration, and the axon carries an electrical signal toward its terminals. The lecture places the initiation of the action potential at the axon hillock, linking integration to outgoing communication.
+
+This organization explains the keyed distinction between soma and dendrites. It also prevents the common mistake of treating the whole cell as one undifferentiated wire. A neuron still contains familiar cellular machinery, including a nucleus and mitochondria, because signaling requires protein production and energy. Identify both a structure and its role rather than memorizing anatomical names alone.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -65,7 +73,11 @@ Dendrites and soma have thousands of receptors that respond to chemical signals;
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Dendrites and soma** from Lecture 2 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A neuron usually receives information from many other cells, not just one. Receptors on dendrites and the soma respond to chemical signals that can increase or decrease the likelihood of firing. **Convergence** describes these multiple inputs arriving at one cell. **Divergence** describes one cell influencing multiple targets through its outputs.
+
+The keyed option concerns reception and integration, whereas axonal conduction concerns transmission away from the integration region. Dendritic spines increase the receiving surface and provide sites for many synaptic contacts. Having many inputs does not mean they all promote firing: excitatory and inhibitory influences must be considered together. This distinction becomes essential when explaining how a drug changes overall circuit activity.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -86,7 +98,11 @@ Axons transmit electrical signals from the axon hillock to the terminals. Axons 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Axons and terminals** from Lecture 2 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The axon carries an action potential from the initiation region toward the terminals. Branches called axon collaterals allow a single neuron to communicate with multiple targets. At terminals, vesicles contain neurotransmitter that can be released across a synapse, linking electrical signaling within the neuron to chemical signaling between cells.
+
+The lecture also introduces myelin and nodes of Ranvier. Myelin changes how the electrical signal propagates; it is not the substance released into the synapse. The keyed option is therefore about the outgoing pathway. Dendrites primarily receive inputs, while the soma supplies much of the cellular machinery needed to sustain both reception and transmission.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 5. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -107,7 +123,11 @@ Transcription: production of complementary mRNA from DNA; takes place in nucleus
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Central dogma of molecular biology** from Lecture 2 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The sequence is **DNA → RNA → protein**. During transcription, information in a DNA sequence is copied into messenger RNA in the nucleus. During translation, ribosomes use that message to assemble amino acids into a protein. The two terms describe different processes in different cellular locations.
+
+This matters for psychopharmacology because receptors, enzymes, channels, and transporters are proteins. Changing the production of one can alter how a neuron synthesizes transmitter or responds to a signal. Epigenetic regulation influences which genes are expressed and to what extent; it does not mean that translation rewrites the DNA sequence. The keyed option correctly pairs each process with its product and location.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 7. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -128,7 +148,11 @@ Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Regulation of gene transcription** from Lecture 2 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Gene expression can change without changing the underlying DNA sequence. The lecture identifies DNA methylation and modifications affecting chromatin organization as examples of epigenetic regulation. These changes influence how accessible a gene is to transcriptional machinery and therefore how much of its RNA and protein product is produced.
+
+The keyed reference to methyl groups is the beginning of this explanation, not the whole mechanism. Its relevance is that environmental experience or drug exposure can alter later cellular function through gene regulation. Axoplasmic transport moves proteins after they have been produced, while membrane channels perform signaling functions. Neither describes the regulation of transcription itself. Avoid equating every epigenetic modification with a mutation.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 8. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -149,7 +173,11 @@ Axoplasmic transport: proteins made in the soma must be transported to the axon 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Where do the proteins go?** from Lecture 2 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A neuron may have an axon extending far from its cell body. Proteins produced in the soma must therefore be delivered to distant regions that need them. Axoplasmic transport uses the cytoskeleton, particularly microtubules, as an organized transport system rather than relying on proteins simply diffusing the entire distance.
+
+The textbook distinguishes anterograde transport toward terminals from retrograde transport back toward the soma. This supports maintenance and recycling as well as communication within the cell. The keyed option correctly connects the site of synthesis to the need for transport. Do not confuse this movement of cellular materials with an action potential: an electrical signal and a transported protein are different kinds of events.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 9. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -170,7 +198,11 @@ Proteins in the cell membrane include receptors, enzymes, ion channels, and tran
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What do the proteins do?** from Lecture 2 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Membrane proteins carry out several distinct jobs. Receptors recognize signals, enzymes catalyze reactions, transporters move particular substances, and ion channels provide pathways for ions to cross the membrane. A gated channel changes between states in response to a suitable trigger.
+
+For a ligand-gated channel, the trigger is binding of a chemical signal. For a voltage-gated channel, it is a change in membrane potential. The lecture also introduces modification through second messengers. The key therefore identifies functional machinery, not merely structural components. A transporter is not interchangeable with a receptor, and a channel's opening does not mean that all ions can cross equally freely.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 10. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -191,7 +223,11 @@ What is the membrane potential?. How is it measured?.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Electrical properties of the neuron Resting membrane potential** from Lecture 2 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Membrane potential is an electrical potential difference between the inside and outside of a cell. It is measured by comparing electrodes placed on opposite sides of the membrane. In the resting-neuron example, the intracellular electrode records a negative value relative to the extracellular reference.
+
+The important point is the **difference across the membrane**, not an absolute charge assigned to the entire cell. Changes in that difference provide the basis for local potentials and action potentials. The existing keyed option asks what membrane potential is and how it is measured, but does not answer those questions. A complete explanation must connect the measurement to unequal ion distributions and the membrane's selective permeability.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 12. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -212,7 +248,11 @@ Resting membrane potential: inside of cell is more negative than outside: –70 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The membrane potential** from Lecture 2 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture uses approximately −70 mV to represent a resting neuron: the inside is negative relative to the outside. Potassium is more concentrated inside, while sodium is more concentrated outside. Potassium can move through resting channels, experiencing an outward concentration force and an inward electrical attraction.
+
+Selective permeability and these opposing forces contribute to the resting potential. The sodium–potassium pump maintains the unequal ion distributions over time. Do not imagine that resting means every ion stops moving, or that the pump itself is the rapid event producing each action potential. The key describes a maintained electrical state from which rapid, channel-mediated changes can occur.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 13. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -233,7 +273,11 @@ The lecture treats **Ionic basis of the membrane potential** as a key concept th
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ionic basis of the membrane potential** from Lecture 2 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The ion-distribution figure explains why opening a channel can change membrane potential. Sodium, potassium, and chloride do not have equal concentrations on the two sides of the membrane. Movement through an available channel depends on both the concentration difference and the electrical force on the ion.
+
+At rest, potassium permeability is especially important, while the sodium–potassium pump helps preserve the concentration gradients. The pump uses energy to maintain a nonequilibrium distribution rather than allowing all concentrations to equalize. Relate the figure's arrows to the relevant ion and force. A statement that ions move only because of concentration overlooks the electrical component emphasized in the lecture.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 14. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -254,7 +298,11 @@ Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; ins
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Post synaptic potentials Local Potentials Are Small,** from Lecture 2 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+A postsynaptic potential is a local change following synaptic input. In the lecture's examples, sodium entry makes the inside less negative, producing depolarization and moving the membrane toward firing threshold. Chloride entry can make the inside more negative, producing hyperpolarization and moving it away from threshold. Opening potassium channels can also produce an inhibitory change.
+
+The key distinguishes these directions of change, not two types of action potential. Local potentials are graded and can combine with other inputs. The consequence depends on the channel and ionic conditions; the transmitter's name alone is not a complete explanation. Ask which ions move and how that movement changes the likelihood of firing.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 15. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -275,7 +323,11 @@ When summation of local potentials reaches the threshold of -50 mV, many voltage
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-** from Lecture 2 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Local excitatory and inhibitory influences are integrated near the axon's initiation region. In the lecture's illustrative values, sufficient depolarization brings the membrane from about −70 mV toward a threshold near −50 mV. Voltage-gated sodium channels then open, allowing rapid sodium entry and generating the rising phase of an action potential.
+
+This is a transition from graded input to an all-or-none event. A stronger suprathreshold input does not simply create an indefinitely larger spike. Sodium-channel inactivation then produces an absolute refractory period, during which another action potential cannot be initiated in that membrane region. The key therefore links summation, threshold, and regenerative channel opening, rather than treating firing as a direct synonym for any depolarization.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 17. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -296,7 +348,11 @@ The lecture treats **Ionic basis of the action potential** as a key concept that
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Ionic basis of the action potential** from Lecture 2 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Follow the sequence of channel states. Initial depolarization brings the membrane to threshold; rapid opening of voltage-gated sodium channels produces further depolarization. Sodium channels then become unavailable for renewed opening, while delayed potassium conductance helps return the membrane toward its resting level. Continued potassium conductance can briefly produce an after-hyperpolarization.
+
+These changes explain the shape of the action-potential curve. The rising and falling phases are not caused by the sodium–potassium pump rapidly reversing direction. The pump maintains gradients over longer periods, whereas voltage-dependent channel changes generate the rapid waveform. Match each part of the figure to the predominant ion movement rather than memorizing the curve without its mechanism.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 18. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -317,7 +373,11 @@ Rising membrane potential opens voltage-gated K+ channels; K+ moves out and memb
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-** from Lecture 2 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Repolarization occurs as sodium-channel availability changes and potassium moves outward through opened voltage-gated channels. Because potassium conductance persists briefly, the membrane can become more negative than its usual resting value. During this relative refractory period, a stronger excitatory input is needed to bring the membrane back to threshold.
+
+This differs from the absolute refractory period, when sodium-channel inactivation prevents another spike regardless of ordinary increases in stimulation. The distinction explains limits on firing and the relationship between stimulation strength and firing frequency. “Resetting” is therefore a sequence of changing channel states, not simply the cell receiving a new packet of neurotransmitter or instantly restoring all ions by pumping.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 19. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -338,7 +398,11 @@ The lecture treats **The benefit of myleniation** as a key concept that should b
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The benefit of myleniation** from Lecture 2 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Myelin insulates stretches of axon, while nodes of Ranvier provide exposed regions at which action potentials are regenerated. Depolarizing current spreads between nodes, so regeneration does not need to occur continuously along every point of membrane. This is **saltatory conduction**.
+
+The lecture emphasizes faster transmission and reduced energy demands associated with restoring ion gradients. Myelin does not make an individual action potential progressively larger as it travels. Instead, it changes the efficiency of propagation. This is why damage to myelin can disrupt communication even when the neuron has not lost every part of its axon. Connect the structural arrangement—insulated internodes and exposed nodes—to the functional benefit.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 20. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -359,7 +423,11 @@ Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channe
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Drugs can alter electrical conduction in neurons** from Lecture 2 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Voltage-gated sodium channels are required for the rapid depolarizing phase of an action potential. Blocking them can prevent a signal from propagating along an axon. A local anesthetic therefore interrupts transmission of information from an affected region, rather than requiring that the brain reinterpret an otherwise unchanged incoming signal.
+
+The lecture contrasts this with antiepileptic effects that prolong channel unavailability and limit sustained rapid firing. The exact interaction matters: indiscriminate conduction block and selective reduction of excessive firing are not equivalent outcomes. The toxin example reinforces the same principle but illustrates systemic danger. These mechanisms act on electrical excitability, whereas many other psychoactive drugs act primarily on chemical transmission at synapses.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 22. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -380,7 +448,11 @@ Astrocytes Provide structural support Maintain ionic and chemical environment St
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glia - Astrocytes Cell Function** from Lecture 2 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Astrocytes help maintain the environment in which neurons function. The lecture lists regulation of ions and chemicals, nutrient support, structural support, changes following injury, regulation of local blood flow, and interaction with neuronal signaling. These are active physiological contributions, not merely a passive packing function.
+
+The textbook's neurotransmitter-uptake example shows why this matters: limiting extracellular transmitter can help control the duration of a signal and protect tissue. Astrocytes also help connect neural activity with metabolic support. The keyed list therefore differs from the myelinating role of oligodendrocytes and Schwann cells or the principal immune role of microglia. A useful answer connects each glial function to the conditions required for reliable neural communication.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 23. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -401,7 +473,11 @@ Microglia Perform phagocytosis Provide immune system function.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glia - Microglia Cell Function** from Lecture 2 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Microglia participate in immune defense and the response to damage within the central nervous system. Phagocytosis allows them to engulf debris and material from damaged or dying cells. Their activation is also associated with inflammatory responses, linking them to the condition of surrounding neural tissue.
+
+The keyed option identifies these immune and clearance functions. It should not be confused with myelin production, which is associated with other glia, or with axonal signal transmission by neurons. Nor does identifying microglia as immune cells imply that every inflammatory response is beneficial. The lecture's central distinction is the specialization of different supporting cell types within a functioning nervous system.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 24. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -422,7 +498,11 @@ Neurotrophic factors: proteins that influence growth, cell differentiation and s
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **What causes the to become the nervous system?** from Lecture 2 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Neurotrophic factors are signaling proteins involved in neuronal growth, differentiation, survival, and formation of connections. Their importance is developmental and maintenance-related: a neuron must establish and sustain appropriate relationships with target tissues, not merely generate electrical impulses.
+
+The lecture uses nerve growth factor as an example of a signal from target tissues that helps guide and support growing axons. This connects cellular development to potential pharmacological targets. A drug might influence neural function by altering support or plasticity rather than by immediately opening an ion channel. The keyed option identifies this class of regulatory signals; it does not mean that a single growth factor specifies the entire nervous system by itself.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 25. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -443,7 +523,11 @@ Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to th
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Spinal nerves (peripheral)** from Lecture 2 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Spinal nerves contain both incoming and outgoing pathways, which is why they are called mixed nerves. Sensory **afferents** carry information toward the spinal cord; the lecture places their cell bodies in dorsal root ganglia. Motor **efferents** carry output toward muscles, with motor-neuron cell bodies in the ventral horn.
+
+Use direction as the organizing principle: afferent information arrives at the central nervous system, while efferent commands exit toward effectors. The distinction is not between “electrical” and “chemical” nerves. Both participate in neural signaling. The key correctly identifies the sensory component, but a complete account includes the motor component and recognizes that a mixed nerve is a bundle containing different fibers.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 27. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -464,7 +548,11 @@ Autonomic nerves innervate smooth muscles; control digestion, blood pressure, bo
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Autonomic nervous system (peripheral)** from Lecture 2 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The autonomic nervous system regulates internal organs and glands. Sympathetic activity becomes prominent during energy-demanding conditions such as stress or exertion; parasympathetic activity supports conservation and maintenance functions. The lecture distinguishes these divisions by origin, ganglion location, transmitter use, and typical physiological roles.
+
+In its standard sympathetic pathway, acetylcholine is released at a ganglion and norepinephrine at the target organ. Do not mistake this two-neuron chain for a single neuron changing its transmitter midway along an axon. Also distinguish autonomic output from somatic motor control of skeletal muscles. The key describes coordinated regulation of the internal environment, which helps explain why a drug acting on a transmitter system can produce peripheral side effects.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 28. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -485,7 +573,11 @@ Meninges: layers of tissue that cover and protect brain and spinal cord. Dura ma
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The meninges – protecting your brain** from Lecture 2 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The meninges are protective tissue layers associated with the brain and spinal cord. From outside inward, the lecture identifies the tough dura mater, the arachnoid, and the thin pia mater closely associated with neural tissue. Cerebrospinal fluid occupies the subarachnoid space and also circulates through internal fluid-filled spaces.
+
+The keyed option correctly describes the dura as the outermost tough layer. Distinguish these protective coverings from brain regions, glial cells, and the blood–brain barrier. All contribute to the nervous system's environment, but through different structures. The connection to pharmacology is anatomical: delivery into an epidural space and delivery into cerebrospinal fluid are not the same location.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 29. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -506,7 +598,11 @@ The lecture treats **Glia – Ependymal Cells** as a key concept that should be 
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Glia – Ependymal Cells** from Lecture 2 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The ependymal-cell slide belongs to the discussion of the brain's fluid spaces rather than axonal insulation or immune defense. The relevant association is with the lining of the ventricular system. The adjacent lecture material identifies the choroid plexus as the source of cerebrospinal fluid, which fills ventricles and surrounds the brain and spinal cord.
+
+When reviewing the source image, distinguish a cell bordering a fluid-filled cavity from a cell wrapping an axon. This is the anatomical contrast the question should test. The existing keyed option merely labels ependymal cells and gives no functional statement, so it cannot serve as a complete explanation of their role. Avoid inferring additional details from that placeholder alone.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 30. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -527,7 +623,11 @@ The lecture treats **Developmental origins of the CNS** as a key concept that sh
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Developmental origins of the CNS** from Lecture 2 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The developmental diagram organizes adult structures by their embryological origins. The neural tube gives rise to the spinal cord and major brain divisions. The forebrain includes the telencephalon and diencephalon; the midbrain corresponds to the mesencephalon; hindbrain divisions include the metencephalon and myelencephalon.
+
+This is an organizational map, not a claim that adult functions are isolated into independent boxes. The lecture stresses overlapping functions and hierarchical organization. Use the map to connect structures already encountered: cortex belongs to the telencephalon, thalamus and hypothalamus to the diencephalon, and pons and cerebellum to the metencephalon. A useful explanation links developmental names to recognizable adult anatomy.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 32. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -548,7 +648,11 @@ Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Intersection of the spinal cord and the brain** from Lecture 2 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+At the spinal cord–brainstem transition, the lecture distinguishes gray matter containing many neuronal cell bodies from white matter composed largely of myelinated axons. It then emphasizes the medulla and other brainstem structures, through which major sensory, motor, and regulatory pathways pass.
+
+The medulla's roles in respiration, cardiovascular control, and protective reflexes explain why damage there can have especially serious consequences. This also gives pharmacological meaning to the location of opioid-sensitive mechanisms affecting breathing. The key identifies anatomical organization and continuity; it is not simply a contrast between an important brain and an unimportant spinal cord. Both contain essential circuits and communication pathways.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 33. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -569,7 +673,11 @@ activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The reticular formation The reticular formation (aka reticular** from Lecture 2 (source page 34). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The reticular formation is a distributed network extending through the brainstem, not a single small sensory relay. The lecture associates it with arousal, wakefulness, attention, and sleep. These functions regulate the state in which other neural systems process information and generate behavior.
+
+Its widespread influence explains why severe injury can disrupt consciousness and basic functioning. Do not interpret “reticular activating system” as meaning that the whole network performs only excitation or that it handles only one sensory modality. The key's emphasis is on regulation of behavioral state. This provides a foundation for understanding why drugs affecting arousal systems can change the person's overall responsiveness rather than only a specific movement or sensation.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 34. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -590,7 +698,11 @@ Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrin
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Metencephalon 35** from Lecture 2 (source page 35). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture introduces brainstem nuclei by linking a location, a transmitter, and broad projections. The locus coeruleus is associated with norepinephrine and regulation of arousal, vigilance, and attention. Raphe nuclei are associated with serotonin and multiple functions, including sleep and emotional or behavioral regulation.
+
+The key therefore concerns **modulatory projection systems**: relatively localized groups of cell bodies can influence many forebrain regions. This differs from saying that norepinephrine exists only in the locus coeruleus or that serotonin has one behavioral effect. Keep these systems separate from the cerebellum's sensorimotor integration and from midbrain dopamine pathways. Later lectures build on this anatomical framework.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 35. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -611,7 +723,11 @@ Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with resp
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mesencephalon Tectum:** from Lecture 2 (source page 37). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The tectum is the dorsal midbrain region containing the superior and inferior colliculi. In the lecture's account, superior colliculi link visual information with orienting eye movements, while inferior colliculi participate in auditory processing and orientation. These structures help coordinate responses to sensory events.
+
+The important contrast is with the tegmentum, which contains structures emphasized for pain modulation and dopamine pathways. Do not reverse the visual–auditory pairing, and do not assume that all useful sensory processing requires conscious identification of the stimulus. The slide's reference to processing outside conscious access emphasizes orienting functions rather than claiming that the colliculi replace the entire visual or auditory system.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 37. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -632,7 +748,11 @@ Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; importa
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Mesencephalon Tegmentum:** from Lecture 2 (source page 38). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The tegmental examples connect anatomy directly to drug mechanisms. The periaqueductal gray participates in pain modulation and is rich in opioid receptors. The substantia nigra contains dopamine neurons projecting to the striatum, while the ventral tegmental area supplies other dopamine projections, including the mesolimbic pathway.
+
+The keyed option correctly associates the first two structures with their functions. The contrast with the tectum matters: superior and inferior colliculi concern sensory orienting, not the same opioid and dopamine systems. Avoid treating all dopamine neurons as interchangeable. A transmitter's behavioral role depends partly on the origin and targets of its pathway, which is why anatomical location is essential to psychopharmacological reasoning.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 38. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -653,7 +773,11 @@ The thalamus and hypothalamus.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Diencephalon Comprised of two structures:** from Lecture 2 (source page 39). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+For the course's introductory organization, the diencephalon is presented through the thalamus and hypothalamus. The thalamus participates in communication with sensory and other systems and has extensive reciprocal connections with cortex. The hypothalamus is associated with internal regulation, motivated behaviors, and the endocrine system through the pituitary.
+
+The keyed pair therefore identifies a brain division rather than two structures with identical functions. Do not substitute pons and cerebellum, which belong to the metencephalon in this scheme, or cortex and basal ganglia, which are discussed within the telencephalon. The most useful memory is the combination of regional membership and contrasting functional emphasis, not the regional name alone.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 39. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -674,7 +798,11 @@ Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Diencephalon Thalamus:** from Lecture 2 (source page 40). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Calling the thalamus a relay center is helpful but incomplete. It receives inputs from sensory and other systems and communicates extensively with cortex. The lecture stresses that communication is reciprocal: substantial information also travels from cortex back to thalamus.
+
+This changes the interpretation from a one-way delivery station to participation in interacting circuits. The keyed option includes both the familiar relay description and the qualification about corticothalamic loops. The hypothalamus has a different emphasis, including endocrine and homeostatic regulation. When answering, explain why reciprocal connections matter: information processing depends on continuing interaction between regions, not only on a signal being passed once along a fixed chain.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 40. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -695,7 +823,11 @@ Not just the cortex, but also the underlying structures Damage here is wide-rang
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Telencephalon The largest division of the human brain** from Lecture 2 (source page 42). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The telencephalon includes the cerebral cortex and important underlying structures. In the course's organization, these include the basal ganglia and structures grouped into limbic circuits. Consequently, telencephalic functions extend beyond conscious perception or the visible folded surface of the brain.
+
+The keyed option guards against equating “telencephalon” with “cortex.” Depending on which structures and pathways are affected, damage can influence movement, memory, motivation, emotion, or higher-order cognition. A broad regional label alone does not predict one uniform symptom. Relate the large division to its component structures and their connections, rather than assigning every function to the cortex simply because it is especially prominent in humans.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 42. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -716,7 +848,11 @@ Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system inte
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Limbic System** from Lecture 2 (source page 43). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The lecture groups structures involved in emotional responses, motivated behavior, and learning under the limbic-system discussion. The hippocampus is associated with forming new long-term memories and spatial memory. The amygdala helps coordinate components of emotional responses through its connections with other areas.
+
+The keyed statement captures this integration of functions. It does not mean that one isolated structure “contains emotion,” or that the hippocampus stores every kind of memory. The accompanying basal-ganglia discussion adds movement and motivation. The useful psychopharmacological lesson is that changing one transmitter system can affect connected functions across a network, so behavior is better explained through interacting circuits than through single-label brain regions.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 43. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -737,7 +873,11 @@ Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulc
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Cerebral Cortex** from Lecture 2 (source page 44). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The cortical surface is folded into gyri separated by sulci, with especially deep grooves called fissures. These terms describe the surface pattern, while the corpus callosum is a major pathway connecting the two hemispheres. Confusing them mixes visible morphology with interregional communication.
+
+The lecture also distinguishes primary, secondary, and higher-order association processing. This provides a way to connect cortical regions to increasingly integrated aspects of perception and action. The keyed option correctly pairs the anatomical terms. A groove is not itself a separate neurotransmitter pathway, and the corpus callosum is not another cortical lobe. Describe what a structure is before explaining the type of processing it supports.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 44. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -758,7 +898,11 @@ Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondar
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **• Frontal lobe: primary motor cortex** from Lecture 2 (source page 45). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+Different frontal regions contribute to different aspects of action. The primary motor cortex is closely associated with execution of voluntary movement, while other motor areas contribute to organized, learned sequences. The prefrontal cortex is emphasized for planning, decision-making, and evaluating alternative strategies.
+
+The key connects these functions without treating the frontal lobe as a single undifferentiated motor center. A person can have difficulty choosing or organizing an action without simply being unable to contract a muscle. This distinction matters when interpreting psychiatric symptoms or drug effects on behavior. The lecture's broad statement about prefrontal involvement in disorders should not be read as a diagnosis based on one task or one brain region alone.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 45. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -779,7 +923,11 @@ The rat does not resemble you. You resemble the rat.
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **The rat does not resemble you.** from Lecture 2 (source page 47). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The closing slogan should be interpreted alongside the preceding comparison, not as a literal claim that humans developed from present-day rats. The lecture's substantive point is that mammalian brains share major subdivisions and broad organizational features, even though the relative sizes and elaboration of those regions differ.
+
+Rats have relatively prominent olfactory structures, while human cerebral hemispheres are more extensively developed and folded. These similarities support the use of animal models for some neural mechanisms; the differences limit simple one-to-one extrapolation. The keyed slogan by itself supplies no mechanism or evidence. An adequate explanation must identify both the conserved organization and the relevant species differences.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 47. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -800,7 +948,11 @@ Embryonic stem cells differentiate into specialized neural cells:. Neurons: tran
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Origin of the cells of the nervous system** from Lecture 2 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The origin question concerns how unspecialized cells acquire distinct neural roles. Differentiation produces neurons with signaling functions and glia with specialized supporting functions. This explains why a nervous system contains multiple cell classes rather than a collection of identical conducting cells.
+
+Anatomy describes the mature structures through which those roles are carried out: dendrites receive inputs, axons transmit outputs, and glia can provide insulation or metabolic support. The keyed option belongs to developmental classification, not the labeling of a mature neuron's parts. Connect the two levels by explaining that specialization results in structures suited to a function, while recognizing that a cell's origin and a diagram of its final anatomy answer different questions.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -821,7 +973,11 @@ Soma: cell body. Dendrites: receive information from other cells across the syna
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Anatomy a neuron** from Lecture 2 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The keyed description identifies the soma and dendrites, so it is an anatomical account of a neuron. Their roles fit into a broader sequence: incoming signals reach receiving surfaces, are integrated, and can lead to an outgoing axonal action potential. The soma also supplies metabolic and synthetic support.
+
+By contrast, the origin of neural cells concerns differentiation into cell classes, and convergence concerns the pattern of connections between cells. These are related but distinct levels of analysis. A neuron can have the same named anatomical parts as another neuron while receiving different inputs and projecting to different targets. The answer is strongest when each structural label is tied to its immediate functional role.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 3. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -842,7 +998,11 @@ Dendrites and soma have thousands of receptors that respond to chemical signals;
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-The question targets **Integration: Dendrites and soma** from Lecture 2 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+The focus here is how receiving surfaces participate in a network. Dendrites and the soma possess receptors for signals from other neurons, and many inputs can converge on one cell. Their combined effects influence whether the cell reaches the threshold for an outgoing action potential.
+
+The keyed option therefore goes beyond naming anatomical parts: it explains reception and integration. Divergence describes the opposite organizational direction, one cell influencing several targets, often through axonal branches. Keep input number separate from input effect. Many inputs can include both excitation and inhibition, so more synapses do not automatically imply more firing. The receptor actions and their timing must also be considered.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 4. Supporting reading: Meyer et al. (2023), Chapter 2.
 
 **Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
@@ -860,7 +1020,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The soma supports the neuron's metabolic and synthetic needs and contains the nucleus. Within the nucleus, genes provide information used to produce proteins. Transcription factors influence which genes are transcribed and at what rate. During transcription, a complementary RNA message is produced; during translation, ribosomes use that message to assemble a protein.
+
+Connect this to neuronal function by giving examples of protein products: receptors influence responsiveness, enzymes support transmitter synthesis and metabolism, and channels and transporters control membrane processes. Proteins needed at distant terminals can then be delivered through axoplasmic transport. Thus, the soma's role is not separate from signaling; it supplies much of the machinery that makes signaling possible. A good answer distinguishes the location of transcription from the location of translation and explains how changes in expression can alter later neural responses without requiring an immediate change in the DNA sequence.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 6. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 2 — The squid giant axon {#l02-sa02}
@@ -874,7 +1040,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The squid giant axon is used in the source material as an accessible preparation for studying the electrical properties of a neuron. The key measurement compares voltage inside the axon with an external reference. An electrode outside compared with another outside does not measure the transmembrane difference; placing one electrode inside allows that difference to be recorded.
+
+Connect the preparation to resting potential by explaining why the interior is negative relative to the exterior under resting conditions. Unequal ion distributions, selective membrane permeability, and maintenance of gradients are central. Then connect it to excitability: changing membrane conductances can produce local voltage changes and, at threshold, an action potential. The question does not require biographical detail about the researchers or unsupported historical claims. It requires an explanation of how a physical preparation makes a cellular electrical phenomenon measurable. The existing answer is a topic placeholder rather than a model response.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 11. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 3 — Characteristics of the postsynaptic potential {#l02-sa03}
@@ -888,7 +1060,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Postsynaptic potentials are graded: stronger synaptic input can produce a larger local voltage change. They decay with time and distance and can summate. Inputs close together in time support temporal summation; inputs arriving from different locations support spatial summation. Excitatory and inhibitory changes jointly influence the membrane near the action-potential initiation region.
+
+The connection to firing is a threshold transition. If the combined depolarization reaches threshold, voltage-gated sodium channels generate an all-or-none spike. A local potential need not produce a spike, and a larger local potential does not simply become a proportionally larger spike. Instead, the pattern of input can change whether and how frequently spikes occur. Explain this sequence explicitly: **synaptic input → local conductance change → graded potential → integration → threshold or no threshold**. This is also why a drug acting at a synapse can alter firing indirectly without itself being a voltage-gated sodium-channel blocker.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 16. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 4 — Glia – Schwann Cells and Oligodendrocytes Cell Function {#l02-sa04}
@@ -902,7 +1080,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Schwann cells and oligodendrocytes both form myelin, but in different divisions of the nervous system. Schwann cells serve peripheral axons, whereas oligodendrocytes form myelin around central axons. The lecture also contrasts their relationships to regeneration after injury. Myelin supports rapid conduction by allowing action potentials to be regenerated at nodes rather than continuously along the entire axon.
+
+Relate this to sodium-channel-blocking drugs by distinguishing two ways conduction can fail. Myelin disruption impairs the structural conditions for efficient propagation, whereas a channel blocker prevents or modifies the ionic events needed to regenerate an action potential. Both can interfere with transmission, but their immediate mechanisms differ. A complete answer should therefore name the cell type and location, explain the role of myelin and nodes, and then compare structural insulation with channel availability. Neither explanation requires assuming that the drug directly destroys the myelin sheath.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 21. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 5 — Organization of the Nervous System {#l02-sa05}
@@ -916,7 +1100,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Begin with the central nervous system, consisting of brain and spinal cord, and the peripheral nervous system, which connects central circuits with the rest of the body. Within the peripheral system, distinguish somatic pathways associated with sensory input and skeletal-muscle control from autonomic pathways regulating organs and glands.
+
+Spinal nerves illustrate how these divisions communicate. Sensory afferents carry information toward the spinal cord, while motor efferents carry output away toward muscles. Because a spinal nerve contains both, it is a mixed nerve. Their cell bodies and entry or exit relationships are not identical: the lecture identifies dorsal root ganglia for sensory neurons and the ventral horn for somatic motor neurons. Connect the organizational diagram to a functional sequence of sensing, central processing, and responding. Avoid equating peripheral with unimportant or assuming that every cranial nerve contains the same mixture of fibers as a spinal nerve.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 26. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 6 — Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological {#l02-sa06}
@@ -930,7 +1120,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The neural tube develops into the spinal cord and major brain divisions. Use the developmental map to organize adult structures: forebrain divisions include telencephalon and diencephalon, the midbrain is the mesencephalon, and hindbrain divisions include metencephalon and myelencephalon. Within these regions, nuclei are clusters of cell bodies and tracts are bundles of axons.
+
+The functional connection is hierarchical but overlapping organization. Later or more elaborated regions do not eliminate the functions of other levels; they participate in more complex regulation and behavioral control. For example, cortical planning still depends on pathways connecting to motor and brainstem systems. The prompt repeats the developmental-origin topic rather than specifying a separate comparison, so the clearest response links the embryological scheme to recognizable adult structures and communication pathways. Do not turn the map into a rigid claim that each psychological function belongs exclusively to one developmental compartment.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 31. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 7 — Metencephalon {#l02-sa07}
@@ -944,7 +1140,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 36. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The metencephalon includes the pons and cerebellum. The cerebellum combines sensory information, including body position and balance, with motor-related information, helping coordinate movement. Its connections with the pons and other regions make it part of a broader sensorimotor network rather than an isolated source of muscle commands.
+
+The tectum belongs to the mesencephalon and contains the superior and inferior colliculi. The lecture emphasizes visual orienting for the superior colliculi and auditory-related orientation for the inferior colliculi. Their connection is functional rather than anatomical identity: sensory events can guide orientation, while cerebellar processing helps coordinate the resulting behavior. A strong comparison identifies the correct division, the named structures, and their differing contributions. Avoid treating both regions simply as “movement centers”; explain the kind of information each emphasizes and how sensory input can be linked to organized motor output.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 36. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 8 — Diencephalon Hypothalamus: {#l02-sa08}
@@ -958,7 +1160,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 41. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The hypothalamus belongs to the diencephalon and integrates neural regulation with endocrine function through its relationship with the pituitary. The lecture associates its many nuclei with functions such as feeding, sleep–wake regulation, sexual behavior, and aggression. These examples link internal physiological conditions with motivated behavior.
+
+The telencephalon includes the cortex and underlying structures involved in memory, emotion, movement, and motivation. Its connection to hypothalamic functions is through interacting systems: behavior depends on both internal-state regulation and the processing of environmental information, memories, and possible actions. Do not describe the hypothalamus as the whole endocrine system or the telencephalon as only the cortical surface. The answer should distinguish their anatomical membership and main functional emphases, then explain why neither acts alone in producing organized behavior. The broad course framing supports an integration argument, not a one-region explanation of every motivated act.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 41. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 9 — Human vs. rat brains {#l02-sa09}
@@ -972,7 +1180,13 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 46. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+The lecture supports comparison through shared organization and differences in relative development. Human and rat brains contain the same major mammalian subdivisions, which makes comparisons of some circuits and drug mechanisms possible. However, the proportions of those subdivisions differ. The source emphasizes relatively prominent olfactory structures in rats and larger, more folded cerebral hemispheres in humans.
+
+Interpret the final slogan in that context: it encourages recognition of conserved biological organization, not a literal claim that humans descend from living rats. The practical connection is to animal models. A conserved receptor or circuit can support useful investigation, but similarity does not establish identical behavior, dosing, or clinical response across species. A good answer explains both why comparison is informative and why extrapolation has limits. Simply saying that one species has a larger brain misses the more important issue of how different components are organized and proportioned.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 46. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
 ### Short Essay 10 — Integration: Origin of the cells of the nervous system and Anatomy a neuron {#l02-sa10}
@@ -986,6 +1200,12 @@ A strong response should define the focal concept, explain the mechanism or evid
 :::
 
 ::: {.callout-note .question-explanation collapse="true" title="Explanation"}
-This item covers Lecture 2, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+Cell origin and neuronal anatomy describe different stages of explanation. Origin concerns how embryonic cells differentiate into specialized neurons and glia. Anatomy concerns the structures through which a differentiated neuron receives information, maintains itself, and sends signals: dendrites, soma, axon, and terminals.
+
+Connect the two by showing how specialization produces a functional arrangement. Dendrites provide receiving surfaces, the soma supplies metabolic and protein-synthesis machinery, and the axon communicates with distant targets. Glial specialization contributes support and, in some cell types, myelination that improves conduction. The relationship is therefore **development of specialized cell types → organization of cellular structures → neural function**. Avoid implying that all nervous-system cells are neurons or that every neuron has exactly the same shape. Shared structural principles can support different roles depending on a cell's connections and specialized properties.
+
+**Source:** Lecture 2 presentation, original topic anchor at PDF p. 2. Supporting reading: Meyer et al. (2023), Chapter 2.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
 :::
 
