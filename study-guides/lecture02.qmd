@@ -1,0 +1,551 @@
+---
+title: "Lecture 2 — Structure and Function of the Nervous System"
+---
+
+## How to use this guide
+
+The Lecture 2 presentation defines the examinable scope. Meyer Chapter 2 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Origin of the cells of the nervous system → Anatomy a neuron → Dendrites and soma → Axons and terminals → The cell body (soma) → Central dogma of molecular biology → Regulation of gene transcription → Where do the proteins go? → What do the proteins do? → The squid giant axon → Electrical properties of the neuron Resting membrane potential → The membrane potential → …
+</div>
+
+## Textbook anchors
+
+- Neurons and glia
+- Neuronal membranes and ion channels
+- Resting and local membrane potentials
+- Action potentials and myelination
+- Central and peripheral nervous systems
+- Autonomic nervous system
+- Major brain divisions and cortical organization
+
+## Supplementary Web Boxes
+
+- Web Box 2.1 Clincal Applications_ Epilepsy
+
+## Lecture concepts
+
+### 1. Origin of the cells of the nervous system
+
+Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+
+**What to know:**
+- Embryonic stem cells differentiate into specialized neural cells:
+- Neurons: transmit information in the form of electrical signaling
+- Glial cells: provide metabolic support, protection, and insulation
+- Sensory neurons: convert physical stimuli into electrical signals
+- Motor neurons: direct biobehavioral responses appropriate for the situation.
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Anatomy a neuron
+
+Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+
+**What to know:**
+- Soma: cell body
+- Dendrites: receive information from other cells across the synapse between them
+- Axon: conducts signal (generated at the axon hillock) from cell body to axon terminal
+- Like other cells, nerve cells have a cell membrane, cytoplasm, nucleus, mitochondria, and are bathed in extracellular fluid.
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Dendrites and soma
+
+Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+
+**What to know:**
+- Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory
+- Convergence: each neuron receives/integrates information from many cells
+- Divergence: information may be transmitted to a few or thousands of other neurons
+- Dendritic spines increase the receiving surface area
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Axons and terminals
+
+Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+
+**What to know:**
+- Axons transmit electrical signals from the axon hillock to the terminals.
+- Axons may branch to form axon collaterals.
+- Terminal buttons have synaptic vesicles containing neurotransmitter chemicals.
+- Most axons are wrapped with myelin sheath, a fatty insulating coating created by layers of glial cells. Nodes of Ranvier are breaks in the myelin sheath, where action potentials are regenerated.
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. The cell body (soma)
+
+Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+**What to know:**
+- Soma: performs most metabolic functions
+- Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+- Transcription factors: proteins that promote or obstruct formation of mRNAs by binding to the promoter region of the gene, modifying its rate of transcription
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Central dogma of molecular biology
+
+Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+
+**What to know:**
+- Transcription: production of complementary mRNA from DNA; takes place in nucleus
+- Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm
+- Epigenetics: control of gene expression by chromosome modifications that don’t affect the DNA code
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Regulation of gene transcription
+
+Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+
+**What to know:**
+- Epigenetic modifications:
+- DNA Methylation: attachment of methyl groups
+- Chromatin remodeling: Chemical modification of histone tails promotes or prevents transcription and changes gene expression.
+- Epigenetic modification can occur in response to environmental factors (or drugs).
+- Epigenetic changes may help explain addictions and aspects of neurological and psychiatric disorders.
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Where do the proteins go?
+
+Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+
+**What to know:**
+- Axoplasmic transport: proteins made in the soma must be transported to the axon terminals
+- Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape
+- Microtubules form a track for protein transport to the axon terminals, and back.
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. What do the proteins do?
+
+Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+
+**What to know:**
+- Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters
+- Most ion channels are gated channels:
+- Ligand-gated channel: opens when a ligand binds to a receptor
+- Voltage-gated channel: opens when electrical potential across the membrane is altered
+- Some ion channels are modified by second messengers
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. The squid giant axon
+
+The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Electrical properties of the neuron Resting membrane potential
+
+What is the membrane potential?. How is it measured?.
+
+**What to know:**
+- What is the membrane potential?
+- How is it measured?
+- Why is it important?
+- Hodgkins and Huxley
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. The membrane potential
+
+Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+
+**What to know:**
+- Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized.
+- Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in
+- The Na+–K+ pump helps maintain the ion distribution.
+- Action potential: rapid change in membrane potential that is propagated down the length of the axon
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Ionic basis of the membrane potential
+
+The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Post synaptic potentials Local Potentials Are Small,
+
+Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+
+**What to know:**
+- Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory)
+- Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory)
+- Neurotransmitters act on the postsynaptic membranes; effects are called excitatory postsynaptic potentials (EPSPs) or inhibitory postsynaptic potentials (IPSPs).
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Characteristics of the postsynaptic potential
+
+Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+
+**What to know:**
+- Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization.
+- Decay rapidly
+- Summation (integration): several small depolarizations or hyperpolarizations can add up to larger changes in membrane potential
+- Integration of EPSPs and IPSPs occurs in the axon hillock
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-
+
+When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+
+**What to know:**
+- When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV.
+- Action potential lasts about 1 millisecond.
+- Na+ channels close and cannot be opened for a fixed period—the absolute refractory period (also see relative refractory period).
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Ionic basis of the action potential
+
+The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-
+
+Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+
+**What to know:**
+- Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential.
+- Membrane is briefly hyperpolarized—the relative refractory period
+- Saltatory conduction: in myelinated axons, regeneration of the action potential occurs only at nodes of Ranvier; faster transmission; uses less energy for Na+–K+ pumps
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. The benefit of myleniation
+
+The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Glia – Schwann Cells and Oligodendrocytes Cell Function
+
+Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+
+**What to know:**
+- Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Drugs can alter electrical conduction in neurons
+
+Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+
+**What to know:**
+- Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels
+- Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+- Neurotoxins such as saxitoxin in shellfish exposed to red tides block Na+ channels throughout the nervous system, because the neurotoxin is ingested.
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Glia - Astrocytes Cell Function
+
+Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+
+**What to know:**
+- Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Glia - Microglia Cell Function
+
+Microglia Perform phagocytosis Provide immune system function.
+
+**What to know:**
+- Microglia Perform phagocytosis Provide immune system function
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 24. What causes the to become the nervous system?
+
+Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+
+**What to know:**
+- Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections
+- NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs
+- BDNF (brain-derived neurotrophic factor): from skeletal muscle; guides motor neuron development and survival.
+- Schwann cells release growth factor to regenerate damaged axons.
+- Neurotrophic factors are potential drug targets.
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 25. Organization of the Nervous System
+
+The lecture treats **Organization of the Nervous System** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 26. Spinal nerves (peripheral)
+
+Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+
+**What to know:**
+- Spinal nerves are mixed nerves:
+- Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+- Motor efferent nerves result in voluntary movement; soma are in ventral horn.
+- Cranial nerves serve head and neck; not all are mixed nerves; some innervate glands and organs
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 27. Autonomic nervous system (peripheral)
+
+Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions. Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord.
+
+**What to know:**
+- Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions.
+- Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord
+- Parasympathetic division dominates when energy reserves can be conserved and stored for later use. Parasympathetic nerves originate in the brain and sacral spinal cord; release acetylcholine; ganglia are near target organs
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 28. The meninges – protecting your brain
+
+Meninges: layers of tissue that cover and protect brain and spinal cord. Dura mater: outermost layer; toughest.
+
+**What to know:**
+- Meninges: layers of tissue that cover and protect brain and spinal cord
+- Dura mater: outermost layer; toughest
+- Arachnoid: has a weblike sublayer (subarachnoid space) filled with cerebrospinal fluid (CSF)
+- Pia mater: thin layer on top of nerve tissue
+- CSF surrounds brain and spinal cord, fills cerebral ventricles and central channel in the spinal cord; produced in the choroid plexus
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 29. Glia – Ependymal Cells
+
+The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 30. Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological
+
+CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+
+**What to know:**
+- CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord
+- Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+- Each region is divided into clusters of cell bodies (nuclei), and their associated bundles of axons (tracts).
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 31. Developmental origins of the CNS
+
+The lecture treats **Developmental origins of the CNS** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 32. Intersection of the spinal cord and the brain
+
+Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation. Many cranial nerves originate in the brain stem.
+
+**What to know:**
+- Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation
+- Many cranial nerves originate in the brain stem.
+- Medulla (myelencephalon): regulates heart rate, digestion, respiration, blood pressure, coughing, vomiting
+- Doctors reluctant to perform surgery here
+- Opioid receptors
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 33. The reticular formation The reticular formation (aka reticular
+
+activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal.
+
+**What to know:**
+- activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 34. Metencephalon 35
+
+Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+
+**What to know:**
+- Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention
+- Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 35. Metencephalon
+
+Cerebellum: sensorimotor center. Connects to pons by axon bundles called cerebellar peduncles.
+
+**What to know:**
+- Cerebellum: sensorimotor center
+- Connects to pons by axon bundles called cerebellar peduncles
+- Receives visual, auditory, and somatosensory input, and information about body position and balance from the vestibular system
+- Coordinates sensory information with motor information from the cerebral cortex
+- 10% of brain volume, 50% of neurons
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 36. Mesencephalon Tectum:
+
+Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access.
+
+**What to know:**
+- Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 37. Mesencephalon Tegmentum:
+
+Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding. Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+
+**What to know:**
+- Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding.
+- Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+- Ventral tegmental area (VTA): use dopamine; some axons extend into limbic system—the mesolimbic tract.
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 38. Diencephalon Comprised of two structures:
+
+The thalamus and hypothalamus.
+
+**What to know:**
+- The thalamus and hypothalamus
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 39. Diencephalon Thalamus:
+
+Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+
+**What to know:**
+- Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 40. Diencephalon Hypothalamus:
+
+Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more.
+
+**What to know:**
+- Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral nervous systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 41. Telencephalon The largest division of the human brain
+
+Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course.
+
+**What to know:**
+- Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course
+
+**Meyer connection:** Review the chapter discussion of **autonomic nervous system** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 42. Limbic System
+
+Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system integrates emotional responses and regulates motivated behavior and learning.
+
+**What to know:**
+- Telencephalon: cerebral cortex, limbic system, basal ganglia.
+- Limbic system integrates emotional responses and regulates motivated behavior and learning.
+- Hippocampus: closely associated with establishment of new long-term memories and spatial memory
+- Amygdala: coordinates various components of emotional responses through profuse connections with other brain areas
+- Basal ganglia are involved in motor control and motivation. Basal ganglia
+
+**Meyer connection:** Review the chapter discussion of **major brain divisions and cortical organization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 43. Cerebral Cortex
+
+Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri). Corpus callosum: neural pathway that connects the hemispheres.
+
+**What to know:**
+- Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri).
+- Corpus callosum: neural pathway that connects the hemispheres.
+- Each hemisphere has four lobes (parietal, occipital, temporal, frontal) Each lobe has:
+- Primary cortex: conscious awareness of sensory experience and initial processing
+- Secondary cortex: analyzes information from primary areas, providing perception of the stimulus. Also where memories are stored.
+
+**Meyer connection:** Review the chapter discussion of **neurons and glia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 44. • Frontal lobe: primary motor cortex
+
+Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+
+**What to know:**
+- Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences
+- Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex
+
+**Meyer connection:** Review the chapter discussion of **neuronal membranes and ion channels** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 45. Human vs. rat brains
+
+All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+
+**What to know:**
+- All mammalian brains have the same major subdivisions, organized similarly.
+- Relative size of the brain regions differs.
+- Rats have larger olfactory bulbs - sense of smell is more important
+- Cerebral hemispheres are much larger in humans; larger surface area because of convolutions. rat cerebral cortex is smooth and has no gyri or fissures Human vs. rat brains
+
+**Meyer connection:** Review the chapter discussion of **resting and local membrane potentials** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 46. The rat does not resemble you.
+
+The rat does not resemble you. You resemble the rat.
+
+**What to know:**
+- The rat does not resemble you. You resemble the rat.
+
+**Meyer connection:** Review the chapter discussion of **action potentials and myelination** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Origin of the cells of the nervous system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Anatomy a neuron** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dendrites and soma** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Axons and terminals** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The cell body (soma)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Central dogma of molecular biology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Regulation of gene transcription** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Where do the proteins go?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What do the proteins do?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The squid giant axon** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Electrical properties of the neuron Resting membrane potential** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The membrane potential** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ionic basis of the membrane potential** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Post synaptic potentials Local Potentials Are Small,** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Characteristics of the postsynaptic potential** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ionic basis of the action potential** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The benefit of myleniation** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glia – Schwann Cells and Oligodendrocytes Cell Function** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drugs can alter electrical conduction in neurons** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glia - Astrocytes Cell Function** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glia - Microglia Cell Function** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What causes the to become the nervous system?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Organization of the Nervous System** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Spinal nerves (peripheral)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Autonomic nervous system (peripheral)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The meninges – protecting your brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glia – Ependymal Cells** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Developmental origins of the CNS** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Intersection of the spinal cord and the brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The reticular formation The reticular formation (aka reticular** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metencephalon 35** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metencephalon** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mesencephalon Tectum:** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mesencephalon Tegmentum:** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Diencephalon Comprised of two structures:** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Diencephalon Thalamus:** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Diencephalon Hypothalamus:** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Telencephalon The largest division of the human brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Limbic System** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cerebral Cortex** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **• Frontal lobe: primary motor cortex** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Human vs. rat brains** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The rat does not resemble you.** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

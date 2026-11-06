@@ -1,0 +1,297 @@
+---
+title: "Lecture 15 — Opioids"
+---
+
+## How to use this guide
+
+The Lecture 15 presentation defines the examinable scope. Meyer Chapter 11 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Opioids are narcotic analgesics → Opium has been around for a long time → The structure of opioids determines their pharmacokinetics → The structure of opioids determines their pharmacodynamics → Bioavailability of opioids → A taxonomy of opioids Opiates → Physiological and psychological effects of opioids → Mechanisms of opioid overdose → Opioids are very important in the GI tract → Opioid receptors → Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first) → Where are endogenous opioids produced and released? → …
+</div>
+
+## Textbook anchors
+
+- Opioid pharmacology and bioavailability
+- Opioid receptors and endogenous peptides
+- Spinal and supraspinal analgesia
+- Reward and reinforcement
+- Tolerance, sensitization and dependence
+- Withdrawal
+- Treatment of opioid use disorder
+
+## Supplementary Web Boxes
+
+- Web Box 11.1 Clinical Applications_ Saving a Life_ Harm-Reduction Strategies for Opioid Overdoses
+- Web Box 11.2 Pharmacology in Action_ Opiate Bioassay
+- Web Box 11.3 Of Special Interest_ Opioid Modulation of Feeding
+- Web Box 11.4 The Cutting Edge_ Role of NMDA Receptors in Tolerance and Dependence
+
+## Lecture concepts
+
+### 1. Opioids are narcotic analgesics
+
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+
+**What to know:**
+- Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness
+- vs. anesthetic
+- Greek word “nárkē”: Numbness, torpor, or loss of sensation
+- Create a sense of relaxation and sleep; at high doses can lead to coma and death.
+- They are the best painkillers known; also produce a sense of euphoria that may lead to increased use
+
+**Meyer connection:** Review the chapter discussion of **opioid pharmacology and bioavailability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Opium has been around for a long time
+
+Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+
+**What to know:**
+- Opium: extract of poppy plants; source of the opiate or opioid family of drugs
+- Opiates have been used recreationally and in medicine for thousands of years.
+- Laudanum, an opium-based medicinal drink, was introduced in 1680 in England.
+- Up to the twentieth century, opiates were common in popular remedies. Papaver sominiferum Raw opium latex
+
+**Meyer connection:** Review the chapter discussion of **opioid receptors and endogenous peptides** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. The structure of opioids determines their pharmacokinetics
+
+Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+
+**What to know:**
+- Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine
+- Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics
+- Heroin (diacetylmorphine) is converted to morphine in the brain; when injected it’s more potent because it’s more lipid soluble and reaches the brain faster Cyto P450 Pro-drug Pro-drug Brain esterases
+
+**Meyer connection:** Review the chapter discussion of **spinal and supraspinal analgesia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. The structure of opioids determines their pharmacodynamics
+
+Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+**What to know:**
+- Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence
+- Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids
+- Entirely synthetic opioids may have distinct structures Fentanyl
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Bioavailability of opioids
+
+Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+
+**What to know:**
+- Only a small fraction of morphine crosses the blood–brain barrier.
+- Distribution in periphery is uniform
+- Opioids easily cross the placenta. Newborns can suffer withdrawal symptoms but can be stabilized with low doses of opioids.
+- After metabolism in the liver, most opioid metabolites are excreted in the urine within 24 hours. Morphine Fentanyl (Appelgren et al., 1972)
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. A taxonomy of opioids Opiates
+
+A taxonomy of opioids Opiates Opioids.
+
+**What to know:**
+- A taxonomy of opioids Opiates Opioids
+
+**Meyer connection:** Review the chapter discussion of **withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Physiological and psychological effects of opioids
+
+Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+
+**What to know:**
+- Effects of opioids on the CNS depend on dose and rate of absorption.
+- Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep
+- Some researchers suggest morphine relieves anxiety, aggressiveness, and feelings of inadequacy, which may lead to more drug use (self-medication).
+- At higher doses, there is an abnormal state of elation or euphoria, which acts as a powerful reinforcer. Opioidergic disinhibition of para. brainstem nuclei (pre- ganglionic) Post-ganglionic release of NE (sympathetic)
+
+**Meyer connection:** Review the chapter discussion of **treatment of opioid use disorder** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Mechanisms of opioid overdose
+
+Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+
+**What to know:**
+- Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting.
+- At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+- Morphine acts on the brainstem’s respiratory center; respiratory failure is the ultimate cause of death in overdose. (Bhandari et al., 1992) (Montandon et al., 2011)
+
+**Meyer connection:** Review the chapter discussion of **opioid pharmacology and bioavailability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Opioids are very important in the GI tract
+
+Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+
+**What to know:**
+- Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases.
+- When opioids are used for pain management, constipation is a common side effect.
+- Modified opioid molecules such as loperamide are now used to treat diarrhea
+- Opioid addicts take very high doses of loperamide to produce euphoria and reduce withdrawal symptoms
+- Cardiac toxicity (K+ channels)
+
+**Meyer connection:** Review the chapter discussion of **opioid receptors and endogenous peptides** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Opioid receptors
+
+Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+
+**What to know:**
+- Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors
+- i.e., some kind of structural binding site somewhere
+- Naloxone’s blocking effects can be overcome by increasing concentrations of morphine, showing competition for the receptor
+- Opioid receptors were identified by radioligand binding methods
+- Not long after opioid receptors were identified, the natural neuropeptide ligands that act at the receptors were characterized
+
+**Meyer connection:** Review the chapter discussion of **spinal and supraspinal analgesia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)
+
+Inhibitory (Gi) GPCRs.
+
+**What to know:**
+- Inhibitory (Gi) GPCRs
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Where are endogenous opioids produced and released?
+
+Endogenous opioids are peptides. Small proteins.
+
+**What to know:**
+- Endogenous opioids are peptides
+- Small proteins
+- IHC and ISH Size of dopamine
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. An opioidergic projection for food reward
+
+The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. The ascending pain pathway (anterolateral system)
+
+First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+
+**What to know:**
+- First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex
+- Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN
+
+**Meyer connection:** Review the chapter discussion of **treatment of opioid use disorder** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Inhibition of pain (analgesia) by opioids Opioids inhibit pain transmission at spinal and
+
+Opioid drugs mimic the inhibitory action of endogenous opioids. Opioids reduce transmission of pain signals at the spinal cord in two ways:.
+
+**What to know:**
+- Opioid drugs mimic the inhibitory action of endogenous opioids
+- Opioids reduce transmission of pain signals at the spinal cord in two ways:
+- Descending modulatory pathways - inhibit projection neuron or excitatory interneuron, or excite inhibitory opioid neuron; most important pathway originates in the PAG in the midbrain (direct morphine application)
+- Inhibitory spinal interneurons release endorphins that inhibit activation of spinal projection neurons
+
+**Meyer connection:** Review the chapter discussion of **opioid pharmacology and bioavailability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Supraspinal modulation of pain by opioids
+
+Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain. PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement.
+
+**What to know:**
+- Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain
+- PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement
+
+**Meyer connection:** Review the chapter discussion of **opioid receptors and endogenous peptides** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Opioid addiction
+
+Lot of people who use opioids for pain management become addicted. Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+
+**What to know:**
+- Lot of people who use opioids for pain management become addicted
+- Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+
+**Meyer connection:** Review the chapter discussion of **spinal and supraspinal analgesia** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Opioids are reinforcing and rewarding
+
+Animals will self-administer opioids. Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+
+**What to know:**
+- Animals will self-administer opioids
+- Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+- Opioids cause dopamine release and are therefore reinforcing
+- Will animals still self-administer opioids without dopamine? (Role in aversion)
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. The rewarding properties of opioids DAMGO
+
+Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+
+**What to know:**
+- Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Chronic opioid use results in all the hallmarks of addiction
+
+Tolerance: diminishing effects of a drug with repeated use. Cross-tolerance: related drugs also show reduced effectiveness.
+
+**What to know:**
+- Tolerance: diminishing effects of a drug with repeated use.
+- Cross-tolerance: related drugs also show reduced effectiveness
+- Sensitization: dopamine-dependent process; increase in drug effects with repeated administration; craving increases while liking may decrease
+- Physical dependence: neuroadaptive state in response to long-term occupation of opioid receptors Effect of opioid Withdrawal symptom Analgesia Pain and irritability Respiratory depression Panting and yawning Euphoria Dysphoria and depression Relaxation and sleep Restlessness and insomnia Tranquilization Fearfulness and hostility Decreased blood pressure Increased blood pressure Constipation Diarrhea Pupil constriction Pupil dilation Hypothermia Hyperthermia Drying of secretions Tearing, runny nose Reduced sex drive Spontaneous ejaculation Flushed and warm skin Chilliness and “gooseflesh” Opioid abstinence syndrome Opioids in general depress CNS function; opioid withdrawal is rebound hyperactivity.
+
+**Meyer connection:** Review the chapter discussion of **withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. The anti-reward system of the brain
+
+The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992). Dynorphin at KORs inhibits reward system → dysphoria.
+
+**What to know:**
+- The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992)
+- Dynorphin at KORs inhibits reward system → dysphoria
+- Bed nucleus of striata terminalis (BNST) releases CRF → chronic stress
+- LC releases NA → acute stress
+
+**Meyer connection:** Review the chapter discussion of **treatment of opioid use disorder** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal
+
+Methadone maintenance program: most common and effective treatment for heroin addiction. Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+
+**What to know:**
+- Methadone maintenance program: most common and effective treatment for heroin addiction
+- Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+- Buprenorphine (Buprenex): opioid partial agonist used in the same way as methadone
+- Compared with psychological treatments alone or managed tapering off of opiate use, long-term maintenance with opioid agonists produces better treatment outcomes Pharmacokinetics?
+
+**Meyer connection:** Review the chapter discussion of **opioid pharmacology and bioavailability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Opioids are narcotic analgesics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opium has been around for a long time** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The structure of opioids determines their pharmacokinetics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The structure of opioids determines their pharmacodynamics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Bioavailability of opioids** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **A taxonomy of opioids Opiates** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Physiological and psychological effects of opioids** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mechanisms of opioid overdose** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opioids are very important in the GI tract** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opioid receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Where are endogenous opioids produced and released?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **An opioidergic projection for food reward** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The ascending pain pathway (anterolateral system)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Inhibition of pain (analgesia) by opioids Opioids inhibit pain transmission at spinal and** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Supraspinal modulation of pain by opioids** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opioid addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opioids are reinforcing and rewarding** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The rewarding properties of opioids DAMGO** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Chronic opioid use results in all the hallmarks of addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The anti-reward system of the brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

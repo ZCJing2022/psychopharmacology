@@ -1,0 +1,599 @@
+---
+title: "Lecture 5 Practice — Catecholamines I — Dopamine"
+toc-depth: 2
+---
+
+**24 multiple-choice questions** and **6 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — What is a catecholamine? {#l05-mc01}
+
+Which statement best matches the lecture discussion of **What is a catecholamine?**?
+
+- **A.** Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+- **B.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+- **C.** Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+- **D.** Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What is a catecholamine?** from Lecture 5 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 2 — The biosynthetic pathway for catecholamines {#l05-mc02}
+
+Which statement best matches the lecture discussion of **The biosynthetic pathway for catecholamines**?
+
+- **A.** DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+- **B.** Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+- **C.** Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+- **D.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The biosynthetic pathway for catecholamines** from Lecture 5 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 3 — Vesicular packaging of dopamine in the axon terminal {#l05-mc03}
+
+Which statement best matches the lecture discussion of **Vesicular packaging of dopamine in the axon terminal**?
+
+- **A.** Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+- **B.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+- **C.** DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+- **D.** DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Vesicular packaging of dopamine in the axon terminal** from Lecture 5 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 4 — Psychostimulants increase dopamine release {#l05-mc04}
+
+Which statement best matches the lecture discussion of **Psychostimulants increase dopamine release**?
+
+- **A.** DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+- **B.** DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+- **C.** Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles. Uptake: by postsynaptic cell or glial cells by non-selective transporters.
+- **D.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Psychostimulants increase dopamine release** from Lecture 5 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 5 — Catecholamine synapses are not “normal” {#l05-mc05}
+
+Which statement best matches the lecture discussion of **Catecholamine synapses are not “normal”**?
+
+- **A.** COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+- **B.** DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+- **C.** Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles. Uptake: by postsynaptic cell or glial cells by non-selective transporters.
+- **D.** Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT). Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Catecholamine synapses are not “normal”** from Lecture 5 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 6 — Reuptake of catecholamines {#l05-mc06}
+
+Which statement best matches the lecture discussion of **Reuptake of catecholamines**?
+
+- **A.** Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles. Uptake: by postsynaptic cell or glial cells by non-selective transporters.
+- **B.** Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT). Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+- **C.** COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+- **D.** nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles. Uptake: by postsynaptic cell or glial cells by non-selective transporters.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Reuptake of catecholamines** from Lecture 5 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 7 — Enzymatic degradation of catecholamines {#l05-mc07}
+
+Which statement best matches the lecture discussion of **Enzymatic degradation of catecholamines**?
+
+- **A.** COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+- **B.** nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+- **C.** Nigrostriatal tract facilitates voluntary movement. Research on the motor functions of DA:.
+- **D.** Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT). Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT). Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Enzymatic degradation of catecholamines** from Lecture 5 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 8 — Byproducts of catecholamine metabolism {#l05-mc08}
+
+Which statement best matches the lecture discussion of **Byproducts of catecholamine metabolism**?
+
+- **A.** Nigrostriatal tract facilitates voluntary movement. Research on the motor functions of DA:.
+- **B.** Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation. Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side.
+- **C.** COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+- **D.** nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Byproducts of catecholamine metabolism** from Lecture 5 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 9 — How to kill a dopamine neuron {#l05-mc09}
+
+Which statement best matches the lecture discussion of **How to kill a dopamine neuron**?
+
+- **A.** Nigrostriatal tract facilitates voluntary movement. Research on the motor functions of DA:.
+- **B.** Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation. Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side.
+- **C.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+- **D.** Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Nigrostriatal tract facilitates voluntary movement. Research on the motor functions of DA:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **How to kill a dopamine neuron** from Lecture 5 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 10 — Cool little spinning trick {#l05-mc10}
+
+Which statement best matches the lecture discussion of **Cool little spinning trick**?
+
+- **A.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+- **B.** Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+- **C.** All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+- **D.** Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation. Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation. Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Cool little spinning trick** from Lecture 5 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 11 — Ascending dopamine pathways have been implicated in several important behavioral functions {#l05-mc11}
+
+Which statement best matches the lecture discussion of **Ascending dopamine pathways have been implicated in several important behavioral functions**?
+
+- **A.** All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+- **B.** D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+- **C.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+- **D.** Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ascending dopamine pathways have been implicated in several important behavioral functions** from Lecture 5 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 12 — Heterogenous behavioural functionality of dopamine neurons {#l05-mc12}
+
+Which statement best matches the lecture discussion of **Heterogenous behavioural functionality of dopamine neurons**?
+
+- **A.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **B.** Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+- **C.** All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+- **D.** D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Heterogenous behavioural functionality of dopamine neurons** from Lecture 5 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 13 — The fascinating pharmacodynamics of dopamine {#l05-mc13}
+
+Which statement best matches the lecture discussion of **The fascinating pharmacodynamics of dopamine**?
+
+- **A.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **B.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+- **C.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **D.** D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The fascinating pharmacodynamics of dopamine** from Lecture 5 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 14 — Behavioural outcome of DAT knockout {#l05-mc14}
+
+Which statement best matches the lecture discussion of **Behavioural outcome of DAT knockout**?
+
+- **A.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **B.** Used to detect a specific protein. Proteins are first separated by size.
+- **C.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **D.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Behavioural outcome of DAT knockout** from Lecture 5 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 15 — Behavioural outcome of D1 knockout {#l05-mc15}
+
+Which statement best matches the lecture discussion of **Behavioural outcome of D1 knockout**?
+
+- **A.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **B.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+- **C.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **D.** Used to detect a specific protein. Proteins are first separated by size.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Behavioural outcome of D1 knockout** from Lecture 5 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 16 — Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007) {#l05-mc16}
+
+Which statement best matches the lecture discussion of **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)**?
+
+- **A.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **B.** Used to detect a specific protein. Proteins are first separated by size.
+- **C.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **D.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+(Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)** from Lecture 5 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 17 — DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA {#l05-mc17}
+
+Which statement best matches the lecture discussion of **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA**?
+
+- **A.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **B.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+- **C.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **D.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA** from Lecture 5 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 18 — Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain {#l05-mc18}
+
+Which statement best matches the lecture discussion of **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain**?
+
+- **A.** approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+- **B.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+- **C.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **D.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain** from Lecture 5 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 19 — Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin {#l05-mc19}
+
+Which statement best matches the lecture discussion of **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin**?
+
+- **A.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **B.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+- **C.** approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+- **D.** Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin** from Lecture 5 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 20 — FiberPhotometry &Optogenetics {#l05-mc20}
+
+Which statement best matches the lecture discussion of **FiberPhotometry &Optogenetics**?
+
+- **A.** approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+- **B.** Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+- **C.** organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?.
+- **D.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **FiberPhotometry &Optogenetics** from Lecture 5 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 21 — CONTROL DAT KO CONTROL DAT KO {#l05-mc21}
+
+Which statement best matches the lecture discussion of **CONTROL DAT KO CONTROL DAT KO**?
+
+- **A.** Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+- **B.** Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+- **C.** organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?.
+- **D.** Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **CONTROL DAT KO CONTROL DAT KO** from Lecture 5 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 22 — Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake {#l05-mc22}
+
+Which statement best matches the lecture discussion of **Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake**?
+
+- **A.** organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?.
+- **B.** Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+- **C.** Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+- **D.** Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake** from Lecture 5 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 23 — Integration: What is a catecholamine? {#l05-mc23}
+
+Which statement correctly describes **What is a catecholamine?**, rather than the nearby topic **The biosynthetic pathway for catecholamines**?
+
+- **A.** DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+- **B.** Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+- **C.** Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+- **D.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: What is a catecholamine?** from Lecture 5 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+### Question 24 — Integration: The biosynthetic pathway for catecholamines {#l05-mc24}
+
+Which statement correctly describes **The biosynthetic pathway for catecholamines**, rather than the nearby topic **Vesicular packaging of dopamine in the axon terminal**?
+
+- **A.** Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+- **B.** Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+- **C.** DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+- **D.** DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: The biosynthetic pathway for catecholamines** from Lecture 5 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 5 study guide](../study-guides/lecture05.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Dopamine neuron membrane dynamics influence dopamine release {#l05-sa01}
+
+Explain **Dopamine neuron membrane dynamics influence dopamine release** and show how it connects to **Catecholamine synapses are not “normal”** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia {#l05-sa02}
+
+Explain **Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia** and show how it connects to **How to kill a dopamine neuron** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — There are five main subtypes of dopamine receptors organized into {#l05-sa03}
+
+Explain **There are five main subtypes of dopamine receptors organized into** and show how it connects to **The fascinating pharmacodynamics of dopamine** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — WesternBlot&qPCR {#l05-sa04}
+
+Explain **WesternBlot&qPCR** and show how it connects to **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Used to detect a specific protein. Proteins are first separated by size.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Moving forward:manipulations ofastrocyticorneuronalDAT Question: Can we utilize a CRISPR/Cas9 {#l05-sa05}
+
+Explain **Moving forward:manipulations ofastrocyticorneuronalDAT Question: Can we utilize a CRISPR/Cas9** and show how it connects to **CONTROL DAT KO CONTROL DAT KO** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 6 — Integration: What is a catecholamine? and The biosynthetic pathway for catecholamines {#l05-sa06}
+
+Compare **What is a catecholamine?** with **The biosynthetic pathway for catecholamines**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Catecholamines are monamines: a catechol + amine group. Dopamine (DA). Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 5, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

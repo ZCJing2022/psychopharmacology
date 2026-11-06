@@ -1,0 +1,403 @@
+---
+title: "Lecture 6 Practice — Catecholamines II — Noradrenaline"
+toc-depth: 2
+---
+
+**16 multiple-choice questions** and **4 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Organization and function of the central noradrenergic system {#l06-mc01}
+
+Which statement best matches the lecture discussion of **Organization and function of the central noradrenergic system**?
+
+- **A.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** Adrenergic receptors THE AUTORECEPTOR.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Organization and function of the central noradrenergic system** from Lecture 6 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 2 — Adrenergic receptors THE AUTORECEPTOR {#l06-mc02}
+
+Which statement best matches the lecture discussion of **Adrenergic receptors THE AUTORECEPTOR**?
+
+- **A.** Adrenergic receptors THE AUTORECEPTOR.
+- **B.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Adrenergic receptors THE AUTORECEPTOR.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Adrenergic receptors THE AUTORECEPTOR** from Lecture 6 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 3 — What is impulsivity {#l06-mc03}
+
+Which statement best matches the lecture discussion of **What is impulsivity**?
+
+- **A.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **B.** Cognitive impulsivity. Delay discounting.
+- **C.** Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What is impulsivity** from Lecture 6 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 4 — Measuringimpulsivityinthelab-humans {#l06-mc04}
+
+Which statement best matches the lecture discussion of **Measuringimpulsivityinthelab-humans**?
+
+- **A.** Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+- **B.** Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Measuringimpulsivityinthelab-humans** from Lecture 6 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 5 — Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol {#l06-mc05}
+
+Which statement best matches the lecture discussion of **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol**?
+
+- **A.** Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+- **B.** Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+- **C.** Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
+- **D.** Inverted-U. Catecholamines in the PFC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol** from Lecture 6 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 6 — Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol {#l06-mc06}
+
+Which statement best matches the lecture discussion of **Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol**?
+
+- **A.** Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
+- **B.** Inverted-U. Catecholamines in the PFC.
+- **C.** Impulsive compulsive spectrum disorders (ICSDs). Obsessive-compulsive disorder.
+- **D.** Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol** from Lecture 6 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 7 — Circuits involved in impulse control Circuitsinvolvedin {#l06-mc07}
+
+Which statement best matches the lecture discussion of **Circuits involved in impulse control Circuitsinvolvedin**?
+
+- **A.** Impulsive compulsive spectrum disorders (ICSDs). Obsessive-compulsive disorder.
+- **B.** Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:females.
+- **C.** Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
+- **D.** Inverted-U. Catecholamines in the PFC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Circuits involved in impulse control Circuitsinvolvedin** from Lecture 6 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 8 — Neurochemicalregulationof impulsivity {#l06-mc08}
+
+Which statement best matches the lecture discussion of **Neurochemicalregulationof impulsivity**?
+
+- **A.** Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). Radioactive DOPA.
+- **B.** Inverted-U. Catecholamines in the PFC.
+- **C.** Impulsive compulsive spectrum disorders (ICSDs). Obsessive-compulsive disorder.
+- **D.** Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:females.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Inverted-U. Catecholamines in the PFC.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurochemicalregulationof impulsivity** from Lecture 6 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 9 — Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD) {#l06-mc09}
+
+Which statement best matches the lecture discussion of **Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)**?
+
+- **A.** Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). Radioactive DOPA.
+- **B.** Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002). NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA.
+- **C.** Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+- **D.** Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:females.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:females.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)** from Lecture 6 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 10 — Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies {#l06-mc10}
+
+Which statement best matches the lecture discussion of **Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies**?
+
+- **A.** Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+- **B.** Paradoxically low prefrontal catecholamine function. Noradrenaline.
+- **C.** Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). Radioactive DOPA.
+- **D.** Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002). NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). Radioactive DOPA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies** from Lecture 6 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 11 — Neurobiologyof ADHD–animalstudies {#l06-mc11}
+
+Which statement best matches the lecture discussion of **Neurobiologyof ADHD–animalstudies**?
+
+- **A.** DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+- **B.** Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002). NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA.
+- **C.** Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+- **D.** Paradoxically low prefrontal catecholamine function. Noradrenaline.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002). NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurobiologyof ADHD–animalstudies** from Lecture 6 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 12 — Neurobiologyof ADHD–PETstudies {#l06-mc12}
+
+Which statement best matches the lecture discussion of **Neurobiologyof ADHD–PETstudies**?
+
+- **A.** Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+- **B.** Paradoxically low prefrontal catecholamine function. Noradrenaline.
+- **C.** DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+- **D.** Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurobiologyof ADHD–PETstudies** from Lecture 6 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 13 — Methylphenidate (Ritalin) {#l06-mc13}
+
+Which statement best matches the lecture discussion of **Methylphenidate (Ritalin)**?
+
+- **A.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+- **D.** Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Methylphenidate (Ritalin)** from Lecture 6 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 14 — Sideeffectsof stimulant medications {#l06-mc14}
+
+Which statement best matches the lecture discussion of **Sideeffectsof stimulant medications**?
+
+- **A.** Adrenergic receptors THE AUTORECEPTOR.
+- **B.** Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+- **C.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **D.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Sideeffectsof stimulant medications** from Lecture 6 (source page 21). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 15 — ADHDpharmacology–noradrenaline Guanfacine (Intuniv) {#l06-mc15}
+
+Which statement best matches the lecture discussion of **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)**?
+
+- **A.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** Adrenergic receptors THE AUTORECEPTOR.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)** from Lecture 6 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+### Question 16 — Integration: Organization and function of the central noradrenergic system {#l06-mc16}
+
+Which statement correctly describes **Organization and function of the central noradrenergic system**, rather than the nearby topic **Adrenergic receptors THE AUTORECEPTOR**?
+
+- **A.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **B.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Organization and function of the central noradrenergic system** from Lecture 6 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 6 study guide](../study-guides/lecture06.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Measuring impulsivity in the lab - rodents Measuringimpulsivityinthelab-rodents {#l06-sa01}
+
+Explain **Measuring impulsivity in the lab - rodents Measuringimpulsivityinthelab-rodents** and show how it connects to **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cognitive impulsivity. Delay discounting.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 6, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Impulsivityandpsychiatricdisorders {#l06-sa02}
+
+Explain **Impulsivityandpsychiatricdisorders** and show how it connects to **Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Impulsive compulsive spectrum disorders (ICSDs). Obsessive-compulsive disorder.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 6, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Attention-deficit hyperactivedisorder (ADHD) {#l06-sa03}
+
+Explain **Attention-deficit hyperactivedisorder (ADHD)** and show how it connects to **Methylphenidate (Ritalin)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Paradoxically low prefrontal catecholamine function. Noradrenaline.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 6, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Integration: Organization and function of the central noradrenergic system and Adrenergic receptors THE AUTORECEPTOR {#l06-sa04}
+
+Compare **Organization and function of the central noradrenergic system** with **Adrenergic receptors THE AUTORECEPTOR**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE. Adrenergic receptors THE AUTORECEPTOR.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 6, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

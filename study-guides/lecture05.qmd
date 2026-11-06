@@ -1,0 +1,349 @@
+---
+title: "Lecture 5 — Catecholamines I — Dopamine"
+---
+
+## How to use this guide
+
+The Lecture 5 presentation defines the examinable scope. Meyer Chapter 5 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** What is a catecholamine? → The biosynthetic pathway for catecholamines → Vesicular packaging of dopamine in the axon terminal → Psychostimulants increase dopamine release → Dopamine neuron membrane dynamics influence dopamine release → Catecholamine synapses are not “normal” → Reuptake of catecholamines → Enzymatic degradation of catecholamines → Byproducts of catecholamine metabolism → Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia → How to kill a dopamine neuron → Cool little spinning trick → …
+</div>
+
+## Textbook anchors
+
+- Catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase
+- VMAT storage and catecholamine release
+- DAT/NET reuptake and MAO/COMT metabolism
+- Dopaminergic pathways and receptor families
+- Nigrostriatal, mesolimbic and mesocortical functions
+- Noradrenergic organization and locus coeruleus
+- Adrenergic receptor actions and behavioral functions
+
+## Supplementary Web Boxes
+
+- Web Box 5.1 Case Study of a Child Bearing a Mutation in the Tyrosine Hydroxylase (TH) Gene
+
+## Lecture concepts
+
+### 1. What is a catecholamine?
+
+Catecholamines are monamines: a catechol + amine group. Dopamine (DA).
+
+**What to know:**
+- Catecholamines are monamines: a catechol + amine group
+- Dopamine (DA)
+- Norepinephrine (NE)
+- Epinephrine (EPI)
+- Adjective forms: dopaminergic, noradrenergic, and adrenergic
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. The biosynthetic pathway for catecholamines
+
+Catecholamines are synthesized from tyrosine. Tyrosine hydroxylase (TH) is the rate-limiting enzyme.
+
+**What to know:**
+- Catecholamines are synthesized from tyrosine
+- Tyrosine hydroxylase (TH) is the rate-limiting enzyme
+- Catecholamine synthesis can be increased by administering precursors such as tyrosine or L-DOPA, used to treat Parkinson’s disease
+- Drugs that reduce synthesis inhibit one of the enzymes; α-methyl-para-tyrosine (AMPT) blocks TH
+- Factors affecting TH activity:
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Vesicular packaging of dopamine in the axon terminal
+
+Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT). VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms.
+
+**What to know:**
+- Catecholamines are loaded into synaptic vesicles by vesicular monoamine transporters (VMAT)
+- VMAT can be blocked by reserpine, an irreversible inhibitor; causes sedation and depressive symptoms
+- Reversible inhibitors of VMAT are used to reduce uncontrolled movements in Huntington’s disease and tardive dyskinesia.
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Psychostimulants increase dopamine release
+
+Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing. Lab animals show increased activity; at high doses stereotyped behaviors occur.
+
+**What to know:**
+- Psychostimulants amphetamine and methamphetamine cause release of catecholamines without neuron firing.
+- Lab animals show increased activity; at high doses stereotyped behaviors occur.
+- In humans, drug effects include increased alertness, high energy levels, euphoria, insomnia
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Dopamine neuron membrane dynamics influence dopamine release
+
+DA release is inhibited by autoreceptors. Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel.
+
+**What to know:**
+- DA release is inhibited by autoreceptors
+- Inhibiting voltage-gated Ca2+ and activating voltage-gated K+ channel
+- Neuron firing pattern also influences DA release:
+- Single-spiking mode: action potentials appear at irregular intervals (tonic release)
+- Burst mode: trains of 2–20 spikes at higher frequency (phasic release); transmitter release occurring faster than it can be cleared and/or metabolized TONIC PHASIC
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Catecholamine synapses are not “normal”
+
+DA and NE axons form en passant (“in passing”) synapses:. Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+
+**What to know:**
+- DA and NE axons form en passant (“in passing”) synapses:
+- Fibers have repeated swellings (varicosities) along their length, filled with synaptic vesicles.
+- But only 30% of varicosities have release sites for DA; questions regarding their function remain.
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Reuptake of catecholamines
+
+Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles. Uptake: by postsynaptic cell or glial cells by non-selective transporters.
+
+**What to know:**
+- Reuptake: DA and NE transporters return the transmitters to the releasing cell for breakdown or repackaging into vesicles
+- Uptake: by postsynaptic cell or glial cells by non-selective transporters
+- Transporter-blocking drugs enhance DA or NE transmission by increasing the amount of neurotransmitter available DAT KO Mice
+
+**Meyer connection:** Review the chapter discussion of **adrenergic receptor actions and behavioral functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Enzymatic degradation of catecholamines
+
+Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT). Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+
+**What to know:**
+- Breakdown of catecholamines involves monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT).
+- Nonselective MAO inhibitors used to treat depression had dangerous side effects.
+- Selective MAO inhibitors: moclobemide (MAO-A) for depression and Selegiline (Eldepryl) and rasagiline (Azilect) (MAO-B; glia) for Parkinson’s disease.
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Byproducts of catecholamine metabolism
+
+COMT acts on compounds containing the catechol structure. Action of MAO and COMT produce metabolites:.
+
+**What to know:**
+- COMT acts on compounds containing the catechol structure
+- Action of MAO and COMT produce metabolites:
+- DA metabolite: homovanillic acid (HVA)
+- NE metabolites: 3-methoxy-4-hydroxy-phenylglycol (MHPG) in the brain and vanillymandelic acid (VMA) in the PNS.
+- Levels of metabolites in blood, urine, and CSF provide an indication of catecholaminergic activity.
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia
+
+nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+
+**What to know:**
+- nigra (A9 cell cluster) and innervates the caudate– putamen (dorsal striatum). The mesolimbic pathway originates in the VTA (A10 cell cluster) and innervates various limbic system structures such as the nucleus accumbens, hippocampus, lateral septum, and amygdala. The mesocortical pathway also originates in the VTA and innervates the cerebral cortex.
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. How to kill a dopamine neuron
+
+Nigrostriatal tract facilitates voluntary movement. Research on the motor functions of DA:.
+
+**What to know:**
+- Nigrostriatal tract facilitates voluntary movement.
+- Research on the motor functions of DA:
+- Parkinson’s disease (loss of DA neurons in the substantia nigra)
+- Experimental lesions of the nigrostriatal tract by neurotoxins TH Staining How to kill a dopamine neuron
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Cool little spinning trick
+
+Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation. Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side.
+
+**What to know:**
+- Apomorphine: agonist that stimulates D1 and D2 receptors; causes behavioral activation
+- Amphetamine: drug that enhances dopamine release Relatively more dopamine on intact side
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Ascending dopamine pathways have been implicated in several important behavioral functions
+
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+
+**What to know:**
+- Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA.
+- DD mice exhibit severe aphagia (lack of feeding behavior), adipsia (lack of drinking), and hypoactivity; behaviors can be restored by L-DOPA.
+- Mouse models confirmed a critical role for the dorsal striatum in many of the activational, motivational, and cognitive functions of DA. Genetic manipulation of the dopamine system
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Heterogenous behavioural functionality of dopamine neurons
+
+Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+
+**What to know:**
+- Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli.
+- Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+- COMT metabolizes DA in the PFC; a point mutation in the COMT gene makes the enzyme less active which may influence working memory in adults. Heterogenous behavioural functionality of dopamine neurons
+
+**Meyer connection:** Review the chapter discussion of **adrenergic receptor actions and behavioral functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. There are five main subtypes of dopamine receptors organized into
+
+All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+
+**What to know:**
+- All are metabotropic receptors; D1 and D2 are most common
+- D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis
+- D2 receptors inhibit adenylyl cyclase – decreasing the rate of cAMP synthesis
+- D2 receptors also regulate membrane ion channels for K+ Dopamine receptors
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. The fascinating pharmacodynamics of dopamine
+
+D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+
+**What to know:**
+- D2 receptors have a higher affinity for DA than D1 receptors
+- Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+- D2 receptors also function as autoreceptors: terminal D2 auto- receptors reduce DA release (Ca2+); somatodendritic D2 autoreceptors inhibit dopaminergic cell firing (K+). The fascinating pharmacodynamics of dopamine
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Behavioural outcome of DAT knockout
+
+DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+
+**What to know:**
+- DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Behavioural outcome of D1 knockout
+
+D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+
+**What to know:**
+- D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine.
+- Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+- Both the DA transporter and D1 and D2 receptors play pivotal roles in the behavior-stimulating effects of cocaine and amphetamine Behavioural outcome of D1 knockout
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)
+
+(Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+
+**What to know:**
+- (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. WesternBlot&qPCR
+
+Used to detect a specific protein. Proteins are first separated by size.
+
+**What to know:**
+- Used to detect a specific protein.
+- Proteins are first separated by size.
+- They are transferred onto a membrane.
+- Antibodies bind to the protein of interest.
+- A visible band shows whether the protein is present.
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA
+
+Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+
+**What to know:**
+- Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA
+
+**Meyer connection:** Review the chapter discussion of **adrenergic receptor actions and behavioral functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain
+
+The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+
+**What to know:**
+- The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin
+
+self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+
+**What to know:**
+- self-administrationreducestheexpressionofDATmRNAin striatalastrocytes
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 24. FiberPhotometry &Optogenetics
+
+Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+
+**What to know:**
+- Used to record activity from a group of neurons.
+- Neurons express a fluorescent sensor such as GCaMP.
+- An optical fibre delivers light and collects the emitted fluorescence.
+- Changes in fluorescence reflect changes in neural activity.
+- Allows activity to be recorded while an animal is behaving.
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 25. Moving forward:manipulations ofastrocyticorneuronalDAT Question: Can we utilize a CRISPR/Cas9
+
+approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+
+**What to know:**
+- approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 26. CONTROL DAT KO CONTROL DAT KO
+
+Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+
+**What to know:**
+- Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 27. Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake
+
+organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?.
+
+**What to know:**
+- organismal DAT KO on DA reuptake Question: Could astrocytic DAT account for the remainder of reuptake capacity?
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **What is a catecholamine?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The biosynthetic pathway for catecholamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Vesicular packaging of dopamine in the axon terminal** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Psychostimulants increase dopamine release** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dopamine neuron membrane dynamics influence dopamine release** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Catecholamine synapses are not “normal”** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Reuptake of catecholamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Enzymatic degradation of catecholamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Byproducts of catecholamine metabolism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Anatomical heterogeneity of dopaminergic projections The nigrostriatal pathway originates in the substantia** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **How to kill a dopamine neuron** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cool little spinning trick** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ascending dopamine pathways have been implicated in several important behavioral functions** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Heterogenous behavioural functionality of dopamine neurons** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **There are five main subtypes of dopamine receptors organized into** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The fascinating pharmacodynamics of dopamine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioural outcome of DAT knockout** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioural outcome of D1 knockout** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **WesternBlot&qPCR** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **FiberPhotometry &Optogenetics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Moving forward:manipulations ofastrocyticorneuronalDAT Question: Can we utilize a CRISPR/Cas9** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **CONTROL DAT KO CONTROL DAT KO** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Control DAT KO Effectof CRISPR/Cas9 neuronalDATdeletiononDA reuptake** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

@@ -1,0 +1,991 @@
+---
+title: "Lecture 2 Practice — Structure and Function of the Nervous System"
+toc-depth: 2
+---
+
+**40 multiple-choice questions** and **10 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Origin of the cells of the nervous system {#l02-mc01}
+
+Which statement best matches the lecture discussion of **Origin of the cells of the nervous system**?
+
+- **A.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **B.** Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+- **C.** Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+- **D.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Origin of the cells of the nervous system** from Lecture 2 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 2 — Anatomy a neuron {#l02-mc02}
+
+Which statement best matches the lecture discussion of **Anatomy a neuron**?
+
+- **A.** Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+- **B.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+- **C.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **D.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Anatomy a neuron** from Lecture 2 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 3 — Dendrites and soma {#l02-mc03}
+
+Which statement best matches the lecture discussion of **Dendrites and soma**?
+
+- **A.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **B.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+- **C.** Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+- **D.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dendrites and soma** from Lecture 2 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 4 — Axons and terminals {#l02-mc04}
+
+Which statement best matches the lecture discussion of **Axons and terminals**?
+
+- **A.** Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+- **B.** Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+- **C.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **D.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Axons and terminals** from Lecture 2 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 5 — Central dogma of molecular biology {#l02-mc05}
+
+Which statement best matches the lecture discussion of **Central dogma of molecular biology**?
+
+- **A.** Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+- **B.** Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+- **C.** Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+- **D.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Central dogma of molecular biology** from Lecture 2 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 6 — Regulation of gene transcription {#l02-mc06}
+
+Which statement best matches the lecture discussion of **Regulation of gene transcription**?
+
+- **A.** Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+- **B.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+- **C.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Regulation of gene transcription** from Lecture 2 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 7 — Where do the proteins go? {#l02-mc07}
+
+Which statement best matches the lecture discussion of **Where do the proteins go?**?
+
+- **A.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** What is the membrane potential?. How is it measured?.
+- **C.** Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+- **D.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Where do the proteins go?** from Lecture 2 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 8 — What do the proteins do? {#l02-mc08}
+
+Which statement best matches the lecture discussion of **What do the proteins do?**?
+
+- **A.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **B.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+- **C.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** What is the membrane potential?. How is it measured?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What do the proteins do?** from Lecture 2 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 9 — Electrical properties of the neuron Resting membrane potential {#l02-mc09}
+
+Which statement best matches the lecture discussion of **Electrical properties of the neuron Resting membrane potential**?
+
+- **A.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** What is the membrane potential?. How is it measured?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+What is the membrane potential?. How is it measured?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Electrical properties of the neuron Resting membrane potential** from Lecture 2 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 10 — The membrane potential {#l02-mc10}
+
+Which statement best matches the lecture discussion of **The membrane potential**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **D.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The membrane potential** from Lecture 2 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 11 — Ionic basis of the membrane potential {#l02-mc11}
+
+Which statement best matches the lecture discussion of **Ionic basis of the membrane potential**?
+
+- **A.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ionic basis of the membrane potential** from Lecture 2 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 12 — Post synaptic potentials Local Potentials Are Small, {#l02-mc12}
+
+Which statement best matches the lecture discussion of **Post synaptic potentials Local Potentials Are Small,**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Post synaptic potentials Local Potentials Are Small,** from Lecture 2 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 13 — When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage- {#l02-mc13}
+
+Which statement best matches the lecture discussion of **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**?
+
+- **A.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **B.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-** from Lecture 2 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 14 — Ionic basis of the action potential {#l02-mc14}
+
+Which statement best matches the lecture discussion of **Ionic basis of the action potential**?
+
+- **A.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **B.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **D.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ionic basis of the action potential** from Lecture 2 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 15 — Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage- {#l02-mc15}
+
+Which statement best matches the lecture discussion of **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-**?
+
+- **A.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **B.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **D.** Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-** from Lecture 2 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 16 — The benefit of myleniation {#l02-mc16}
+
+Which statement best matches the lecture discussion of **The benefit of myleniation**?
+
+- **A.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **B.** Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+- **C.** Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+- **D.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The benefit of myleniation** from Lecture 2 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 17 — Drugs can alter electrical conduction in neurons {#l02-mc17}
+
+Which statement best matches the lecture discussion of **Drugs can alter electrical conduction in neurons**?
+
+- **A.** Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+- **B.** Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+- **C.** Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+- **D.** Microglia Perform phagocytosis Provide immune system function.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Drugs can alter electrical conduction in neurons** from Lecture 2 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 18 — Glia - Astrocytes Cell Function {#l02-mc18}
+
+Which statement best matches the lecture discussion of **Glia - Astrocytes Cell Function**?
+
+- **A.** Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+- **B.** Microglia Perform phagocytosis Provide immune system function.
+- **C.** Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+- **D.** The lecture treats **Organization of the Nervous System** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glia - Astrocytes Cell Function** from Lecture 2 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 19 — Glia - Microglia Cell Function {#l02-mc19}
+
+Which statement best matches the lecture discussion of **Glia - Microglia Cell Function**?
+
+- **A.** Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+- **B.** The lecture treats **Organization of the Nervous System** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+- **D.** Microglia Perform phagocytosis Provide immune system function.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Microglia Perform phagocytosis Provide immune system function.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glia - Microglia Cell Function** from Lecture 2 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 20 — What causes the to become the nervous system? {#l02-mc20}
+
+Which statement best matches the lecture discussion of **What causes the to become the nervous system?**?
+
+- **A.** Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+- **B.** Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions. Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord.
+- **C.** Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+- **D.** The lecture treats **Organization of the Nervous System** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Neurotrophic factors: proteins that influence growth, cell differentiation and survival, and synaptic connections. NGF (nerve growth factor): secreted by peripheral organs; guides growth of axons to establish synapses at target organs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What causes the to become the nervous system?** from Lecture 2 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 21 — Spinal nerves (peripheral) {#l02-mc21}
+
+Which statement best matches the lecture discussion of **Spinal nerves (peripheral)**?
+
+- **A.** Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+- **B.** Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions. Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord.
+- **C.** Meninges: layers of tissue that cover and protect brain and spinal cord. Dura mater: outermost layer; toughest.
+- **D.** The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Spinal nerves are mixed nerves:. Sensory afferent nerves carry information to the spinal cord; soma are in the dorsal root ganglia.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Spinal nerves (peripheral)** from Lecture 2 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 22 — Autonomic nervous system (peripheral) {#l02-mc22}
+
+Which statement best matches the lecture discussion of **Autonomic nervous system (peripheral)**?
+
+- **A.** Meninges: layers of tissue that cover and protect brain and spinal cord. Dura mater: outermost layer; toughest.
+- **B.** The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+- **D.** Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions. Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Autonomic nerves innervate smooth muscles; control digestion, blood pressure, body temperature, and other functions. Sympathetic division dominates during times of stress, excitement, and exertion; the “fight-or-flight” system. Sympathetic nerves originate in the thoracic and lumbar spinal cord; release acetylcholine in ganglia; release norepinephrine at the target organ; ganglia are next to spinal cord.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Autonomic nervous system (peripheral)** from Lecture 2 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 23 — The meninges – protecting your brain {#l02-mc23}
+
+Which statement best matches the lecture discussion of **The meninges – protecting your brain**?
+
+- **A.** CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+- **B.** The lecture treats **Developmental origins of the CNS** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Meninges: layers of tissue that cover and protect brain and spinal cord. Dura mater: outermost layer; toughest.
+- **D.** The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Meninges: layers of tissue that cover and protect brain and spinal cord. Dura mater: outermost layer; toughest.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The meninges – protecting your brain** from Lecture 2 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 24 — Glia – Ependymal Cells {#l02-mc24}
+
+Which statement best matches the lecture discussion of **Glia – Ependymal Cells**?
+
+- **A.** Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation. Many cranial nerves originate in the brain stem.
+- **B.** The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+- **D.** The lecture treats **Developmental origins of the CNS** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Glia – Ependymal Cells** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glia – Ependymal Cells** from Lecture 2 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 25 — Developmental origins of the CNS {#l02-mc25}
+
+Which statement best matches the lecture discussion of **Developmental origins of the CNS**?
+
+- **A.** Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation. Many cranial nerves originate in the brain stem.
+- **B.** activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal.
+- **C.** Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+- **D.** The lecture treats **Developmental origins of the CNS** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Developmental origins of the CNS** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Developmental origins of the CNS** from Lecture 2 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 26 — Intersection of the spinal cord and the brain {#l02-mc26}
+
+Which statement best matches the lecture discussion of **Intersection of the spinal cord and the brain**?
+
+- **A.** Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+- **B.** Cerebellum: sensorimotor center. Connects to pons by axon bundles called cerebellar peduncles.
+- **C.** Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation. Many cranial nerves originate in the brain stem.
+- **D.** activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Spinal cord: gray matter contains neuron cell bodies; white matter is myelinated axons; enlarges into the brain stem—medulla, pons, and reticular formation. Many cranial nerves originate in the brain stem.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Intersection of the spinal cord and the brain** from Lecture 2 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 27 — The reticular formation The reticular formation (aka reticular {#l02-mc27}
+
+Which statement best matches the lecture discussion of **The reticular formation The reticular formation (aka reticular**?
+
+- **A.** Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access.
+- **B.** activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal.
+- **C.** Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+- **D.** Cerebellum: sensorimotor center. Connects to pons by axon bundles called cerebellar peduncles.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+activating system ~100 nuclei Runs from myelencephalon to mesencephalon Critical for arousal, wakefulness, attention, sleep Damage to this region causes major disruptions to life, and/or can be fatal.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The reticular formation The reticular formation (aka reticular** from Lecture 2 (source page 34). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 28 — Metencephalon 35 {#l02-mc28}
+
+Which statement best matches the lecture discussion of **Metencephalon 35**?
+
+- **A.** Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+- **B.** Cerebellum: sensorimotor center. Connects to pons by axon bundles called cerebellar peduncles.
+- **C.** Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access.
+- **D.** Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding. Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Locus coeruleus: axons extend to many forebrain areas; neurons use norepinephrine; cause arousal, increased vigilance, and attention. Dorsal and median raphe nuclei: neurons use serotonin; axons reach all forebrain areas; regulate sleep, aggression, impulsiveness, emotion, etc.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Metencephalon 35** from Lecture 2 (source page 35). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 29 — Mesencephalon Tectum: {#l02-mc29}
+
+Which statement best matches the lecture discussion of **Mesencephalon Tectum:**?
+
+- **A.** The thalamus and hypothalamus.
+- **B.** Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+- **C.** Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access.
+- **D.** Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding. Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Comprised of two pairs of bumps (colliculi) Superior colliculi: vision with respect to eye movement Inferior colliculi: audition with respect to head/body orientation Outside of conscious access.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mesencephalon Tectum:** from Lecture 2 (source page 37). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 30 — Mesencephalon Tegmentum: {#l02-mc30}
+
+Which statement best matches the lecture discussion of **Mesencephalon Tegmentum:**?
+
+- **A.** Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more.
+- **B.** Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding. Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+- **C.** The thalamus and hypothalamus.
+- **D.** Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Periaqueductal gray (PAG): modulation of pain; rich in opioid receptors; important site for morphine binding. Substantia nigra: long axons innervate the striatum in the basal ganglia; use dopamine; critical for initiation and modulation of movement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mesencephalon Tegmentum:** from Lecture 2 (source page 38). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 31 — Diencephalon Comprised of two structures: {#l02-mc31}
+
+Which statement best matches the lecture discussion of **Diencephalon Comprised of two structures:**?
+
+- **A.** The thalamus and hypothalamus.
+- **B.** Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+- **C.** Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more.
+- **D.** Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The thalamus and hypothalamus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Diencephalon Comprised of two structures:** from Lecture 2 (source page 39). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 32 — Diencephalon Thalamus: {#l02-mc32}
+
+Which statement best matches the lecture discussion of **Diencephalon Thalamus:**?
+
+- **A.** Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more.
+- **B.** Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course.
+- **C.** Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system integrates emotional responses and regulates motivated behavior and learning.
+- **D.** Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Many nuclei: inputs from sensory systems, cerebellum, basal ganglia Often called a “relay centre” for sensory information True, but: receives almost as much from cortex as it sends to cortex Corticothalamic loops? Comprised of two structures: The thalamus and hypothalamus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Diencephalon Thalamus:** from Lecture 2 (source page 40). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 33 — Telencephalon The largest division of the human brain {#l02-mc33}
+
+Which statement best matches the lecture discussion of **Telencephalon The largest division of the human brain**?
+
+- **A.** Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+- **B.** Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course.
+- **C.** Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system integrates emotional responses and regulates motivated behavior and learning.
+- **D.** Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri). Corpus callosum: neural pathway that connects the hemispheres.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Not just the cortex, but also the underlying structures Damage here is wide-ranging in its symptoms, and is much of what we’ll be discussing in this course.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Telencephalon The largest division of the human brain** from Lecture 2 (source page 42). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 34 — Limbic System {#l02-mc34}
+
+Which statement best matches the lecture discussion of **Limbic System**?
+
+- **A.** Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system integrates emotional responses and regulates motivated behavior and learning.
+- **B.** Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri). Corpus callosum: neural pathway that connects the hemispheres.
+- **C.** Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+- **D.** All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Telencephalon: cerebral cortex, limbic system, basal ganglia. Limbic system integrates emotional responses and regulates motivated behavior and learning.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Limbic System** from Lecture 2 (source page 43). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 35 — Cerebral Cortex {#l02-mc35}
+
+Which statement best matches the lecture discussion of **Cerebral Cortex**?
+
+- **A.** Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+- **B.** All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+- **C.** The rat does not resemble you. You resemble the rat.
+- **D.** Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri). Corpus callosum: neural pathway that connects the hemispheres.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Cerebral cortex: convoluted, with deep grooves (fissures), smaller grooves (sulci), and bulges (gyri). Corpus callosum: neural pathway that connects the hemispheres.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Cerebral Cortex** from Lecture 2 (source page 44). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 36 — • Frontal lobe: primary motor cortex {#l02-mc36}
+
+Which statement best matches the lecture discussion of **• Frontal lobe: primary motor cortex**?
+
+- **A.** The rat does not resemble you. You resemble the rat.
+- **B.** Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+- **C.** Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+- **D.** All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Frontal lobe: primary motor cortex mediates voluntary muscle movements; secondary motor cortex stores memories for well- learned motor sequences. Prefrontal cortex: critical for making decisions, planning actions, and evaluating optional strategies. This area is impaired in many psychiatric disorders. Cerebral Cortex.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **• Frontal lobe: primary motor cortex** from Lecture 2 (source page 45). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 37 — The rat does not resemble you. {#l02-mc37}
+
+Which statement best matches the lecture discussion of **The rat does not resemble you.**?
+
+- **A.** The rat does not resemble you. You resemble the rat.
+- **B.** Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+- **C.** Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+- **D.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The rat does not resemble you. You resemble the rat.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The rat does not resemble you.** from Lecture 2 (source page 47). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 38 — Integration: Origin of the cells of the nervous system {#l02-mc38}
+
+Which statement correctly describes **Origin of the cells of the nervous system**, rather than the nearby topic **Anatomy a neuron**?
+
+- **A.** Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+- **B.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+- **C.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **D.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Origin of the cells of the nervous system** from Lecture 2 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 39 — Integration: Anatomy a neuron {#l02-mc39}
+
+Which statement correctly describes **Anatomy a neuron**, rather than the nearby topic **Dendrites and soma**?
+
+- **A.** Axons transmit electrical signals from the axon hillock to the terminals. Axons may branch to form axon collaterals.
+- **B.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+- **C.** Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+- **D.** Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Anatomy a neuron** from Lecture 2 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+### Question 40 — Integration: Dendrites and soma {#l02-mc40}
+
+Which statement correctly describes **Dendrites and soma**, rather than the nearby topic **Axons and terminals**?
+
+- **A.** Transcription: production of complementary mRNA from DNA; takes place in nucleus. Translation: building protein molecules by linking amino acids (i.e., making proteins) specified by mRNA; takes place on ribosomes in the cytoplasm.
+- **B.** Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+- **C.** Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+- **D.** Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Dendrites and soma have thousands of receptors that respond to chemical signals; effect may be excitatory or inhibitory. Convergence: each neuron receives/integrates information from many cells.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Dendrites and soma** from Lecture 2 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 2 study guide](../study-guides/lecture02.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — The cell body (soma) {#l02-sa01}
+
+Explain **The cell body (soma)** and show how it connects to **Central dogma of molecular biology** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Soma: performs most metabolic functions. Nucleus contains pairs of chromosomes (strands of DNA); a gene is a section of chromosome that codes for a specific protein.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — The squid giant axon {#l02-sa02}
+
+Explain **The squid giant axon** and show how it connects to **Electrical properties of the neuron Resting membrane potential** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Characteristics of the postsynaptic potential {#l02-sa03}
+
+Explain **Characteristics of the postsynaptic potential** and show how it connects to **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Glia – Schwann Cells and Oligodendrocytes Cell Function {#l02-sa04}
+
+Explain **Glia – Schwann Cells and Oligodendrocytes Cell Function** and show how it connects to **Drugs can alter electrical conduction in neurons** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Organization of the Nervous System {#l02-sa05}
+
+Explain **Organization of the Nervous System** and show how it connects to **Spinal nerves (peripheral)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The lecture treats **Organization of the Nervous System** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 6 — Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological {#l02-sa06}
+
+Explain **Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological** and show how it connects to **Developmental origins of the CNS** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 7 — Metencephalon {#l02-sa07}
+
+Explain **Metencephalon** and show how it connects to **Mesencephalon Tectum:** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cerebellum: sensorimotor center. Connects to pons by axon bundles called cerebellar peduncles.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 36. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 8 — Diencephalon Hypothalamus: {#l02-sa08}
+
+Explain **Diencephalon Hypothalamus:** and show how it connects to **Telencephalon The largest division of the human brain** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Key intersection with endocrine system via the pituitary gland Diverse functions: sex, aggression, feeding, sleep/wake, more.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 41. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 9 — Human vs. rat brains {#l02-sa09}
+
+Explain **Human vs. rat brains** and show how it connects to **The rat does not resemble you.** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 46. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 10 — Integration: Origin of the cells of the nervous system and Anatomy a neuron {#l02-sa10}
+
+Compare **Origin of the cells of the nervous system** with **Anatomy a neuron**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Embryonic stem cells differentiate into specialized neural cells:. Neurons: transmit information in the form of electrical signaling. Soma: cell body. Dendrites: receive information from other cells across the synapse between them.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 2, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

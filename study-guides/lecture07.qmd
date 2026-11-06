@@ -1,0 +1,299 @@
+---
+title: "Lecture 7 — Serotonin"
+---
+
+## How to use this guide
+
+The Lecture 7 presentation defines the examinable scope. Meyer Chapter 6 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** A point of clarity → Serotonin synthesis is regulated by enzymatic → Tryptophan hydroxylase → Uptake of dietary tryptophan → Depleting 5-HT to assess its role in behavior → Elevating tryptophan to asses its role in behaviour → Serotonin depletion effects psychological processing → Most dietary tryptophan never becomes serotonin → Synaptic pharmacodynamics similar to catecholamines → The serotonin transporter (SERT) → Anatomical organization of serotonin projections → Immunohistochemistry of TPH2 & SERT → …
+</div>
+
+## Textbook anchors
+
+- Serotonin synthesis from tryptophan
+- SERT-mediated reuptake and monoamine metabolism
+- Raphe nuclei and serotonergic projections
+- Serotonin receptor families
+- Behavioral state, anxiety, feeding, cognition and other functions
+
+## Supplementary Web Boxes
+
+- Web Box 6.1 Serotonin and Sudden Infant Death Syndrome_ Is There a Link_
+
+## Lecture concepts
+
+### 1. A point of clarity
+
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+**What to know:**
+- Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA.
+- A functional TH sequence is placed under DBH regulatory control A point of clarity
+
+**Meyer connection:** Review the chapter discussion of **serotonin synthesis from tryptophan** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Serotonin synthesis is regulated by enzymatic
+
+Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+
+**What to know:**
+- Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons
+- Serotonin is an indoleamine
+- Synthesized from tryptophan in two steps: 1. Catalyzed by tryptophan hydroxylase (TPH), product: 5-hydroxy-tryptophan (5-HTP) (rate- limiting step) 2. Catalyzed by aromatic amino acid decarboxylase (AADC) to form 5-HT Indole nucleus Biosynthesis of serotonin
+
+**Meyer connection:** Review the chapter discussion of **sert-mediated reuptake and monoamine metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Tryptophan hydroxylase
+
+The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **raphe nuclei and serotonergic projections** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Uptake of dietary tryptophan
+
+Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+
+**What to know:**
+- Serotonin synthesis can be stimulated by tryptophan or 5-HTP.
+- Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+- Insulin stimulates uptake of amino acids, except tryptophan. A low-protein, high- carbohydrate meal will increase ratio of tryptophan to competing large neutral amino acids (LNAA)
+
+**Meyer connection:** Review the chapter discussion of **serotonin receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Depleting 5-HT to assess its role in behavior
+
+Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+
+**What to know:**
+- Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH
+- Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X
+
+**Meyer connection:** Review the chapter discussion of **behavioral state, anxiety, feeding, cognition and other functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Elevating tryptophan to asses its role in behaviour
+
+Tryptophan loading: administration of pure tryptophan. Dietary:.
+
+**What to know:**
+- Tryptophan loading: administration of pure tryptophan
+- Dietary:
+- Supplemented with α- lactalbumin or other high- tryptophan proteins
+- Consumption of a diet rich in carbohydrates but low in protein.
+
+**Meyer connection:** Review the chapter discussion of **serotonin synthesis from tryptophan** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Serotonin depletion effects psychological processing
+
+Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009). ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+
+**What to know:**
+- Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009).
+- ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+- Serotonin in depression?
+- Wait and see!
+
+**Meyer connection:** Review the chapter discussion of **sert-mediated reuptake and monoamine metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Most dietary tryptophan never becomes serotonin
+
+95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT. Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+
+**What to know:**
+- 95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT.
+- Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+- Kynurenine metabolites have been implicated in many psychiatric disorders and neurodegenerative diseases (e.g., depression, Alzheimers, Huntingtins, etc.)
+
+**Meyer connection:** Review the chapter discussion of **raphe nuclei and serotonergic projections** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Synaptic pharmacodynamics similar to catecholamines
+
+5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+
+**What to know:**
+- 5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2).
+- Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+- Terminal autoreceptors directly inhibit 5-HT release, somato-dendritic autoreceptors inhibit release by slowing the rate of nerve firing.
+
+**Meyer connection:** Review the chapter discussion of **serotonin receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. The serotonin transporter (SERT)
+
+Inactivation of 5-HT: reuptake by 5- HT transporter (SERT). Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs).
+
+**What to know:**
+- Inactivation of 5-HT: reuptake by 5- HT transporter (SERT)
+- Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs)
+- SERT knockout mice show a variety of behavioral and physiological abnormalities
+- 5-HT breakdown is catalyzed by MAO-A to the metabolite 5- hydroxyindoleacetic acid (5-HIAA)
+
+**Meyer connection:** Review the chapter discussion of **behavioral state, anxiety, feeding, cognition and other functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Anatomical organization of serotonin projections
+
+Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei. Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+
+**What to know:**
+- Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei.
+- Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+- In the cortex, nerve fibers are dense at the surface, which has a high density of dendrites and synaptic connections. Dahlström and Fuxe (1964)
+
+**Meyer connection:** Review the chapter discussion of **serotonin synthesis from tryptophan** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Immunohistochemistry of TPH2 & SERT
+
+TPH2 in dorsal raphe SERT in hippocampus.
+
+**What to know:**
+- TPH2 in dorsal raphe SERT in hippocampus
+
+**Meyer connection:** Review the chapter discussion of **sert-mediated reuptake and monoamine metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Electrophysiological properties of serotonin neurons
+
+First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep. Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness.
+
+**What to know:**
+- First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep.
+- Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness
+
+**Meyer connection:** Review the chapter discussion of **raphe nuclei and serotonergic projections** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. There are LOTS of different serotonin receptors
+
+14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+
+**What to know:**
+- 14 receptor subtypes; 5-HT1A and 5-HT2A are most well known
+- 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A
+
+**Meyer connection:** Review the chapter discussion of **serotonin receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. 5-HT2A
+
+5-HT2A receptors occur in the cortex and other brain areas. Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC).
+
+**What to know:**
+- 5-HT2A receptors occur in the cortex and other brain areas
+- Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC)
+
+**Meyer connection:** Review the chapter discussion of **behavioral state, anxiety, feeding, cognition and other functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Deeper look at the IP3 signaling pathway
+
+Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
+
+**What to know:**
+- Ligand binds to a GPCR/receptor
+- The receptor activates PLC (phospholipase C)
+- PLC breaks PIP₂ into:
+- IP₃
+- DAG
+
+**Meyer connection:** Review the chapter discussion of **serotonin synthesis from tryptophan** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. 5-HT2A is implicated in hallucinations
+
+DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+
+**What to know:**
+- DOI and related drugs are hallucinogenic in humans.
+- Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+- Several drugs used to treat schizophrenia with reduced motor side effects act as inverse agonists at 5-HT2A and/or 5-HT2C receptors
+
+**Meyer connection:** Review the chapter discussion of **sert-mediated reuptake and monoamine metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. 5-HT3A is ionotropic
+
+Sodium in and potassium out. Fast neuronal excitation.
+
+**What to know:**
+- Sodium in and potassium out
+- Fast neuronal excitation
+- Present in the CNS
+- Present also on vagus nerve terminals in gut
+- 5-HT3 antagonists such as ondansetron (Zofran) can counteract nausea and vomiting associated with chemotherapy and radiation treatments
+
+**Meyer connection:** Review the chapter discussion of **raphe nuclei and serotonergic projections** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. There are heaps of serotonin receptors
+
+The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **serotonin receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Behavioral effects of serotonin
+
+Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+**What to know:**
+- Serotonin is highly implicated in depression; more on that in the affective disorders module
+- Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT)
+- Lesioning results in changes in hunger and eating behavior, anxiety, pain sensitivity, learning and memory, and aggression
+- We will focus on examples in anxiety and eating
+
+**Meyer connection:** Review the chapter discussion of **behavioral state, anxiety, feeding, cognition and other functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Serotonin in anxiety
+
+5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+
+**What to know:**
+- 5-HT has a key role in regulation of anxiety
+- SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders
+- In experimental animals, partial and full 5-HT1A receptor agonists have anxiolytic effects; 5-HT1A-knockout mice show increased anxiety-like behavior
+- Still cannot infer what brain region mediates the anxiolytic effects
+- Still cannot infer whether the effect is pre- or post-synaptic
+
+**Meyer connection:** Review the chapter discussion of **serotonin synthesis from tryptophan** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Identifying the precise anxiety-modulating mechanism
+
+Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+
+**What to know:**
+- Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?
+- Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+- Results indicate the importance of postsynaptic 5-HT1A receptors in reducing anxiety.
+
+**Meyer connection:** Review the chapter discussion of **sert-mediated reuptake and monoamine metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Serotonin in hunger and eating
+
+Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+
+**What to know:**
+- Serotonin influences hunger and eating behavior
+- Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- Both neurons project to the PVN and synapse on melanocortin receptor neurons; α-MSH is an agonist at the MC3/4 receptors; AgRP is an antagonist
+- Activation of MC3/4 receptors is anorexigenic (appetite-suppressing), inhibition of these receptors by AgRP is orexigenic (appetite-promoting)
+- The selective 5-HT2C agonist lorcaserin (Belviq) was developed for the treatment of obesity Hypothalamus
+
+**Meyer connection:** Review the chapter discussion of **raphe nuclei and serotonergic projections** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **A point of clarity** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Serotonin synthesis is regulated by enzymatic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Tryptophan hydroxylase** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Uptake of dietary tryptophan** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Depleting 5-HT to assess its role in behavior** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Elevating tryptophan to asses its role in behaviour** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Serotonin depletion effects psychological processing** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Most dietary tryptophan never becomes serotonin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Synaptic pharmacodynamics similar to catecholamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The serotonin transporter (SERT)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Anatomical organization of serotonin projections** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Immunohistochemistry of TPH2 & SERT** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Electrophysiological properties of serotonin neurons** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **There are LOTS of different serotonin receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **5-HT2A** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Deeper look at the IP3 signaling pathway** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **5-HT2A is implicated in hallucinations** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **5-HT3A is ionotropic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **There are heaps of serotonin receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioral effects of serotonin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Serotonin in anxiety** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Identifying the precise anxiety-modulating mechanism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Serotonin in hunger and eating** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

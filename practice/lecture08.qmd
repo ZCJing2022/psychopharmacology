@@ -1,0 +1,403 @@
+---
+title: "Lecture 8 Practice — Acetylcholine"
+toc-depth: 2
+---
+
+**16 multiple-choice questions** and **4 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Acetylcholine biosynthesis {#l08-mc01}
+
+Which statement best matches the lecture discussion of **Acetylcholine biosynthesis**?
+
+- **A.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **B.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **C.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **D.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Acetylcholine biosynthesis** from Lecture 8 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 2 — Compounds affecting acetylcholine storage and release {#l08-mc02}
+
+Which statement best matches the lecture discussion of **Compounds affecting acetylcholine storage and release**?
+
+- **A.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **B.** Enzyme. Substrate.
+- **C.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **D.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Compounds affecting acetylcholine storage and release** from Lecture 8 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 3 — The cholinergic pharmacology of Botox {#l08-mc03}
+
+Which statement best matches the lecture discussion of **The cholinergic pharmacology of Botox**?
+
+- **A.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **B.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **C.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **D.** Enzyme. Substrate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The cholinergic pharmacology of Botox** from Lecture 8 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 4 — Acetylcholine is broken down by acetylcholinesterase {#l08-mc04}
+
+Which statement best matches the lecture discussion of **Acetylcholine is broken down by acetylcholinesterase**?
+
+- **A.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **B.** Enzyme. Substrate.
+- **C.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **D.** Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Acetylcholine is broken down by acetylcholinesterase** from Lecture 8 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 5 — What happens to the byproducts of ACh catabolism {#l08-mc05}
+
+Which statement best matches the lecture discussion of **What happens to the byproducts of ACh catabolism**?
+
+- **A.** The neuromuscular junction. a special type of synapse.
+- **B.** Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+- **C.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **D.** Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What happens to the byproducts of ACh catabolism** from Lecture 8 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 6 — Acetylcholine in the autonomic nervous system {#l08-mc06}
+
+Which statement best matches the lecture discussion of **Acetylcholine in the autonomic nervous system**?
+
+- **A.** In the brain, cell bodies of cholinergic neurons are clustered in only a few areas. Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+- **B.** Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+- **C.** The neuromuscular junction. a special type of synapse.
+- **D.** Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Acetylcholine in the autonomic nervous system** from Lecture 8 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 7 — Acetylcholine in the somatic nervous system {#l08-mc07}
+
+Which statement best matches the lecture discussion of **Acetylcholine in the somatic nervous system**?
+
+- **A.** The neuromuscular junction. a special type of synapse.
+- **B.** Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+- **C.** In the brain, cell bodies of cholinergic neurons are clustered in only a few areas. Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+- **D.** Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant. Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The neuromuscular junction. a special type of synapse.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Acetylcholine in the somatic nervous system** from Lecture 8 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 8 — Cholinergic projections in the NS {#l08-mc08}
+
+Which statement best matches the lecture discussion of **Cholinergic projections in the NS**?
+
+- **A.** In the brain, cell bodies of cholinergic neurons are clustered in only a few areas. Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+- **B.** Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant. Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+- **C.** Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS. When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+- **D.** Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Cholinergic projections in the NS** from Lecture 8 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 9 — Acetylcholine receptor subtypes {#l08-mc09}
+
+Which statement best matches the lecture discussion of **Acetylcholine receptor subtypes**?
+
+- **A.** Distribution of AChRs in the brain Let’s focus on the striatum.
+- **B.** Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant. Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+- **C.** Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS. When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+- **D.** Muscarinic receptors are metabotropic – operate via second messengers. Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant. Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Acetylcholine receptor subtypes** from Lecture 8 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 10 — Nicotinic receptors {#l08-mc10}
+
+Which statement best matches the lecture discussion of **Nicotinic receptors**?
+
+- **A.** Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS. When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+- **B.** Muscarinic receptors are metabotropic – operate via second messengers. Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory).
+- **C.** Distribution of AChRs in the brain Let’s focus on the striatum.
+- **D.** Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum. Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS. When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Nicotinic receptors** from Lecture 8 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 11 — Muscarinic receptors {#l08-mc11}
+
+Which statement best matches the lecture discussion of **Muscarinic receptors**?
+
+- **A.** Distribution of AChRs in the brain Let’s focus on the striatum.
+- **B.** Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum. Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors.
+- **C.** Conditioned stimuli can have a motivational effect. You see a crackpipe on the ground (CS).
+- **D.** Muscarinic receptors are metabotropic – operate via second messengers. Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Muscarinic receptors are metabotropic – operate via second messengers. Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Muscarinic receptors** from Lecture 8 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 12 — Distribution of AChRs in the brain Let’s focus on the striatum {#l08-mc12}
+
+Which statement best matches the lecture discussion of **Distribution of AChRs in the brain Let’s focus on the striatum**?
+
+- **A.** Conditioned stimuli can have a motivational effect. You see a crackpipe on the ground (CS).
+- **B.** The lecture treats **Pavlovian to instrumental transfer in the rat** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Distribution of AChRs in the brain Let’s focus on the striatum.
+- **D.** Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum. Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Distribution of AChRs in the brain Let’s focus on the striatum.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Distribution of AChRs in the brain Let’s focus on the striatum** from Lecture 8 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 13 — Pavlovian to instrumental transfer {#l08-mc13}
+
+Which statement best matches the lecture discussion of **Pavlovian to instrumental transfer**?
+
+- **A.** Conditioned stimuli can have a motivational effect. You see a crackpipe on the ground (CS).
+- **B.** The lecture treats **Pavlovian to instrumental transfer in the rat** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Phasic DA response (FSCV).
+- **D.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Conditioned stimuli can have a motivational effect. You see a crackpipe on the ground (CS).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pavlovian to instrumental transfer** from Lecture 8 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 14 — Pavlovian to instrumental transfer in the rat {#l08-mc14}
+
+Which statement best matches the lecture discussion of **Pavlovian to instrumental transfer in the rat**?
+
+- **A.** Phasic DA response (FSCV).
+- **B.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+- **C.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+- **D.** The lecture treats **Pavlovian to instrumental transfer in the rat** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Pavlovian to instrumental transfer in the rat** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pavlovian to instrumental transfer in the rat** from Lecture 8 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 15 — Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014 {#l08-mc15}
+
+Which statement best matches the lecture discussion of **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014**?
+
+- **A.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+- **B.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **C.** Phasic DA response (FSCV).
+- **D.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Phasic DA response (FSCV).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014** from Lecture 8 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+### Question 16 — Dopamine spikes in response to CS presentation in PIT Collins et al., 2019 {#l08-mc16}
+
+Which statement best matches the lecture discussion of **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019**?
+
+- **A.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **B.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+- **C.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+- **D.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019** from Lecture 8 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 8 study guide](../study-guides/lecture08.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — AChE is an enzyme that catalyzes a catabolic reaction {#l08-sa01}
+
+Explain **AChE is an enzyme that catalyzes a catabolic reaction** and show how it connects to **What happens to the byproducts of ACh catabolism** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Enzyme. Substrate.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 8, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Acetylcholine microcircuits in the central nervous system {#l08-sa02}
+
+Explain **Acetylcholine microcircuits in the central nervous system** and show how it connects to **Acetylcholine receptor subtypes** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+In the brain, cell bodies of cholinergic neurons are clustered in only a few areas. Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 8, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Cholinergic interneurons of the striatum {#l08-sa03}
+
+Explain **Cholinergic interneurons of the striatum** and show how it connects to **Pavlovian to instrumental transfer** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum. Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 8, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Integration: Acetylcholine biosynthesis and Compounds affecting acetylcholine storage and release {#l08-sa04}
+
+Compare **Acetylcholine biosynthesis** with **Compounds affecting acetylcholine storage and release**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter. ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 8, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

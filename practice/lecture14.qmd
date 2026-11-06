@@ -1,0 +1,403 @@
+---
+title: "Lecture 14 Practice — Alcohol"
+toc-depth: 2
+---
+
+**16 multiple-choice questions** and **4 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — How alcohol is made {#l14-mc01}
+
+Which statement best matches the lecture discussion of **How alcohol is made**?
+
+- **A.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **B.** Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+- **C.** Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+- **D.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **How alcohol is made** from Lecture 14 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 2 — Pharmacokinetics - solubility {#l14-mc02}
+
+Which statement best matches the lecture discussion of **Pharmacokinetics - solubility**?
+
+- **A.** Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+- **B.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+- **C.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **D.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacokinetics - solubility** from Lecture 14 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 3 — Pharmacokinetics - absorption {#l14-mc03}
+
+Which statement best matches the lecture discussion of **Pharmacokinetics - absorption**?
+
+- **A.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **B.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+- **C.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **D.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacokinetics - absorption** from Lecture 14 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 4 — Metabolism of ethanol – gastric and hepatic {#l14-mc04}
+
+Which statement best matches the lecture discussion of **Metabolism of ethanol – gastric and hepatic**?
+
+- **A.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **B.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+- **C.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **D.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Metabolism of ethanol – gastric and hepatic** from Lecture 14 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 5 — Tolerance to ethanol {#l14-mc05}
+
+Which statement best matches the lecture discussion of **Tolerance to ethanol**?
+
+- **A.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **B.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+- **C.** Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+- **D.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Tolerance to ethanol** from Lecture 14 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 6 — Ethanol dependence {#l14-mc06}
+
+Which statement best matches the lecture discussion of **Ethanol dependence**?
+
+- **A.** Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+- **B.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+- **C.** Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+- **D.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ethanol dependence** from Lecture 14 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 7 — Effects of alcohol {#l14-mc07}
+
+Which statement best matches the lecture discussion of **Effects of alcohol**?
+
+- **A.** Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+- **B.** Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+- **C.** Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+- **D.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Effects of alcohol** from Lecture 14 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 8 — Alcohol is poison {#l14-mc08}
+
+Which statement best matches the lecture discussion of **Alcohol is poison**?
+
+- **A.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+- **C.** Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+- **D.** Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Alcohol is poison** from Lecture 14 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 9 — Psychopharmacology of Alcohol (13 of 16) {#l14-mc09}
+
+Which statement best matches the lecture discussion of **Psychopharmacology of Alcohol (13 of 16)**?
+
+- **A.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+- **C.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **D.** Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Psychopharmacology of Alcohol (13 of 16)** from Lecture 14 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 10 — Effect of alcohol on male sexual function {#l14-mc10}
+
+Which statement best matches the lecture discussion of **Effect of alcohol on male sexual function**?
+
+- **A.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **B.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+- **C.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Effect of alcohol on male sexual function** from Lecture 14 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 11 — The pharmacodynamic profile of ethanol is diverse {#l14-mc11}
+
+Which statement best matches the lecture discussion of **The pharmacodynamic profile of ethanol is diverse**?
+
+- **A.** Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+- **B.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+- **C.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **D.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The pharmacodynamic profile of ethanol is diverse** from Lecture 14 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 12 — Ethanol at GABA receptors {#l14-mc12}
+
+Which statement best matches the lecture discussion of **Ethanol at GABA receptors**?
+
+- **A.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **B.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+- **C.** Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+- **D.** Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ethanol at GABA receptors** from Lecture 14 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 13 — Why might alcohol be addictive? {#l14-mc13}
+
+Which statement best matches the lecture discussion of **Why might alcohol be addictive?**?
+
+- **A.** Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation). Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+- **B.** Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+- **C.** Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+- **D.** Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Why might alcohol be addictive?** from Lecture 14 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 14 — Ethanol causes endogenous opioid release {#l14-mc14}
+
+Which statement best matches the lecture discussion of **Ethanol causes endogenous opioid release**?
+
+- **A.** Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+- **B.** Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+- **C.** Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation). Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+- **D.** Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ethanol causes endogenous opioid release** from Lecture 14 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 15 — Pharmacotherapy for alcohol use disorder {#l14-mc15}
+
+Which statement best matches the lecture discussion of **Pharmacotherapy for alcohol use disorder**?
+
+- **A.** Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation). Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+- **B.** Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+- **C.** Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+- **D.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation). Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacotherapy for alcohol use disorder** from Lecture 14 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+### Question 16 — Integration: How alcohol is made {#l14-mc16}
+
+Which statement correctly describes **How alcohol is made**, rather than the nearby topic **Pharmacokinetics - solubility**?
+
+- **A.** Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+- **B.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+- **C.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **D.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: How alcohol is made** from Lecture 14 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 14 study guide](../study-guides/lecture14.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Metabolism of ethanol – hepatic {#l14-sa01}
+
+Explain **Metabolism of ethanol – hepatic** and show how it connects to **Tolerance to ethanol** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 14, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Some positive effects {#l14-sa02}
+
+Explain **Some positive effects** and show how it connects to **Psychopharmacology of Alcohol (13 of 16)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 14, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Ethanol at glutamate receptors {#l14-sa03}
+
+Explain **Ethanol at glutamate receptors** and show how it connects to **Why might alcohol be addictive?** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 14, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Integration: How alcohol is made and Pharmacokinetics - solubility {#l14-sa04}
+
+Compare **How alcohol is made** with **Pharmacokinetics - solubility**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake. Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 14, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

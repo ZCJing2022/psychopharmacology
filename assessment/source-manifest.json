@@ -1,0 +1,136 @@
+{
+  "lectures": {
+    "1": {
+      "title": "Principles of Pharmacology",
+      "part": "Part I",
+      "chapter": 1,
+      "topics": 32,
+      "mcq": 28,
+      "essay": 7
+    },
+    "2": {
+      "title": "Structure and Function of the Nervous System",
+      "part": "Part I",
+      "chapter": 2,
+      "topics": 46,
+      "mcq": 40,
+      "essay": 10
+    },
+    "3": {
+      "title": "Chemical Signalling in the Nervous System",
+      "part": "Part I",
+      "chapter": 3,
+      "topics": 23,
+      "mcq": 20,
+      "essay": 5
+    },
+    "4": {
+      "title": "Methods of Research in Psychopharmacology",
+      "part": "Part I",
+      "chapter": 4,
+      "topics": 18,
+      "mcq": 16,
+      "essay": 4
+    },
+    "5": {
+      "title": "Catecholamines I \u2014 Dopamine",
+      "part": "Part II",
+      "chapter": 5,
+      "topics": 27,
+      "mcq": 24,
+      "essay": 6
+    },
+    "6": {
+      "title": "Catecholamines II \u2014 Noradrenaline",
+      "part": "Part II",
+      "chapter": 5,
+      "topics": 18,
+      "mcq": 16,
+      "essay": 4
+    },
+    "7": {
+      "title": "Serotonin",
+      "part": "Part II",
+      "chapter": 6,
+      "topics": 23,
+      "mcq": 20,
+      "essay": 5
+    },
+    "8": {
+      "title": "Acetylcholine",
+      "part": "Part II",
+      "chapter": 7,
+      "topics": 19,
+      "mcq": 16,
+      "essay": 4
+    },
+    "9": {
+      "title": "Glutamate",
+      "part": "Part II",
+      "chapter": 8,
+      "topics": 25,
+      "mcq": 20,
+      "essay": 5
+    },
+    "10": {
+      "title": "GABA",
+      "part": "Part II",
+      "chapter": 8,
+      "topics": 18,
+      "mcq": 16,
+      "essay": 4
+    },
+    "11": {
+      "title": "Circadian Rhythms and Chronopharmacology",
+      "part": "Part III",
+      "chapter": null,
+      "topics": 26,
+      "mcq": 24,
+      "essay": 6
+    },
+    "12": {
+      "title": "Drug Addiction and Brain Reward Systems",
+      "part": "Part III",
+      "chapter": 9,
+      "topics": 15,
+      "mcq": 12,
+      "essay": 3
+    },
+    "13": {
+      "title": "Addiction and Psychostimulants",
+      "part": "Part III",
+      "chapter": 9,
+      "topics": 37,
+      "mcq": 32,
+      "essay": 8
+    },
+    "14": {
+      "title": "Alcohol",
+      "part": "Part III",
+      "chapter": 10,
+      "topics": 18,
+      "mcq": 16,
+      "essay": 4
+    },
+    "15": {
+      "title": "Opioids",
+      "part": "Part III",
+      "chapter": 11,
+      "topics": 22,
+      "mcq": 20,
+      "essay": 5
+    },
+    "16": {
+      "title": "Nicotine and Caffeine",
+      "part": "Part III",
+      "chapter": 13,
+      "topics": 7,
+      "mcq": 8,
+      "essay": 2
+    }
+  },
+  "source_gaps": [
+    "Lecture 11: no Meyer chapter in folder",
+    "Lecture 16: no lecture presentation in folder"
+  ]
+}

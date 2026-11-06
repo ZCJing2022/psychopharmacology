@@ -1,0 +1,609 @@
+---
+title: "Part 3 Practice Exam 3"
+toc-depth: 2
+---
+
+**Time: 50 minutes.** This practice exam is derived from Lectures 11–16.
+
+**Format:** 30 multiple-choice questions and 4 short-essay questions. Answers and explanations are hidden initially.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+Which statement best matches the lecture discussion of **Takeaways**?
+
+- **A.** Circadian rhythms review. Clock → drugs.
+- **B.** PART 1: Circadian Rhythms Review.
+- **C.** Sleep/wake cycles. Physiological processes.
+- **D.** Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Takeaways**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 2
+
+Which statement best matches the lecture discussion of **Stages of drug addiction (a common framework) as related to opponent process theory**?
+
+- **A.** Intoxication/binge. Development of dependence (withdrawal).
+- **B.** BUT opponent processes can’t be the whole story Withdrawal 17.
+- **C.** Operant conditioning. Reinforcement.
+- **D.** Olds and Milner (1954). Dopamine: pleasure?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Intoxication/binge. Development of dependence (withdrawal).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Stages of drug addiction (a common framework) as related to opponent process theory**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 3
+
+Which statement best matches the lecture discussion of **Potential pharmacotherapies for cocaine use disorder**?
+
+- **A.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **B.** Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+- **C.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **D.** Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Potential pharmacotherapies for cocaine use disorder**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 4
+
+Which statement best matches the lecture discussion of **Alcohol is poison**?
+
+- **A.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+- **C.** Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+- **D.** Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Alcohol is poison**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 5
+
+Which statement best matches the lecture discussion of **A taxonomy of opioids Opiates**?
+
+- **A.** Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+- **B.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+- **C.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **D.** A taxonomy of opioids Opiates Opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+A taxonomy of opioids Opiates Opioids.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **A taxonomy of opioids Opiates**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 6
+
+Which statement best matches the lecture discussion of **Nicotinic acetylcholine receptors**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Nicotinic acetylcholine receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 7
+
+Which statement correctly describes **Overview**, rather than the nearby topic **PART 1: Circadian Rhythms**?
+
+- **A.** Sleep/wake cycles. Physiological processes.
+- **B.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** Circadian rhythms review. Clock → drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Circadian rhythms review. Clock → drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Integration: Overview**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 8
+
+Which statement best matches the lecture discussion of **BUT opponent processes can’t be the whole story Withdrawal**?
+
+- **A.** Operant conditioning. Reinforcement.
+- **B.** Olds and Milner (1954). Dopamine: pleasure?.
+- **C.** of psychoactive drugs. Caffeine.
+- **D.** BUT opponent processes can’t be the whole story Withdrawal 17.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+BUT opponent processes can’t be the whole story Withdrawal 17.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **BUT opponent processes can’t be the whole story Withdrawal**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 9
+
+Which statement best matches the lecture discussion of **There are many amphetamines to choose from**?
+
+- **A.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **B.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+- **C.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **D.** Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **There are many amphetamines to choose from**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 10
+
+Which statement best matches the lecture discussion of **Psychopharmacology of Alcohol (13 of 16)**?
+
+- **A.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+- **C.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **D.** Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Psychopharmacology of Alcohol (13 of 16)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 11
+
+Which statement best matches the lecture discussion of **Physiological and psychological effects of opioids**?
+
+- **A.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **B.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+- **C.** Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+- **D.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Physiological and psychological effects of opioids**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 12
+
+Which statement best matches the lecture discussion of **Behavioral and physiological effects of nicotine**?
+
+- **A.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Behavioral and physiological effects of nicotine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 13
+
+Which statement correctly describes **PART 1: Circadian Rhythms**, rather than the nearby topic **What Are Circadian Rhythms?**?
+
+- **A.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **B.** Bacteria. Plants.
+- **C.** PART 1: Circadian Rhythms Review.
+- **D.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+PART 1: Circadian Rhythms Review.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Integration: PART 1: Circadian Rhythms**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 14
+
+Which statement best matches the lecture discussion of **Associative Learning Principles Used in Addiction Models**?
+
+- **A.** of psychoactive drugs. Caffeine.
+- **B.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **C.** Operant conditioning. Reinforcement.
+- **D.** Olds and Milner (1954). Dopamine: pleasure?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Operant conditioning. Reinforcement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Associative Learning Principles Used in Addiction Models**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 15
+
+Which statement best matches the lecture discussion of **Amphetamine pharmacokinetics make facilitate binging**?
+
+- **A.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **B.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+- **C.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **D.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Amphetamine pharmacokinetics make facilitate binging**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 16
+
+Which statement best matches the lecture discussion of **Effect of alcohol on male sexual function**?
+
+- **A.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **B.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+- **C.** The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Effect of alcohol on male sexual function**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 17
+
+Which statement best matches the lecture discussion of **Mechanisms of opioid overdose**?
+
+- **A.** Inhibitory (Gi) GPCRs.
+- **B.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+- **C.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **D.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Mechanisms of opioid overdose**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 18
+
+Which statement best matches the lecture discussion of **Smoking, vaping, dependence and treatment**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Smoking, vaping, dependence and treatment**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 19
+
+Which statement correctly describes **What Are Circadian Rhythms?**, rather than the nearby topic **Core terminology**?
+
+- **A.** Light/dark. Social coordination.
+- **B.** Sleep/wake cycles. Physiological processes.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** Bacteria. Plants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Sleep/wake cycles. Physiological processes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Integration: What Are Circadian Rhythms?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 20
+
+Which statement best matches the lecture discussion of **Most humans are regular users**?
+
+- **A.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **B.** Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+- **C.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **D.** of psychoactive drugs. Caffeine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+of psychoactive drugs. Caffeine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Most humans are regular users**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 21
+
+Which statement best matches the lecture discussion of **Pharmacodynamics of amphetamine**?
+
+- **A.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **B.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+- **C.** Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+- **D.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Pharmacodynamics of amphetamine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 22
+
+Which statement best matches the lecture discussion of **The pharmacodynamic profile of ethanol is diverse**?
+
+- **A.** Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+- **B.** Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+- **C.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **D.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **The pharmacodynamic profile of ethanol is diverse**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 23
+
+Which statement best matches the lecture discussion of **Opioids are very important in the GI tract**?
+
+- **A.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **B.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+- **C.** Inhibitory (Gi) GPCRs.
+- **D.** Endogenous opioids are peptides. Small proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Opioids are very important in the GI tract**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 24
+
+Which statement best matches the lecture discussion of **Adenosine receptor antagonism**?
+
+- **A.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Adenosine receptor antagonism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 25
+
+Which statement best matches the lecture discussion of **Overview**?
+
+- **A.** Circadian rhythms review. Clock → drugs.
+- **B.** PART 1: Circadian Rhythms Review.
+- **C.** Sleep/wake cycles. Physiological processes.
+- **D.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Circadian rhythms review. Clock → drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Overview**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 26
+
+Which statement best matches the lecture discussion of **Most humans use psychoactive drugs without experiencing addiction**?
+
+- **A.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **B.** Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+- **C.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **D.** Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Most humans use psychoactive drugs without experiencing addiction**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 27
+
+Which statement best matches the lecture discussion of **Subjective effects of amphetamines**?
+
+- **A.** Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+- **B.** As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+- **C.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **D.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Subjective effects of amphetamines**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 28
+
+Which statement best matches the lecture discussion of **Ethanol at GABA receptors**?
+
+- **A.** GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+- **B.** Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+- **C.** Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+- **D.** Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Ethanol at GABA receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 29
+
+Which statement best matches the lecture discussion of **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)**?
+
+- **A.** The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+- **C.** Inhibitory (Gi) GPCRs.
+- **D.** Endogenous opioids are peptides. Small proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Inhibitory (Gi) GPCRs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 30
+
+Which statement best matches the lecture discussion of **Behavioral and physiological effects of caffeine**?
+
+- **A.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Behavioral and physiological effects of caffeine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+# Section B — Short Essay
+
+### Short Essay 1
+
+Explain **Metabolism and excretion** and show how it connects to **Pharmacodynamics** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Metabolism and excretion**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 2
+
+Explain **Drugs, addiction, harm Nutt et al., 2007** and show how it connects to **What do we really want to know about drug addiction?** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Drugs, addiction, harm Nutt et al., 2007**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 3
+
+Explain **Amphetamines are addictive** and show how it connects to **Methamphetamine is worse for you than other amphetamines** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Amphetamines are addictive**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 4
+
+Compare **How alcohol is made** with **Pharmacokinetics - solubility**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake. Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Integration: How alcohol is made and Pharmacokinetics - solubility**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+

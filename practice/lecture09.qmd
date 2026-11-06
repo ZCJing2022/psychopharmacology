@@ -1,0 +1,501 @@
+---
+title: "Lecture 9 Practice — Glutamate"
+toc-depth: 2
+---
+
+**20 multiple-choice questions** and **5 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Glutamate biosynthesis {#l09-mc01}
+
+Which statement best matches the lecture discussion of **Glutamate biosynthesis**?
+
+- **A.** Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+- **B.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+- **C.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+- **D.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glutamate biosynthesis** from Lecture 9 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 2 — Vesicular packaging of glutamate {#l09-mc02}
+
+Which statement best matches the lecture discussion of **Vesicular packaging of glutamate**?
+
+- **A.** EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+- **B.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+- **C.** Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+- **D.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Vesicular packaging of glutamate** from Lecture 9 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 3 — Glutamate reuptake {#l09-mc03}
+
+Which statement best matches the lecture discussion of **Glutamate reuptake**?
+
+- **A.** Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+- **B.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+- **C.** EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+- **D.** Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase. Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glutamate reuptake** from Lecture 9 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 4 — EAAT knockout {#l09-mc04}
+
+Which statement best matches the lecture discussion of **EAAT knockout**?
+
+- **A.** EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+- **B.** Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase. Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase.
+- **C.** Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glutamatergic pathways in the brain include.
+- **D.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **EAAT knockout** from Lecture 9 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 5 — Astrocytic metabolism of glutamate {#l09-mc05}
+
+Which statement best matches the lecture discussion of **Astrocytic metabolism of glutamate**?
+
+- **A.** Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+- **B.** Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase. Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase.
+- **C.** Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glutamatergic pathways in the brain include.
+- **D.** AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors. Kainate receptor, named for selective agonist kainic acid.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase. Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Astrocytic metabolism of glutamate** from Lecture 9 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 6 — Anatomical organization of the glutamate system {#l09-mc06}
+
+Which statement best matches the lecture discussion of **Anatomical organization of the glutamate system**?
+
+- **A.** Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glutamatergic pathways in the brain include.
+- **B.** AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors. Kainate receptor, named for selective agonist kainic acid.
+- **C.** Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+- **D.** Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:. Abused drugs phencyclidine (PCP) and ketamine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glutamatergic pathways in the brain include.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Anatomical organization of the glutamate system** from Lecture 9 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 7 — Ionotropic glutamate receptors {#l09-mc07}
+
+Which statement best matches the lecture discussion of **Ionotropic glutamate receptors**?
+
+- **A.** Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+- **B.** Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:. Abused drugs phencyclidine (PCP) and ketamine.
+- **C.** Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system. Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation.
+- **D.** AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors. Kainate receptor, named for selective agonist kainic acid.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors. Kainate receptor, named for selective agonist kainic acid.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ionotropic glutamate receptors** from Lecture 9 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 8 — NMDA receptors are very interesting {#l09-mc08}
+
+Which statement best matches the lecture discussion of **NMDA receptors are very interesting**?
+
+- **A.** Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system. Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation.
+- **B.** AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials. Why not direct agonists?.
+- **C.** Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+- **D.** Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:. Abused drugs phencyclidine (PCP) and ketamine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **NMDA receptors are very interesting** from Lecture 9 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 9 — Metabotropic glutamate receptors {#l09-mc09}
+
+Which statement best matches the lecture discussion of **Metabotropic glutamate receptors**?
+
+- **A.** Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system. Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation.
+- **B.** AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials. Why not direct agonists?.
+- **C.** One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors. Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells.
+- **D.** LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system. Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Metabotropic glutamate receptors** from Lecture 9 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 10 — AMPA and NMDA receptors in learning and memory {#l09-mc10}
+
+Which statement best matches the lecture discussion of **AMPA and NMDA receptors in learning and memory**?
+
+- **A.** One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors. Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells.
+- **B.** LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+- **C.** actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory.
+- **D.** AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials. Why not direct agonists?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials. Why not direct agonists?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **AMPA and NMDA receptors in learning and memory** from Lecture 9 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 11 — A mechanism for glutamate in memory formation {#l09-mc11}
+
+Which statement best matches the lecture discussion of **A mechanism for glutamate in memory formation**?
+
+- **A.** actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory.
+- **B.** Measuring LTP in the laboratory Stim Record.
+- **C.** One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors. Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells.
+- **D.** LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors. Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **A mechanism for glutamate in memory formation** from Lecture 9 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 12 — Long-term potentiation {#l09-mc12}
+
+Which statement best matches the lecture discussion of **Long-term potentiation**?
+
+- **A.** AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first.
+- **B.** LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+- **C.** actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory.
+- **D.** Measuring LTP in the laboratory Stim Record.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Long-term potentiation** from Lecture 9 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 13 — Measuring LTP in the laboratory Stim {#l09-mc13}
+
+Which statement best matches the lecture discussion of **Measuring LTP in the laboratory Stim**?
+
+- **A.** AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first.
+- **B.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate.
+- **C.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+- **D.** Measuring LTP in the laboratory Stim Record.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Measuring LTP in the laboratory Stim Record.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Measuring LTP in the laboratory Stim** from Lecture 9 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 14 — AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate {#l09-mc14}
+
+Which statement best matches the lecture discussion of **AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate**?
+
+- **A.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+- **B.** Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+- **C.** AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first.
+- **D.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate** from Lecture 9 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 15 — Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and {#l09-mc15}
+
+Which statement best matches the lecture discussion of **Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and**?
+
+- **A.** Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+- **B.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate.
+- **C.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+- **D.** Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and** from Lecture 9 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 16 — Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein {#l09-mc16}
+
+Which statement best matches the lecture discussion of **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein**?
+
+- **A.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+- **B.** Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+- **C.** Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+- **D.** Cerebrovascular disorder of sudden onset. Infarct.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein** from Lecture 9 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 17 — Multiple ways to die {#l09-mc17}
+
+Which statement best matches the lecture discussion of **Multiple ways to die**?
+
+- **A.** Ischemic brain damage. One mechanism of ischemia.
+- **B.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+- **C.** Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+- **D.** Cerebrovascular disorder of sudden onset. Infarct.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Multiple ways to die** from Lecture 9 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 18 — Stroke {#l09-mc18}
+
+Which statement best matches the lecture discussion of **Stroke**?
+
+- **A.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **B.** Cerebrovascular disorder of sudden onset. Infarct.
+- **C.** Ischemic brain damage. One mechanism of ischemia.
+- **D.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Cerebrovascular disorder of sudden onset. Infarct.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Stroke** from Lecture 9 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 19 — Glutamate toxicity in stroke {#l09-mc19}
+
+Which statement best matches the lecture discussion of **Glutamate toxicity in stroke**?
+
+- **A.** Ischemic brain damage. One mechanism of ischemia.
+- **B.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+- **C.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **D.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Ischemic brain damage. One mechanism of ischemia.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Glutamate toxicity in stroke** from Lecture 9 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+### Question 20 — NMDA receptor blockers in stroke {#l09-mc20}
+
+Which statement best matches the lecture discussion of **NMDA receptor blockers in stroke**?
+
+- **A.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **B.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+- **C.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+- **D.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **NMDA receptor blockers in stroke** from Lecture 9 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 9 study guide](../study-guides/lecture09.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — The diversity of EAATs {#l09-sa01}
+
+Explain **The diversity of EAATs** and show how it connects to **Astrocytic metabolism of glutamate** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 9, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Another binding site directly inside the channel {#l09-sa02}
+
+Explain **Another binding site directly inside the channel** and show how it connects to **Metabotropic glutamate receptors** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:. Abused drugs phencyclidine (PCP) and ketamine.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 9, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — ✤ Withslice electrophysiology,we can induce LTPin cells and record thechange in EPSP 1.Establish a baseline: stimulatepresynapticaxons @low  {#l09-sa03}
+
+Explain **✤ Withslice electrophysiology,we can induce LTPin cells and record thechange in EPSP 1.Establish a baseline: stimulatepresynapticaxons @low ** and show how it connects to **Measuring LTP in the laboratory Stim** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 9, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — High levels of glutamate is toxic {#l09-sa04}
+
+Explain **High levels of glutamate is toxic** and show how it connects to **Multiple ways to die** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 9, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — What about MSG {#l09-sa05}
+
+Explain **What about MSG** and show how it connects to **Glutamate biosynthesis** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 9, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

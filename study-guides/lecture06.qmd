@@ -1,0 +1,267 @@
+---
+title: "Lecture 6 — Catecholamines II — Noradrenaline"
+---
+
+## How to use this guide
+
+The Lecture 6 presentation defines the examinable scope. Meyer Chapter 5 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Organization and function of the central noradrenergic system → Adrenergic receptors THE AUTORECEPTOR → What is impulsivity → Measuringimpulsivityinthelab-humans → Measuring impulsivity in the lab - rodents Measuringimpulsivityinthelab-rodents → Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol → Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol → Circuits involved in impulse control Circuitsinvolvedin → Neurochemicalregulationof impulsivity → Impulsivityandpsychiatricdisorders → Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD) → Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies → …
+</div>
+
+## Textbook anchors
+
+- Catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase
+- VMAT storage and catecholamine release
+- DAT/NET reuptake and MAO/COMT metabolism
+- Dopaminergic pathways and receptor families
+- Nigrostriatal, mesolimbic and mesocortical functions
+- Noradrenergic organization and locus coeruleus
+- Adrenergic receptor actions and behavioral functions
+
+## Supplementary Web Boxes
+
+- Web Box 5.1 Case Study of a Child Bearing a Mutation in the Tyrosine Hydroxylase (TH) Gene
+
+## Lecture concepts
+
+### 1. Organization and function of the central noradrenergic system
+
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+
+**What to know:**
+- NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC)
+- All neurons in the LC express the enzyme DBH and synthesize NE
+- Pharmacodynamic profile very similar to dopamine
+- Reuptake (NET / DAT)
+- Vesicular packaging (VMAT)
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Adrenergic receptors THE AUTORECEPTOR
+
+Adrenergic receptors THE AUTORECEPTOR.
+
+**What to know:**
+- Adrenergic receptors THE AUTORECEPTOR
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. What is impulsivity
+
+Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+**What to know:**
+- Motor impulsivity (impulsive action)
+- Impaired response inhibition/inhibitory control
+- Ex.Shouting out the answer
+- Cognitive impulsivity (impulsive choice)
+- Without forethought – immediate rewards
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Measuringimpulsivityinthelab-humans
+
+Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+
+**What to know:**
+- Impulsivity scales and questionnaires
+- Barratt impulsiveness scale (BIS)
+- Three subscales: Attentional, motor, non-planning
+- Motor impulsivity
+- Stop-signal reaction time
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Measuring impulsivity in the lab - rodents Measuringimpulsivityinthelab-rodents
+
+Cognitive impulsivity. Delay discounting.
+
+**What to know:**
+- Cognitive impulsivity
+- Delay discounting
+- Motor impulsivity
+- Stop signal reaction time task
+- 5 choice serial reaction time task
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol
+
+Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+
+**What to know:**
+- Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity
+- Planning, executive function, attention
+- Topdown inhibition
+- Orbitofrontal cortex ➔cognitive impulsivity
+- Action-outcome contingencies, value, reward
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol
+
+Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+
+**What to know:**
+- Striatum =both choice and motor impulsivity; action selection
+- Caudate/putamen (human); dorsal striatum (rat)
+- Action initiation/inhibition
+- Nucleus accumbens (NAc; ventral striatum)
+- Motivational drive (arousal, value)
+
+**Meyer connection:** Review the chapter discussion of **adrenergic receptor actions and behavioral functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Circuits involved in impulse control Circuitsinvolvedin
+
+Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci.
+
+**What to know:**
+- Interactions between many regions Robbins & Belin, 2024, Nat RevNeurosci
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Neurochemicalregulationof impulsivity
+
+Inverted-U. Catecholamines in the PFC.
+
+**What to know:**
+- Inverted-U
+- Catecholamines in the PFC
+- Noradrenaline (NA)
+- Dopamine (DA)
+- Disorders of impulsivity Catecholamine levels Prefrontal/executive function Under- aroused Stressed Optimal performance
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Impulsivityandpsychiatricdisorders
+
+Impulsive compulsive spectrum disorders (ICSDs). Obsessive-compulsive disorder.
+
+**What to know:**
+- Impulsive compulsive spectrum disorders (ICSDs)
+- Obsessive-compulsive disorder
+- Gambling disorder
+- Substance use disorder
+- Binge eating disorder
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)
+
+Neurodevelopmental disorder. Most commonly diagnosed in children; 4:1 males:females.
+
+**What to know:**
+- Neurodevelopmental disorder
+- Most commonly diagnosed in children; 4:1 males:females
+- Behavioural symptoms – DSM- V(6/9 for diagnosis):
+- Inattentiveness
+- Hyperactivity/impulsivity
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies
+
+Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998). Radioactive DOPA.
+
+**What to know:**
+- Reduced dopamine synthesis/activity in mPFCof ADHDpatients (Ernst et al. 1998)
+- Radioactive DOPA
+- Higher dopamine turnover in PFC(anterior cingulate cortex) of un-treated ADHD patients (Ludolph et al. 2008)
+- Not found in methylphenidate-treated patients (chronic)
+- ADHDcognitive deficits are due to hypo- dopaminergic PFC F18ratio =ratio of radioactive DOPA uptake in region of interest vs.reference region which does not produce much DA ➔Measure of DAsynthesis Ernst et al. 1998
+
+**Meyer connection:** Review the chapter discussion of **nigrostriatal, mesolimbic and mesocortical functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Neurobiologyof ADHD–animalstudies
+
+Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002). NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA.
+
+**What to know:**
+- Methylphenidate: increases dopamine (DA) and noradrenaline (NA) levels in PFC and striatum (dorsal striatum and NAc) (Bymaster et al. 2002)
+- NETinhibitor, atomoxetine:increases DAand NAonly in the PFC(Bymaster et al. 2002) Prefrontal cortex- NA DA
+
+**Meyer connection:** Review the chapter discussion of **noradrenergic organization and locus coeruleus** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Neurobiologyof ADHD–PETstudies
+
+Deficits in sustained attention. Reduced grey matter volume in prefrontal cortex (structural MRI).
+
+**What to know:**
+- Deficits in sustained attention
+- Reduced grey matter volume in prefrontal cortex (structural MRI)
+- Subregion of dorsomedial PFC:ADHD<HC(healthy controls)
+- Equivalent PFCdopamine receptor availability to healthy controls!
+- Radioactive D2/D3 receptor ligand (18F-fallypride) del Campoet al. 2013
+
+**Meyer connection:** Review the chapter discussion of **adrenergic receptor actions and behavioral functions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Attention-deficit hyperactivedisorder (ADHD)
+
+Paradoxically low prefrontal catecholamine function. Noradrenaline.
+
+**What to know:**
+- Paradoxically low prefrontal catecholamine function
+- Noradrenaline
+- Dopamine
+- ADHDmedications – stimulants Catecholamine levels Prefrontal/executive function
+
+**Meyer connection:** Review the chapter discussion of **catecholamine synthesis and the rate-limiting role of tyrosine hydroxylase** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Methylphenidate (Ritalin)
+
+DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+
+**What to know:**
+- DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine)
+- Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology
+
+**Meyer connection:** Review the chapter discussion of **vmat storage and catecholamine release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Sideeffectsof stimulant medications
+
+Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+
+**What to know:**
+- Classic stimulant side effects
+- Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia)
+- Risk of abuse with long-term use
+- Increase ventral striatal dopamine
+- Non-stimulant ADHDdrugs – noradrenergic mechanisms
+
+**Meyer connection:** Review the chapter discussion of **dat/net reuptake and mao/comt metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. ADHDpharmacology–noradrenaline Guanfacine (Intuniv)
+
+Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+
+**What to know:**
+- Selective α2A receptor agonist (NA autoreceptor)
+- Therapeutic action in prefrontal cortex
+- Signal-to-noise ratio
+- Inattentive vs combined (Biederman et al. 2008) Atomoxetine (Strattera)
+- Selective NETblocker (antagonist) X X a2
+
+**Meyer connection:** Review the chapter discussion of **dopaminergic pathways and receptor families** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Organization and function of the central noradrenergic system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Adrenergic receptors THE AUTORECEPTOR** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What is impulsivity** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Measuringimpulsivityinthelab-humans** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Measuring impulsivity in the lab - rodents Measuringimpulsivityinthelab-rodents** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Prefrontal brain regions involved in impulse control Prefrontalbrainregionsinvolvedin impulsecontrol** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Subcortical brain regions involved in impulse control Subcorticalbrainregionsinvolvedinimpulsecontrol** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Circuits involved in impulse control Circuitsinvolvedin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurochemicalregulationof impulsivity** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Impulsivityandpsychiatricdisorders** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Attention-deficit hyperactive disorder (ADHD) Attention-deficit hyperactivedisorder (ADHD)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurobiology of ADHD – seminal PET studies Neurobiologyof ADHD–seminalPETstudies** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurobiologyof ADHD–animalstudies** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurobiologyof ADHD–PETstudies** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Attention-deficit hyperactivedisorder (ADHD)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Methylphenidate (Ritalin)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Sideeffectsof stimulant medications** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

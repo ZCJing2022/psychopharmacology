@@ -1,0 +1,501 @@
+---
+title: "Lecture 15 Practice — Opioids"
+toc-depth: 2
+---
+
+**20 multiple-choice questions** and **5 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Opioids are narcotic analgesics {#l15-mc01}
+
+Which statement best matches the lecture discussion of **Opioids are narcotic analgesics**?
+
+- **A.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+- **B.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+- **C.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opioids are narcotic analgesics** from Lecture 15 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 2 — Opium has been around for a long time {#l15-mc02}
+
+Which statement best matches the lecture discussion of **Opium has been around for a long time**?
+
+- **A.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **B.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+- **C.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **D.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opium has been around for a long time** from Lecture 15 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 3 — The structure of opioids determines their pharmacokinetics {#l15-mc03}
+
+Which statement best matches the lecture discussion of **The structure of opioids determines their pharmacokinetics**?
+
+- **A.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **B.** A taxonomy of opioids Opiates Opioids.
+- **C.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The structure of opioids determines their pharmacokinetics** from Lecture 15 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 4 — The structure of opioids determines their pharmacodynamics {#l15-mc04}
+
+Which statement best matches the lecture discussion of **The structure of opioids determines their pharmacodynamics**?
+
+- **A.** Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+- **B.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+- **C.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **D.** A taxonomy of opioids Opiates Opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The structure of opioids determines their pharmacodynamics** from Lecture 15 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 5 — A taxonomy of opioids Opiates {#l15-mc05}
+
+Which statement best matches the lecture discussion of **A taxonomy of opioids Opiates**?
+
+- **A.** Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+- **B.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+- **C.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **D.** A taxonomy of opioids Opiates Opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+A taxonomy of opioids Opiates Opioids.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **A taxonomy of opioids Opiates** from Lecture 15 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 6 — Physiological and psychological effects of opioids {#l15-mc06}
+
+Which statement best matches the lecture discussion of **Physiological and psychological effects of opioids**?
+
+- **A.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **B.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+- **C.** Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+- **D.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Effects of opioids on the CNS depend on dose and rate of absorption. Low to moderate doses result in pain relief, constricted pupils, drowsiness, inability to concentrate, dreamy sleep.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Physiological and psychological effects of opioids** from Lecture 15 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 7 — Mechanisms of opioid overdose {#l15-mc07}
+
+Which statement best matches the lecture discussion of **Mechanisms of opioid overdose**?
+
+- **A.** Inhibitory (Gi) GPCRs.
+- **B.** Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+- **C.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **D.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Adverse effects: dysphoria, restlessness and anxiety, nausea and vomiting; morphine affects the area postrema in the brainstem that elicits vomiting. At highest doses, sedative effects may lead to unconsciousness; body temperature and blood pressure fall; pupils become very constricted.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mechanisms of opioid overdose** from Lecture 15 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 8 — Opioids are very important in the GI tract {#l15-mc08}
+
+Which statement best matches the lecture discussion of **Opioids are very important in the GI tract**?
+
+- **A.** Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+- **B.** Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+- **C.** Inhibitory (Gi) GPCRs.
+- **D.** Endogenous opioids are peptides. Small proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Opium and morphine have been used to treat diarrhea and can be life-saving in severe bacterial and parasitic diseases. When opioids are used for pain management, constipation is a common side effect.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opioids are very important in the GI tract** from Lecture 15 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 9 — Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first) {#l15-mc09}
+
+Which statement best matches the lecture discussion of **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)**?
+
+- **A.** The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+- **C.** Inhibitory (Gi) GPCRs.
+- **D.** Endogenous opioids are peptides. Small proteins.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Inhibitory (Gi) GPCRs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)** from Lecture 15 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 10 — Where are endogenous opioids produced and released? {#l15-mc10}
+
+Which statement best matches the lecture discussion of **Where are endogenous opioids produced and released?**?
+
+- **A.** Opioid drugs mimic the inhibitory action of endogenous opioids. Opioids reduce transmission of pain signals at the spinal cord in two ways:.
+- **B.** Endogenous opioids are peptides. Small proteins.
+- **C.** The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Endogenous opioids are peptides. Small proteins.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Where are endogenous opioids produced and released?** from Lecture 15 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 11 — An opioidergic projection for food reward {#l15-mc11}
+
+Which statement best matches the lecture discussion of **An opioidergic projection for food reward**?
+
+- **A.** The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+- **C.** Opioid drugs mimic the inhibitory action of endogenous opioids. Opioids reduce transmission of pain signals at the spinal cord in two ways:.
+- **D.** Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain. PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The lecture treats **An opioidergic projection for food reward** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **An opioidergic projection for food reward** from Lecture 15 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 12 — The ascending pain pathway (anterolateral system) {#l15-mc12}
+
+Which statement best matches the lecture discussion of **The ascending pain pathway (anterolateral system)**?
+
+- **A.** Opioid drugs mimic the inhibitory action of endogenous opioids. Opioids reduce transmission of pain signals at the spinal cord in two ways:.
+- **B.** Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain. PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement.
+- **C.** Lot of people who use opioids for pain management become addicted. Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+- **D.** First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+First (early) component pain— immediate, sensory component; signal carried by myelinated Aδ neurons – conduct action potentials rapidly; transmitted from spinal cord via spinothalamic tract to PVL nucleus of the thalamus, then the somatosensory cortex. Second (late) component pain— emotional component; signal carried by thin, unmyelinated C fibers; transmission is slower; goes to the thalamus, but gives off collaterals to a several limbic structures and the anterior cingulate cortex. FROM SKIN.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The ascending pain pathway (anterolateral system)** from Lecture 15 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 13 — Supraspinal modulation of pain by opioids {#l15-mc13}
+
+Which statement best matches the lecture discussion of **Supraspinal modulation of pain by opioids**?
+
+- **A.** Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+- **B.** Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain. PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement.
+- **C.** Lot of people who use opioids for pain management become addicted. Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+- **D.** Animals will self-administer opioids. Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Opioid activity also occurs in supraspinal locations, including sensory areas, limbic structures, and hypothalamus; may be responsible for the emotional component of pain. PET imaging showed significant negative correlation between μ-opioid activity in the NAcc, amygdala, and thalamus and reported sensory pain scores. [11C]carfentanil displacement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Supraspinal modulation of pain by opioids** from Lecture 15 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 14 — Opioid addiction {#l15-mc14}
+
+Which statement best matches the lecture discussion of **Opioid addiction**?
+
+- **A.** Lot of people who use opioids for pain management become addicted. Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+- **B.** Animals will self-administer opioids. Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+- **C.** Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+- **D.** Tolerance: diminishing effects of a drug with repeated use. Cross-tolerance: related drugs also show reduced effectiveness.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Lot of people who use opioids for pain management become addicted. Opioids have significant reinforcing and rewarding properties and chronic use leads to tolerance and physical dependence.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opioid addiction** from Lecture 15 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 15 — Opioids are reinforcing and rewarding {#l15-mc15}
+
+Which statement best matches the lecture discussion of **Opioids are reinforcing and rewarding**?
+
+- **A.** Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+- **B.** Tolerance: diminishing effects of a drug with repeated use. Cross-tolerance: related drugs also show reduced effectiveness.
+- **C.** The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992). Dynorphin at KORs inhibits reward system → dysphoria.
+- **D.** Animals will self-administer opioids. Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Animals will self-administer opioids. Reinforcement value and the pattern of opioid use in animals are quite similar to those seen in humans.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opioids are reinforcing and rewarding** from Lecture 15 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 16 — The rewarding properties of opioids DAMGO {#l15-mc16}
+
+Which statement best matches the lecture discussion of **The rewarding properties of opioids DAMGO**?
+
+- **A.** The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992). Dynorphin at KORs inhibits reward system → dysphoria.
+- **B.** Methadone maintenance program: most common and effective treatment for heroin addiction. Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+- **C.** Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+- **D.** Tolerance: diminishing effects of a drug with repeated use. Cross-tolerance: related drugs also show reduced effectiveness.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Hedonic hotspots in the nucleus accumbens shell (Peciña & Berridge, 2005) Hedonic hotspots in the nucleus accumbens shell (Castro & Berridge, 2011) “Paradoxical” effect of kappa agonism.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The rewarding properties of opioids DAMGO** from Lecture 15 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 17 — The anti-reward system of the brain {#l15-mc17}
+
+Which statement best matches the lecture discussion of **The anti-reward system of the brain**?
+
+- **A.** The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992). Dynorphin at KORs inhibits reward system → dysphoria.
+- **B.** Methadone maintenance program: most common and effective treatment for heroin addiction. Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+- **C.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+- **D.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The LC and PAG are particularly sensitive to opioid antagonists in terms of precipitating withdrawal (Koob et al., 1992). Dynorphin at KORs inhibits reward system → dysphoria.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The anti-reward system of the brain** from Lecture 15 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 18 — Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal {#l15-mc18}
+
+Which statement best matches the lecture discussion of **Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal**?
+
+- **A.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+- **B.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+- **C.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **D.** Methadone maintenance program: most common and effective treatment for heroin addiction. Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Methadone maintenance program: most common and effective treatment for heroin addiction. Methadone has cross-dependence with heroin – prevents severe withdrawal symptoms; reduces euphoric effect of heroin.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacotherapies in opioid use disorder Mostly based in negative reinforcement via withdrawal** from Lecture 15 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 19 — Integration: Opioids are narcotic analgesics {#l15-mc19}
+
+Which statement correctly describes **Opioids are narcotic analgesics**, rather than the nearby topic **Opium has been around for a long time**?
+
+- **A.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **B.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+- **C.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **D.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Opioids are narcotic analgesics** from Lecture 15 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+### Question 20 — Integration: Opium has been around for a long time {#l15-mc20}
+
+Which statement correctly describes **Opium has been around for a long time**, rather than the nearby topic **The structure of opioids determines their pharmacokinetics**?
+
+- **A.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **B.** A taxonomy of opioids Opiates Opioids.
+- **C.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Opium has been around for a long time** from Lecture 15 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 15 study guide](../study-guides/lecture15.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Bioavailability of opioids {#l15-sa01}
+
+Explain **Bioavailability of opioids** and show how it connects to **A taxonomy of opioids Opiates** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 15, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Opioid receptors {#l15-sa02}
+
+Explain **Opioid receptors** and show how it connects to **Structure and function of the opioid receptors (Brigitte Kieffer; 1992; delta first)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Similar structure of morphine and its derivatives indicated probable structural features of opioid receptors. i.e., some kind of structural binding site somewhere.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 15, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Inhibition of pain (analgesia) by opioids Opioids inhibit pain transmission at spinal and {#l15-sa03}
+
+Explain **Inhibition of pain (analgesia) by opioids Opioids inhibit pain transmission at spinal and** and show how it connects to **Supraspinal modulation of pain by opioids** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Opioid drugs mimic the inhibitory action of endogenous opioids. Opioids reduce transmission of pain signals at the spinal cord in two ways:.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 15, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Chronic opioid use results in all the hallmarks of addiction {#l15-sa04}
+
+Explain **Chronic opioid use results in all the hallmarks of addiction** and show how it connects to **The anti-reward system of the brain** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Tolerance: diminishing effects of a drug with repeated use. Cross-tolerance: related drugs also show reduced effectiveness.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 15, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Integration: Opioids are narcotic analgesics and Opium has been around for a long time {#l15-sa05}
+
+Compare **Opioids are narcotic analgesics** with **Opium has been around for a long time**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic. Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 15, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

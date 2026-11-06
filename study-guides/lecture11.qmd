@@ -1,0 +1,275 @@
+---
+title: "Lecture 11 — Circadian Rhythms and Chronopharmacology"
+---
+
+## How to use this guide
+
+This lecture is **presentation-led** because no Meyer chapter was included in the Lecture 11 folder. The guide therefore follows the lecture deck closely and uses general pharmacokinetic/pharmacodynamic concepts only where they are explicitly invoked by the presentation.
+
+<div class="lecture-route">
+**Lecture route:** Overview → PART 1: Circadian Rhythms → What Are Circadian Rhythms? → Core terminology → Core terminology continued… → Evolution of Circadian Clocks Circadian clocks are present → Evolution of Circadian Clocks Anticipation of daily → Suprachiasmatic Nucleus (SCN) → Food Anticipatory Activity (FAA) → Clock Genes Transcription-Translation Feedback Loop (TTFL) → Peripheral Clocks → PART 2: How the clock changes drugs → …
+</div>
+
+## Lecture concepts
+
+### 1. Overview
+
+Circadian rhythms review. Clock → drugs.
+
+**What to know:**
+- Circadian rhythms review
+- Clock → drugs
+- Drugs → clock
+
+### 2. PART 1: Circadian Rhythms
+
+PART 1: Circadian Rhythms Review.
+
+**What to know:**
+- PART 1: Circadian Rhythms Review
+
+### 3. What Are Circadian Rhythms?
+
+Sleep/wake cycles. Physiological processes.
+
+**What to know:**
+- Sleep/wake cycles
+- Physiological processes
+- Internally generated ○ ~24 hours
+
+### 4. Core terminology
+
+Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+**What to know:**
+- Actogram ○ Visualize circadian activity
+- Diurnal vs. nocturnal
+- Criteria of circadian rhythms: ○ Persists in constant conditions ○ Entrainable by external cues Mistlberger PSYC388 lecture slides
+
+### 5. Core terminology continued…
+
+Zeitgeber ○ German for “time giver”. Entrainment.
+
+**What to know:**
+- Zeitgeber ○ German for “time giver”
+- Entrainment
+- Advance vs. Delay
+- Phase response curve ○ Light in early subjective night = delay ○ Light in late subjective night = advance ○ Light in mid subjective day = no effect
+
+### 6. Evolution of Circadian Clocks Circadian clocks are present
+
+Bacteria. Plants.
+
+**What to know:**
+- Bacteria
+- Plants
+- Animals
+
+### 7. Evolution of Circadian Clocks Anticipation of daily
+
+Light/dark. Social coordination.
+
+**What to know:**
+- Light/dark
+- Social coordination
+- Avoidance
+- Foraging
+
+### 8. Suprachiasmatic Nucleus (SCN)
+
+Master clock. ~20 000 neurons.
+
+**What to know:**
+- Master clock
+- ~20 000 neurons
+- Entrains to LD cycle
+- Host SCN sets phase DONOR HOST
+
+### 9. Food Anticipatory Activity (FAA)
+
+1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+
+**What to know:**
+- 1-3 hrs before mealtime
+- Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025)
+
+### 10. Clock Genes Transcription-Translation Feedback Loop (TTFL)
+
+Cell autonomous. CLOCK + BMAL1.
+
+**What to know:**
+- Cell autonomous
+- CLOCK + BMAL1
+- PER + CRY ○ accumulate ○ repress ○ degrade ○ cycle restarts
+- ~24 hours per loop
+
+### 11. Peripheral Clocks
+
+Nearly every tissue has a clock. SCN synchronizes ○ not generate.
+
+**What to know:**
+- Nearly every tissue has a clock
+- SCN synchronizes ○ not generate
+- No SCN → clocks persist ○ Drift apart
+- 43% of protein-coding genes are rhythmic
+- Liver had most rhythmic genes Takahashi lab (UT Southwestern, 2015)
+
+### 12. PART 2: How the clock changes drugs
+
+PART 2: How the clock changes drugs.
+
+**What to know:**
+- PART 2: How the clock changes drugs
+
+### 13. Pharmacokinetics vs. Pharmacodynamics
+
+PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, signalling, response.
+
+**What to know:**
+- PK ○ Absorption, distribution, metabolism and excretion
+- PD ○ Receptors, signalling, response
+- Rhythmic components
+
+### 14. Absorption and distribution
+
+Gastric emptying. Gut blood flow.
+
+**What to know:**
+- Gastric emptying
+- Gut blood flow
+- Lipid absorption
+- Lipophilic drugs absorbed faster in daytime
+- Blood-brain barrier efflux is clock-controlled in Drosophila Fujimuira & Ushijima (2023) Axelrod et al. (2023) Zhang et al. (2014)
+
+### 15. Metabolism and excretion
+
+Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+
+**What to know:**
+- Liver cytochrome P450 enzymes rhythmic
+- Kidney filtration rhythmic
+- Acetometophen in mice ○ Toxicity is higher at night. ○ Rhythm lost in liver clock knockouts
+- Barbituates ○ Time asleep varies across the day Matsunaga et al., (2004) DeBruyne et al. (2014)
+
+### 16. Pharmacodynamics
+
+Drug targets are often rhythmic. 56 of 100 top-selling drugs.
+
+**What to know:**
+- Drug targets are often rhythmic
+- 56 of 100 top-selling drugs
+- 119 of 250 WHO essential medicines
+- Short half-life drugs most affected Zhang et al, (2014)
+
+### 17. Chronotherapy in clinical practice
+
+Cholesterol: evening statins. Asthma: nocturnal symptoms.
+
+**What to know:**
+- Cholesterol: evening statins
+- Asthma: nocturnal symptoms
+- Rheumatoid arthritis: morning stiffness
+- IL-6 peaks @ night
+- Blood pressure: no difference
+
+### 18. PART 3: How drugs change the clock
+
+PART 3: How drugs change the clock.
+
+**What to know:**
+- PART 3: How drugs change the clock
+
+### 19. Photic input to the SCN
+
+Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+
+**What to know:**
+- Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness
+- Transmitter: glutamate
+- NMDA antagonists block light shifts
+- NMDA agonists shift Moshirpor et al., (2025)
+
+### 20. Alcohol
+
+Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+
+**What to know:**
+- Blocks light-induced advances
+- Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009)
+
+### 21. Non-photic arousal
+
+A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+
+**What to know:**
+- A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989)
+
+### 22. Non-SCN clocks in the brain
+
+FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+
+**What to know:**
+- FAA survives SCN lesion → FEO
+- Daily methamphetamine survives SCN lesion ○ MASCO
+- MASCO persists without canonical clock genes Honma & Honma (1995) Honma et al. (1986) Tataroglu et al. (2006)
+
+### 23. Stimulants
+
+Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+
+**What to know:**
+- Cocaine sensitization needs clock genes
+- Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999)
+
+### 24. Caffeine
+
+Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+
+**What to know:**
+- Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018)
+
+### 25. Melatonin
+
+Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+
+**What to know:**
+- Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN
+- Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018)
+
+### 26. Takeaways
+
+Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+
+**What to know:**
+- Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues
+- The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+- Drugs affect the clock via ○ Photic & non photic If you take the same pill at 8am vs 8pm, is it the same drug?
+
+## Study checklist
+
+- [ ] I can explain **Overview** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **PART 1: Circadian Rhythms** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What Are Circadian Rhythms?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Core terminology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Core terminology continued…** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Evolution of Circadian Clocks Circadian clocks are present** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Evolution of Circadian Clocks Anticipation of daily** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Suprachiasmatic Nucleus (SCN)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Food Anticipatory Activity (FAA)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Clock Genes Transcription-Translation Feedback Loop (TTFL)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Peripheral Clocks** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **PART 2: How the clock changes drugs** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics vs. Pharmacodynamics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Absorption and distribution** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabolism and excretion** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacodynamics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Chronotherapy in clinical practice** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **PART 3: How drugs change the clock** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Photic input to the SCN** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Alcohol** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Non-photic arousal** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Non-SCN clocks in the brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Stimulants** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Caffeine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Melatonin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Takeaways** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

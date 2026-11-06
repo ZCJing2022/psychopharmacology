@@ -1,0 +1,80 @@
+---
+title: "Lecture 16 — Nicotine and Caffeine"
+---
+
+## How to use this guide
+
+No Lecture 16 presentation was included in the uploaded folder. This guide is therefore **textbook-led**, using Meyer Chapter 13 and the supplied Web Boxes as the available course sources. This limitation is recorded in the source audit.
+
+<div class="lecture-route">
+**Lecture route:** Nicotine pharmacokinetics and metabolism → Nicotinic acetylcholine receptors → Behavioral and physiological effects of nicotine → Smoking, vaping, dependence and treatment → Caffeine pharmacology → Adenosine receptor antagonism → Behavioral and physiological effects of caffeine
+</div>
+
+## Textbook anchors
+
+- Nicotine pharmacokinetics and metabolism
+- Nicotinic acetylcholine receptors
+- Behavioral and physiological effects of nicotine
+- Smoking, vaping, dependence and treatment
+- Caffeine pharmacology
+- Adenosine receptor antagonism
+- Behavioral and physiological effects of caffeine
+
+## Supplementary Web Boxes
+
+- Web Box 13.1 Pharmacology in Action_ Why Do Tobacco Plants Make Nicotine_
+- Web Box 13.2 Case Study_ Caffeine Intoxication (Caffeinism) in an Army Officer
+
+## Lecture concepts
+
+### 1. Nicotine pharmacokinetics and metabolism
+
+The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **nicotine pharmacokinetics and metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Nicotinic acetylcholine receptors
+
+The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **nicotinic acetylcholine receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Behavioral and physiological effects of nicotine
+
+The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **behavioral and physiological effects of nicotine** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Smoking, vaping, dependence and treatment
+
+The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **smoking, vaping, dependence and treatment** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Caffeine pharmacology
+
+The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **caffeine pharmacology** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Adenosine receptor antagonism
+
+The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **adenosine receptor antagonism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Behavioral and physiological effects of caffeine
+
+The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **behavioral and physiological effects of caffeine** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Nicotine pharmacokinetics and metabolism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Nicotinic acetylcholine receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioral and physiological effects of nicotine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Smoking, vaping, dependence and treatment** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Caffeine pharmacology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Adenosine receptor antagonism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioral and physiological effects of caffeine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

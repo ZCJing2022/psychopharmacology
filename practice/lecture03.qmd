@@ -1,0 +1,501 @@
+---
+title: "Lecture 3 Practice — Chemical Signalling in the Nervous System"
+toc-depth: 2
+---
+
+**20 multiple-choice questions** and **5 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Discovery of a Neurotransmitter {#l03-mc01}
+
+Which statement best matches the lecture discussion of **Discovery of a Neurotransmitter**?
+
+- **A.** Otto Lowei. ”vagustoff”.
+- **B.** Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+- **C.** The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Otto Lowei. ”vagustoff”.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Discovery of a Neurotransmitter** from Lecture 3 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 2 — General Concepts {#l03-mc02}
+
+Which statement best matches the lecture discussion of **General Concepts**?
+
+- **A.** The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+- **C.** identified as neurotransmitters.
+- **D.** Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **General Concepts** from Lecture 3 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 3 — Types of Synapses {#l03-mc03}
+
+Which statement best matches the lecture discussion of **Types of Synapses**?
+
+- **A.** identified as neurotransmitters.
+- **B.** Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, serotonin.
+- **C.** The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Types of Synapses** from Lecture 3 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 4 — Astrocytes regulate synapses TRIPARTITE SYNAPSE {#l03-mc04}
+
+Which statement best matches the lecture discussion of **Astrocytes regulate synapses TRIPARTITE SYNAPSE**?
+
+- **A.** Most transmitters are synthesized in the axon terminals. Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+- **B.** Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+- **C.** identified as neurotransmitters.
+- **D.** Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, serotonin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Astrocytes regulate synapses TRIPARTITE SYNAPSE** from Lecture 3 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 5 — Neurotransmitters Encompass Several Different Kinds of Chemical Substances {#l03-mc05}
+
+Which statement best matches the lecture discussion of **Neurotransmitters Encompass Several Different Kinds of Chemical Substances**?
+
+- **A.** Most transmitters are synthesized in the axon terminals. Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+- **B.** Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+- **C.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **D.** Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, serotonin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, serotonin.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurotransmitters Encompass Several Different Kinds of Chemical Substances** from Lecture 3 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 6 — Neuropeptides are synthesized differently {#l03-mc06}
+
+Which statement best matches the lecture discussion of **Neuropeptides are synthesized differently**?
+
+- **A.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **B.** SNARE Proteins. Synaptoagmin & synaptobrevin.
+- **C.** Most transmitters are synthesized in the axon terminals. Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+- **D.** Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Most transmitters are synthesized in the axon terminals. Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neuropeptides are synthesized differently** from Lecture 3 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 7 — Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters {#l03-mc07}
+
+Which statement best matches the lecture discussion of **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters**?
+
+- **A.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **B.** Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+- **C.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **D.** SNARE Proteins. Synaptoagmin & synaptobrevin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters** from Lecture 3 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 8 — Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles {#l03-mc08}
+
+Which statement best matches the lecture discussion of **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles**?
+
+- **A.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **B.** SNARE Proteins. Synaptoagmin & synaptobrevin.
+- **C.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **D.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles** from Lecture 3 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 9 — Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles {#l03-mc09}
+
+Which statement best matches the lecture discussion of **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles**?
+
+- **A.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **B.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- **C.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **D.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles** from Lecture 3 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 10 — Release Involves Exocytosis and Recycling of Synaptic Vesicles {#l03-mc10}
+
+Which statement best matches the lecture discussion of **Release Involves Exocytosis and Recycling of Synaptic Vesicles**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+- **C.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Release Involves Exocytosis and Recycling of Synaptic Vesicles** from Lecture 3 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 11 — Autoreceptors control the rate of neurotransmitter release {#l03-mc11}
+
+Which statement best matches the lecture discussion of **Autoreceptors control the rate of neurotransmitter release**?
+
+- **A.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **B.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- **C.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **D.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Autoreceptors control the rate of neurotransmitter release** from Lecture 3 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 12 — Mechanisms of Neurotransmitter Inactivation {#l03-mc12}
+
+Which statement best matches the lecture discussion of **Mechanisms of Neurotransmitter Inactivation**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mechanisms of Neurotransmitter Inactivation** from Lecture 3 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 13 — Neurotransmitter Receptor Families {#l03-mc13}
+
+Which statement best matches the lecture discussion of **Neurotransmitter Receptor Families**?
+
+- **A.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neurotransmitter Receptor Families** from Lecture 3 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 14 — Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel {#l03-mc14}
+
+Which statement best matches the lecture discussion of **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel**?
+
+- **A.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **B.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+- **C.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **D.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel** from Lecture 3 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 15 — Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins {#l03-mc15}
+
+Which statement best matches the lecture discussion of **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins**?
+
+- **A.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **B.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+- **C.** Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- **D.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Act slower but response lasts longer. Activate G proteins when transmitter binds.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins** from Lecture 3 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 16 — Allosteric modulation {#l03-mc16}
+
+Which statement best matches the lecture discussion of **Allosteric modulation**?
+
+- **A.** Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- **B.** The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **D.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Allosteric modulation** from Lecture 3 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 17 — Tyrosine Kinase Receptors {#l03-mc17}
+
+Which statement best matches the lecture discussion of **Tyrosine Kinase Receptors**?
+
+- **A.** Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- **B.** The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!.
+- **D.** Otto Lowei. ”vagustoff”.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Tyrosine Kinase Receptors** from Lecture 3 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 18 — Drugs can alter all aspects of synaptic transmission {#l03-mc18}
+
+Which statement best matches the lecture discussion of **Drugs can alter all aspects of synaptic transmission**?
+
+- **A.** Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!.
+- **B.** Otto Lowei. ”vagustoff”.
+- **C.** Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+- **D.** The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Drugs can alter all aspects of synaptic transmission** from Lecture 3 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 19 — Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term! {#l03-mc19}
+
+Which statement best matches the lecture discussion of **Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!**?
+
+- **A.** Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+- **B.** The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!.
+- **D.** Otto Lowei. ”vagustoff”.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!** from Lecture 3 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+### Question 20 — Integration: Discovery of a Neurotransmitter {#l03-mc20}
+
+Which statement correctly describes **Discovery of a Neurotransmitter**, rather than the nearby topic **General Concepts**?
+
+- **A.** The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+- **C.** identified as neurotransmitters.
+- **D.** Otto Lowei. ”vagustoff”.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Otto Lowei. ”vagustoff”.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Discovery of a Neurotransmitter** from Lecture 3 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 3 study guide](../study-guides/lecture03.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — The variety of neurotransmitters is vast Over 100 chemicals have been {#l03-sa01}
+
+Explain **The variety of neurotransmitters is vast Over 100 chemicals have been** and show how it connects to **Neurotransmitters Encompass Several Different Kinds of Chemical Substances** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+identified as neurotransmitters.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 3, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Mechanism of exocytosis {#l03-sa02}
+
+Explain **Mechanism of exocytosis** and show how it connects to **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+SNARE Proteins. Synaptoagmin & synaptobrevin.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 3, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Neurotransmitters in the periphery {#l03-sa03}
+
+Explain **Neurotransmitters in the periphery** and show how it connects to **Neurotransmitter Receptor Families** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 3, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Second Messenger Systems {#l03-sa04}
+
+Explain **Second Messenger Systems** and show how it connects to **Tyrosine Kinase Receptors** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 3, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Integration: Discovery of a Neurotransmitter and General Concepts {#l03-sa05}
+
+Compare **Discovery of a Neurotransmitter** with **General Concepts**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Otto Lowei. ”vagustoff”. Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 3, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

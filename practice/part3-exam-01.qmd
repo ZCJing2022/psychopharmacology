@@ -1,0 +1,609 @@
+---
+title: "Part 3 Practice Exam 1"
+toc-depth: 2
+---
+
+**Time: 50 minutes.** This practice exam is derived from Lectures 11–16.
+
+**Format:** 30 multiple-choice questions and 4 short-essay questions. Answers and explanations are hidden initially.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+Which statement best matches the lecture discussion of **PART 3: How drugs change the clock**?
+
+- **A.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **B.** Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+- **C.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **D.** PART 3: How drugs change the clock.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+PART 3: How drugs change the clock.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **PART 3: How drugs change the clock**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 2
+
+Which statement best matches the lecture discussion of **William S. Burroughs, Junky**?
+
+- **A.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **B.** Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+- **C.** Who is particularly at risk?. What causes drug addiction?.
+- **D.** Men? Women?. Dependent on the drug, but usually men.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **William S. Burroughs, Junky**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 3
+
+Which statement best matches the lecture discussion of **Peripheral physiological effects of cocaine**?
+
+- **A.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **B.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+- **C.** Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+- **D.** Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Peripheral physiological effects of cocaine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 4
+
+Which statement best matches the lecture discussion of **Pharmacokinetics - solubility**?
+
+- **A.** Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+- **B.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+- **C.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **D.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Pharmacokinetics - solubility**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 5
+
+Which statement correctly describes **Opioids are narcotic analgesics**, rather than the nearby topic **Opium has been around for a long time**?
+
+- **A.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **B.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+- **C.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **D.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Integration: Opioids are narcotic analgesics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 6
+
+Which statement best matches the lecture discussion of **Smoking, vaping, dependence and treatment**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Smoking, vaping, dependence and treatment**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 7
+
+Which statement best matches the lecture discussion of **Photic input to the SCN**?
+
+- **A.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **B.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+- **C.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **D.** Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Photic input to the SCN**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 8
+
+Which statement best matches the lecture discussion of **What do we really want to know about drug addiction?**?
+
+- **A.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **B.** Pleasing effects. Craving.
+- **C.** Who is particularly at risk?. What causes drug addiction?.
+- **D.** Men? Women?. Dependent on the drug, but usually men.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Who is particularly at risk?. What causes drug addiction?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **What do we really want to know about drug addiction?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 9
+
+Which statement best matches the lecture discussion of **Dopamine mediates the behavioural response to cocaine**?
+
+- **A.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **B.** Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+- **C.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **D.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Dopamine mediates the behavioural response to cocaine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 10
+
+Which statement best matches the lecture discussion of **Pharmacokinetics - absorption**?
+
+- **A.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **B.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+- **C.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **D.** Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Pharmacokinetics - absorption**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 11
+
+Which statement correctly describes **Opium has been around for a long time**, rather than the nearby topic **The structure of opioids determines their pharmacokinetics**?
+
+- **A.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **B.** A taxonomy of opioids Opiates Opioids.
+- **C.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Integration: Opium has been around for a long time**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 12
+
+Which statement best matches the lecture discussion of **Adenosine receptor antagonism**?
+
+- **A.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Adenosine receptor antagonism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 13
+
+Which statement best matches the lecture discussion of **Non-photic arousal**?
+
+- **A.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **B.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+- **C.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **D.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Non-photic arousal**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 14
+
+Which statement best matches the lecture discussion of **Who is particularly at risk?**?
+
+- **A.** Example of tolerance: caffeine Withdrawal 12.
+- **B.** Men? Women?. Dependent on the drug, but usually men.
+- **C.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **D.** Pleasing effects. Craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Men? Women?. Dependent on the drug, but usually men.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Who is particularly at risk?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 15
+
+Which statement best matches the lecture discussion of **DA receptor subtypes contribute to the effects of cocaine**?
+
+- **A.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **B.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+- **C.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **D.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **DA receptor subtypes contribute to the effects of cocaine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 16
+
+Which statement best matches the lecture discussion of **Metabolism of ethanol – gastric and hepatic**?
+
+- **A.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **B.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+- **C.** About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+- **D.** Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Metabolism of ethanol – gastric and hepatic**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 17
+
+Which statement best matches the lecture discussion of **Opioids are narcotic analgesics**?
+
+- **A.** Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+- **B.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+- **C.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Opioid drugs are narcotic analgesics; reduce pain without producing unconsciousness. vs. anesthetic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Opioids are narcotic analgesics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 18
+
+Which statement best matches the lecture discussion of **Behavioral and physiological effects of caffeine**?
+
+- **A.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Behavioral and physiological effects of caffeine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 19
+
+Which statement best matches the lecture discussion of **Non-SCN clocks in the brain**?
+
+- **A.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **B.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+- **C.** Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+- **D.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Non-SCN clocks in the brain**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 20
+
+Which statement best matches the lecture discussion of **What causes drug addiction?**?
+
+- **A.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **B.** Pleasing effects. Craving.
+- **C.** Example of tolerance: caffeine Withdrawal 12.
+- **D.** AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **What causes drug addiction?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 21
+
+Which statement best matches the lecture discussion of **Most people who try cocaine do not become addicted**?
+
+- **A.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **B.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+- **C.** Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+- **D.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Most people who try cocaine do not become addicted**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 22
+
+Which statement best matches the lecture discussion of **Tolerance to ethanol**?
+
+- **A.** Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+- **B.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+- **C.** Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+- **D.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Tolerance to ethanol**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 23
+
+Which statement best matches the lecture discussion of **Opium has been around for a long time**?
+
+- **A.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **B.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+- **C.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **D.** Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Opium: extract of poppy plants; source of the opiate or opioid family of drugs. Opiates have been used recreationally and in medicine for thousands of years.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **Opium has been around for a long time**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 24
+
+Which statement correctly describes **Nicotine pharmacokinetics and metabolism**, rather than the nearby topic **Nicotinic acetylcholine receptors**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Integration: Nicotine pharmacokinetics and metabolism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 25
+
+Which statement best matches the lecture discussion of **Stimulants**?
+
+- **A.** Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+- **B.** Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+- **C.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **D.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Stimulants**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 26
+
+Which statement best matches the lecture discussion of **Features of drug addiction**?
+
+- **A.** Example of tolerance: caffeine Withdrawal 12.
+- **B.** AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+- **C.** Intoxication/binge. Development of dependence (withdrawal).
+- **D.** Pleasing effects. Craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Pleasing effects. Craving.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Features of drug addiction**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 27
+
+Which statement best matches the lecture discussion of **Cocaine produces both tolerance and sensitization**?
+
+- **A.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **B.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+- **C.** Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+- **D.** Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **Cocaine produces both tolerance and sensitization**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 28
+
+Which statement best matches the lecture discussion of **Ethanol dependence**?
+
+- **A.** Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+- **B.** Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+- **C.** Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+- **D.** Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Ethanol dependence**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 29
+
+Which statement best matches the lecture discussion of **The structure of opioids determines their pharmacokinetics**?
+
+- **A.** Only a small fraction of morphine crosses the blood–brain barrier. Distribution in periphery is uniform.
+- **B.** A taxonomy of opioids Opiates Opioids.
+- **C.** Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+- **D.** Some modifications produce partial agonists – have less analgesic effect, but reduced risk of dependence. Other modifications produce neutral antagonists such as naloxone and nalorphine; can prevent or reverse the effect of opioids.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Morphine: principle active ingredient in opium; also contains codeine, thebaine, narcotine. Simple modifications of the morphine molecule produce great variations in potency, duration of action, and oral effectiveness – often due to pharmacokinetics.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 15, topic **The structure of opioids determines their pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 30
+
+Which statement correctly describes **Nicotinic acetylcholine receptors**, rather than the nearby topic **Behavioral and physiological effects of nicotine**?
+
+- **A.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 16, topic **Integration: Nicotinic acetylcholine receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+# Section B — Short Essay
+
+### Short Essay 1
+
+Explain **Metabolism and excretion** and show how it connects to **Pharmacodynamics** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 11, topic **Metabolism and excretion**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 2
+
+Explain **Drugs, addiction, harm Nutt et al., 2007** and show how it connects to **What do we really want to know about drug addiction?** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 12, topic **Drugs, addiction, harm Nutt et al., 2007**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 3
+
+Explain **People simply want dopamine. They do not find pleasure in it.** and show how it connects to **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+(Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 13, topic **People simply want dopamine. They do not find pleasure in it.**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 4
+
+Explain **Some positive effects** and show how it connects to **Psychopharmacology of Alcohol (13 of 16)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 14, topic **Some positive effects**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+

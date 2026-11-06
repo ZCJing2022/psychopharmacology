@@ -1,0 +1,422 @@
+---
+title: "Lecture 1 — Principles of Pharmacology"
+---
+
+## How to use this guide
+
+The Lecture 1 presentation defines the examinable scope. Meyer Chapter 1 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** What is pharmacology? → Drug action vs. drug effect → The placebo effect → We need placebos → Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes, → Pharmacokinetics contributions to bioavailability → Routes of drug administration → The problem with enteral administration Methods of Drug Administration → The beauty of parenteral routes → Other routes of administration → Rectal administration → Effect of administration route on pharmacokinetics → …
+</div>
+
+## Textbook anchors
+
+- Pharmacology and drug action
+- Placebo and nocebo effects
+- Pharmacokinetics: administration, absorption, distribution, metabolism, excretion
+- Blood–brain and placental barriers
+- Depot binding and drug clearance
+- Pharmacodynamics and receptor actions
+- Dose–response curves, potency, efficacy and therapeutic index
+- Tolerance, sensitization and pharmacogenetics
+
+## Supplementary Web Boxes
+
+- Web Box 1.1 Pharmacology in Action_ Herbal Medicine—Panacea or Hazard_
+- Web Box 1.2 Clinical Applications_ Treating Autism with Intranasal Oxytocin
+
+## Lecture concepts
+
+### 1. What is pharmacology?
+
+Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+
+**What to know:**
+- Specialized areas:
+- Neuropharmacology: concerned with drug-induced changes to nervous system
+- Psychopharmacology: concerned with drug-induced changes in mood, thinking, and behavior
+- Neuropsychopharmacology: identify chemicals that can alter behavior with a focus on the underlying neurobiology
+
+**Meyer connection:** Review the chapter discussion of **pharmacology and drug action** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Drug action vs. drug effect
+
+Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+
+**What to know:**
+- Drug effects: alterations in physiological or psychological functions
+- Therapeutic effect: drug produces desired physical or behavioral changes
+- Side effects: non-therapeutic effects
+- Specific drug effects: based on physical and biochemical interactions of a drug with a target site in living tissue
+- Nonspecific drug effects: based on unique characteristics of the individual
+
+**Meyer connection:** Review the chapter discussion of **placebo and nocebo effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. The placebo effect
+
+Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+
+**What to know:**
+- Placebo: pharmacologically inert compound; may have therapeutic effects and side effects
+- Effects include measurable physiological changes
+- May be due to Pavlovian conditioning, verbal suggestion, positive expectations, social learning, or genetics
+- Nocebo effect: increased anxiety or pain due to negative expectations
+
+**Meyer connection:** Review the chapter discussion of **pharmacokinetics: administration, absorption, distribution, metabolism, excretion** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. We need placebos
+
+Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+
+**What to know:**
+- Placebos are essential in experimental design
+- Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+- Double-blind experiment: neither patient nor observer knows what treatment the participant has received
+
+**Meyer connection:** Review the chapter discussion of **blood–brain and placental barriers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes,
+
+Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+
+**What to know:**
+- Bioavailability: amount of drug in the blood that is free to bind at specific target sites
+- Pharmacokinetic components of drug action contribute to bioavailability.
+
+**Meyer connection:** Review the chapter discussion of **depot binding and drug clearance** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Pharmacokinetics contributions to bioavailability
+
+The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **pharmacodynamics and receptor actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Routes of drug administration
+
+Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+
+**What to know:**
+- Systemic routes: drug moves throughout the body through general circulation
+- Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes
+- Absorption: movement of drug from the site of administration to the blood circulation
+
+**Meyer connection:** Review the chapter discussion of **dose–response curves, potency, efficacy and therapeutic index** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. The problem with enteral administration Methods of Drug Administration
+
+First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+
+**What to know:**
+- First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation
+- Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+- Enteral vs. parenteral routes
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and pharmacogenetics** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. The beauty of parenteral routes
+
+Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+
+**What to know:**
+- Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose
+- Intramuscular (IM) injection: slower, more even absorption over time
+- Subcutaneous (SC) injection: just below the skin; drug pellets can be used to deliver hormones such as contraceptives
+- Inhalation: drug is absorbed by passing through the lungs
+
+**Meyer connection:** Review the chapter discussion of **pharmacology and drug action** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Other routes of administration
+
+Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+**What to know:**
+- Topical application to mucus membranes: local effects
+- Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier
+- Transdermal: through the skin with skin patches; avoids first-pass metabolism
+- Epidural: injection into epidural space; bypasses blood-brain barrier
+
+**Meyer connection:** Review the chapter discussion of **placebo and nocebo effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Rectal administration
+
+Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+
+**What to know:**
+- Rectum is highly vascularized and can directly absorb alcohol
+- Partially reduces first pass metabolism
+- Alcohol may move into colon, where there is no alcohol dehydrogenase
+- Blood alcohol content elevated much more than equivalent quantity PO
+- Cannot regurgitate from the butt
+
+**Meyer connection:** Review the chapter discussion of **pharmacokinetics: administration, absorption, distribution, metabolism, excretion** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Effect of administration route on pharmacokinetics
+
+The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **blood–brain and placental barriers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Other factors affecting pharmacokinetics
+
+Route of administration. Drug concentration.
+
+**What to know:**
+- Route of administration
+- Drug concentration
+- Solubility and ionization of the drug
+- Rate of transport across cell membranes – bilayers of phospholipid molecules
+
+**Meyer connection:** Review the chapter discussion of **depot binding and drug clearance** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Factors impacting drug absorption Multiple Factors Modify Drug Absorption
+
+Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+**What to know:**
+- Lipid-soluble drugs move through cell membranes by passive diffusion.
+- Diffusion is from higher to lower concentration (concentration gradient).
+- Lipid solubility increases absorption and entry into the brain.
+- Bioactivation: inactive drug is metabolized into an active form (e.g, heroin → morphine)
+
+**Meyer connection:** Review the chapter discussion of **pharmacodynamics and receptor actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Role of pH and ionization of drugs
+
+Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+
+**What to know:**
+- Most drugs are weak acids or bases that partially ionize in water
+- Degree of ionization depends on pH and pKa
+- pKa: pH of the solution in which that drug would be 50% ionized and 50% non-ionized.
+- Non-ionized form is more lipid soluble; can pass cell membranes and enter the blood more easily.
+
+**Meyer connection:** Review the chapter discussion of **dose–response curves, potency, efficacy and therapeutic index** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Distribution of a drug in the body
+
+Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+**What to know:**
+- Once a drug enters the blood it is quickly delivered to areas with high blood flow.
+- Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+- Drug redistribution can terminate drug action.
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and pharmacogenetics** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Selective barriers affecting drug distribution
+
+Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+
+**What to know:**
+- Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable
+- Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters
+- Brain capillaries are surrounded by extensions of astroglia (astrocytes)
+- essential to maintaining the blood-brain barrier
+
+**Meyer connection:** Review the chapter discussion of **pharmacology and drug action** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Structure of the blood-brain barrier
+
+The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **placebo and nocebo effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Depot binding Depot Binding alters the magnitude and duration of drug action
+
+Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+
+**What to know:**
+- Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action
+- Reduces concentration of drug at action sites
+- Nonselective binding can cause competition between drugs and possible overdose
+- Bound drug molecules can be altered by liver enzymes – prolongs time drug is in the body
+- Redistribution to inactive sites
+
+**Meyer connection:** Review the chapter discussion of **pharmacokinetics: administration, absorption, distribution, metabolism, excretion** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Metabolism of drugs
+
+Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+
+**What to know:**
+- Biotransformation (metabolism) and excretion eliminate drugs from the body.
+- Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+- Half-life: amount of time required for removal of 50% of the drug (t½).
+
+**Meyer connection:** Review the chapter discussion of **blood–brain and placental barriers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Mechanisms of drug metabolism
+
+Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+
+**What to know:**
+- Most biotransformation occurs in the liver:
+- Phase I – oxidation, reduction, or hydrolysis
+- Phase II – synthetic reactions – products are ionized, water soluble, and biologically inactive
+- Drugs that are converted to active metabolites have a prolonged duration of action [e.g., lisdexamphetamine (Vyvanse)].
+
+**Meyer connection:** Review the chapter discussion of **depot binding and drug clearance** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Factors influencing drug metabolism
+
+Enzyme induction: repeated use of drug increases number of enzymes; increases rate. Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme.
+
+**What to know:**
+- Enzyme induction: repeated use of drug increases number of enzymes; increases rate
+- Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme
+- Drug competition: elevated levels of one drug reduces metabolism of the second
+- Individual differences in age, gender, and genetics (e.g., CYP450 polymorphism).
+
+**Meyer connection:** Review the chapter discussion of **pharmacodynamics and receptor actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Drug elimination
+
+Urine is the most important route for drug elimination. Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption.
+
+**What to know:**
+- Urine is the most important route for drug elimination.
+- Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption
+- Urinary pH affects drug reabsorption in kidney tubules; altering the pH is used to treat drug toxicity.
+
+**Meyer connection:** Review the chapter discussion of **dose–response curves, potency, efficacy and therapeutic index** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 24. Pharmacodynamics Pharmacodynamics: study of the
+
+Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+
+**What to know:**
+- Receptors: proteins on cell surfaces or within cells.
+- Cell surface receptors relay information through the cell membrane
+- Intracellular receptors within cytoplasm or nucleus of target cells
+- Ligand: molecule that binds to a receptor with some selectivity.
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and pharmacogenetics** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 25. Types of agonists
+
+Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+
+**What to know:**
+- Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response.
+- Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding
+- Partial agonists have intermediate efficacy.
+- Inverse agonists initiate an action opposite to that produced by an agonist.
+
+**Meyer connection:** Review the chapter discussion of **pharmacology and drug action** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 26. Dose-response curves
+
+Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose). 50% effective dose (ED50): the dose that produces half the maximal effect.
+
+**What to know:**
+- Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose).
+- 50% effective dose (ED50): the dose that produces half the maximal effect
+- Threshold: dose that produces the smallest measurable response.
+- Potency: amount of drug necessary to produce a specific effect
+- Comparing ED50 of different drugs shows differences in potency, even if they have identical efficacy.
+
+**Meyer connection:** Review the chapter discussion of **placebo and nocebo effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 27. Therapeutic index
+
+Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation. TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+
+**What to know:**
+- Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation.
+- TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+- Comparing TD50 with ED50 helps determine appropriate doses to prevent toxic effects.
+- Therapeutic index (TI) = TD50/ED50
+
+**Meyer connection:** Review the chapter discussion of **pharmacokinetics: administration, absorption, distribution, metabolism, excretion** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 28. Receptor antagonism
+
+Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist. Can be displaced by an excess of agonist.
+
+**What to know:**
+- Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist.
+- Can be displaced by an excess of agonist.
+- Noncompetitive antagonists: reduce effect of agonists in other ways Receptor antagonism
+
+**Meyer connection:** Review the chapter discussion of **blood–brain and placental barriers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 29. Effects of chronic drug use
+
+Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+
+**What to know:**
+- Chronic drug use can change the magnitude of response.
+- Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response
+- Cross tolerance: tolerance to one drug can diminish effectiveness of a second drug
+- Tolerance is reversible.
+- Extent of tolerance depends on dose and frequency of use, and the environment in which it occurs.
+
+**Meyer connection:** Review the chapter discussion of **depot binding and drug clearance** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 30. Types of tolerance
+
+Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction. Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+
+**What to know:**
+- Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction
+- Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+- Behavioral: occurs in the same environment in which the drug was administered
+
+**Meyer connection:** Review the chapter discussion of **pharmacodynamics and receptor actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 31. Mechanisms of behavioural tolerance
+
+Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response. Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+
+**What to know:**
+- Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response
+- Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+- State-dependent learning: tasks learned under the influence of a psychoactive drug may then be performed better in the drugged state
+
+**Meyer connection:** Review the chapter discussion of **dose–response curves, potency, efficacy and therapeutic index** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 32. Sensitization to drug effects
+
+Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration. Cross-sensitization has also been documented.
+
+**What to know:**
+- Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration
+- Cross-sensitization has also been documented
+
+**Meyer connection:** Review the chapter discussion of **tolerance, sensitization and pharmacogenetics** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **What is pharmacology?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drug action vs. drug effect** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The placebo effect** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **We need placebos** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes,** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics contributions to bioavailability** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Routes of drug administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The problem with enteral administration Methods of Drug Administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The beauty of parenteral routes** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Other routes of administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Rectal administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Effect of administration route on pharmacokinetics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Other factors affecting pharmacokinetics** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Factors impacting drug absorption Multiple Factors Modify Drug Absorption** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Role of pH and ionization of drugs** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Distribution of a drug in the body** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Selective barriers affecting drug distribution** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Structure of the blood-brain barrier** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Depot binding Depot Binding alters the magnitude and duration of drug action** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabolism of drugs** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mechanisms of drug metabolism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Factors influencing drug metabolism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drug elimination** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacodynamics Pharmacodynamics: study of the** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Types of agonists** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dose-response curves** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Therapeutic index** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Receptor antagonism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Effects of chronic drug use** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Types of tolerance** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mechanisms of behavioural tolerance** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Sensitization to drug effects** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

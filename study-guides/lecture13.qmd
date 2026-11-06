@@ -1,0 +1,477 @@
+---
+title: "Lecture 13 — Addiction and Psychostimulants"
+---
+
+## How to use this guide
+
+The Lecture 13 presentation defines the examinable scope. Meyer Chapter 9 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain” → Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction → Do you notice a pattern? → Drug Users as Hedonists - Social Implications → People simply want dopamine. They do not find pleasure in it. → Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain → Diagnostic criteria are informed by empirical theory Positive → Addictive potential depends on route of administration → Reward vs. reinforcement vs. relapse → Drug dependence leads to withdrawal symptoms when abstinence is attempted → Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18) → A Koobian view of addiction → …
+</div>
+
+## Textbook anchors
+
+- Substance use, misuse and addiction
+- Reward and reinforcement
+- Tolerance, dependence and withdrawal
+- Genetic and psychosocial risk
+- Three-stage addiction cycle
+- Incentive salience and corticostriatal circuitry
+- Learning and drug-associated cues
+- Persistence and relapse
+
+## Supplementary Web Boxes
+
+- Web Box 9.1 Of Special Interest_ The Gateway Theory of Drug Use
+- Web Box 9.2 Of Special Interest_ Does the Schedule of Controlled Substances Accurately Reflect Current Addiction Science_
+- Web Box 9.3 The Cutting Edge_ The Genetics of Addiction
+- Web Box 9.4 The Cutting Edge_ Does Midbrain Dopaminergic Cell Firing Encode Reward-Prediction Error_
+
+## Lecture concepts
+
+### 1. Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”
+
+Olds, 1956. Scientific American.
+
+**What to know:**
+- Olds, 1956. Scientific American
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction
+
+Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+
+**What to know:**
+- Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Do you notice a pattern?
+
+What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+
+**What to know:**
+- What do you notice most of these drugs have in common?
+- Seminal paper of Di Chiara & Imperatu (2002)
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Drug Users as Hedonists - Social Implications
+
+Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+
+**What to know:**
+- Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014)
+- Many societies hold strong taboos against wonton pleasure-seeking
+- The public therefore rejects harm-reduction strategies (e.g., safe injection sites, methadone clinics, decriminalization) in favour of abstinence- or punishment-based approaches. Hedonism. Shurooq Amin, 2012. Acrylic, collage on canvas.
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. People simply want dopamine. They do not find pleasure in it.
+
+(Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+
+**What to know:**
+- (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain
+
+Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+
+**What to know:**
+- Early views emphasized positive (hedonic) and negative reinforcement (opponent processes)
+- Now, focus is on the compulsive features of drug seeking and use, including craving
+- Individuals remain addicted for long periods of time; drug-free periods (remissions) are often followed by relapses
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Diagnostic criteria are informed by empirical theory Positive
+
+Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY.
+
+**What to know:**
+- Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Addictive potential depends on route of administration
+
+The lecture treats **Addictive potential depends on route of administration** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **persistence and relapse** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Reward vs. reinforcement vs. relapse
+
+Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+
+**What to know:**
+- Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism
+- Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”
+- Relapse can be modeled by stopping drug delivery, then provoking reinstatement of drug-seeking behavior
+- Cue-induced reinstatement
+- Stress induced reinstatement
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Drug dependence leads to withdrawal symptoms when abstinence is attempted
+
+Physical dependence may play a key role in establishing and maintaining drug addiction. Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement).
+
+**What to know:**
+- Physical dependence may play a key role in establishing and maintaining drug addiction
+- Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement)
+- Experimental results from heroin studies support the use of agonist replacement therapy (e.g., methadone or buprenorphine) in the treatment of opioid- dependence PROBLEM: Not all addictive drugs cause severe withdrawal
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)
+
+Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage. The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”).
+
+**What to know:**
+- Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage
+- The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”)
+- More on this when we discuss opioids
+- But physical dependence doesn’t explain relapses after drug detoxification; many factors contribute to relapse
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. A Koobian view of addiction
+
+Development of addiction has been conceptualized as a repeating cycle of three stages:. Preoccupation with and anticipation of obtaining and using the substance.
+
+**What to know:**
+- Development of addiction has been conceptualized as a repeating cycle of three stages:
+- Preoccupation with and anticipation of obtaining and using the substance
+- Escalating use, which for some substances results in drug “binges” and intoxication
+- Withdrawal and the associated negative effects
+- The model has been helpful for understand the neurobiology of addiction, including neural circuits and transmitters implicated in each stage. This theory ignores craving…kind of
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Incentive sensitization theory of addiction
+
+Drug reward can decline due to tolerance; other motivating factors become important. Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive).
+
+**What to know:**
+- Drug reward can decline due to tolerance; other motivating factors become important
+- Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive)
+- There is an increasing important role for incentive salience as a motivator of continued drug use.
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Dopamine and reward prediction error
+
+Schultz et al. (1990s). Pavlovian learning.
+
+**What to know:**
+- Schultz et al. (1990s)
+- Pavlovian learning
+- VTA (DA) neurons
+- Fire at first for unexpected reward
+- Shift their firing to stimuli that predict reward
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Cocaine
+
+Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized. Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked.
+
+**What to know:**
+- Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized.
+- Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked
+- Cocaine HCl can be transformed back into cocaine that can be smoked by two methods:
+- Freebasing
+- Crack
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse
+
+(Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?.
+
+**What to know:**
+- (Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?
+
+**Meyer connection:** Review the chapter discussion of **persistence and relapse** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Pharmacokinetics of cocaine
+
+Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use. Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+
+**What to know:**
+- Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use.
+- Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+- Metabolites such as benzoylecgonine can be detected in the urine for several days
+- Cocaine plus alcohol produce a unique metabolite called cocaethylene – has activity similar to cocaine
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Pharmacodynamics of cocaine
+
+Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission. Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential.
+
+**What to know:**
+- Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission
+- Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Subjective effects of cocaine)
+
+The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+
+**What to know:**
+- The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence
+- Smoked or IV cocaine also causes a “rush”
+- Many positive characteristics that may contribute to its reinforcing properties become negative or aversive with higher dose and duration
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Behavioural effects of cocaine
+
+As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies. “Tweaking”.
+
+**What to know:**
+- As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies
+- “Tweaking”
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Peripheral physiological effects of cocaine
+
+Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+
+**What to know:**
+- Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia
+- Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium
+- High doses can be fatal: seizures, heart failure, stroke, intracranial hemorrhage
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Dopamine mediates the behavioural response to cocaine
+
+Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+
+**What to know:**
+- Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. DA receptor subtypes contribute to the effects of cocaine
+
+Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+
+**What to know:**
+- Receptor-specific antagonists are used to study the roles of different DA receptor subtypes
+- Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects
+- D1 knockout mice don’t self-administer cocaine, suggesting a critical role for this receptor in reinforcement
+- D2 and D3 do self-administer, but with differences from wild-type mice; suggests a contribution to reinforcement D2 antagonist D3 antagonist Reduced cocaine-induced locomotion Enhanced cocaine-induced locomotion
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 24. Most people who try cocaine do not become addicted
+
+People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+
+**What to know:**
+- People usually start by snorting; some have a strong anxiety response and don’t try it again
+- Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction
+- Progression to cocaine use disorder: amount of cocaine use escalates, user usually switches from snorting to crack, freebasing or IV injection
+- Cocaine binges: episodic bouts of repeated use lasting hours to days with little or no sleep; users suffer withdrawal afterward
+- Factors that may contribute to use disorder: comorbidity with other psychiatric disorders, stress, environment cues, cocaine priming
+
+**Meyer connection:** Review the chapter discussion of **persistence and relapse** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 25. Chronic cocaine exposure changes the brain
+
+Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+
+**What to know:**
+- Brain imaging studies show reduced striatal dopaminergic activity in drug users
+- The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 26. Cocaine produces both tolerance and sensitization
+
+Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+
+**What to know:**
+- Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose.
+- Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance
+- Intermittent access self-administration (repeated spikes in brain cocaine) leads to increased potency of cocaine to inhibit DA uptake and behavioral sensitization
+- There is also evidence for rapid sensitization of the mesolimbic DA pathway produced by a single drug exposure
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 27. Cocaine is bad for you
+
+Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+
+**What to know:**
+- Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations
+- Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected
+- Frequent snorting can cause perforation of the nasal septum
+- “Crack babies”: cocaine use during pregnancy can result in attention deficits or other behavioral or cognitive abnormalities in the child
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 28. Potential pharmacotherapies for cocaine use disorder
+
+Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+
+**What to know:**
+- Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder
+- Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs
+- Vaccines: antibodies to bind cocaine molecules, or they may be engineered to break down cocaine in the bloodstream (Wee et al., 2011)
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 29. There are many amphetamines to choose from
+
+Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+
+**What to know:**
+- Amphetamines: synthetic; structurally related to DA
+- L-amphetamine (Benzedrine)
+- D-amphetamine (dextroamphetamine; Dexedrine).
+- Methamphetamine – synthesized from pseudoephedrine (lipophilic)
+- Plant compounds:
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 30. Common routes of administration
+
+Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+
+**What to know:**
+- Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping)
+- Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+- Methamphetamine is more potent; can be taken orally, snorted, injected intravenously, or smoked
+- Methamphetamine hydrochloride in a crystalline form suitable for smoking is called “ice” or “crystal;” highly addictive Sympathomimetic effect of amphetamine can cause localized vasoconstriction resulting in ischemia
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 31. Amphetamine pharmacokinetics make facilitate binging
+
+Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+
+**What to know:**
+- Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating
+- Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine
+- Because of long half-lives (10 hrs), users obtain a much longer-lasting high from a single dose of amphetamine or methamphetamine than from a dose of cocaine (1 hr). Peter Tripp (1956) Certified Florida Man and Guiness record holder
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 32. Pharmacodynamics of amphetamine
+
+Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+
+**What to know:**
+- Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake
+- Stimulate massive DA release by two means:
+- Enters nerve terminal by DAT; stimulates DA release from vesicles
+- Inverse agonism of DAT to act in reverse direction to release DA into synapse
+- Inverse agonism of VMAT
+
+**Meyer connection:** Review the chapter discussion of **persistence and relapse** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 33. Subjective effects of amphetamines
+
+Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+
+**What to know:**
+- Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being
+- Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep
+- Can enhance athletic performance; banned in competitions
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 34. Therapeutic effects of amphetamines
+
+Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+
+**What to know:**
+- Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis
+- Treatment of ADHD
+- Appetite suppressant and anti-obesity treatment; because of high abuse potential, is it now rarely used (Simonds et al., 2025)
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 35. Amphetamines are addictive
+
+Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+
+**What to know:**
+- Heavy methamphetamine use leads to dependence
+- Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact
+- Methamphetamine users show impairments in multiple cognitive domains - impulse control, verbal learning, working memory, and social cognition
+- Women are more likely than men to become dependent (Bechara et al., 2002)
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 36. Methamphetamine is worse for you than other amphetamines
+
+As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+
+**What to know:**
+- As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms
+- Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia
+- Neurotoxicity: damage or death of DA system neurons
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 37. Crystal meth is unhealthy
+
+Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases. Chronic users show premature aging and increased mortality rate.
+
+**What to know:**
+- Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases
+- Chronic users show premature aging and increased mortality rate
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Do you notice a pattern?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drug Users as Hedonists - Social Implications** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **People simply want dopamine. They do not find pleasure in it.** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Diagnostic criteria are informed by empirical theory Positive** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Addictive potential depends on route of administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Reward vs. reinforcement vs. relapse** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drug dependence leads to withdrawal symptoms when abstinence is attempted** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **A Koobian view of addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Incentive sensitization theory of addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dopamine and reward prediction error** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics of cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacodynamics of cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Subjective effects of cocaine)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Behavioural effects of cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Peripheral physiological effects of cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dopamine mediates the behavioural response to cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **DA receptor subtypes contribute to the effects of cocaine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Most people who try cocaine do not become addicted** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Chronic cocaine exposure changes the brain** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cocaine produces both tolerance and sensitization** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cocaine is bad for you** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Potential pharmacotherapies for cocaine use disorder** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **There are many amphetamines to choose from** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Common routes of administration** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Amphetamine pharmacokinetics make facilitate binging** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacodynamics of amphetamine** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Subjective effects of amphetamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Therapeutic effects of amphetamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Amphetamines are addictive** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Methamphetamine is worse for you than other amphetamines** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Crystal meth is unhealthy** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

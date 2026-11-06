@@ -1,0 +1,241 @@
+---
+title: "Lecture 4 — Methods of Research in Psychopharmacology"
+---
+
+## How to use this guide
+
+The Lecture 4 presentation defines the examinable scope. Meyer Chapter 4 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Behavioral Pharmacology → Animals are necessary for behavioural pharmacology → Controls in animal behavioural pharmacology → You can just watch them and see what they do! → Is the drug a good anxiolytic? → Does the drug alter affective states? → Does the drug alter the stress response? → Does the drug alter reward and reinforcement? → Conditioned place preference → Rat in Operant Chamber (“Skinner Box”) → Emerging technologies in ethology → Stereotaxic Surgery → …
+</div>
+
+## Textbook anchors
+
+- Behavioral pharmacology and animal models
+- Validity and reliability
+- Reward, reinforcement, anxiety and affective tests
+- Stereotaxic surgery
+- Microdialysis and voltammetry
+- Electrophysiology
+- Immunohistochemistry and in situ hybridization
+- PET and other imaging methods
+- Genetic engineering and complementary methods
+
+## Lecture concepts
+
+### 1. Behavioral Pharmacology
+
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+**What to know:**
+- Behavioral pharmacology helps us
+- Understanding the neurochemical basis of behavior and drug-induced changes in that behavior
+- Give organism drug → look at behavioural change
+- Developing animal models of psychiatric disorders
+- Screening newly designed drugs in preclinical pharmaceutical settings
+
+**Meyer connection:** Review the chapter discussion of **behavioral pharmacology and animal models** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Animals are necessary for behavioural pharmacology
+
+Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+
+**What to know:**
+- Studies using animals have several advantages:
+- Rigorous control of living conditions, food, etc., is possible.
+- Histories and genetic backgrounds are well known.
+- With human subjects, many research methods would be unethical.
+- Brains and behaviors of humans and nonhuman mammals are similar enough to allow generalization across species.
+
+**Meyer connection:** Review the chapter discussion of **validity and reliability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Controls in animal behavioural pharmacology
+
+In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+
+**What to know:**
+- In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control).
+- Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+
+**Meyer connection:** Review the chapter discussion of **reward, reinforcement, anxiety and affective tests** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. You can just watch them and see what they do!
+
+Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+
+**What to know:**
+- Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour
+- Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity
+- Operant conditioning: animal learns a response to obtain rewards.
+
+**Meyer connection:** Review the chapter discussion of **stereotaxic surgery** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Is the drug a good anxiolytic?
+
+Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+
+**What to know:**
+- Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying)
+
+**Meyer connection:** Review the chapter discussion of **microdialysis and voltammetry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Does the drug alter affective states?
+
+Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-like behavior (e.g., forced swim test).
+
+**What to know:**
+- Measures of fear (e.g., Pavlovian fear conditioning)
+- Measures of depressive-like behavior (e.g., forced swim test)
+
+**Meyer connection:** Review the chapter discussion of **electrophysiology** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Does the drug alter the stress response?
+
+Tests of chronic stress:. Chronic mild unpredictable stress.
+
+**What to know:**
+- Tests of chronic stress:
+- Chronic mild unpredictable stress
+- Chronic social defeat stress
+- Maternal separation
+- Sucrose preference test – measures anhedonia
+
+**Meyer connection:** Review the chapter discussion of **immunohistochemistry and in situ hybridization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Does the drug alter reward and reinforcement?
+
+Methods of assessing drug reward and reinforcement:. Drug self-administration method.
+
+**What to know:**
+- Methods of assessing drug reward and reinforcement:
+- Drug self-administration method
+- Electrical self-stimulation
+- Breakpoint – progressive ratio schedules
+- Conditioned place preference
+
+**Meyer connection:** Review the chapter discussion of **pet and other imaging methods** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Conditioned place preference
+
+Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+
+**What to know:**
+- Pavlovian conditioning
+- Measures the rewarding property of the unconditioned stimulus
+- Operant conditioning: animal learns a response to obtain rewards.
+
+**Meyer connection:** Review the chapter discussion of **genetic engineering and complementary methods** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Rat in Operant Chamber (“Skinner Box”)
+
+In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+
+**What to know:**
+- In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward).
+- Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+- Fixed-ratio (FR) schedule: reinforcement is delivered after a fixed number of responses (e.g., FR-3 schedule—animal must press the lever three times)
+- Fixed-interval (FI) schedule: reinforcement after a fixed amount of time
+- Progressive ratio (PR) – break point
+
+**Meyer connection:** Review the chapter discussion of **behavioral pharmacology and animal models** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Emerging technologies in ethology
+
+New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+
+**What to know:**
+- New technologies such as computer vision are used to quantify behavior.
+- Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+- Behavioral data is also collected from humans, using commonly available wearable sensor technology.
+
+**Meyer connection:** Review the chapter discussion of **validity and reliability** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Stereotaxic Surgery
+
+Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+
+**What to know:**
+- Stereotaxic surgery is needed for accurate in vivo measures of brain function:
+- Devices can be implanted in the brain with precision
+- Brain site coordinates are calculated using a brain atlas
+- A similar apparatus is used for human brain surgery
+
+**Meyer connection:** Review the chapter discussion of **reward, reinforcement, anxiety and affective tests** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Invasive measurement of neurotransmitters
+
+In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+**What to know:**
+- In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior
+- Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals
+
+**Meyer connection:** Review the chapter discussion of **stereotaxic surgery** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Invasive measurement of electrical activity
+
+The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **microdialysis and voltammetry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Immunohistochemistry (immunocytochemistry) Hypocretin (orexin)
+
+Post-mortem assay measuring protein in the brain.
+
+**What to know:**
+- Post-mortem assay measuring protein in the brain
+
+**Meyer connection:** Review the chapter discussion of **electrophysiology** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. enkephalin
+
+Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+
+**What to know:**
+- Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain
+
+**Meyer connection:** Review the chapter discussion of **immunohistochemistry and in situ hybridization** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. DREADDs
+
+Designer receptors exclusively activated by designer drugs.
+
+**What to know:**
+- Designer receptors exclusively activated by designer drugs
+
+**Meyer connection:** Review the chapter discussion of **pet and other imaging methods** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Positron emission tomography (PET)
+
+Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+
+**What to know:**
+- Highlights brain activity, receptor density, and neurotransmitter release
+- Scanner measures radioactivity emitted from the brain
+- Injection of fluorodeoxyglucose (FDG)
+- Active neurons take up FDG
+- Other radioligands
+
+**Meyer connection:** Review the chapter discussion of **genetic engineering and complementary methods** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Behavioral Pharmacology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Animals are necessary for behavioural pharmacology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Controls in animal behavioural pharmacology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **You can just watch them and see what they do!** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Is the drug a good anxiolytic?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Does the drug alter affective states?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Does the drug alter the stress response?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Does the drug alter reward and reinforcement?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Conditioned place preference** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Rat in Operant Chamber (“Skinner Box”)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Emerging technologies in ethology** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Stereotaxic Surgery** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Invasive measurement of neurotransmitters** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Invasive measurement of electrical activity** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Immunohistochemistry (immunocytochemistry) Hypocretin (orexin)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **enkephalin** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **DREADDs** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Positron emission tomography (PET)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

@@ -1,0 +1,260 @@
+---
+title: "Lecture 14 — Alcohol"
+---
+
+## How to use this guide
+
+The Lecture 14 presentation defines the examinable scope. Meyer Chapter 10 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** How alcohol is made → Pharmacokinetics - solubility → Pharmacokinetics - absorption → Metabolism of ethanol – gastric and hepatic → Metabolism of ethanol – hepatic → Tolerance to ethanol → Ethanol dependence → Effects of alcohol → Alcohol is poison → Some positive effects → Psychopharmacology of Alcohol (13 of 16) → Effect of alcohol on male sexual function → …
+</div>
+
+## Textbook anchors
+
+- Alcohol pharmacokinetics and metabolism
+- Tolerance and physical dependence
+- Organ-system effects
+- GABA and glutamate actions
+- Dopamine and endogenous opioids
+- Alcohol use disorder
+- Pharmacological and behavioral treatment
+
+## Supplementary Web Boxes
+
+- Web Box 10.1 Pharmacology in Action_ The Role of Expectation in Alcohol-Enhanced Human Sexual Response
+- Web Box 10.2 Drugs and Society_ Alcohol and Aggression
+- Web Box 10.3 Of Special Interest_ Gender Differences in Alcohol Effects
+- Web Box 10.4 Clinical Applications_ Alcoholics Anonymous
+
+## Lecture concepts
+
+### 1. How alcohol is made
+
+Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic. Alcohol was probably first consumed by mistake.
+
+**What to know:**
+- Ethyl alcohol, or ethanol, is the alcohol form in drinks; other types of alcohol are toxic
+- Alcohol was probably first consumed by mistake
+- Ethanol: produced by fermentation of sugars by yeasts; produces alcohol and CO2
+- Methanol in moonshine – can’t drink ‘em all
+- Pectin methylesterase
+
+**Meyer connection:** Review the chapter discussion of **alcohol pharmacokinetics and metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Pharmacokinetics - solubility
+
+Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble. Has a bit of hydrophobicity.
+
+**What to know:**
+- Ethanol is a small molecule that can’t be ionized*; mixes readily with water; not very lipid soluble
+- Has a bit of hydrophobicity
+- Concentration calculations
+- Easily absorbed from the GI tract; diffuses throughout the body, entering most tissues, including the brain
+- Behavioral effects are described according to blood alcohol concentration (BAC) rather than amount ingested Methanol Ethanol Isopropanol
+
+**Meyer connection:** Review the chapter discussion of **tolerance and physical dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Pharmacokinetics - absorption
+
+Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption. Food in the stomach delays movement into small intestine and thus absorption.
+
+**What to know:**
+- Alcohol (PO) is mostly absorbed from the small intestine into the blood by passive diffusion; the higher the concentration in the drink, the faster the absorption
+- Food in the stomach delays movement into small intestine and thus absorption
+- Absorption in women is faster than in men because reduced gastric metabolism (less alcohol dehydrogenase) and smaller body size increase the concentration
+
+**Meyer connection:** Review the chapter discussion of **organ-system effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Metabolism of ethanol – gastric and hepatic
+
+About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer. Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH).
+
+**What to know:**
+- About 95% of ingested alcohol is metabolized by the liver at a constant rate (1 to 1.5 ounces/hour); about 5% is excreted by the lungs—which can be measured with a Breathalyzer.
+- Alcohol is oxidized by alcohol dehydrogenase and aldehyde dehydrogenase (ALDH)
+- About 10% of Asians have genes that code for an inactive form of ALDH—drinking alcohol results in build-up of toxic acetaldehyde, causing flushing, nausea and vomiting, tachycardia, headache, dizziness, etc.
+
+**Meyer connection:** Review the chapter discussion of **gaba and glutamate actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Metabolism of ethanol – hepatic
+
+Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs. If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs.
+
+**What to know:**
+- Enzymes in the cytochrome P450 family also convert alcohol to acetaldehyde and metabolize many other drugs.
+- If alcohol is consumed with other drugs, they compete for the same enzyme; could lead to dangerously high levels of the other drugs
+- Induction: when alcohol is consumed on a regular basis, these liver enzymes increase in number, which increases the rate of metabolism of alcohol and other drugs
+- Metabolic tolerance
+- Training your liver
+
+**Meyer connection:** Review the chapter discussion of **dopamine and endogenous opioids** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Tolerance to ethanol
+
+Tolerance: effects of alcohol reduced when administered repeatedly. Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines.
+
+**What to know:**
+- Tolerance: effects of alcohol reduced when administered repeatedly
+- Cross-tolerance with other drugs in the sedative–hypnotic class, including barbiturates and benzodiazepines
+- Acute tolerance: in a single exposure; effects are greater while blood level is rising and smaller while blood level is falling; may lead to driving while intoxicated
+- Metabolic tolerance: increase in P450 liver microsomal enzymes that metabolize alcohol
+- Pharmacodynamic tolerance: neurons adapt to continued presence of alcohol by making compensatory changes in cell function – more later
+
+**Meyer connection:** Review the chapter discussion of **alcohol use disorder** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Ethanol dependence
+
+Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking. Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class.
+
+**What to know:**
+- Physical dependence: intensity and duration of withdrawal is dependent on amount and duration of drug taking
+- Alcohol shows cross-dependence with other drugs in the sedative-hypnotic class
+- Hangover may be evidence of withdrawal or a sign of acute toxicity
+- Withdrawal symptoms include tremor, anxiety, high blood pressure, rapid heart rate, sweating, rapid breathing, nausea, vomiting; some people experience delirium tremens, or DTs
+
+**Meyer connection:** Review the chapter discussion of **pharmacological and behavioral treatment** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Effects of alcohol
+
+Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep. Alcohol use increases risk of automobile accidents, violent crimes, and aggression.
+
+**What to know:**
+- Dose-dependent effects on the CNS include relaxation, reduced anxiety, intoxication, impaired judgment, impaired memory, blackouts, and sleep.
+- Alcohol use increases risk of automobile accidents, violent crimes, and aggression
+- High doses can cause alcohol poisoning, coma, and death due to respiratory depression. (Brevers et al., 2014)
+
+**Meyer connection:** Review the chapter discussion of **alcohol pharmacokinetics and metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Alcohol is poison
+
+Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE). Multiple brain regions may be damaged by glutamate-induced excitotoxicity.
+
+**What to know:**
+- Heavy long-term alcohol use causes a vitamin B1 (thiamine) deficiency leading to cell death in the periaqueductal gray, medial thalamus, and mammillary bodies, causing Wernicke’s encephalopathy (WE)
+- Multiple brain regions may be damaged by glutamate-induced excitotoxicity
+- Korsakoff syndrome: permanent damage to thalamic nuclei and brain regions involved in memory subsequent to vitamin B1 deficiency
+- Other brain areas often show cell loss unrelated to diet: large ventricles indicate tissue shrinkage, small brain mass, cerebellar cell loss
+
+**Meyer connection:** Review the chapter discussion of **tolerance and physical dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Some positive effects
+
+Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults. Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke.
+
+**What to know:**
+- Alcohol dilates peripheral blood vessels; in the brain vasodilation may improve cognitive function in older adults
+- Low-to-moderate alcohol use increases the amount of “good” cholesterol in the blood while reducing the “bad”; may reduce incidence of blood clots and stroke
+- But…AUD increases the risk of high blood pressure, stroke, and heart enlargement. (Huang et al., 2017)
+
+**Meyer connection:** Review the chapter discussion of **organ-system effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Psychopharmacology of Alcohol (13 of 16)
+
+Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone. Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+
+**What to know:**
+- Alcohol has a diuretic effect, by reducing secretion of antidiuretic hormone
+- Liver damage associated with AUD includes fatty liver, alcohol-induced hepatitis and cirrhosis.
+- Alcohol increases sexual arousal while decreasing performance, increases appetite, and aids digestion by increasing gastric secretions.
+
+**Meyer connection:** Review the chapter discussion of **gaba and glutamate actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Effect of alcohol on male sexual function
+
+The lecture treats **Effect of alcohol on male sexual function** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **dopamine and endogenous opioids** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. The pharmacodynamic profile of ethanol is diverse
+
+Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes. Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins.
+
+**What to know:**
+- Alcohol is a very small molecule with the ability to cross easily across lipid bilayer membranes
+- Nonspecific actions: cell membrane lipids become more fluid; changes its relationship with membrane proteins
+- Specific actions: influences ligand- gated channels and alters second- messenger systems
+
+**Meyer connection:** Review the chapter discussion of **alcohol use disorder** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Ethanol at GABA receptors
+
+GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization. Acts as a positive allosteric modulator.
+
+**What to know:**
+- GABA: alcohol increases GABA-induced Cl− flux and hyper-polarization
+- Acts as a positive allosteric modulator
+- Repeated exposure to ethanol reduces GABAA-mediated Cl– flux; may contribute to tolerance and withdrawal
+- Alcohol also impacts metabotropic GABAB receptors (Sanna et al., 1993) (Ticku & Burch, 1980)
+
+**Meyer connection:** Review the chapter discussion of **pharmacological and behavioral treatment** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Ethanol at glutamate receptors
+
+Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM). Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+
+**What to know:**
+- Glutamate: acute alcohol reduces its effect on NMDA receptors; reduces glutamate release in many brain areas; repeated use results in up- regulation of NMDA receptors (NAM)
+- Compensation: During withdrawal, glutamate release increases, correlated with CNS hyperexcitability and seizures; excessive Ca2+ influx contributes to cell death.
+- Memory loss – blackouts and greyouts
+- Anxiety and insomnia
+- Frequently experienced withdrawal may be responsible for some irreversible brain damage. Striatal Microdialysis
+
+**Meyer connection:** Review the chapter discussion of **alcohol pharmacokinetics and metabolism** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Why might alcohol be addictive?
+
+Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc. Core = reinforcement.
+
+**What to know:**
+- Dopamine: activates dopaminergic cells in the VTA, causing release of DA in the NAc.
+- Core = reinforcement
+- Shell = reward
+- Together they make you do it more
+- Increased dopaminergic transmission in the mesolimbic pathway occurs in response to most drugs of abuse, including alcohol (Di Chiara, 1997)
+
+**Meyer connection:** Review the chapter discussion of **tolerance and physical dependence** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Ethanol causes endogenous opioid release
+
+Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland. But chronic alcohol use reduces gene expression, making less endogenous opioids available for release.
+
+**What to know:**
+- Opioid systems: endorphins contribute to the rewarding and reinforcing effects of alcohol; enhances release from the pituitary gland
+- But chronic alcohol use reduces gene expression, making less endogenous opioids available for release
+- Blocking opioid receptors reduces alcohol self-administration. μ-opioid receptor knockout mice fail to self-administer ethanol.
+- Segue into exogenous opioids next class
+
+**Meyer connection:** Review the chapter discussion of **organ-system effects** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Pharmacotherapy for alcohol use disorder
+
+Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation). Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+
+**What to know:**
+- Pharmacotherapeutic treatment includes two strategies: make drinking unpleasant (positive punishment) and reduce alcohol’s reinforcing qualities (contingency degradation).
+- Disulfiram (Antabuse) inhibits ALDH (converts acetaldehyde to acetic acid). Drinking even 1 oz of alcohol results in flushing, pounding heart, nausea, vomiting, etc.
+- Naltrexone: an opioid receptor antagonist; reduces the “high” by blocking the effects of alcohol-induced endorphin release
+
+**Meyer connection:** Review the chapter discussion of **gaba and glutamate actions** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **How alcohol is made** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics - solubility** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacokinetics - absorption** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabolism of ethanol – gastric and hepatic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabolism of ethanol – hepatic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Tolerance to ethanol** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ethanol dependence** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Effects of alcohol** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Alcohol is poison** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Some positive effects** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Psychopharmacology of Alcohol (13 of 16)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Effect of alcohol on male sexual function** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The pharmacodynamic profile of ethanol is diverse** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ethanol at GABA receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ethanol at glutamate receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Why might alcohol be addictive?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ethanol causes endogenous opioid release** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pharmacotherapy for alcohol use disorder** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

@@ -1,0 +1,207 @@
+---
+title: "Lecture 16 Practice — Nicotine and Caffeine"
+toc-depth: 2
+---
+
+**8 multiple-choice questions** and **2 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck / assigned chapter. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Nicotine pharmacokinetics and metabolism {#l16-mc01}
+
+Which statement best matches the lecture discussion of **Nicotine pharmacokinetics and metabolism**?
+
+- **A.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Nicotine pharmacokinetics and metabolism** from Lecture 16 (source page 1). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 2 — Nicotinic acetylcholine receptors {#l16-mc02}
+
+Which statement best matches the lecture discussion of **Nicotinic acetylcholine receptors**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Nicotinic acetylcholine receptors** from Lecture 16 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 3 — Behavioral and physiological effects of nicotine {#l16-mc03}
+
+Which statement best matches the lecture discussion of **Behavioral and physiological effects of nicotine**?
+
+- **A.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Behavioral and physiological effects of nicotine** from Lecture 16 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 4 — Smoking, vaping, dependence and treatment {#l16-mc04}
+
+Which statement best matches the lecture discussion of **Smoking, vaping, dependence and treatment**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Smoking, vaping, dependence and treatment** from Lecture 16 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 5 — Adenosine receptor antagonism {#l16-mc05}
+
+Which statement best matches the lecture discussion of **Adenosine receptor antagonism**?
+
+- **A.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Adenosine receptor antagonism** from Lecture 16 (source page 6). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 6 — Behavioral and physiological effects of caffeine {#l16-mc06}
+
+Which statement best matches the lecture discussion of **Behavioral and physiological effects of caffeine**?
+
+- **A.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Behavioral and physiological effects of caffeine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Behavioral and physiological effects of caffeine** from Lecture 16 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 7 — Integration: Nicotine pharmacokinetics and metabolism {#l16-mc07}
+
+Which statement correctly describes **Nicotine pharmacokinetics and metabolism**, rather than the nearby topic **Nicotinic acetylcholine receptors**?
+
+- **A.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Behavioral and physiological effects of nicotine** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Nicotine pharmacokinetics and metabolism** from Lecture 16 (source page 1). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+### Question 8 — Integration: Nicotinic acetylcholine receptors {#l16-mc08}
+
+Which statement correctly describes **Nicotinic acetylcholine receptors**, rather than the nearby topic **Behavioral and physiological effects of nicotine**?
+
+- **A.** The lecture treats **Adenosine receptor antagonism** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** The lecture treats **Smoking, vaping, dependence and treatment** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Nicotinic acetylcholine receptors** from Lecture 16 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 16 study guide](../study-guides/lecture16.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Caffeine pharmacology {#l16-sa01}
+
+Explain **Caffeine pharmacology** and show how it connects to **Adenosine receptor antagonism** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The lecture treats **Caffeine pharmacology** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 16, source page 5. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Integration: Nicotine pharmacokinetics and metabolism and Nicotinic acetylcholine receptors {#l16-sa02}
+
+Compare **Nicotine pharmacokinetics and metabolism** with **Nicotinic acetylcholine receptors**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The lecture treats **Nicotine pharmacokinetics and metabolism** as a key concept that should be understood in relation to the surrounding mechanisms and examples. The lecture treats **Nicotinic acetylcholine receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 16, source page 1. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

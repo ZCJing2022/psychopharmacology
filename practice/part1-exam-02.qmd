@@ -1,0 +1,609 @@
+---
+title: "Part 1 Practice Exam 2"
+toc-depth: 2
+---
+
+**Time: 50 minutes.** This practice exam is derived from Lectures 1–4.
+
+**Format:** 30 multiple-choice questions and 4 short-essay questions. Answers and explanations are hidden initially.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+Which statement best matches the lecture discussion of **The beauty of parenteral routes**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **D.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **The beauty of parenteral routes**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 2
+
+Which statement best matches the lecture discussion of **Electrical properties of the neuron Resting membrane potential**?
+
+- **A.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** What is the membrane potential?. How is it measured?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+What is the membrane potential?. How is it measured?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Electrical properties of the neuron Resting membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 3
+
+Which statement best matches the lecture discussion of **Release Involves Exocytosis and Recycling of Synaptic Vesicles**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+- **C.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Release Involves Exocytosis and Recycling of Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 4
+
+Which statement best matches the lecture discussion of **Invasive measurement of neurotransmitters**?
+
+- **A.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Post-mortem assay measuring protein in the brain.
+- **C.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **D.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Invasive measurement of neurotransmitters**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 5
+
+Which statement best matches the lecture discussion of **Rectal administration**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Rectal administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 6
+
+Which statement best matches the lecture discussion of **The membrane potential**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **D.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **The membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 7
+
+Which statement best matches the lecture discussion of **Autoreceptors control the rate of neurotransmitter release**?
+
+- **A.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **B.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- **C.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **D.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Autoreceptors control the rate of neurotransmitter release**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 8
+
+Which statement best matches the lecture discussion of **Invasive measurement of electrical activity**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Post-mortem assay measuring protein in the brain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Invasive measurement of electrical activity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 9
+
+Which statement best matches the lecture discussion of **Effect of administration route on pharmacokinetics**?
+
+- **A.** Route of administration. Drug concentration.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Effect of administration route on pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 10
+
+Which statement best matches the lecture discussion of **Ionic basis of the membrane potential**?
+
+- **A.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Ionic basis of the membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 11
+
+Which statement best matches the lecture discussion of **Mechanisms of Neurotransmitter Inactivation**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Mechanisms of Neurotransmitter Inactivation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 12
+
+Which statement best matches the lecture discussion of **enkephalin**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **enkephalin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 13
+
+Which statement best matches the lecture discussion of **Other factors affecting pharmacokinetics**?
+
+- **A.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **B.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Route of administration. Drug concentration.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Other factors affecting pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 14
+
+Which statement best matches the lecture discussion of **Post synaptic potentials Local Potentials Are Small,**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Post synaptic potentials Local Potentials Are Small,**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 15
+
+Which statement best matches the lecture discussion of **Neurotransmitter Receptor Families**?
+
+- **A.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Neurotransmitter Receptor Families**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 16
+
+Which statement best matches the lecture discussion of **DREADDs**?
+
+- **A.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **B.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+- **C.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **D.** Designer receptors exclusively activated by designer drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Designer receptors exclusively activated by designer drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **DREADDs**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 17
+
+Which statement best matches the lecture discussion of **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**?
+
+- **A.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 18
+
+Which statement best matches the lecture discussion of **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**?
+
+- **A.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **B.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 19
+
+Which statement best matches the lecture discussion of **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel**?
+
+- **A.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **B.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+- **C.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **D.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 20
+
+Which statement best matches the lecture discussion of **Positron emission tomography (PET)**?
+
+- **A.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **B.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+- **C.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Positron emission tomography (PET)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 21
+
+Which statement best matches the lecture discussion of **Distribution of a drug in the body**?
+
+- **A.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **B.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **D.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Distribution of a drug in the body**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 22
+
+Which statement best matches the lecture discussion of **Ionic basis of the action potential**?
+
+- **A.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **B.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **D.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Ionic basis of the action potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 23
+
+Which statement best matches the lecture discussion of **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins**?
+
+- **A.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **B.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+- **C.** Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- **D.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Act slower but response lasts longer. Activate G proteins when transmitter binds.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 24
+
+Which statement correctly describes **Behavioral Pharmacology**, rather than the nearby topic **Animals are necessary for behavioural pharmacology**?
+
+- **A.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **B.** Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+- **C.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+- **D.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Integration: Behavioral Pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 25
+
+Which statement best matches the lecture discussion of **Selective barriers affecting drug distribution**?
+
+- **A.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **B.** Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+- **C.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **D.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Selective barriers affecting drug distribution**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 26
+
+Which statement best matches the lecture discussion of **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-**?
+
+- **A.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **B.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **D.** Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Resetting the neuron Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 27
+
+Which statement best matches the lecture discussion of **Allosteric modulation**?
+
+- **A.** Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- **B.** The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **D.** Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Allosteric modulation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 28
+
+Which statement best matches the lecture discussion of **Behavioral Pharmacology**?
+
+- **A.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **B.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+- **C.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Behavioral Pharmacology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 29
+
+Which statement best matches the lecture discussion of **Structure of the blood-brain barrier**?
+
+- **A.** Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+- **B.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **D.** Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Structure of the blood-brain barrier**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 30
+
+Which statement best matches the lecture discussion of **The benefit of myleniation**?
+
+- **A.** Schwann cells Form myelin sheath on a single axon in the PNS Release growth factors following neuron damage Provide a channel to guide axons to targets Oligodendroglia Form myelin sheath on multiple axons in the CNS Inhibit regrowth of axons following neuron damage.
+- **B.** Drugs used for local anesthesia (e.g., Novocaine) block voltage-gated Na+ channels. Some antiepileptic drugs bind to closed Na+ channels, prolonging the refractory state of the channel, slowing down the firing rate.
+- **C.** Astrocytes Provide structural support Maintain ionic and chemical environment Store nutrients to provide energy for neurons Perform gliosis Regulate CNS blood flow Coordinate reciprocal glia–neuron activity.
+- **D.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **The benefit of myleniation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+# Section B — Short Essay
+
+### Short Essay 1
+
+Explain **Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes,** and show how it connects to **Pharmacokinetics contributions to bioavailability** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes,**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 2
+
+Explain **Human vs. rat brains** and show how it connects to **The rat does not resemble you.** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+All mammalian brains have the same major subdivisions, organized similarly. Relative size of the brain regions differs.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Human vs. rat brains**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 3
+
+Compare **Discovery of a Neurotransmitter** with **General Concepts**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Otto Lowei. ”vagustoff”. Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Integration: Discovery of a Neurotransmitter and General Concepts**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 4
+
+Explain **Immunohistochemistry (immunocytochemistry) Hypocretin (orexin)** and show how it connects to **enkephalin** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Post-mortem assay measuring protein in the brain.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Immunohistochemistry (immunocytochemistry) Hypocretin (orexin)**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+

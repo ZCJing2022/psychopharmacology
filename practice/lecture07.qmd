@@ -1,0 +1,501 @@
+---
+title: "Lecture 7 Practice — Serotonin"
+toc-depth: 2
+---
+
+**20 multiple-choice questions** and **5 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — A point of clarity {#l07-mc01}
+
+Which statement best matches the lecture discussion of **A point of clarity**?
+
+- **A.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+- **B.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **C.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **A point of clarity** from Lecture 7 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 2 — Serotonin synthesis is regulated by enzymatic {#l07-mc02}
+
+Which statement best matches the lecture discussion of **Serotonin synthesis is regulated by enzymatic**?
+
+- **A.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+- **C.** Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+- **D.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Serotonin synthesis is regulated by enzymatic** from Lecture 7 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 3 — Tryptophan hydroxylase {#l07-mc03}
+
+Which statement best matches the lecture discussion of **Tryptophan hydroxylase**?
+
+- **A.** Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+- **B.** Tryptophan loading: administration of pure tryptophan. Dietary:.
+- **C.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Tryptophan hydroxylase** from Lecture 7 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 4 — Uptake of dietary tryptophan {#l07-mc04}
+
+Which statement best matches the lecture discussion of **Uptake of dietary tryptophan**?
+
+- **A.** Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009). ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+- **B.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+- **C.** Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+- **D.** Tryptophan loading: administration of pure tryptophan. Dietary:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Uptake of dietary tryptophan** from Lecture 7 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 5 — Elevating tryptophan to asses its role in behaviour {#l07-mc05}
+
+Which statement best matches the lecture discussion of **Elevating tryptophan to asses its role in behaviour**?
+
+- **A.** Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009). ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+- **B.** 95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT. Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+- **C.** 5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+- **D.** Tryptophan loading: administration of pure tryptophan. Dietary:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Tryptophan loading: administration of pure tryptophan. Dietary:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Elevating tryptophan to asses its role in behaviour** from Lecture 7 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 6 — Serotonin depletion effects psychological processing {#l07-mc06}
+
+Which statement best matches the lecture discussion of **Serotonin depletion effects psychological processing**?
+
+- **A.** 5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+- **B.** Inactivation of 5-HT: reuptake by 5- HT transporter (SERT). Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs).
+- **C.** Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009). ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+- **D.** 95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT. Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Reducing brain 5-HT using the ATD method seems to impair memory consolidation of verbal information but has little or no influence on working memory or attention (Mendelsohn et al., 2009). ATD also induced a negative cognitive bias, and reduced sleep duration and quality (Cools et al., 2007).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Serotonin depletion effects psychological processing** from Lecture 7 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 7 — Most dietary tryptophan never becomes serotonin {#l07-mc07}
+
+Which statement best matches the lecture discussion of **Most dietary tryptophan never becomes serotonin**?
+
+- **A.** Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei. Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+- **B.** 95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT. Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+- **C.** 5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+- **D.** Inactivation of 5-HT: reuptake by 5- HT transporter (SERT). Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+95% of ingested tryptophan is metabolized to kynurenine rather than 5- HT. Kynurenine is further metabolized in the kynurenine pathway; stress and inflammation can stimulate enzymes involved.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Most dietary tryptophan never becomes serotonin** from Lecture 7 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 8 — Synaptic pharmacodynamics similar to catecholamines {#l07-mc08}
+
+Which statement best matches the lecture discussion of **Synaptic pharmacodynamics similar to catecholamines**?
+
+- **A.** 5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+- **B.** Inactivation of 5-HT: reuptake by 5- HT transporter (SERT). Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs).
+- **C.** Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei. Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+- **D.** TPH2 in dorsal raphe SERT in hippocampus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+5-HT is transported into synaptic vesicles by vesicular monoamine transporter 2 (VMAT2). Reserpine (VMAT blocker) depletes 5- HT, which is broken down when not protected in vesicles.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Synaptic pharmacodynamics similar to catecholamines** from Lecture 7 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 9 — Anatomical organization of serotonin projections {#l07-mc09}
+
+Which statement best matches the lecture discussion of **Anatomical organization of serotonin projections**?
+
+- **A.** First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep. Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness.
+- **B.** 14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+- **C.** Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei. Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+- **D.** TPH2 in dorsal raphe SERT in hippocampus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Serotonergic neurons in the CNS are found along the midline of the brainstem (medulla, pons, and midbrain), loosely associated with the raphe nuclei. Dorsal raphe nucleus (DRN; B6 & B7) and median raphe nucleus (MRN; B5 & B8) give rise to most of the serotonergic fibers in the forebrain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Anatomical organization of serotonin projections** from Lecture 7 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 10 — Immunohistochemistry of TPH2 & SERT {#l07-mc10}
+
+Which statement best matches the lecture discussion of **Immunohistochemistry of TPH2 & SERT**?
+
+- **A.** 5-HT2A receptors occur in the cortex and other brain areas. Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC).
+- **B.** TPH2 in dorsal raphe SERT in hippocampus.
+- **C.** First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep. Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness.
+- **D.** 14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+TPH2 in dorsal raphe SERT in hippocampus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Immunohistochemistry of TPH2 & SERT** from Lecture 7 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 11 — Electrophysiological properties of serotonin neurons {#l07-mc11}
+
+Which statement best matches the lecture discussion of **Electrophysiological properties of serotonin neurons**?
+
+- **A.** First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep. Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness.
+- **B.** 14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+- **C.** 5-HT2A receptors occur in the cortex and other brain areas. Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC).
+- **D.** Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+First demonstrated in cats: when awake, each nerve cell fires at a regular rate (tonic firing); become irregular with slow-wave sleep and stop firing during REM sleep. Research with DRN and MRN knockout mice: slow, tonic firing of DRN neurons promotes sleep (non-REM sleep); burst firing of the same cells favors a state of wakefulness.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Electrophysiological properties of serotonin neurons** from Lecture 7 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 12 — There are LOTS of different serotonin receptors {#l07-mc12}
+
+Which statement best matches the lecture discussion of **There are LOTS of different serotonin receptors**?
+
+- **A.** 5-HT2A receptors occur in the cortex and other brain areas. Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC).
+- **B.** Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
+- **C.** DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+- **D.** 14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+14 receptor subtypes; 5-HT1A and 5-HT2A are most well known. 5-HT1A receptors: concentrated in the hippocampus, septal area, amygdala, and DRN; inhibit adenylyl cyclase to decrease cAMP synthesis; increase opening of K+ channels and membrane hyperpolarization 5-HT1A.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **There are LOTS of different serotonin receptors** from Lecture 7 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 13 — Deeper look at the IP3 signaling pathway {#l07-mc13}
+
+Which statement best matches the lecture discussion of **Deeper look at the IP3 signaling pathway**?
+
+- **A.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
+- **C.** DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+- **D.** Sodium in and potassium out. Fast neuronal excitation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Ligand binds to a GPCR/receptor. The receptor activates PLC (phospholipase C).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Deeper look at the IP3 signaling pathway** from Lecture 7 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 14 — 5-HT2A is implicated in hallucinations {#l07-mc14}
+
+Which statement best matches the lecture discussion of **5-HT2A is implicated in hallucinations**?
+
+- **A.** DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+- **B.** Sodium in and potassium out. Fast neuronal excitation.
+- **C.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **5-HT2A is implicated in hallucinations** from Lecture 7 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 15 — 5-HT3A is ionotropic {#l07-mc15}
+
+Which statement best matches the lecture discussion of **5-HT3A is ionotropic**?
+
+- **A.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+- **C.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **D.** Sodium in and potassium out. Fast neuronal excitation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Sodium in and potassium out. Fast neuronal excitation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **5-HT3A is ionotropic** from Lecture 7 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 16 — There are heaps of serotonin receptors {#l07-mc16}
+
+Which statement best matches the lecture discussion of **There are heaps of serotonin receptors**?
+
+- **A.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **B.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+- **C.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **There are heaps of serotonin receptors** from Lecture 7 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 17 — Serotonin in anxiety {#l07-mc17}
+
+Which statement best matches the lecture discussion of **Serotonin in anxiety**?
+
+- **A.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **B.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+- **C.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Serotonin in anxiety** from Lecture 7 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 18 — Identifying the precise anxiety-modulating mechanism {#l07-mc18}
+
+Which statement best matches the lecture discussion of **Identifying the precise anxiety-modulating mechanism**?
+
+- **A.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **B.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+- **C.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **D.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Identifying the precise anxiety-modulating mechanism** from Lecture 7 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 19 — Serotonin in hunger and eating {#l07-mc19}
+
+Which statement best matches the lecture discussion of **Serotonin in hunger and eating**?
+
+- **A.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **B.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Serotonin in hunger and eating** from Lecture 7 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+### Question 20 — Integration: A point of clarity {#l07-mc20}
+
+Which statement correctly describes **A point of clarity**, rather than the nearby topic **Serotonin synthesis is regulated by enzymatic**?
+
+- **A.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+- **C.** Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: A point of clarity** from Lecture 7 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 7 study guide](../study-guides/lecture07.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Depleting 5-HT to assess its role in behavior {#l07-sa01}
+
+Explain **Depleting 5-HT to assess its role in behavior** and show how it connects to **Elevating tryptophan to asses its role in behaviour** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 7, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — The serotonin transporter (SERT) {#l07-sa02}
+
+Explain **The serotonin transporter (SERT)** and show how it connects to **Anatomical organization of serotonin projections** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Inactivation of 5-HT: reuptake by 5- HT transporter (SERT). Antidepressant drugs such as fluoxetine (Prozac) are selective serotonin reuptake inhibitors (SSRIs).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 7, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — 5-HT2A {#l07-sa03}
+
+Explain **5-HT2A** and show how it connects to **Deeper look at the IP3 signaling pathway** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+5-HT2A receptors occur in the cortex and other brain areas. Function via the phosphoinositide second- messenger system: increases Ca2+ levels in the postsynaptic cell; also activates protein kinase C (PKC).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 7, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Behavioral effects of serotonin {#l07-sa04}
+
+Explain **Behavioral effects of serotonin** and show how it connects to **Serotonin in anxiety** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 7, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Integration: A point of clarity and Serotonin synthesis is regulated by enzymatic {#l07-sa05}
+
+Compare **A point of clarity** with **Serotonin synthesis is regulated by enzymatic**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity. Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 7, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

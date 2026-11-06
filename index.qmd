@@ -1,0 +1,49 @@
+---
+title: "Psychopharmacology"
+---
+
+## About this site
+
+This site supports review and exam preparation for **PSYC 383 Psychopharmacology**. It follows the same focused structure as the Biochemistry of the Cell study site:
+
+- [**Study Guides**](study-guides/index.qmd) — one guide for each of the 16 lectures, organized around the concepts emphasized in the lecture presentation.
+- [**Practice Questions**](practice/index.qmd) — lecture-level question banks plus nine timed practice exams, with answers and explanations hidden until opened.
+
+## How the materials are built
+
+The **lecture presentation is the authority for scope**. The assigned Meyer chapter provides the detailed psychopharmacological explanation and terminology. Web Boxes are treated as supplementary examples where they reinforce lecture material.
+
+Practice questions are generated to cover the full lecture scope. Lecture banks use an approximately **80% multiple-choice / 20% written-response** mix.
+
+## Course sequence
+
+### Part I
+
+- **Lecture 1:** Principles of Pharmacology
+- **Lecture 2:** Structure and Function of the Nervous System
+- **Lecture 3:** Chemical Signalling in the Nervous System
+- **Lecture 4:** Methods of Research in Psychopharmacology
+
+### Part II
+
+- **Lecture 5:** Catecholamines I — Dopamine
+- **Lecture 6:** Catecholamines II — Noradrenaline
+- **Lecture 7:** Serotonin
+- **Lecture 8:** Acetylcholine
+- **Lecture 9:** Glutamate
+- **Lecture 10:** GABA
+
+### Part III
+
+- **Lecture 11:** Circadian Rhythms and Chronopharmacology
+- **Lecture 12:** Drug Addiction and Brain Reward Systems
+- **Lecture 13:** Addiction and Psychostimulants
+- **Lecture 14:** Alcohol
+- **Lecture 15:** Opioids
+- **Lecture 16:** Nicotine and Caffeine
+
+## Practice exams
+
+- **Part I:** three 50-minute exams, each with **30 multiple-choice + 4 short-essay questions** (Lectures 1–4).
+- **Part II:** three 50-minute exams, each with **45 multiple-choice questions** (Lectures 5–10).
+- **Part III:** three 50-minute exams, each with **30 multiple-choice + 4 short-essay questions** (Lectures 11–16).

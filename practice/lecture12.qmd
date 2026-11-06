@@ -1,0 +1,305 @@
+---
+title: "Lecture 12 Practice — Drug Addiction and Brain Reward Systems"
+toc-depth: 2
+---
+
+**12 multiple-choice questions** and **3 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Most humans are regular users {#l12-mc01}
+
+Which statement best matches the lecture discussion of **Most humans are regular users**?
+
+- **A.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **B.** Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+- **C.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **D.** of psychoactive drugs. Caffeine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+of psychoactive drugs. Caffeine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Most humans are regular users** from Lecture 12 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 2 — Most humans use psychoactive drugs without experiencing addiction {#l12-mc02}
+
+Which statement best matches the lecture discussion of **Most humans use psychoactive drugs without experiencing addiction**?
+
+- **A.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **B.** Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+- **C.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **D.** Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Most humans use psychoactive drugs without experiencing addiction** from Lecture 12 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 3 — Addiction is a nuanced term surrounded by stigma {#l12-mc03}
+
+Which statement best matches the lecture discussion of **Addiction is a nuanced term surrounded by stigma**?
+
+- **A.** Who is particularly at risk?. What causes drug addiction?.
+- **B.** Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+- **C.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **D.** Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Addiction is a nuanced term surrounded by stigma** from Lecture 12 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 4 — William S. Burroughs, Junky {#l12-mc04}
+
+Which statement best matches the lecture discussion of **William S. Burroughs, Junky**?
+
+- **A.** one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+- **B.** Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+- **C.** Who is particularly at risk?. What causes drug addiction?.
+- **D.** Men? Women?. Dependent on the drug, but usually men.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **William S. Burroughs, Junky** from Lecture 12 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 5 — What do we really want to know about drug addiction? {#l12-mc05}
+
+Which statement best matches the lecture discussion of **What do we really want to know about drug addiction?**?
+
+- **A.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **B.** Pleasing effects. Craving.
+- **C.** Who is particularly at risk?. What causes drug addiction?.
+- **D.** Men? Women?. Dependent on the drug, but usually men.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Who is particularly at risk?. What causes drug addiction?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What do we really want to know about drug addiction?** from Lecture 12 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 6 — Who is particularly at risk? {#l12-mc06}
+
+Which statement best matches the lecture discussion of **Who is particularly at risk?**?
+
+- **A.** Example of tolerance: caffeine Withdrawal 12.
+- **B.** Men? Women?. Dependent on the drug, but usually men.
+- **C.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **D.** Pleasing effects. Craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Men? Women?. Dependent on the drug, but usually men.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Who is particularly at risk?** from Lecture 12 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 7 — What causes drug addiction? {#l12-mc07}
+
+Which statement best matches the lecture discussion of **What causes drug addiction?**?
+
+- **A.** These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+- **B.** Pleasing effects. Craving.
+- **C.** Example of tolerance: caffeine Withdrawal 12.
+- **D.** AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What causes drug addiction?** from Lecture 12 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 8 — Features of drug addiction {#l12-mc08}
+
+Which statement best matches the lecture discussion of **Features of drug addiction**?
+
+- **A.** Example of tolerance: caffeine Withdrawal 12.
+- **B.** AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+- **C.** Intoxication/binge. Development of dependence (withdrawal).
+- **D.** Pleasing effects. Craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Pleasing effects. Craving.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Features of drug addiction** from Lecture 12 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 9 — Opponent Process Theory of Drug Addiction {#l12-mc09}
+
+Which statement best matches the lecture discussion of **Opponent Process Theory of Drug Addiction**?
+
+- **A.** Operant conditioning. Reinforcement.
+- **B.** AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+- **C.** Intoxication/binge. Development of dependence (withdrawal).
+- **D.** BUT opponent processes can’t be the whole story Withdrawal 17.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Opponent Process Theory of Drug Addiction** from Lecture 12 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 10 — Stages of drug addiction (a common framework) as related to opponent process theory {#l12-mc10}
+
+Which statement best matches the lecture discussion of **Stages of drug addiction (a common framework) as related to opponent process theory**?
+
+- **A.** Intoxication/binge. Development of dependence (withdrawal).
+- **B.** BUT opponent processes can’t be the whole story Withdrawal 17.
+- **C.** Operant conditioning. Reinforcement.
+- **D.** Olds and Milner (1954). Dopamine: pleasure?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Intoxication/binge. Development of dependence (withdrawal).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Stages of drug addiction (a common framework) as related to opponent process theory** from Lecture 12 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 11 — BUT opponent processes can’t be the whole story Withdrawal {#l12-mc11}
+
+Which statement best matches the lecture discussion of **BUT opponent processes can’t be the whole story Withdrawal**?
+
+- **A.** Operant conditioning. Reinforcement.
+- **B.** Olds and Milner (1954). Dopamine: pleasure?.
+- **C.** of psychoactive drugs. Caffeine.
+- **D.** BUT opponent processes can’t be the whole story Withdrawal 17.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+BUT opponent processes can’t be the whole story Withdrawal 17.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **BUT opponent processes can’t be the whole story Withdrawal** from Lecture 12 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+### Question 12 — Associative Learning Principles Used in Addiction Models {#l12-mc12}
+
+Which statement best matches the lecture discussion of **Associative Learning Principles Used in Addiction Models**?
+
+- **A.** of psychoactive drugs. Caffeine.
+- **B.** ~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+- **C.** Operant conditioning. Reinforcement.
+- **D.** Olds and Milner (1954). Dopamine: pleasure?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Operant conditioning. Reinforcement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Associative Learning Principles Used in Addiction Models** from Lecture 12 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 12 study guide](../study-guides/lecture12.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Drugs, addiction, harm Nutt et al., 2007 {#l12-sa01}
+
+Explain **Drugs, addiction, harm Nutt et al., 2007** and show how it connects to **What do we really want to know about drug addiction?** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 12, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Example of tolerance: caffeine Withdrawal {#l12-sa02}
+
+Explain **Example of tolerance: caffeine Withdrawal** and show how it connects to **Opponent Process Theory of Drug Addiction** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Example of tolerance: caffeine Withdrawal 12.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 12, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Motivation for… Brain Stimulation? {#l12-sa03}
+
+Explain **Motivation for… Brain Stimulation?** and show how it connects to **Most humans are regular users** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Olds and Milner (1954). Dopamine: pleasure?.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 12, source page 19. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

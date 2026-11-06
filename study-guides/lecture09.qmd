@@ -1,0 +1,340 @@
+---
+title: "Lecture 9 — Glutamate"
+---
+
+## How to use this guide
+
+The Lecture 9 presentation defines the examinable scope. Meyer Chapter 8 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Glutamate biosynthesis → Vesicular packaging of glutamate → Glutamate reuptake → EAAT knockout → The diversity of EAATs → Astrocytic metabolism of glutamate → Anatomical organization of the glutamate system → Ionotropic glutamate receptors → NMDA receptors are very interesting → Another binding site directly inside the channel → Metabotropic glutamate receptors → AMPA and NMDA receptors in learning and memory → …
+</div>
+
+## Textbook anchors
+
+- Glutamate synthesis, vesicular transport and uptake
+- AMPA, NMDA and metabotropic glutamate receptors
+- Synaptic plasticity, learning and memory
+- Excitotoxicity
+- GABA synthesis and transport
+- GABAA and GABAB receptors
+- Benzodiazepine-site and neurosteroid modulation
+
+## Supplementary Web Boxes
+
+- Web Box 8.1 The Cutting Edge_ Late-LTP, Learning, and Memory
+- Web Box 8.2 Clinical Applications_ Examples of Excitotoxic Brain Damage in Medicine
+- Web Box 8.3 Pharmacology in Action_ What Is the Endogenous Ligand for the Benzodiazepine Receptor_
+
+## Lecture concepts
+
+### 1. Glutamate biosynthesis
+
+Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+
+**What to know:**
+- Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase
+- Glutamate and aspartate are excitatory amino acid neurotransmitters.
+- Glutamatergic neurons use glutamate as the transmitter.
+- Glutamate is in all cells because of its multiple biochemical functions but glutamatergic neurons have higher concentrations and segregate their neurotransmitter pool.
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Vesicular packaging of glutamate
+
+Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+
+**What to know:**
+- Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons
+- In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter
+- DA–glutamate co-expressing neurons of the VTA release the two transmitters from separate vesicles at different kinds of axon terminals
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Glutamate reuptake
+
+Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+
+**What to know:**
+- Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations
+- Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. EAAT knockout
+
+High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+
+**What to know:**
+- High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. The diversity of EAATs
+
+EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+
+**What to know:**
+- EAAT1: highly expressed in astrocytes in the cerebellum
+- EAAT3: major neuronal glutamate transporter; postsynaptic localization
+- EAAT4: expressed primarily by Purkinje cells in the cerebellum
+- EAAT5: present in bipolar cells in the retina.
+
+**Meyer connection:** Review the chapter discussion of **gaba synthesis and transport** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Astrocytic metabolism of glutamate
+
+Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase. Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase.
+
+**What to know:**
+- Astrocyte transporters convert the glutamate they take up to glutamine using glutamine synthetase
+- Glutamine is then transported out of astrocytes and picked up by neurons, where it can be converted back into glutamate by glutaminase
+- Glutamine synthetase also helps in the metabolism and removal of ammonia
+- Why are astrocytes involved?
+
+**Meyer connection:** Review the chapter discussion of **gabaa and gabab receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Anatomical organization of the glutamate system
+
+Glutamate is the brain’s workhorse for fast, excitatory neurotransmission. Glutamatergic pathways in the brain include.
+
+**What to know:**
+- Glutamate is the brain’s workhorse for fast, excitatory neurotransmission
+- Glutamatergic pathways in the brain include
+- Projections of the pyramidal neurons of the cortex
+- Parallel fibers of the cerebrum
+- Excitatory pathways in the hippocampus
+
+**Meyer connection:** Review the chapter discussion of **benzodiazepine-site and neurosteroid modulation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Ionotropic glutamate receptors
+
+AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors. Kainate receptor, named for selective agonist kainic acid.
+
+**What to know:**
+- AMPA receptor, named for selective agonist AMPA; most fast excitatory responses to glutamate are mediated by stimulation of AMPA receptors
+- Kainate receptor, named for selective agonist kainic acid
+- NMDA receptor, named for the agonist NMDA; allows both Na+ and Ca2+ to pass; Ca2+ also activates a second messenger
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. NMDA receptors are very interesting
+
+Flow of both Na+ and Ca2+. Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes.
+
+**What to know:**
+- Flow of both Na+ and Ca2+
+- Activated by simultaneous binding of glutamate and a co-agonist: glycine or D- serine released by astrocytes
+- Binding site for Mg2+ in the ion channel; blocks channel at resting potential; dissociates during depolarization and opens channel
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Another binding site directly inside the channel
+
+Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:. Abused drugs phencyclidine (PCP) and ketamine.
+
+**What to know:**
+- Second binding site in the channel recognizes NMDA receptor antagonists that block the channel:
+- Abused drugs phencyclidine (PCP) and ketamine
+- MK-801 (dizocilpine) used for research
+- Memantine (Namenda) used to treat Alzheimer’s disease
+- These drugs are uncompetitive antagonists: require the receptor to be activated (open) by an agonist
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Metabotropic glutamate receptors
+
+Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system. Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation.
+
+**What to know:**
+- Group I (mGluR1 and mGluR5) – located postsynaptically; use the phosphoinositide second-messenger system
+- Group II (mGluR2 and mGluR3) – located presynaptically; reduce transmitter release by inhibiting cAMP formation
+- Group III (mGluR4 and mGluR6*–8) – same as Group II mGluR6*
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. AMPA and NMDA receptors in learning and memory
+
+AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials. Why not direct agonists?.
+
+**What to know:**
+- AMPA receptor positive allosteric modulators have been shown to enhance learning and memory in experimental animals but not in clinical trials.
+- Why not direct agonists?
+
+**Meyer connection:** Review the chapter discussion of **gaba synthesis and transport** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. A mechanism for glutamate in memory formation
+
+One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors. Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells.
+
+**What to know:**
+- One aspect of long-term potentiation (LTP): the coincidence detector feature of NMDA receptors
+- Pavlovian learning: repeated pairings of the CS and the US theoretically strengthen the synaptic connections between the CS input neurons and the postsynaptic cells
+- The postsynaptic cells (which express NMDA receptors) are being depolarized at the same time that the nerve terminals of the CS neurons are releasing glutamate.
+- Cells that “fire together wire together”
+
+**Meyer connection:** Review the chapter discussion of **gabaa and gabab receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Long-term potentiation
+
+LargertheEPSP, greaterthesynapticstrength. LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:.
+
+**What to know:**
+- LargertheEPSP, greaterthesynapticstrength
+- LargertheEPSP, more likely an action potential ✤ Youcan increase EPSP by:
+- Increasing presynaptic transmitterrelease
+- Increasing number ofpostsynapticreceptors
+- Morphological alterations ofdendritic boutons
+
+**Meyer connection:** Review the chapter discussion of **benzodiazepine-site and neurosteroid modulation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. ✤ Withslice electrophysiology,we can induce LTPin cells and record thechange in EPSP 1.Establish a baseline: stimulatepresynapticaxons @low 
+
+actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory.
+
+**What to know:**
+- actionpotentials) 2. Induction: stimulateaxons @ high frequency (i.e.,tetanus)and getlotsofaction potentials in postsynaptic neuron 3. Expression: stimulateaxons @low frequency again…do you see actionpotentials thistime? Measuring LTP in the laboratory
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Measuring LTP in the laboratory Stim
+
+Measuring LTP in the laboratory Stim Record.
+
+**What to know:**
+- Measuring LTP in the laboratory Stim Record
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate
+
+AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block. NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first.
+
+**What to know:**
+- AMPAreceptors need tofirst depolarize theneuronenough to removetheMg2+block
+- NMDA receptors can then be activated and allow both Na+ and Ca2+intothecell Short-term potentiation – it happens first
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and
+
+CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate.
+
+**What to know:**
+- CREB can lead toformationof retrograde messenger, nitricoxide (NO)
+- NO travelsfrompostsynapticcell to presynaptic axon and triggersgreater release ofpresynaptic glutamate
+- CREB also activatesproteinsynthesis which can lead tolong-lasting structuralchanges (e.g., dendritic shape and size,numberofbranches) Calcium sets off the long-term potentiation
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein
+
+CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+
+**What to know:**
+- CREB can lead toformationof retrograde messenger, nitricoxide (NO)
+- NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate
+- CREB also activatesproteinsynthesis whichcan lead tolong-lasting structural changes (e.g.,dendritic shapeand size, numberofbranches) Early-LTP Late-LTP AMPA receptor trafficking Long-term potentiation Awakening silent synapses
+
+**Meyer connection:** Review the chapter discussion of **gaba synthesis and transport** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. High levels of glutamate is toxic
+
+Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+
+**What to know:**
+- Excitotoxicity: excessive exposure to glutamate kills neurons.
+- Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis)
+- Necrosis is bad because genetic material is compromised (cancer) and inflammatory factors harm nearby cells
+- cancer
+- Apoptosis is good because the dead cell is safely disposed of by phagocytosis
+
+**Meyer connection:** Review the chapter discussion of **gabaa and gabab receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Multiple ways to die
+
+Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+
+**What to know:**
+- Necrosis happens slowly due to indirect effects of excitation (e.g., lysis)
+- Osmotic swelling
+- Apoptosis happens fast and is triggered by glutamate in a GluN2A-containing NMDA receptor-dependent mechanism
+- Extrasynaptic receptors respond to glutamate spillover
+
+**Meyer connection:** Review the chapter discussion of **benzodiazepine-site and neurosteroid modulation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Stroke
+
+Cerebrovascular disorder of sudden onset. Infarct.
+
+**What to know:**
+- Cerebrovascular disorder of sudden onset
+- Infarct
+- Area of dead or dying tissue surrounded by penumbra
+- Type of stroke
+- Cerebral hemorrhage
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Glutamate toxicity in stroke
+
+Ischemic brain damage. One mechanism of ischemia.
+
+**What to know:**
+- Ischemic brain damage
+- One mechanism of ischemia
+- Excessive release of excitatory amino acids
+- Glutamate released when blood vessels blocked
+- Excess glutamate release causes nearby cells to die
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 24. NMDA receptor blockers in stroke
+
+They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+
+**What to know:**
+- They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 25. What about MSG
+
+Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+
+**What to know:**
+- Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness.
+- Pure MSG is delicious, but glutamate is toxic, right?
+- Paracelsus – “the dose makes the poison”
+- Some people are sensitive to high doses of MSG
+- Headaches, tachycardia
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Glutamate biosynthesis** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Vesicular packaging of glutamate** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glutamate reuptake** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **EAAT knockout** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The diversity of EAATs** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Astrocytic metabolism of glutamate** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Anatomical organization of the glutamate system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ionotropic glutamate receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **NMDA receptors are very interesting** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Another binding site directly inside the channel** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabotropic glutamate receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **AMPA and NMDA receptors in learning and memory** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **A mechanism for glutamate in memory formation** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Long-term potentiation** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **✤ Withslice electrophysiology,we can induce LTPin cells and record thechange in EPSP 1.Establish a baseline: stimulatepresynapticaxons @low ** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Measuring LTP in the laboratory Stim** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **AMPAand NMDA receptors ✤ AMPAand NMDA receptorsmediate** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Calcium triggers a cascade of events ✤ Ca2+entersthecell through the NMDA receptor and** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **High levels of glutamate is toxic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Multiple ways to die** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Stroke** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Glutamate toxicity in stroke** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **NMDA receptor blockers in stroke** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What about MSG** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

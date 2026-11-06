@@ -1,0 +1,821 @@
+---
+title: "Part 2 Practice Exam 2"
+toc-depth: 2
+---
+
+**Time: 50 minutes.** This practice exam is derived from Lectures 5–10.
+
+**Format:** 45 multiple-choice questions. Answers and explanations are hidden initially.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+Which statement best matches the lecture discussion of **Heterogenous behavioural functionality of dopamine neurons**?
+
+- **A.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **B.** Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+- **C.** All are metabotropic receptors; D1 and D2 are most common. D1 receptors stimulate adenylyl cyclase – increasing the rate of cAMP synthesis.
+- **D.** D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Mesolimbic dopamine pathway activates arousal and locomotor behavior; different neurons mediate the effects of rewarding and aversive stimuli. Mesocortical pathway: input to the PFC helps regulate cognitive functions such as attention and working memory.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Heterogenous behavioural functionality of dopamine neurons**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 2
+
+Which statement best matches the lecture discussion of **Methylphenidate (Ritalin)**?
+
+- **A.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+- **D.** Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+DAT/NETblocker (antagonist) D-amphetamine (Adderall; Dexedrine). Inverse DAT/NETagonist - reverses the transporter X X ➔ ➔ ADHDpharmacology.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Methylphenidate (Ritalin)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 3
+
+Which statement best matches the lecture discussion of **5-HT2A is implicated in hallucinations**?
+
+- **A.** DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+- **B.** Sodium in and potassium out. Fast neuronal excitation.
+- **C.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+DOI and related drugs are hallucinogenic in humans. Hallucinogenic effects of lysergic acid diethylamide (LSD) may stem from its ability to stimulate 5-HT2A receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **5-HT2A is implicated in hallucinations**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 4
+
+Which statement best matches the lecture discussion of **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014**?
+
+- **A.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+- **B.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **C.** Phasic DA response (FSCV).
+- **D.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Phasic DA response (FSCV).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 5
+
+Which statement best matches the lecture discussion of **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein**?
+
+- **A.** CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+- **B.** Excitotoxicity: excessive exposure to glutamate kills neurons. Cell death can occur by necrosis, characterized by lysis or by programmed cell death (apoptosis).
+- **C.** Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+- **D.** Cerebrovascular disorder of sudden onset. Infarct.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+CREB can lead toformationof retrograde messenger, nitricoxide (NO). NO travelsfrompostsynapticcell to presynapticaxon and triggersgreater release ofpresynapticglutamate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Calcium triggers a cascade of events ✤ Ca2+entersthecell and activatesprotein**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 6
+
+Which statement best matches the lecture discussion of **Biosynthesis of GABA**?
+
+- **A.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **B.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+- **C.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **D.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **Biosynthesis of GABA**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 7
+
+Which statement best matches the lecture discussion of **The fascinating pharmacodynamics of dopamine**?
+
+- **A.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **B.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+- **C.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **D.** D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+D2 receptors have a higher affinity for DA than D1 receptors. Hypothesis: tonic DA release activates higher-affinity D2 receptors; increase in DA levels produced by phasic release additionally activates the lower-affinity D1 receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **The fascinating pharmacodynamics of dopamine**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 8
+
+Which statement best matches the lecture discussion of **Sideeffectsof stimulant medications**?
+
+- **A.** Adrenergic receptors THE AUTORECEPTOR.
+- **B.** Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+- **C.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **D.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Classic stimulant side effects. Dizziness, insomnia, loss of appetite, anxiety, nausea, cardiovascular effects (ex. tachycardia).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Sideeffectsof stimulant medications**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 9
+
+Which statement best matches the lecture discussion of **5-HT3A is ionotropic**?
+
+- **A.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+- **C.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **D.** Sodium in and potassium out. Fast neuronal excitation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Sodium in and potassium out. Fast neuronal excitation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **5-HT3A is ionotropic**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 10
+
+Which statement best matches the lecture discussion of **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019**?
+
+- **A.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **B.** DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+- **C.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+- **D.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 11
+
+Which statement best matches the lecture discussion of **Multiple ways to die**?
+
+- **A.** Ischemic brain damage. One mechanism of ischemia.
+- **B.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+- **C.** Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+- **D.** Cerebrovascular disorder of sudden onset. Infarct.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Necrosis happens slowly due to indirect effects of excitation (e.g., lysis). Osmotic swelling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Multiple ways to die**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 12
+
+Which statement best matches the lecture discussion of **GABA transport**?
+
+- **A.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **B.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+- **C.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **D.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **GABA transport**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 13
+
+Which statement best matches the lecture discussion of **Behavioural outcome of DAT knockout**?
+
+- **A.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **B.** Used to detect a specific protein. Proteins are first separated by size.
+- **C.** DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+- **D.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+DA transporter knockout animals are extremely hyperactive because of the persistent activation of DA receptors; also, cognitive deficits and impulsivity, traits often seen in children suffering from ADHD. Behavioural outcome of DAT knockout.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Behavioural outcome of DAT knockout**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 14
+
+Which statement best matches the lecture discussion of **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)**?
+
+- **A.** Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** Adrenergic receptors THE AUTORECEPTOR.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Selective α2A receptor agonist (NA autoreceptor). Therapeutic action in prefrontal cortex.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **ADHDpharmacology–noradrenaline Guanfacine (Intuniv)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 15
+
+Which statement best matches the lecture discussion of **There are heaps of serotonin receptors**?
+
+- **A.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **B.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+- **C.** The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin is highly implicated in depression; more on that in the affective disorders module. Serotonin neurons can be killed much like catecholamine neurons by using selective neurotoxins like MDMA, 5,6-dihydroxytryptamine (5,6- DHT) and (5,7-DHT).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **There are heaps of serotonin receptors** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **There are heaps of serotonin receptors**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 16
+
+Which statement best matches the lecture discussion of **Acetylcholine biosynthesis**?
+
+- **A.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **B.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **C.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **D.** Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **Acetylcholine biosynthesis**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 17
+
+Which statement best matches the lecture discussion of **Stroke**?
+
+- **A.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **B.** Cerebrovascular disorder of sudden onset. Infarct.
+- **C.** Ischemic brain damage. One mechanism of ischemia.
+- **D.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Cerebrovascular disorder of sudden onset. Infarct.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Stroke**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 18
+
+Which statement best matches the lecture discussion of **Astrocytes are important with GABA too**?
+
+- **A.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **B.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+- **C.** Thalamus Thalamus.
+- **D.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **Astrocytes are important with GABA too**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 19
+
+Which statement best matches the lecture discussion of **Behavioural outcome of D1 knockout**?
+
+- **A.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **B.** D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+- **C.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **D.** Used to detect a specific protein. Proteins are first separated by size.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+D1 and D2 receptor knockout mice are insensitive to the locomotor- stimulating effects of psychostimulants such as cocaine. Mutant mice that overexpress DA transporter show an exaggerated locomotor response to amphetamine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Behavioural outcome of D1 knockout**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 20
+
+Which statement correctly describes **Organization and function of the central noradrenergic system**, rather than the nearby topic **Adrenergic receptors THE AUTORECEPTOR**?
+
+- **A.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **B.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Integration: Organization and function of the central noradrenergic system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 21
+
+Which statement best matches the lecture discussion of **Serotonin in anxiety**?
+
+- **A.** 5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+- **B.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+- **C.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+5-HT has a key role in regulation of anxiety. SSRIs and 5-HT1A receptor agonists are used to treat anxiety disorders.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **Serotonin in anxiety**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 22
+
+Which statement best matches the lecture discussion of **Compounds affecting acetylcholine storage and release**?
+
+- **A.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **B.** Enzyme. Substrate.
+- **C.** ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- **D.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **Compounds affecting acetylcholine storage and release**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 23
+
+Which statement best matches the lecture discussion of **Glutamate toxicity in stroke**?
+
+- **A.** Ischemic brain damage. One mechanism of ischemia.
+- **B.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+- **C.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **D.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Ischemic brain damage. One mechanism of ischemia.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Glutamate toxicity in stroke**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 24
+
+Which statement best matches the lecture discussion of **Co-release of GABA is common**?
+
+- **A.** Thalamus Thalamus.
+- **B.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **D.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **Co-release of GABA is common**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 25
+
+Which statement best matches the lecture discussion of **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)**?
+
+- **A.** (Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+- **B.** Used to detect a specific protein. Proteins are first separated by size.
+- **C.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **D.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+(Haber et al, 2000) Progressive recruitment of dorsolateral striatum in drug use Spiraling nigrostriatal loops mediate the intrastriatal shift The precise molecular mechanism of the intrastriatal shift is unknown, but a reduction in the dopamine transporter (DAT) may play a role Earlydrugseeking Latedrugseeking VTA Ventral Striatum SNc Dorsolateral CONTROL HEROIN USER (Yuan et al, 2015) (Liang et al, 2014) We looked further into the DAT phenomenon?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Intrastriatal shifts arising from protracted drug seeking (Porrino et al, 2007)**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 26
+
+Which statement best matches the lecture discussion of **Organization and function of the central noradrenergic system**?
+
+- **A.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **B.** NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+- **C.** Adrenergic receptors THE AUTORECEPTOR.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+NE neurons in the brain are located in the pons and medulla, especially in the locus coeruleus (LC). All neurons in the LC express the enzyme DBH and synthesize NE.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Organization and function of the central noradrenergic system**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 27
+
+Which statement best matches the lecture discussion of **Identifying the precise anxiety-modulating mechanism**?
+
+- **A.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **B.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+- **C.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **D.** Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Are anxiety-regulating 5-HT1A receptors postsynaptic or presynaptic?. Experiments show that excitation of the serotonergic nerve terminals (increases 5-HT release) had an anxiolytic effect – increased time in open-arm of elevated plus-maze; inhibition of the terminals was anxiogenic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **Identifying the precise anxiety-modulating mechanism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 28
+
+Which statement best matches the lecture discussion of **The cholinergic pharmacology of Botox**?
+
+- **A.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **B.** Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+- **C.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **D.** Enzyme. Substrate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **The cholinergic pharmacology of Botox**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 29
+
+Which statement best matches the lecture discussion of **NMDA receptor blockers in stroke**?
+
+- **A.** Glutamate occurs naturally in food and contributes to the umami flavor, which is essentially savoriness. Pure MSG is delicious, but glutamate is toxic, right?.
+- **B.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+- **C.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+- **D.** They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+They don’t seem to work… JAMA. 2001;285(13):1719-1728. doi:10.1001/jama.285.13.1719 2001;286;(21):2673-2682. doi:10.1001/jama.286.21.2673.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **NMDA receptor blockers in stroke**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 30
+
+Which statement best matches the lecture discussion of **GABAergic projections: direct and indirect pathway Direct**?
+
+- **A.** Thalamus Thalamus.
+- **B.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **D.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Thalamus Thalamus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **GABAergic projections: direct and indirect pathway Direct**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 31
+
+Which statement best matches the lecture discussion of **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA**?
+
+- **A.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **B.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+- **C.** Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+- **D.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Heroin self-administration has little effect on DAT protein but dramatically reduces DAT mRNA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **DAT protein DAT mRNA Effectof heroin exposureon striatalDATproteinandmRNA**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 32
+
+Which statement best matches the lecture discussion of **Adrenergic receptors THE AUTORECEPTOR**?
+
+- **A.** Adrenergic receptors THE AUTORECEPTOR.
+- **B.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Adrenergic receptors THE AUTORECEPTOR.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Adrenergic receptors THE AUTORECEPTOR**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 33
+
+Which statement best matches the lecture discussion of **Serotonin in hunger and eating**?
+
+- **A.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **B.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Serotonin influences hunger and eating behavior. Neurons in AN secrete α-melanocyte stimulating hormone (α-MSH), and neuropeptide Y (NPY) and agouti-related peptide (AgRP).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **Serotonin in hunger and eating**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 34
+
+Which statement best matches the lecture discussion of **Acetylcholine is broken down by acetylcholinesterase**?
+
+- **A.** Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+- **B.** Enzyme. Substrate.
+- **C.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **D.** Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **Acetylcholine is broken down by acetylcholinesterase**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 35
+
+Which statement best matches the lecture discussion of **Glutamate biosynthesis**?
+
+- **A.** Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+- **B.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+- **C.** Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+- **D.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Glutamate: ionized form of glutamic acid (an amino acid); formed from glutamine by glutaminase. Glutamate and aspartate are excitatory amino acid neurotransmitters.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Glutamate biosynthesis**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 36
+
+Which statement best matches the lecture discussion of **GABAergic interneurons**?
+
+- **A.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **B.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+- **C.** GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+- **D.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **GABAergic interneurons**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 37
+
+Which statement best matches the lecture discussion of **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain**?
+
+- **A.** approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+- **B.** The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+- **C.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **D.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The striatum has no DAT mRNA of VTA dopamine neuron origin Which cell of striatal origin expresses DAT? VTA dopamine neuron We bet on astrocytes. DAT DAT mRNA.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Why thelargediscordancebetweenDATRNA and protein? Ventral Midbrain**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 38
+
+Which statement best matches the lecture discussion of **What is impulsivity**?
+
+- **A.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **B.** Cognitive impulsivity. Delay discounting.
+- **C.** Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+- **D.** Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Motor impulsivity (impulsive action). Impaired response inhibition/inhibitory control.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **What is impulsivity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 39
+
+Which statement correctly describes **A point of clarity**, rather than the nearby topic **Serotonin synthesis is regulated by enzymatic**?
+
+- **A.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+- **C.** Para-chlorophenylalanine (PCPA) selectively blocks 5-HT synthesis by irreversibly inhibiting TPH. Acute tryptophan depletion (ATD) large doses of amino acids minus tryptophan X.
+- **D.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **Integration: A point of clarity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 40
+
+Which statement best matches the lecture discussion of **What happens to the byproducts of ACh catabolism**?
+
+- **A.** The neuromuscular junction. a special type of synapse.
+- **B.** Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+- **C.** Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+- **D.** Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 8, topic **What happens to the byproducts of ACh catabolism**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 41
+
+Which statement best matches the lecture discussion of **Vesicular packaging of glutamate**?
+
+- **A.** EAAT1: highly expressed in astrocytes in the cerebellum. EAAT3: major neuronal glutamate transporter; postsynaptic localization.
+- **B.** Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+- **C.** Glutamate uptake: 5 different excitatory amino acid transporters (EAATs) occur in different locations. Astrocytes express EAAT2 and may account for about 90% of total glutamate uptake in the brain.
+- **D.** High levels of extracellular glutamate are dangerous; EAAT2 knockout mice develop seizures and have short life spans.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Vesicular glutamate transporters move glutamate into synaptic vesicles: VGLUT1 or VGLUT2 or rarely VGLUT3; found only in glutamatergic neurons. In some neurons, these transporters are expressed with markers for 5-HT, DA, ACh, or GABA, indicating that glutamate is a co-transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 9, topic **Vesicular packaging of glutamate**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 42
+
+Which statement best matches the lecture discussion of **GABAA receptors are most common The actions of GABA are primarily**?
+
+- **A.** GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+- **B.** BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+- **C.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **D.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 10, topic **GABAA receptors are most common The actions of GABA are primarily**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 43
+
+Which statement best matches the lecture discussion of **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin**?
+
+- **A.** self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+- **B.** Used to record activity from a group of neurons. Neurons express a fluorescent sensor such as GCaMP.
+- **C.** approach to selectively delete DAT from dopamine neurons or astrocytes Applied Biological Materials (Richmond, Canada) SLC6A3 CRISPR All-in-one pooled AAV virus (with saCas9) Custom GfaABC1D promoter PGK promoter Astrocytic DAT KO Neuronal DAT KO.
+- **D.** Proofofprinciple:CRISPR/Cas9KO ofneuronalor astrocyticDAT VTA NEURONS NAc Astrocytes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+self-administrationreducestheexpressionofDATmRNAin striatalastrocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 5, topic **Effectof heroin exposureon astrocyticDATinsitu RNAScope insituhybridizationrevealedthatheroin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 44
+
+Which statement best matches the lecture discussion of **Measuringimpulsivityinthelab-humans**?
+
+- **A.** Dorsolateral/dorsomedial PFC(humans)/ medial PFC(rodents) ➔motor impulsivity. Planning, executive function, attention.
+- **B.** Striatum =both choice and motor impulsivity; action selection. Caudate/putamen (human); dorsal striatum (rat).
+- **C.** Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+- **D.** Cognitive impulsivity. Delay discounting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Impulsivity scales and questionnaires. Barratt impulsiveness scale (BIS).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 6, topic **Measuringimpulsivityinthelab-humans**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 45
+
+Which statement best matches the lecture discussion of **A point of clarity**?
+
+- **A.** Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+- **B.** Serotonin (5-hydroxytryptamine, or 5-HT) neurotransmitter used by serotonergic neurons. Serotonin is an indoleamine.
+- **C.** The lecture treats **Tryptophan hydroxylase** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Serotonin synthesis can be stimulated by tryptophan or 5-HTP. Tryptophan from diet: ratio of tryptophan to other amino acid competitors for transport across blood–brain barrier determines whether serotonin synthesis is stimulated or not.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Dopamine-deficient (DD) mouse: gene for TH is knocked out but not the gene for DBH – NE can be synthesized but not DA. A functional TH sequence is placed under DBH regulatory control A point of clarity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 7, topic **A point of clarity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+

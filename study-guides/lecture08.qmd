@@ -1,0 +1,256 @@
+---
+title: "Lecture 8 — Acetylcholine"
+---
+
+## How to use this guide
+
+The Lecture 8 presentation defines the examinable scope. Meyer Chapter 7 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Acetylcholine biosynthesis → Compounds affecting acetylcholine storage and release → The cholinergic pharmacology of Botox → Acetylcholine is broken down by acetylcholinesterase → AChE is an enzyme that catalyzes a catabolic reaction → What happens to the byproducts of ACh catabolism → Acetylcholine in the autonomic nervous system → Acetylcholine in the somatic nervous system → Cholinergic projections in the NS → Acetylcholine microcircuits in the central nervous system → Acetylcholine receptor subtypes → Nicotinic receptors → …
+</div>
+
+## Textbook anchors
+
+- Acetylcholine synthesis, vesicular storage and release
+- Acetylcholinesterase and cholinergic inactivation
+- Neuromuscular junction
+- Central and peripheral cholinergic systems
+- Nicotinic receptors
+- Muscarinic receptors
+- Cognition and clinical cholinergic pharmacology
+
+## Supplementary Web Boxes
+
+- Web Box 7.1 Myasthenia Gravis – The Challenge of Diagnosis
+
+## Lecture concepts
+
+### 1. Acetylcholine biosynthesis
+
+Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT). ChAT is found only in neurons that use ACh as a transmitter.
+
+**What to know:**
+- Acetylcholine (ACh; adjective form, cholinergic); synthesized in one step from choline and acetyl coenzyme A (acetyl CoA), catalyzed by choline acetyltransferase (ChAT)
+- ChAT is found only in neurons that use ACh as a transmitter.
+- Rate of synthesis depends on availability of precursors and rate of cell firing; there are no inhibitors of ChAT
+
+**Meyer connection:** Review the chapter discussion of **acetylcholine synthesis, vesicular storage and release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Compounds affecting acetylcholine storage and release
+
+ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT). VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+
+**What to know:**
+- ACh is loaded into synaptic vesicles by vesicular ACh transporters (VAChT)
+- VAChT can be blocked by vesamicol – reduces amount of ACh released when neurons fire.
+- Ach release is affected by toxins
+- Black widow spider venom causes massive release of ACh in the PNS
+- Botulism toxin blocks ACh release by preventing fusion of synaptic vesicles with nerve terminal membrane; causes muscular paralysis
+
+**Meyer connection:** Review the chapter discussion of **acetylcholinesterase and cholinergic inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. The cholinergic pharmacology of Botox
+
+Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum. The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands.
+
+**What to know:**
+- Botulinum toxins A through G are produced by the anaerobic bacterium Clostridium botulinum
+- The toxin proteins are taken up selectively by peripheral cholinergic nerve terminals, including at the neuromuscular junction and fibers innervating smooth muscle and secretory glands
+- Toxins are used in treating disorders characterized by involuntary muscle contractions, as a pain reliever, and cosmetically (Botox)
+
+**Meyer connection:** Review the chapter discussion of **neuromuscular junction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Acetylcholine is broken down by acetylcholinesterase
+
+Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4). Three forms of AChE:.
+
+**What to know:**
+- Acetylcholinesterase (AChE) breaks ACh down to choline and acetic acid; four subunits combine to form a tetramer (G4)
+- Three forms of AChE:
+- Soluble: free G4 in the cell
+- G4 tethered to the cell membrane – in a position to allow rapid breakdown
+- A12 – at neuromuscular junctions; 12 subunits; very rapid breakdown of Ach allows muscle to relax before next contraction
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral cholinergic systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. AChE is an enzyme that catalyzes a catabolic reaction
+
+Enzyme. Substrate.
+
+**What to know:**
+- Enzyme
+- Substrate
+- Catalysis
+- Catabolic
+- Anabolic
+
+**Meyer connection:** Review the chapter discussion of **nicotinic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. What happens to the byproducts of ACh catabolism
+
+Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+
+**What to know:**
+- Choline is taken back up by choline transporters; transporters can be blocked by hemicholinium-3 (HC-3) – ACh production declines.
+
+**Meyer connection:** Review the chapter discussion of **muscarinic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Acetylcholine in the autonomic nervous system
+
+Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system. Norepinephrine is the transmitter of the sympathetic ganglionic neurons.
+
+**What to know:**
+- Preganglionic neurons of both branches of the autonomic nervous system are cholinergic, as are the ganglionic neurons of the parasympathetic system
+- Norepinephrine is the transmitter of the sympathetic ganglionic neurons
+
+**Meyer connection:** Review the chapter discussion of **cognition and clinical cholinergic pharmacology** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Acetylcholine in the somatic nervous system
+
+The neuromuscular junction. a special type of synapse.
+
+**What to know:**
+- The neuromuscular junction
+- a special type of synapse
+- Nicotinic acetylcholine receptors
+- Interface of the somatic nervous system and skeletal muscles
+
+**Meyer connection:** Review the chapter discussion of **acetylcholine synthesis, vesicular storage and release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Cholinergic projections in the NS
+
+Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures. Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord.
+
+**What to know:**
+- Basal forebrain cholinergic system (BFCS): neurons in several brain areas; origin of cholinergic innervation of the cerebral cortex, hippocampus, and other limbic system structures.
+- Cholinergic neurons in the laterodorsal and pedunculopontine tegmental nuclei (LDTg and PPTg) project to the basal ganglia and thalamus; others to the lower brainstem and spinal cord
+
+**Meyer connection:** Review the chapter discussion of **acetylcholinesterase and cholinergic inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Acetylcholine microcircuits in the central nervous system
+
+In the brain, cell bodies of cholinergic neurons are clustered in only a few areas. Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+
+**What to know:**
+- In the brain, cell bodies of cholinergic neurons are clustered in only a few areas.
+- Interneurons in the striatum: regulation of movement depends in part on the balance between ACh and dopamine (DA).
+- In Parkinson’s disease, low DA levels cause transmitter imbalance; anticholinergic drugs may be used for treatment.
+
+**Meyer connection:** Review the chapter discussion of **neuromuscular junction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Acetylcholine receptor subtypes
+
+Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant. Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+
+**What to know:**
+- Nicotinic receptors—respond to the agonist nicotine, an alkaloid in the tobacco plant.
+- Muscarinic receptors—respond to muscarine, an alkaloid first isolated from fly agaric mushrooms (Amanita muscaria).
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral cholinergic systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Nicotinic receptors
+
+Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS. When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+
+**What to know:**
+- Nicotinic acetylcholine (nAChRs) receptors: ionotropic; mediate fast excitatory responses in both the CNS and the PNS
+- When ACh binds, the channel opens, Na+ and Ca2+ enter the neuron or muscle cell, which depolarizes the cell membrane.
+- Each receptor has 5 subunits, α, β, γ, δ, and ε; there are many types of α and β subunits. All receptors have α subunits (binding site)
+
+**Meyer connection:** Review the chapter discussion of **nicotinic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Muscarinic receptors
+
+Muscarinic receptors are metabotropic – operate via second messengers. Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory).
+
+**What to know:**
+- Muscarinic receptors are metabotropic – operate via second messengers
+- Five subtypes: M1, M3, and M5 activate the phosphoinositide second-messenger system (excitatory)
+- M2 and M4 inhibit cAMP synthesis, stimulate K+ channel opening, and inhibit nerve terminal Ca2+ channel opening (inhibitory)
+
+**Meyer connection:** Review the chapter discussion of **muscarinic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Distribution of AChRs in the brain Let’s focus on the striatum
+
+Distribution of AChRs in the brain Let’s focus on the striatum.
+
+**What to know:**
+- Distribution of AChRs in the brain Let’s focus on the striatum
+
+**Meyer connection:** Review the chapter discussion of **cognition and clinical cholinergic pharmacology** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Cholinergic interneurons of the striatum
+
+Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum. Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors.
+
+**What to know:**
+- Local cholinergic interneurons (CINs) for form a microcircuit with dopamine neuron terminals in striatum.
+- Dopamine terminals have β2 subunit containing nicotinic acetylcholine receptors
+- Acetylcholine binding causes causes Ca2+ influx and vesicular release of dopamine
+- Thought to maintain TONIC DA levels Cholinergic interneurons of the striatum
+
+**Meyer connection:** Review the chapter discussion of **acetylcholine synthesis, vesicular storage and release** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Pavlovian to instrumental transfer
+
+Conditioned stimuli can have a motivational effect. You see a crackpipe on the ground (CS).
+
+**What to know:**
+- Conditioned stimuli can have a motivational effect
+- You see a crackpipe on the ground (CS)
+- Previous Pavlovian pairings of the crack pipe with the highly rewarding crack make it a special type of CS - an “incentive stimulus”
+- Incentive stimuli spike dopamine and motivate you work for crack
+- Work is instrumental
+
+**Meyer connection:** Review the chapter discussion of **acetylcholinesterase and cholinergic inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Pavlovian to instrumental transfer in the rat
+
+The lecture treats **Pavlovian to instrumental transfer in the rat** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **neuromuscular junction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014
+
+Phasic DA response (FSCV).
+
+**What to know:**
+- Phasic DA response (FSCV)
+
+**Meyer connection:** Review the chapter discussion of **central and peripheral cholinergic systems** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Dopamine spikes in response to CS presentation in PIT Collins et al., 2019
+
+DhβE: selective blocker of of β2 subunit nAChRs. Optogenetic stimulation of striatal CINs blocks PIT.
+
+**What to know:**
+- DhβE: selective blocker of of β2 subunit nAChRs
+- Optogenetic stimulation of striatal CINs blocks PIT
+- Blocking β2 subunit nAChRs restores PIT
+- Does DA release not drive PIT?
+- Tonic vs. phasic hypothesis
+
+**Meyer connection:** Review the chapter discussion of **nicotinic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Acetylcholine biosynthesis** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Compounds affecting acetylcholine storage and release** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The cholinergic pharmacology of Botox** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Acetylcholine is broken down by acetylcholinesterase** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **AChE is an enzyme that catalyzes a catabolic reaction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What happens to the byproducts of ACh catabolism** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Acetylcholine in the autonomic nervous system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Acetylcholine in the somatic nervous system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cholinergic projections in the NS** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Acetylcholine microcircuits in the central nervous system** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Acetylcholine receptor subtypes** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Nicotinic receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Muscarinic receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Distribution of AChRs in the brain Let’s focus on the striatum** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Cholinergic interneurons of the striatum** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pavlovian to instrumental transfer** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Pavlovian to instrumental transfer in the rat** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Striatal dopamine in response to CS presentation in PIT Aitken et al., 2014** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Dopamine spikes in response to CS presentation in PIT Collins et al., 2019** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

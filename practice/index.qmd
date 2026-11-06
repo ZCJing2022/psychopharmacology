@@ -1,0 +1,52 @@
+---
+title: "Practice Questions"
+---
+
+Each lecture bank is built from the lecture scope and uses an approximately **80% multiple-choice / 20% short-essay** mix. The number of questions varies with the number of substantive concepts in the lecture. Answers and explanations are collapsed initially.
+
+## Lecture Practice
+
+### Part I
+
+- [Lecture 1 — Principles of Pharmacology](lecture01.qmd)
+- [Lecture 2 — Structure and Function of the Nervous System](lecture02.qmd)
+- [Lecture 3 — Chemical Signalling in the Nervous System](lecture03.qmd)
+- [Lecture 4 — Methods of Research in Psychopharmacology](lecture04.qmd)
+
+### Part II
+
+- [Lecture 5 — Catecholamines I — Dopamine](lecture05.qmd)
+- [Lecture 6 — Catecholamines II — Noradrenaline](lecture06.qmd)
+- [Lecture 7 — Serotonin](lecture07.qmd)
+- [Lecture 8 — Acetylcholine](lecture08.qmd)
+- [Lecture 9 — Glutamate](lecture09.qmd)
+- [Lecture 10 — GABA](lecture10.qmd)
+
+### Part III
+
+- [Lecture 11 — Circadian Rhythms and Chronopharmacology](lecture11.qmd)
+- [Lecture 12 — Drug Addiction and Brain Reward Systems](lecture12.qmd)
+- [Lecture 13 — Addiction and Psychostimulants](lecture13.qmd)
+- [Lecture 14 — Alcohol](lecture14.qmd)
+- [Lecture 15 — Opioids](lecture15.qmd)
+- [Lecture 16 — Nicotine and Caffeine](lecture16.qmd)
+
+## Practice Exams
+
+### Part I — Lectures 1–4
+
+- [Practice Exam 1](part1-exam-01.qmd)
+- [Practice Exam 2](part1-exam-02.qmd)
+- [Practice Exam 3](part1-exam-03.qmd)
+
+### Part II — Lectures 5–10
+
+- [Practice Exam 1](part2-exam-01.qmd)
+- [Practice Exam 2](part2-exam-02.qmd)
+- [Practice Exam 3](part2-exam-03.qmd)
+
+### Part III — Lectures 11–16
+
+- [Practice Exam 1](part3-exam-01.qmd)
+- [Practice Exam 2](part3-exam-02.qmd)
+- [Practice Exam 3](part3-exam-03.qmd)

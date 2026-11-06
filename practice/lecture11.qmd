@@ -1,0 +1,599 @@
+---
+title: "Lecture 11 Practice — Circadian Rhythms and Chronopharmacology"
+toc-depth: 2
+---
+
+**24 multiple-choice questions** and **6 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Overview {#l11-mc01}
+
+Which statement best matches the lecture discussion of **Overview**?
+
+- **A.** Circadian rhythms review. Clock → drugs.
+- **B.** PART 1: Circadian Rhythms Review.
+- **C.** Sleep/wake cycles. Physiological processes.
+- **D.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Circadian rhythms review. Clock → drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Overview** from Lecture 11 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 2 — PART 1: Circadian Rhythms {#l11-mc02}
+
+Which statement best matches the lecture discussion of **PART 1: Circadian Rhythms**?
+
+- **A.** Sleep/wake cycles. Physiological processes.
+- **B.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** PART 1: Circadian Rhythms Review.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+PART 1: Circadian Rhythms Review.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **PART 1: Circadian Rhythms** from Lecture 11 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 3 — What Are Circadian Rhythms? {#l11-mc03}
+
+Which statement best matches the lecture discussion of **What Are Circadian Rhythms?**?
+
+- **A.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **B.** Bacteria. Plants.
+- **C.** Sleep/wake cycles. Physiological processes.
+- **D.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Sleep/wake cycles. Physiological processes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What Are Circadian Rhythms?** from Lecture 11 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 4 — Core terminology {#l11-mc04}
+
+Which statement best matches the lecture discussion of **Core terminology**?
+
+- **A.** Light/dark. Social coordination.
+- **B.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** Bacteria. Plants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Core terminology** from Lecture 11 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 5 — Evolution of Circadian Clocks Circadian clocks are present {#l11-mc05}
+
+Which statement best matches the lecture discussion of **Evolution of Circadian Clocks Circadian clocks are present**?
+
+- **A.** Light/dark. Social coordination.
+- **B.** Master clock. ~20 000 neurons.
+- **C.** 1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+- **D.** Bacteria. Plants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Bacteria. Plants.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Evolution of Circadian Clocks Circadian clocks are present** from Lecture 11 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 6 — Evolution of Circadian Clocks Anticipation of daily {#l11-mc06}
+
+Which statement best matches the lecture discussion of **Evolution of Circadian Clocks Anticipation of daily**?
+
+- **A.** 1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+- **B.** Cell autonomous. CLOCK + BMAL1.
+- **C.** Light/dark. Social coordination.
+- **D.** Master clock. ~20 000 neurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Light/dark. Social coordination.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Evolution of Circadian Clocks Anticipation of daily** from Lecture 11 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 7 — Suprachiasmatic Nucleus (SCN) {#l11-mc07}
+
+Which statement best matches the lecture discussion of **Suprachiasmatic Nucleus (SCN)**?
+
+- **A.** Nearly every tissue has a clock. SCN synchronizes ○ not generate.
+- **B.** Master clock. ~20 000 neurons.
+- **C.** 1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+- **D.** Cell autonomous. CLOCK + BMAL1.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Master clock. ~20 000 neurons.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Suprachiasmatic Nucleus (SCN)** from Lecture 11 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 8 — Food Anticipatory Activity (FAA) {#l11-mc08}
+
+Which statement best matches the lecture discussion of **Food Anticipatory Activity (FAA)**?
+
+- **A.** 1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+- **B.** Cell autonomous. CLOCK + BMAL1.
+- **C.** Nearly every tissue has a clock. SCN synchronizes ○ not generate.
+- **D.** PART 2: How the clock changes drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+1-3 hrs before mealtime. Persists without SCN ○ or in clock gene KO Mistlberger PSYC388 lecture slides Michalik et al. (2025).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Food Anticipatory Activity (FAA)** from Lecture 11 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 9 — Peripheral Clocks {#l11-mc09}
+
+Which statement best matches the lecture discussion of **Peripheral Clocks**?
+
+- **A.** PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, signalling, response.
+- **B.** Gastric emptying. Gut blood flow.
+- **C.** Nearly every tissue has a clock. SCN synchronizes ○ not generate.
+- **D.** PART 2: How the clock changes drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Nearly every tissue has a clock. SCN synchronizes ○ not generate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Peripheral Clocks** from Lecture 11 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 10 — PART 2: How the clock changes drugs {#l11-mc10}
+
+Which statement best matches the lecture discussion of **PART 2: How the clock changes drugs**?
+
+- **A.** Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+- **B.** PART 2: How the clock changes drugs.
+- **C.** PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, signalling, response.
+- **D.** Gastric emptying. Gut blood flow.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+PART 2: How the clock changes drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **PART 2: How the clock changes drugs** from Lecture 11 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 11 — Pharmacokinetics vs. Pharmacodynamics {#l11-mc11}
+
+Which statement best matches the lecture discussion of **Pharmacokinetics vs. Pharmacodynamics**?
+
+- **A.** PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, signalling, response.
+- **B.** Gastric emptying. Gut blood flow.
+- **C.** Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+- **D.** Drug targets are often rhythmic. 56 of 100 top-selling drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+PK ○ Absorption, distribution, metabolism and excretion. PD ○ Receptors, signalling, response.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacokinetics vs. Pharmacodynamics** from Lecture 11 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 12 — Absorption and distribution {#l11-mc12}
+
+Which statement best matches the lecture discussion of **Absorption and distribution**?
+
+- **A.** Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+- **B.** Drug targets are often rhythmic. 56 of 100 top-selling drugs.
+- **C.** Cholesterol: evening statins. Asthma: nocturnal symptoms.
+- **D.** Gastric emptying. Gut blood flow.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Gastric emptying. Gut blood flow.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Absorption and distribution** from Lecture 11 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 13 — Pharmacodynamics {#l11-mc13}
+
+Which statement best matches the lecture discussion of **Pharmacodynamics**?
+
+- **A.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **B.** Drug targets are often rhythmic. 56 of 100 top-selling drugs.
+- **C.** Cholesterol: evening statins. Asthma: nocturnal symptoms.
+- **D.** PART 3: How drugs change the clock.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Drug targets are often rhythmic. 56 of 100 top-selling drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacodynamics** from Lecture 11 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 14 — Chronotherapy in clinical practice {#l11-mc14}
+
+Which statement best matches the lecture discussion of **Chronotherapy in clinical practice**?
+
+- **A.** Cholesterol: evening statins. Asthma: nocturnal symptoms.
+- **B.** PART 3: How drugs change the clock.
+- **C.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **D.** Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Cholesterol: evening statins. Asthma: nocturnal symptoms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Chronotherapy in clinical practice** from Lecture 11 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 15 — PART 3: How drugs change the clock {#l11-mc15}
+
+Which statement best matches the lecture discussion of **PART 3: How drugs change the clock**?
+
+- **A.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **B.** Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+- **C.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **D.** PART 3: How drugs change the clock.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+PART 3: How drugs change the clock.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **PART 3: How drugs change the clock** from Lecture 11 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 16 — Photic input to the SCN {#l11-mc16}
+
+Which statement best matches the lecture discussion of **Photic input to the SCN**?
+
+- **A.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **B.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+- **C.** Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+- **D.** Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Pathway ○ ipRGCs → RHT → SCN ○ Not rods & coness. Transmitter: glutamate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Photic input to the SCN** from Lecture 11 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 17 — Non-photic arousal {#l11-mc17}
+
+Which statement best matches the lecture discussion of **Non-photic arousal**?
+
+- **A.** A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+- **B.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+- **C.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **D.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+A drug’s apparent effect on the clock may run through behaviour Van Reeth & Turek (1989).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Non-photic arousal** from Lecture 11 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 18 — Non-SCN clocks in the brain {#l11-mc18}
+
+Which statement best matches the lecture discussion of **Non-SCN clocks in the brain**?
+
+- **A.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **B.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+- **C.** Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+- **D.** FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+FAA survives SCN lesion → FEO. Daily methamphetamine survives SCN lesion ○ MASCO.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Non-SCN clocks in the brain** from Lecture 11 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 19 — Stimulants {#l11-mc19}
+
+Which statement best matches the lecture discussion of **Stimulants**?
+
+- **A.** Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+- **B.** Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+- **C.** Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+- **D.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Cocaine sensitization needs clock genes. Per1 gene is needed for CPP Abarca et al. (2002) Andretic et al. (1999).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Stimulants** from Lecture 11 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 20 — Caffeine {#l11-mc20}
+
+Which statement best matches the lecture discussion of **Caffeine**?
+
+- **A.** Circadian rhythms review. Clock → drugs.
+- **B.** Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+- **C.** Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+- **D.** Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Caffeine delays the clock ~40 min ○ Half the effect of bright light Ruby et al. (2018).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Caffeine** from Lecture 11 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 21 — Takeaways {#l11-mc21}
+
+Which statement best matches the lecture discussion of **Takeaways**?
+
+- **A.** Circadian rhythms review. Clock → drugs.
+- **B.** PART 1: Circadian Rhythms Review.
+- **C.** Sleep/wake cycles. Physiological processes.
+- **D.** Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Clocks are cell autonomous and hierarchical ○ SCN → peripheral tissues. The clock affects drugs through rhythmic PK and PD ○ time-of-day effects.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Takeaways** from Lecture 11 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 22 — Integration: Overview {#l11-mc22}
+
+Which statement correctly describes **Overview**, rather than the nearby topic **PART 1: Circadian Rhythms**?
+
+- **A.** Sleep/wake cycles. Physiological processes.
+- **B.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** Circadian rhythms review. Clock → drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Circadian rhythms review. Clock → drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Overview** from Lecture 11 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 23 — Integration: PART 1: Circadian Rhythms {#l11-mc23}
+
+Which statement correctly describes **PART 1: Circadian Rhythms**, rather than the nearby topic **What Are Circadian Rhythms?**?
+
+- **A.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **B.** Bacteria. Plants.
+- **C.** PART 1: Circadian Rhythms Review.
+- **D.** Actogram ○ Visualize circadian activity. Diurnal vs. nocturnal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+PART 1: Circadian Rhythms Review.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: PART 1: Circadian Rhythms** from Lecture 11 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+### Question 24 — Integration: What Are Circadian Rhythms? {#l11-mc24}
+
+Which statement correctly describes **What Are Circadian Rhythms?**, rather than the nearby topic **Core terminology**?
+
+- **A.** Light/dark. Social coordination.
+- **B.** Sleep/wake cycles. Physiological processes.
+- **C.** Zeitgeber ○ German for “time giver”. Entrainment.
+- **D.** Bacteria. Plants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Sleep/wake cycles. Physiological processes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: What Are Circadian Rhythms?** from Lecture 11 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 11 study guide](../study-guides/lecture11.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Core terminology continued… {#l11-sa01}
+
+Explain **Core terminology continued…** and show how it connects to **Evolution of Circadian Clocks Circadian clocks are present** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Zeitgeber ○ German for “time giver”. Entrainment.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Clock Genes Transcription-Translation Feedback Loop (TTFL) {#l11-sa02}
+
+Explain **Clock Genes Transcription-Translation Feedback Loop (TTFL)** and show how it connects to **Peripheral Clocks** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cell autonomous. CLOCK + BMAL1.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Metabolism and excretion {#l11-sa03}
+
+Explain **Metabolism and excretion** and show how it connects to **Pharmacodynamics** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Liver cytochrome P450 enzymes rhythmic. Kidney filtration rhythmic.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Alcohol {#l11-sa04}
+
+Explain **Alcohol** and show how it connects to **Non-photic arousal** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Blocks light-induced advances. Dose dependent Ruby & Prosser (2009) Ruby & Prosser (2009).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Melatonin {#l11-sa05}
+
+Explain **Melatonin** and show how it connects to **Takeaways** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Melatonin: a chronobiotic ○ Timing > dose ○ Shifts SCN. Dexamethasone ○ Shifts liver but not SCN Burgess et al. (2022) Wang et al. (2018).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 6 — Integration: Overview and PART 1: Circadian Rhythms {#l11-sa06}
+
+Compare **Overview** with **PART 1: Circadian Rhythms**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Circadian rhythms review. Clock → drugs. PART 1: Circadian Rhythms Review.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 11, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

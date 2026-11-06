@@ -1,0 +1,219 @@
+---
+title: "Lecture 12 — Drug Addiction and Brain Reward Systems"
+---
+
+## How to use this guide
+
+The Lecture 12 presentation defines the examinable scope. Meyer Chapter 9 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Most humans are regular users → Most humans use psychoactive drugs without experiencing addiction → Addiction is a nuanced term surrounded by stigma → William S. Burroughs, Junky → Drugs, addiction, harm Nutt et al., 2007 → What do we really want to know about drug addiction? → Who is particularly at risk? → What causes drug addiction? → Features of drug addiction → Example of tolerance: caffeine Withdrawal → Opponent Process Theory of Drug Addiction → Stages of drug addiction (a common framework) as related to opponent process theory → …
+</div>
+
+## Textbook anchors
+
+- Substance use, misuse and addiction
+- Reward and reinforcement
+- Tolerance, dependence and withdrawal
+- Genetic and psychosocial risk
+- Three-stage addiction cycle
+- Incentive salience and corticostriatal circuitry
+- Learning and drug-associated cues
+- Persistence and relapse
+
+## Supplementary Web Boxes
+
+- Web Box 9.1 Of Special Interest_ The Gateway Theory of Drug Use
+- Web Box 9.2 Of Special Interest_ Does the Schedule of Controlled Substances Accurately Reflect Current Addiction Science_
+- Web Box 9.3 The Cutting Edge_ The Genetics of Addiction
+- Web Box 9.4 The Cutting Edge_ Does Midbrain Dopaminergic Cell Firing Encode Reward-Prediction Error_
+
+## Lecture concepts
+
+### 1. Most humans are regular users
+
+of psychoactive drugs. Caffeine.
+
+**What to know:**
+- of psychoactive drugs
+- Caffeine
+- Alcohol
+- Nicotine
+- Cannabis
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. Most humans use psychoactive drugs without experiencing addiction
+
+~4% experienced drug addiction in the past year. ~10% experienced drug addiction in their lives.
+
+**What to know:**
+- ~4% experienced drug addiction in the past year
+- ~10% experienced drug addiction in their lives
+- If >50% of individuals try illicit drugs, then >80% do not struggle with addiction
+- i.e. Drug use is not pathological but rather a normal part of the human experience
+- Despite low rates, addiction has a tremendous negative effect on individuals and society Addiction 3 Coca leaf tea
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Addiction is a nuanced term surrounded by stigma
+
+Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?. Self stigma, social stigma, structural stigma.
+
+**What to know:**
+- Addiction vs. dependence vs. substance abuse vs. substance use disorder vs. person who uses drugs?
+- Self stigma, social stigma, structural stigma
+- Majority of people who struggle with addiction don’t receive any support (~75%)
+- Common false refrain: “addiction is a failure of willpower”
+- Small ways to help: person-first language*, understand the neurobiological basis of addiction, get a naloxone kit, take an evidence-based approach *for addiction specifically Addiction 4
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. William S. Burroughs, Junky
+
+one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5.
+
+**What to know:**
+- one morning and decide to be a drug addict. It takes at least three months’ shooting twice a day to get any habit at all. … The questions, of course, could be asked: Why did you ever try narcotics? Why did you continue using it long enough to become an addict? You become a narcotics addict because you do not have strong motivations in the other direction. Junk wins by default. I tried it as a matter of curiosity. I drifted along taking shots when I could score. I ended up hooked. Most addicts I have talked to report a similar experience. They did not start using drugs for any reason they can remember. They just drifted along until they got hooked. If you have never been addicted, you can have no clear idea what it means to need junk with the addict’s special need. You don’t decide to be an addict. One morning you wake up sick and you’re an addict. (Junky, Prologue, p. xxxviii) 5
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Drugs, addiction, harm Nutt et al., 2007
+
+Drugs, addiction, harm Nutt et al., 2007 Addiction 6.
+
+**What to know:**
+- Drugs, addiction, harm Nutt et al., 2007 Addiction 6
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. What do we really want to know about drug addiction?
+
+Who is particularly at risk?. What causes drug addiction?.
+
+**What to know:**
+- Who is particularly at risk?
+- What causes drug addiction?
+- What can we do to treat/cure drug addiction? Addiction 7
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Who is particularly at risk?
+
+Men? Women?. Dependent on the drug, but usually men.
+
+**What to know:**
+- Men? Women?
+- Dependent on the drug, but usually men
+- However, the gap is closing
+- And in women: “telescoping”
+- Young? Old?
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. What causes drug addiction?
+
+These drugs act on the brain. Alter our motivation, leading to increased drug-seeking behaviour.
+
+**What to know:**
+- These drugs act on the brain
+- Alter our motivation, leading to increased drug-seeking behaviour
+- Addiction is not a “failure of willpower” Addiction Volkow et al., 2001 10
+
+**Meyer connection:** Review the chapter discussion of **persistence and relapse** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Features of drug addiction
+
+Pleasing effects. Craving.
+
+**What to know:**
+- Pleasing effects
+- Craving
+- Tolerance
+- Escalation of intake
+- Dependence
+
+**Meyer connection:** Review the chapter discussion of **substance use, misuse and addiction** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Example of tolerance: caffeine Withdrawal
+
+Example of tolerance: caffeine Withdrawal 12.
+
+**What to know:**
+- Example of tolerance: caffeine Withdrawal 12
+
+**Meyer connection:** Review the chapter discussion of **reward and reinforcement** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Opponent Process Theory of Drug Addiction
+
+AKA withdrawal theory (Koob). Explains some (e.g. opioids).
+
+**What to know:**
+- AKA withdrawal theory (Koob)
+- Explains some (e.g. opioids)
+- From “taking drugs to feel good” to “taking drugs to feel normal” Withdrawal 13
+- Caffeine again Withdrawal 14
+- Tolerance and withdrawal Withdrawal 15
+
+**Meyer connection:** Review the chapter discussion of **tolerance, dependence and withdrawal** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Stages of drug addiction (a common framework) as related to opponent process theory
+
+Intoxication/binge. Development of dependence (withdrawal).
+
+**What to know:**
+- Intoxication/binge
+- Development of dependence (withdrawal)
+- Preoccupation and anticipation (craving) Addiction 16 Intoxication/binge Withdrawal Craving Koob and Volkow, 2010 Proposed model of opponent process theory
+
+**Meyer connection:** Review the chapter discussion of **genetic and psychosocial risk** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. BUT opponent processes can’t be the whole story Withdrawal
+
+BUT opponent processes can’t be the whole story Withdrawal 17.
+
+**What to know:**
+- BUT opponent processes can’t be the whole story Withdrawal 17
+
+**Meyer connection:** Review the chapter discussion of **three-stage addiction cycle** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Associative Learning Principles Used in Addiction Models
+
+Operant conditioning. Reinforcement.
+
+**What to know:**
+- Operant conditioning
+- Reinforcement
+- Positive reinforcer
+- Conditioned reinforcer/ incentive salience Dopamine 18
+
+**Meyer connection:** Review the chapter discussion of **incentive salience and corticostriatal circuitry** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Motivation for… Brain Stimulation?
+
+Olds and Milner (1954). Dopamine: pleasure?.
+
+**What to know:**
+- Olds and Milner (1954)
+- Dopamine: pleasure?
+- Dopamine projects from Ventral Tegmental Area (VTA) to Nucleus Accumbens (NAcc) Dopamine 19
+
+**Meyer connection:** Review the chapter discussion of **learning and drug-associated cues** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Most humans are regular users** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Most humans use psychoactive drugs without experiencing addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Addiction is a nuanced term surrounded by stigma** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **William S. Burroughs, Junky** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drugs, addiction, harm Nutt et al., 2007** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What do we really want to know about drug addiction?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Who is particularly at risk?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **What causes drug addiction?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Features of drug addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Example of tolerance: caffeine Withdrawal** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Opponent Process Theory of Drug Addiction** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Stages of drug addiction (a common framework) as related to opponent process theory** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **BUT opponent processes can’t be the whole story Withdrawal** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Associative Learning Principles Used in Addiction Models** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Motivation for… Brain Stimulation?** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

@@ -1,0 +1,308 @@
+---
+title: "Lecture 3 — Chemical Signalling in the Nervous System"
+---
+
+## How to use this guide
+
+The Lecture 3 presentation defines the examinable scope. Meyer Chapter 3 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Discovery of a Neurotransmitter → General Concepts → Types of Synapses → Astrocytes regulate synapses TRIPARTITE SYNAPSE → The variety of neurotransmitters is vast Over 100 chemicals have been → Neurotransmitters Encompass Several Different Kinds of Chemical Substances → Neuropeptides are synthesized differently → Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters → Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles → Mechanism of exocytosis → Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles → Release Involves Exocytosis and Recycling of Synaptic Vesicles → …
+</div>
+
+## Textbook anchors
+
+- Neurotransmitter synthesis, release and inactivation
+- Synaptic vesicles and exocytosis
+- Autoreceptors and heteroreceptors
+- Ionotropic and metabotropic receptors
+- G proteins and second messengers
+- Tyrosine kinase receptors
+- Synaptic plasticity
+- Endocrine signalling
+
+## Supplementary Web Boxes
+
+- Web Box 3.1 The Orexin System and Narcolepsy
+- Web Box 3.2 The Gut–Brain Axis_ Relevance for Neurotransmission, Pharmacology, and Behavior
+- Web Box 3.3 G-Protein Structure and Function
+- Web Box 3.4 Sex Hormones and Drug Abuse
+
+## Lecture concepts
+
+### 1. Discovery of a Neurotransmitter
+
+Otto Lowei. ”vagustoff”.
+
+**What to know:**
+- Otto Lowei
+- ”vagustoff”
+- Acetylcholine
+
+**Meyer connection:** Review the chapter discussion of **neurotransmitter synthesis, release and inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. General Concepts
+
+Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft. Transmission is one-way, from presynaptic cell to postsynaptic cell.
+
+**What to know:**
+- Communication between neurons occurs at synapses via chemical neurotransmitters that cross the synaptic cleft.
+- Transmission is one-way, from presynaptic cell to postsynaptic cell
+- Synaptic vesicles in the pre- synaptic neuron contain neurotransmitters.
+- Exceptions to all of these (e.g., electrical synapses)
+
+**Meyer connection:** Review the chapter discussion of **synaptic vesicles and exocytosis** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Types of Synapses
+
+The lecture treats **Types of Synapses** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **autoreceptors and heteroreceptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Astrocytes regulate synapses TRIPARTITE SYNAPSE
+
+Astrocytes regulate synapses TRIPARTITE SYNAPSE.
+
+**What to know:**
+- Astrocytes regulate synapses TRIPARTITE SYNAPSE
+
+**Meyer connection:** Review the chapter discussion of **ionotropic and metabotropic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. The variety of neurotransmitters is vast Over 100 chemicals have been
+
+identified as neurotransmitters.
+
+**What to know:**
+- identified as neurotransmitters
+
+**Meyer connection:** Review the chapter discussion of **g proteins and second messengers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. Neurotransmitters Encompass Several Different Kinds of Chemical Substances
+
+Amino acids and monoamines. e.g., GABA, glutamate, dopamine, norepinephrine, serotonin.
+
+**What to know:**
+- Amino acids and monoamines
+- e.g., GABA, glutamate, dopamine, norepinephrine, serotonin
+- Acetylcholine (ACh)
+- ATP and adenosine
+- Neuropeptides, lipids, and gases
+
+**Meyer connection:** Review the chapter discussion of **tyrosine kinase receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. Neuropeptides are synthesized differently
+
+Most transmitters are synthesized in the axon terminals. Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+
+**What to know:**
+- Most transmitters are synthesized in the axon terminals.
+- Neuropeptides are synthesized from precursor proteins that are synthesized in the cell body and shipped to the axon terminals.
+- Replenishment of neuropeptides is slower than for small-molecule transmitters
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters
+
+Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+
+**What to know:**
+- Neuromodulators alter the action of standard neurotransmitters.
+- They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+- Varicosities
+- Some transmitters may act in both ways.
+
+**Meyer connection:** Review the chapter discussion of **endocrine signalling** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles
+
+Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+
+**What to know:**
+- Transmitter release is triggered by Ca2+ influx at membrane depolarization.
+- Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- Transmitters are released only at active zones.
+- Several proteins are critical in vesicle docking and exocytosis.
+- Vesicles are recycled by endocytosis.
+
+**Meyer connection:** Review the chapter discussion of **neurotransmitter synthesis, release and inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Mechanism of exocytosis
+
+SNARE Proteins. Synaptoagmin & synaptobrevin.
+
+**What to know:**
+- SNARE Proteins
+- Synaptoagmin & synaptobrevin
+
+**Meyer connection:** Review the chapter discussion of **synaptic vesicles and exocytosis** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles
+
+Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+
+**What to know:**
+- Not stored in vesicles.
+- Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- Act as retrograde messengers on the presynaptic cell, and also diffuse to other neurons (e.g., nitric oxide and endocannabinoids).
+
+**Meyer connection:** Review the chapter discussion of **autoreceptors and heteroreceptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Release Involves Exocytosis and Recycling of Synaptic Vesicles
+
+Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+
+**What to know:**
+- Three models of vesicle recycling:
+- Clathrin-mediated endocytosis – very slow and distal to release site
+- Ultrafast endocytosis – still dependent on clathrin; endosomes
+- Kiss-and-run – vesicle does not undergo full exocytosis
+- Bulk endocytosis recycles large amounts of vesicle membrane during high rates of neuronal activity.
+
+**Meyer connection:** Review the chapter discussion of **ionotropic and metabotropic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Autoreceptors control the rate of neurotransmitter release
+
+Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+
+**What to know:**
+- Terminal autoreceptors inhibit further transmitter release.
+- Somatodendritic autoreceptors slow the rate of cell firing.
+- Heteroreceptors: receive transmitters at axoaxonic synapses; either enhance or reduce transmitter release.
+
+**Meyer connection:** Review the chapter discussion of **g proteins and second messengers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Mechanisms of Neurotransmitter Inactivation
+
+Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+**What to know:**
+- Enzymatic breakdown within or near the synaptic cleft.
+- Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- Uptake by postsynaptic cell or glial cells.
+
+**Meyer connection:** Review the chapter discussion of **tyrosine kinase receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. Neurotransmitters in the periphery
+
+Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+
+**What to know:**
+- Many of the same transmitters occur in the ANS and PNS.
+- Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- The gut–brain axis refers to signaling back and forth between the gut (including the gut microbiome) and the brain.
+- Opioids in the gut
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. Neurotransmitter Receptor Families
+
+Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+
+**What to know:**
+- Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell.
+- Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- Effect of receptor activation may be excitatory or inhibitory.
+- Receptor subtypes – different varieties of receptors for the same neurotransmitter.
+
+**Meyer connection:** Review the chapter discussion of **endocrine signalling** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel
+
+Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+
+**What to know:**
+- Resting state = ion channel closed.
+- Neurotransmitter binding opens the channel.
+- Channel closes when transmitter dissociates.
+- Act rapidly.
+- Receptor channels selective for specific ions, such as Na+, Ca2+, and Cl–.
+
+**Meyer connection:** Review the chapter discussion of **neurotransmitter synthesis, release and inactivation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins
+
+Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+**What to know:**
+- Act slower but response lasts longer.
+- Activate G proteins when transmitter binds.
+- G proteins open ion channels or stimulate or inhibit membrane effector enzymes.
+- Effector enzymes are involved in synthesis or breakdown of second messengers.
+
+**Meyer connection:** Review the chapter discussion of **synaptic vesicles and exocytosis** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 19. Allosteric modulation
+
+Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+
+**What to know:**
+- Some receptors have additional binding sites (allosteric sites).
+- Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- Allosteric modulators have potential for treating psychiatric and neurological disorders. Allosteric modulation
+
+**Meyer connection:** Review the chapter discussion of **autoreceptors and heteroreceptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 20. Second Messenger Systems
+
+Second messengers activate protein kinases that phosphorylate another protein molecule. The added phosphate groups alter functioning of the protein.
+
+**What to know:**
+- Second messengers activate protein kinases that phosphorylate another protein molecule.
+- The added phosphate groups alter functioning of the protein.
+- Includes cAMP, gAMP, Ca2+, and phosphoinositide.
+- cAMP and cGMP are inactivated by phosphodiesterases (PDEs).
+- Inhibitors of specific PDEs may be useful in treating various CNS disorders.
+
+**Meyer connection:** Review the chapter discussion of **ionotropic and metabotropic receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 21. Tyrosine Kinase Receptors
+
+Mediate the action of neurotrophic factors. Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+
+**What to know:**
+- Mediate the action of neurotrophic factors.
+- Neurotrophic factors stimulate survival and growth of neurons during early development and are involved in neuronal signaling.
+- These systems generally participate in regulation of long-term changes in gene expression and neuronal functioning.
+
+**Meyer connection:** Review the chapter discussion of **g proteins and second messengers** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 22. Drugs can alter all aspects of synaptic transmission
+
+The lecture treats **Drugs can alter all aspects of synaptic transmission** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **tyrosine kinase receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 23. Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!
+
+Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!.
+
+**What to know:**
+- Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Discovery of a Neurotransmitter** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **General Concepts** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Types of Synapses** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Astrocytes regulate synapses TRIPARTITE SYNAPSE** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The variety of neurotransmitters is vast Over 100 chemicals have been** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurotransmitters Encompass Several Different Kinds of Chemical Substances** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neuropeptides are synthesized differently** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mechanism of exocytosis** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Release Involves Exocytosis and Recycling of Synaptic Vesicles** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Autoreceptors control the rate of neurotransmitter release** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Mechanisms of Neurotransmitter Inactivation** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurotransmitters in the periphery** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neurotransmitter Receptor Families** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Ionotropic Receptors Consist of Multiple Subunits That Together Form an Ion Channel** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Metabotropic Receptors Consist of a Single Subunit That Works by Activating G Proteins** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Allosteric modulation** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Second Messenger Systems** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Tyrosine Kinase Receptors** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Drugs can alter all aspects of synaptic transmission** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Neuroendocrinology is extremely interesting Take Behavioural Endocrinology (PSYC 383) next term!** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

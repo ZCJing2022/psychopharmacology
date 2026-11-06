@@ -1,0 +1,609 @@
+---
+title: "Part 1 Practice Exam 1"
+toc-depth: 2
+---
+
+**Time: 50 minutes.** This practice exam is derived from Lectures 1–4.
+
+**Format:** 30 multiple-choice questions and 4 short-essay questions. Answers and explanations are hidden initially.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+Which statement best matches the lecture discussion of **Pharmacokinetics contributions to bioavailability**?
+
+- **A.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **B.** The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+- **D.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Pharmacokinetics contributions to bioavailability**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 2
+
+Which statement best matches the lecture discussion of **Regulation of gene transcription**?
+
+- **A.** Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+- **B.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+- **C.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Epigenetic modifications:. DNA Methylation: attachment of methyl groups.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Regulation of gene transcription**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 3
+
+Which statement best matches the lecture discussion of **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters**?
+
+- **A.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **B.** Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+- **C.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **D.** SNARE Proteins. Synaptoagmin & synaptobrevin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Neuromodulators alter the action of standard neurotransmitters. They diffuse away from the site of release to influence more distant cells (volume transmission vs. wiring transmission).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Neuromodulators Are Chemicals That Do Not Act Like Typical Neurotransmitters**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 4
+
+Which statement best matches the lecture discussion of **Conditioned place preference**?
+
+- **A.** In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+- **B.** New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+- **C.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **D.** Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Conditioned place preference**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 5
+
+Which statement best matches the lecture discussion of **Routes of drug administration**?
+
+- **A.** Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+- **B.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+- **C.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **D.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Routes of drug administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 6
+
+Which statement best matches the lecture discussion of **Where do the proteins go?**?
+
+- **A.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** What is the membrane potential?. How is it measured?.
+- **C.** Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+- **D.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Axoplasmic transport: proteins made in the soma must be transported to the axon terminals. Depends on structures in the cytoskeleton—microtubules and neurofilaments that provide the cell shape.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Where do the proteins go?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 7
+
+Which statement best matches the lecture discussion of **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles**?
+
+- **A.** Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+- **B.** SNARE Proteins. Synaptoagmin & synaptobrevin.
+- **C.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **D.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Transmitter release is triggered by Ca2+ influx at membrane depolarization. Ca2+ mediates release of transmitter from vesicles by exocytosis.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Neutrotransmitter Release Involves Exocytosis and Recycling of Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 8
+
+Which statement best matches the lecture discussion of **Emerging technologies in ethology**?
+
+- **A.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+- **C.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **D.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Emerging technologies in ethology**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 9
+
+Which statement best matches the lecture discussion of **The problem with enteral administration Methods of Drug Administration**?
+
+- **A.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **B.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+- **C.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **D.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **The problem with enteral administration Methods of Drug Administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 10
+
+Which statement best matches the lecture discussion of **What do the proteins do?**?
+
+- **A.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **B.** Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+- **C.** The lecture treats **The squid giant axon** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** What is the membrane potential?. How is it measured?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Proteins in the cell membrane include receptors, enzymes, ion channels, and transporters. Most ion channels are gated channels:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **What do the proteins do?**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 11
+
+Which statement best matches the lecture discussion of **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles**?
+
+- **A.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **B.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- **C.** Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+- **D.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Not stored in vesicles. Synthesized on demand by postsynaptic cell after receptor activation by a classical transmitter.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 12
+
+Which statement best matches the lecture discussion of **Stereotaxic Surgery**?
+
+- **A.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **B.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+- **C.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Post-mortem assay measuring protein in the brain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Stereotaxic Surgery**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 13
+
+Which statement best matches the lecture discussion of **The beauty of parenteral routes**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **D.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **The beauty of parenteral routes**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 14
+
+Which statement best matches the lecture discussion of **Electrical properties of the neuron Resting membrane potential**?
+
+- **A.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** What is the membrane potential?. How is it measured?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+What is the membrane potential?. How is it measured?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Electrical properties of the neuron Resting membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 15
+
+Which statement best matches the lecture discussion of **Release Involves Exocytosis and Recycling of Synaptic Vesicles**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+- **C.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Three models of vesicle recycling:. Clathrin-mediated endocytosis – very slow and distal to release site.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Release Involves Exocytosis and Recycling of Synaptic Vesicles**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 16
+
+Which statement best matches the lecture discussion of **Invasive measurement of neurotransmitters**?
+
+- **A.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Post-mortem assay measuring protein in the brain.
+- **C.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **D.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Invasive measurement of neurotransmitters**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 17
+
+Which statement best matches the lecture discussion of **Rectal administration**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Rectal administration**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 18
+
+Which statement best matches the lecture discussion of **The membrane potential**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+- **D.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Resting membrane potential: inside of cell is more negative than outside: –70 millivolts (mV); it is polarized. Na+ and Cl− are more concentrated outside the cell; some K+ channels are not gated; concentration of K+ forces it outward while electrostatic pressure pulls it in.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **The membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 19
+
+Which statement best matches the lecture discussion of **Autoreceptors control the rate of neurotransmitter release**?
+
+- **A.** Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+- **B.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+- **C.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **D.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Terminal autoreceptors inhibit further transmitter release. Somatodendritic autoreceptors slow the rate of cell firing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Autoreceptors control the rate of neurotransmitter release**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 20
+
+Which statement best matches the lecture discussion of **Invasive measurement of electrical activity**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Post-mortem assay measuring protein in the brain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Invasive measurement of electrical activity**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 21
+
+Which statement best matches the lecture discussion of **Effect of administration route on pharmacokinetics**?
+
+- **A.** Route of administration. Drug concentration.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Effect of administration route on pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 22
+
+Which statement best matches the lecture discussion of **Ionic basis of the membrane potential**?
+
+- **A.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **B.** The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **D.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+The lecture treats **Ionic basis of the membrane potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Ionic basis of the membrane potential**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 23
+
+Which statement best matches the lecture discussion of **Mechanisms of Neurotransmitter Inactivation**?
+
+- **A.** Many of the same transmitters occur in the ANS and PNS. Some neurotransmitters are synthesized by gut bacteria (e.g., serotonin); drugs may alter the human microbiome and influence health.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Enzymatic breakdown within or near the synaptic cleft. Removal from synaptic cleft by transporter proteins on the axon terminal membrane (reuptake).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Mechanisms of Neurotransmitter Inactivation**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 24
+
+Which statement best matches the lecture discussion of **enkephalin**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **enkephalin**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 25
+
+Which statement best matches the lecture discussion of **Other factors affecting pharmacokinetics**?
+
+- **A.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **B.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+Route of administration. Drug concentration.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Other factors affecting pharmacokinetics**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 26
+
+Which statement best matches the lecture discussion of **Post synaptic potentials Local Potentials Are Small,**?
+
+- **A.** Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+- **B.** Graded – the larger the stimulus, the greater the magnitude of hyperpolarization or depolarization. Decay rapidly.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+Depolarization: a stimulus opens Na+ channels to allow a few ions into cell; inside of cell becomes slightly more positive (excitatory). Hyperpolarization: a stimulus opens Cl– channels to allow a few ions into cell; inside of cell becomes more negative (inhibitory).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Post synaptic potentials Local Potentials Are Small,**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 27
+
+Which statement best matches the lecture discussion of **Neurotransmitter Receptor Families**?
+
+- **A.** Some receptors have additional binding sites (allosteric sites). Allosteric modulators bind to allosteric sites and modify (positively or negatively) the effects of an agonist.
+- **B.** Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+- **C.** Resting state = ion channel closed. Neurotransmitter binding opens the channel.
+- **D.** Act slower but response lasts longer. Activate G proteins when transmitter binds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Receptors are proteins on plasma membranes of a neuron, muscle cell, or secretory cell. Transmitters bind to specific sites on receptors, which produces a response in the receiving cell.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Neurotransmitter Receptor Families**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 28
+
+Which statement best matches the lecture discussion of **DREADDs**?
+
+- **A.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **B.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+- **C.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **D.** Designer receptors exclusively activated by designer drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+Designer receptors exclusively activated by designer drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **DREADDs**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 29
+
+Which statement best matches the lecture discussion of **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**?
+
+- **A.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+### Question 30
+
+Which statement best matches the lecture discussion of **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**?
+
+- **A.** Rising membrane potential opens voltage-gated K+ channels; K+ moves out and membrane returns to resting potential. Membrane is briefly hyperpolarized—the relative refractory period.
+- **B.** The lecture treats **The benefit of myleniation** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+- **D.** The lecture treats **Ionic basis of the action potential** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+When summation of local potentials reaches the threshold of -50 mV, many voltage-gated Na+ channels open, Na+ rushes into the cell, and membrane potential jumps to +40 mV. Action potential lasts about 1 millisecond.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **When a neuron “pops” Sufficient Depolarization at the Axon Hillock Opens Voltage-**. The correct option matches the relationship taught for that topic; the alternatives are course concepts drawn from other parts of the same lecture and do not fit this stem.
+:::
+
+# Section B — Short Essay
+
+### Short Essay 1
+
+Explain **Types of agonists** and show how it connects to **Dose-response curves** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 1, topic **Types of agonists**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 2
+
+Explain **Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological** and show how it connects to **Developmental origins of the CNS** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+CNS begins as the neural tube; develops into forebrain, midbrain, hindbrain, and spinal cord. Organization is hierarchical; levels have overlapping functions; higher levels partially replicate functions of lower ones but provide increased behavioral complexity and refined control.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 2, topic **Developmental origins of the CNS The CNS Has Distinct Regions Reflecting Embryological**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 3
+
+Explain **Mechanism of exocytosis** and show how it connects to **Lipid and Gaseous Transmitters Are Not Released from Synaptic Vesicles** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+SNARE Proteins. Synaptoagmin & synaptobrevin.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 3, topic **Mechanism of exocytosis**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+
+### Short Essay 4
+
+Compare **Behavioral Pharmacology** with **Animals are necessary for behavioural pharmacology**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior. Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+
+A complete response should identify the relevant mechanism, explain the causal sequence, and connect the concept to the second idea named in the prompt.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+**Source:** Lecture 4, topic **Integration: Behavioral Pharmacology and Animals are necessary for behavioural pharmacology**. This is a synthesis item: definition alone is not enough; the connection must be stated explicitly.
+:::
+

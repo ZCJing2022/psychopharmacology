@@ -1,0 +1,403 @@
+---
+title: "Lecture 10 Practice — GABA"
+toc-depth: 2
+---
+
+**16 multiple-choice questions** and **4 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Biosynthesis of GABA {#l10-mc01}
+
+Which statement best matches the lecture discussion of **Biosynthesis of GABA**?
+
+- **A.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **B.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+- **C.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **D.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Biosynthesis of GABA** from Lecture 10 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 2 — GABA transport {#l10-mc02}
+
+Which statement best matches the lecture discussion of **GABA transport**?
+
+- **A.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **B.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+- **C.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **D.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **GABA transport** from Lecture 10 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 3 — Astrocytes are important with GABA too {#l10-mc03}
+
+Which statement best matches the lecture discussion of **Astrocytes are important with GABA too**?
+
+- **A.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **B.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+- **C.** Thalamus Thalamus.
+- **D.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Astrocytes are important with GABA too** from Lecture 10 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 4 — Co-release of GABA is common {#l10-mc04}
+
+Which statement best matches the lecture discussion of **Co-release of GABA is common**?
+
+- **A.** Thalamus Thalamus.
+- **B.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **D.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Co-release of GABA is common** from Lecture 10 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 5 — GABAergic projections: direct and indirect pathway Direct {#l10-mc05}
+
+Which statement best matches the lecture discussion of **GABAergic projections: direct and indirect pathway Direct**?
+
+- **A.** Thalamus Thalamus.
+- **B.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **D.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Thalamus Thalamus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **GABAergic projections: direct and indirect pathway Direct** from Lecture 10 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 6 — GABAergic interneurons {#l10-mc06}
+
+Which statement best matches the lecture discussion of **GABAergic interneurons**?
+
+- **A.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **B.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+- **C.** GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+- **D.** The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **GABAergic interneurons** from Lecture 10 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 7 — GABAA receptors are most common The actions of GABA are primarily {#l10-mc07}
+
+Which statement best matches the lecture discussion of **GABAA receptors are most common The actions of GABA are primarily**?
+
+- **A.** GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+- **B.** BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+- **C.** GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- **D.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **GABAA receptors are most common The actions of GABA are primarily** from Lecture 10 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 8 — Modulation of the GABAA receptor {#l10-mc08}
+
+Which statement best matches the lecture discussion of **Modulation of the GABAA receptor**?
+
+- **A.** Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators. Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic.
+- **B.** Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+- **C.** GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+- **D.** BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Modulation of the GABAA receptor** from Lecture 10 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 9 — Allosteric modulation of the GABAA receptor {#l10-mc09}
+
+Which statement best matches the lecture discussion of **Allosteric modulation of the GABAA receptor**?
+
+- **A.** Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators. Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic.
+- **B.** catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone.
+- **C.** brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+- **D.** BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Allosteric modulation of the GABAA receptor** from Lecture 10 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 10 — Organization and Function of the GABAergic System (6 of 9) {#l10-mc10}
+
+Which statement best matches the lecture discussion of **Organization and Function of the GABAergic System (6 of 9)**?
+
+- **A.** brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+- **B.** Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening. Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+- **C.** Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators. Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic.
+- **D.** catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators. Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Organization and Function of the GABAergic System (6 of 9)** from Lecture 10 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 11 — Seizure frequency correlates with hormonal load Many females suffer from {#l10-mc11}
+
+Which statement best matches the lecture discussion of **Seizure frequency correlates with hormonal load Many females suffer from**?
+
+- **A.** Reversable experimental inhibition of a brain region.
+- **B.** catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone.
+- **C.** brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+- **D.** Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening. Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Seizure frequency correlates with hormonal load Many females suffer from** from Lecture 10 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 12 — Seizure frequency correlates with hormonal load Neurosteroids: synthesized in the {#l10-mc12}
+
+Which statement best matches the lecture discussion of **Seizure frequency correlates with hormonal load Neurosteroids: synthesized in the**?
+
+- **A.** brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+- **B.** Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening. Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+- **C.** Reversable experimental inhibition of a brain region.
+- **D.** 70 MC Questions. 50 minutes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Seizure frequency correlates with hormonal load Neurosteroids: synthesized in the** from Lecture 10 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 13 — The baclofen muscimol cocktail {#l10-mc13}
+
+Which statement best matches the lecture discussion of **The baclofen muscimol cocktail**?
+
+- **A.** Asynchronous lecture as a primer on addiction. Classes of psychoactive drugs will be discussed in the context of addiction and beyond.
+- **B.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+- **C.** Reversable experimental inhibition of a brain region.
+- **D.** 70 MC Questions. 50 minutes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Reversable experimental inhibition of a brain region.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The baclofen muscimol cocktail** from Lecture 10 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 14 — Exam Information {#l10-mc14}
+
+Which statement best matches the lecture discussion of **Exam Information**?
+
+- **A.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **B.** 70 MC Questions. 50 minutes.
+- **C.** Asynchronous lecture as a primer on addiction. Classes of psychoactive drugs will be discussed in the context of addiction and beyond.
+- **D.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+70 MC Questions. 50 minutes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Exam Information** from Lecture 10 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 15 — Syllabus update {#l10-mc15}
+
+Which statement best matches the lecture discussion of **Syllabus update**?
+
+- **A.** Asynchronous lecture as a primer on addiction. Classes of psychoactive drugs will be discussed in the context of addiction and beyond.
+- **B.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+- **C.** Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- **D.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Asynchronous lecture as a primer on addiction. Classes of psychoactive drugs will be discussed in the context of addiction and beyond.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Syllabus update** from Lecture 10 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+### Question 16 — Integration: Biosynthesis of GABA {#l10-mc16}
+
+Which statement correctly describes **Biosynthesis of GABA**, rather than the nearby topic **GABA transport**?
+
+- **A.** GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+- **B.** GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+- **C.** Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- **D.** Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Biosynthesis of GABA** from Lecture 10 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 10 study guide](../study-guides/lecture10.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Some GABAergic neurons are interneurons, while others are projection neurons {#l10-sa01}
+
+Explain **Some GABAergic neurons are interneurons, while others are projection neurons** and show how it connects to **GABAergic projections: direct and indirect pathway Direct** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 10, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Positive allosteric modulation of GABAA receptors The actions of GABA are primarily mediated {#l10-sa02}
+
+Explain **Positive allosteric modulation of GABAA receptors The actions of GABA are primarily mediated** and show how it connects to **Allosteric modulation of the GABAA receptor** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 10, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — GABAB receptors are metabotropic {#l10-sa03}
+
+Explain **GABAB receptors are metabotropic** and show how it connects to **The baclofen muscimol cocktail** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening. Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 10, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Integration: Biosynthesis of GABA and GABA transport {#l10-sa04}
+
+Compare **Biosynthesis of GABA** with **GABA transport**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD). Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 10, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

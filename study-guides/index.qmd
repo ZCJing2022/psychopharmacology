@@ -1,0 +1,31 @@
+---
+title: "Study Guides"
+---
+
+The lecture presentation determines the scope of each guide. The assigned chapter in Meyer et al., *Psychopharmacology: Drugs, the Brain, and Behavior* (4th ed., 2023) supplies the detailed background and terminology.
+
+## Part I
+
+1. [Lecture 1 — Principles of Pharmacology](lecture01.qmd)
+2. [Lecture 2 — Structure and Function of the Nervous System](lecture02.qmd)
+3. [Lecture 3 — Chemical Signalling in the Nervous System](lecture03.qmd)
+4. [Lecture 4 — Methods of Research in Psychopharmacology](lecture04.qmd)
+
+## Part II
+
+5. [Lecture 5 — Catecholamines I — Dopamine](lecture05.qmd)
+6. [Lecture 6 — Catecholamines II — Noradrenaline](lecture06.qmd)
+7. [Lecture 7 — Serotonin](lecture07.qmd)
+8. [Lecture 8 — Acetylcholine](lecture08.qmd)
+9. [Lecture 9 — Glutamate](lecture09.qmd)
+10. [Lecture 10 — GABA](lecture10.qmd)
+
+## Part III
+
+11. [Lecture 11 — Circadian Rhythms and Chronopharmacology](lecture11.qmd)
+12. [Lecture 12 — Drug Addiction and Brain Reward Systems](lecture12.qmd)
+13. [Lecture 13 — Addiction and Psychostimulants](lecture13.qmd)
+14. [Lecture 14 — Alcohol](lecture14.qmd)
+15. [Lecture 15 — Opioids](lecture15.qmd)
+16. [Lecture 16 — Nicotine and Caffeine](lecture16.qmd)
+

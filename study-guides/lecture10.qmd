@@ -1,0 +1,238 @@
+---
+title: "Lecture 10 — GABA"
+---
+
+## How to use this guide
+
+The Lecture 10 presentation defines the examinable scope. Meyer Chapter 8 is used to reinforce mechanisms, terminology, and clinical or experimental examples that support that lecture scope.
+
+<div class="lecture-route">
+**Lecture route:** Biosynthesis of GABA → GABA transport → Astrocytes are important with GABA too → Co-release of GABA is common → Some GABAergic neurons are interneurons, while others are projection neurons → GABAergic projections: direct and indirect pathway Direct → GABAergic interneurons → GABAA receptors are most common The actions of GABA are primarily → Modulation of the GABAA receptor → Positive allosteric modulation of GABAA receptors The actions of GABA are primarily mediated → Allosteric modulation of the GABAA receptor → Organization and Function of the GABAergic System (6 of 9) → …
+</div>
+
+## Textbook anchors
+
+- Glutamate synthesis, vesicular transport and uptake
+- AMPA, NMDA and metabotropic glutamate receptors
+- Synaptic plasticity, learning and memory
+- Excitotoxicity
+- GABA synthesis and transport
+- GABAA and GABAB receptors
+- Benzodiazepine-site and neurosteroid modulation
+
+## Supplementary Web Boxes
+
+- Web Box 8.1 The Cutting Edge_ Late-LTP, Learning, and Memory
+- Web Box 8.2 Clinical Applications_ Examples of Excitotoxic Brain Damage in Medicine
+- Web Box 8.3 Pharmacology in Action_ What Is the Endogenous Ligand for the Benzodiazepine Receptor_
+
+## Lecture concepts
+
+### 1. Biosynthesis of GABA
+
+GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability. Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD).
+
+**What to know:**
+- GABA (γ-aminobutyric acid) major inhibitory amino acid transmitter; manufactured only by GABAergic neurons; has a critical role in regulating brain excitability.
+- Synthesized from glutamate in one step by glutamic acid decarboxylase (GAD)
+- Allylglycine, thiosemicarbazide, and 3- mercaptopropionic acid can block GABA synthesis; can only be used for in vitro studies – convlusions
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 2. GABA transport
+
+Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles. GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+
+**What to know:**
+- Vesicular GABA transporters (VGAT) move GABA (and glycine) into vesicles.
+- GABA is removed from the synaptic cleft by transporters GAT-1 and GAT-2 (in neurons and astrocytes) and GAT-3 (only in astrocytes).
+- Tiagabine: selective inhibitor of GAT-1; elevates extracellular GABA levels and enhances GABAergic transmission in several brain areas; marketed as Gabitril for treating epilepsy
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 3. Astrocytes are important with GABA too
+
+GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes. In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+
+**What to know:**
+- GABA is metabolized to glutamate and succinate by GABA aminotransferase (GABA-T), in neurons and astrocytes.
+- In astrocytes, the glutamate is converted to glutamine by glutamine synthetase.
+- Glutamine can be released by astrocytes, taken up by neurons, converted back to glutamate, and used to remake GABA.
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 4. Co-release of GABA is common
+
+Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate. In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+
+**What to know:**
+- Co-release of GABA has been demonstrated for neurons that also use glycine, ACh, DA, or glutamate
+- In some cases there is co-expression of the vesicular transporters for multiple transmitters in the same neuron.
+- In some cases GABA can be packaged via a heterotransporter (e.g, VMAT)
+- Some neurons co-release GABA (inhibitory) and glutamate (excitatory) at the same time; allows for fine-tuning of the postsynaptic response.
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 5. Some GABAergic neurons are interneurons, while others are projection neurons
+
+Many brain areas are rich in GABA. Cortex and hippocampus: GABAergic neurons are interneurons.
+
+**What to know:**
+- Many brain areas are rich in GABA
+- Cortex and hippocampus: GABAergic neurons are interneurons
+- Striatum and cerebellar Purkinje cells: projection neurons
+- Spinocerebellar ataxias: rare genetic mutations that cause degeneration and death of Purkinje cells; causes ataxia, impaired balance and poor motor coordination.
+
+**Meyer connection:** Review the chapter discussion of **gaba synthesis and transport** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 6. GABAergic projections: direct and indirect pathway Direct
+
+Thalamus Thalamus.
+
+**What to know:**
+- Thalamus Thalamus
+
+**Meyer connection:** Review the chapter discussion of **gabaa and gabab receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 7. GABAergic interneurons
+
+The lecture treats **GABAergic interneurons** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+**Meyer connection:** Review the chapter discussion of **benzodiazepine-site and neurosteroid modulation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 8. GABAA receptors are most common The actions of GABA are primarily
+
+GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later). GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+
+**What to know:**
+- GABAA receptor—ionotropic; GABAB receptor—metabotropic (more later)
+- GABAA receptor is composed of five subunits, usually two α subunits, two βs, and one γ.
+- GABAA channel allows Cl– to move in, causing hyperpolarization and inhibition of the postsynaptic cell.
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 9. Modulation of the GABAA receptor
+
+Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria. Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+
+**What to know:**
+- Muscimol: GABAA orthosteric agonist from the mushroom Amanita muscaria
+- Bicuculline: competitive antagonist for GABAA receptors; blocks binding of GABA; if taken systemically, causes convulsions.
+- Picrotoxin and PTZ: convulsant drugs that inhibit GABAA receptor function; act at sites distinct from the GABA binding site (non-competitive antagonists) Non-competitive because it binds to an allosteric channel site rather than competing directly for the GABA pocket. Competitive characteristics because the act of GABA binding forces the receptor into a shape that prevents PTZ from working efficiently. PTZ
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 10. Positive allosteric modulation of GABAA receptors The actions of GABA are primarily mediated
+
+GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor. Other positive modulators:.
+
+**What to know:**
+- GABAA receptors are sensitive to CNS- depressant drugs such as benzodiazepines (BDZs), barbiturates, and ethanol, which act as positive allosteric modulators – they enhance the action of GABA on the receptor
+- Other positive modulators:
+- Anesthetics such as propofol Neurosteroids
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 11. Allosteric modulation of the GABAA receptor
+
+BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA. BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists.
+
+**What to know:**
+- BDZs and ethanol can only modulate receptor activity, regardless of dose; high doses of barbiturates, anesthetics, and neurosteroids can open the receptor channel even in the absence of GABA
+- BDZs such as diazepam (Valium) increase effect of GABA on a receptor; diazepam alone has no effect, confirming that BDZs are positive allosteric modulators and not receptor agonists
+- Inverse agonists at the BDZ receptor also require the presence of GABA, they reduce instead of enhance the effectiveness of GABA
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 12. Organization and Function of the GABAergic System (6 of 9)
+
+Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators. Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic.
+
+**What to know:**
+- Anesthetics strongly enhance GABAA receptor activity, usually as allosteric modulators
+- Anesthetics differentially affect receptors with particular subunit compositions ”milk of amnesia” Primary anesthetic effect Side effect (high dose) Anti-emetic
+
+**Meyer connection:** Review the chapter discussion of **gaba synthesis and transport** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 13. Seizure frequency correlates with hormonal load Many females suffer from
+
+catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone.
+
+**What to know:**
+- catamenial (monthly) epilepsy Estrogen is proconvulsive Progesterone is anticonvulsive Ratio of E/P predicts seizure likelihood Neurosteroids: widespread synthesis in the brain by neurons and glia, act as signaling molecules; target allosteric binding sites on GABAA receptors periovulatory perimenstrual Estrogen Progesterone
+
+**Meyer connection:** Review the chapter discussion of **gabaa and gabab receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 14. Seizure frequency correlates with hormonal load Neurosteroids: synthesized in the
+
+brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone.
+
+**What to know:**
+- brain by neurons and glia (widespread), act as signaling molecules; target allosteric binding sites on GABAA receptors Allopregnalone: positive allosteric modulator of GABAA receptor Progesterone is converted to allopregnalone Binds delta subunit, not gamma subunit like benzodiazepines PTZ - GABA A antagonist Allopregnalone Alphaxalone
+
+**Meyer connection:** Review the chapter discussion of **benzodiazepine-site and neurosteroid modulation** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 15. GABAB receptors are metabotropic
+
+Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening. Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+
+**What to know:**
+- Postsynaptic GABAB receptors inhibit neuronal firing by stimulating K+ channel opening
+- Presynaptic GABAB receptors (acting as autoreceptors or heteroreceptors) inhibit transmitter release by inhibiting Ca2+ channel opening.
+- Both inhibit adenylyl cyclase, reducing rate of cAMP formation
+- Baclofen (Lioresal): GABAB agonist used as a muscle relaxant Heteroreceptor
+
+**Meyer connection:** Review the chapter discussion of **glutamate synthesis, vesicular transport and uptake** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 16. The baclofen muscimol cocktail
+
+Reversable experimental inhibition of a brain region.
+
+**What to know:**
+- Reversable experimental inhibition of a brain region
+
+**Meyer connection:** Review the chapter discussion of **ampa, nmda and metabotropic glutamate receptors** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 17. Exam Information
+
+70 MC Questions. 50 minutes.
+
+**What to know:**
+- 70 MC Questions
+- 50 minutes
+- Bring a pencil
+- Only lecture material
+- Non-cumulative Material tested
+
+**Meyer connection:** Review the chapter discussion of **synaptic plasticity, learning and memory** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+### 18. Syllabus update
+
+Asynchronous lecture as a primer on addiction. Classes of psychoactive drugs will be discussed in the context of addiction and beyond.
+
+**What to know:**
+- Asynchronous lecture as a primer on addiction
+- Classes of psychoactive drugs will be discussed in the context of addiction and beyond
+
+**Meyer connection:** Review the chapter discussion of **excitotoxicity** and use it to explain the mechanism behind the lecture point rather than memorizing the slide wording alone.
+
+## Study checklist
+
+- [ ] I can explain **Biosynthesis of GABA** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **GABA transport** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Astrocytes are important with GABA too** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Co-release of GABA is common** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Some GABAergic neurons are interneurons, while others are projection neurons** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **GABAergic projections: direct and indirect pathway Direct** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **GABAergic interneurons** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **GABAA receptors are most common The actions of GABA are primarily** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Modulation of the GABAA receptor** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Positive allosteric modulation of GABAA receptors The actions of GABA are primarily mediated** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Allosteric modulation of the GABAA receptor** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Organization and Function of the GABAergic System (6 of 9)** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Seizure frequency correlates with hormonal load Many females suffer from** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Seizure frequency correlates with hormonal load Neurosteroids: synthesized in the** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **GABAB receptors are metabotropic** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **The baclofen muscimol cocktail** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Exam Information** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.
+- [ ] I can explain **Syllabus update** in my own words and connect it to drug action, behavior, or experimental evidence where relevant.

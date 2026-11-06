@@ -1,0 +1,697 @@
+---
+title: "Lecture 1 Practice — Principles of Pharmacology"
+toc-depth: 2
+---
+
+**28 multiple-choice questions** and **7 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — What is pharmacology? {#l01-mc01}
+
+Which statement best matches the lecture discussion of **What is pharmacology?**?
+
+- **A.** Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+- **B.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+- **C.** Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+- **D.** Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **What is pharmacology?** from Lecture 1 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 2 — Drug action vs. drug effect {#l01-mc02}
+
+Which statement best matches the lecture discussion of **Drug action vs. drug effect**?
+
+- **A.** Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+- **B.** Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+- **C.** Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+- **D.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Drug action vs. drug effect** from Lecture 1 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 3 — The placebo effect {#l01-mc03}
+
+Which statement best matches the lecture discussion of **The placebo effect**?
+
+- **A.** Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+- **B.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+- **C.** Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+- **D.** The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The placebo effect** from Lecture 1 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 4 — We need placebos {#l01-mc04}
+
+Which statement best matches the lecture discussion of **We need placebos**?
+
+- **A.** Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+- **B.** The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+- **D.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **We need placebos** from Lecture 1 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 5 — Pharmacokinetics contributions to bioavailability {#l01-mc05}
+
+Which statement best matches the lecture discussion of **Pharmacokinetics contributions to bioavailability**?
+
+- **A.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **B.** The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+- **D.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacokinetics contributions to bioavailability** from Lecture 1 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 6 — Routes of drug administration {#l01-mc06}
+
+Which statement best matches the lecture discussion of **Routes of drug administration**?
+
+- **A.** Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+- **B.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+- **C.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **D.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Systemic routes: drug moves throughout the body through general circulation. Oral administration (PO): drug must pass through stomach or intestine wall to reach blood capillaries; must be resistant to destruction by stomach acid and enzymes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Routes of drug administration** from Lecture 1 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 7 — The problem with enteral administration Methods of Drug Administration {#l01-mc07}
+
+Which statement best matches the lecture discussion of **The problem with enteral administration Methods of Drug Administration**?
+
+- **A.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **B.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+- **C.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **D.** First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+First-pass metabolism: ingested chemicals pass via the portal vein to the liver, where they are altered by enzymes before passing to the general circulation. Oral therapeutic drugs may undergo metabolism that reduces their bioavailability.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The problem with enteral administration Methods of Drug Administration** from Lecture 1 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 8 — The beauty of parenteral routes {#l01-mc08}
+
+Which statement best matches the lecture discussion of **The beauty of parenteral routes**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+- **D.** Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Intravenous (IV): rapid and accurate; drug goes directly into bloodstream; danger of overdose. Intramuscular (IM) injection: slower, more even absorption over time.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **The beauty of parenteral routes** from Lecture 1 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 9 — Rectal administration {#l01-mc09}
+
+Which statement best matches the lecture discussion of **Rectal administration**?
+
+- **A.** Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+- **B.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Rectum is highly vascularized and can directly absorb alcohol. Partially reduces first pass metabolism.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Rectal administration** from Lecture 1 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 10 — Effect of administration route on pharmacokinetics {#l01-mc10}
+
+Which statement best matches the lecture discussion of **Effect of administration route on pharmacokinetics**?
+
+- **A.** Route of administration. Drug concentration.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Effect of administration route on pharmacokinetics** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Effect of administration route on pharmacokinetics** from Lecture 1 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 11 — Other factors affecting pharmacokinetics {#l01-mc11}
+
+Which statement best matches the lecture discussion of **Other factors affecting pharmacokinetics**?
+
+- **A.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **B.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+- **C.** Route of administration. Drug concentration.
+- **D.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Route of administration. Drug concentration.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Other factors affecting pharmacokinetics** from Lecture 1 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 12 — Factors impacting drug absorption Multiple Factors Modify Drug Absorption {#l01-mc12}
+
+Which statement best matches the lecture discussion of **Factors impacting drug absorption Multiple Factors Modify Drug Absorption**?
+
+- **A.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **B.** Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+- **C.** Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+- **D.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Lipid-soluble drugs move through cell membranes by passive diffusion. Diffusion is from higher to lower concentration (concentration gradient).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Factors impacting drug absorption Multiple Factors Modify Drug Absorption** from Lecture 1 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 13 — Distribution of a drug in the body {#l01-mc13}
+
+Which statement best matches the lecture discussion of **Distribution of a drug in the body**?
+
+- **A.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **B.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **D.** Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Once a drug enters the blood it is quickly delivered to areas with high blood flow. Those areas will initially have a high drug concentration; as plasma levels fall, the drug is redistributed until it reaches equilibrium in all tissues.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Distribution of a drug in the body** from Lecture 1 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 14 — Selective barriers affecting drug distribution {#l01-mc14}
+
+Which statement best matches the lecture discussion of **Selective barriers affecting drug distribution**?
+
+- **A.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **B.** Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+- **C.** Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+- **D.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Blood-brain barrier: separation between brain capillaries and cerebrospinal fluid (CSF); selectively permeable. Brain capillaries: endothelial cells are fused by tight junctions; most materials move by special transporters.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Selective barriers affecting drug distribution** from Lecture 1 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 15 — Structure of the blood-brain barrier {#l01-mc15}
+
+Which statement best matches the lecture discussion of **Structure of the blood-brain barrier**?
+
+- **A.** Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+- **B.** The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **D.** Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The lecture treats **Structure of the blood-brain barrier** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Structure of the blood-brain barrier** from Lecture 1 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 16 — Depot binding Depot Binding alters the magnitude and duration of drug action {#l01-mc16}
+
+Which statement best matches the lecture discussion of **Depot binding Depot Binding alters the magnitude and duration of drug action**?
+
+- **A.** Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+- **B.** Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+- **C.** Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+- **D.** Enzyme induction: repeated use of drug increases number of enzymes; increases rate. Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Binding of drugs to inactive sites (drug depots or “silent receptors”; e.g., albumen and fat) – affects magnitude and duration of drug action. Reduces concentration of drug at action sites.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Depot binding Depot Binding alters the magnitude and duration of drug action** from Lecture 1 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 17 — Mechanisms of drug metabolism {#l01-mc17}
+
+Which statement best matches the lecture discussion of **Mechanisms of drug metabolism**?
+
+- **A.** Urine is the most important route for drug elimination. Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption.
+- **B.** Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+- **C.** Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+- **D.** Enzyme induction: repeated use of drug increases number of enzymes; increases rate. Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Most biotransformation occurs in the liver:. Phase I – oxidation, reduction, or hydrolysis.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mechanisms of drug metabolism** from Lecture 1 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 18 — Factors influencing drug metabolism {#l01-mc18}
+
+Which statement best matches the lecture discussion of **Factors influencing drug metabolism**?
+
+- **A.** Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+- **B.** Enzyme induction: repeated use of drug increases number of enzymes; increases rate. Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme.
+- **C.** Urine is the most important route for drug elimination. Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption.
+- **D.** Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Enzyme induction: repeated use of drug increases number of enzymes; increases rate. Enzyme inhibition: reduces metabolism of other drugs that use the same enzyme.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Factors influencing drug metabolism** from Lecture 1 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 19 — Drug elimination {#l01-mc19}
+
+Which statement best matches the lecture discussion of **Drug elimination**?
+
+- **A.** Urine is the most important route for drug elimination. Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption.
+- **B.** Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+- **C.** Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+- **D.** Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose). 50% effective dose (ED50): the dose that produces half the maximal effect.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Urine is the most important route for drug elimination. Kidneys filter materials from the blood, unless large or bound to plasma proteins; ionization reduces reabsorption.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Drug elimination** from Lecture 1 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 20 — Pharmacodynamics Pharmacodynamics: study of the {#l01-mc20}
+
+Which statement best matches the lecture discussion of **Pharmacodynamics Pharmacodynamics: study of the**?
+
+- **A.** Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+- **B.** Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose). 50% effective dose (ED50): the dose that produces half the maximal effect.
+- **C.** Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation. TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+- **D.** Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Receptors: proteins on cell surfaces or within cells. Cell surface receptors relay information through the cell membrane.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacodynamics Pharmacodynamics: study of the** from Lecture 1 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 21 — Dose-response curves {#l01-mc21}
+
+Which statement best matches the lecture discussion of **Dose-response curves**?
+
+- **A.** Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+- **B.** Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose). 50% effective dose (ED50): the dose that produces half the maximal effect.
+- **C.** Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation. TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+- **D.** Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist. Can be displaced by an excess of agonist.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Dose–response curve: describes extent of biological or behavioral effect produced by a given drug concentration (dose). 50% effective dose (ED50): the dose that produces half the maximal effect.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dose-response curves** from Lecture 1 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 22 — Therapeutic index {#l01-mc22}
+
+Which statement best matches the lecture discussion of **Therapeutic index**?
+
+- **A.** Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation. TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+- **B.** Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist. Can be displaced by an excess of agonist.
+- **C.** Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+- **D.** Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction. Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Undesirable or dangerous side effects of a drug must be evaluated carefully in a therapeutic situation. TD50 (50% toxic dose): dose at which 50% of the population experiences a toxic effect.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Therapeutic index** from Lecture 1 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 23 — Receptor antagonism {#l01-mc23}
+
+Which statement best matches the lecture discussion of **Receptor antagonism**?
+
+- **A.** Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+- **B.** Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction. Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+- **C.** Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response. Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+- **D.** Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist. Can be displaced by an excess of agonist.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Competitive antagonists: compete with agonists to bind receptors but don’t initiate effects, reducing effect of the agonist. Can be displaced by an excess of agonist.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Receptor antagonism** from Lecture 1 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 24 — Effects of chronic drug use {#l01-mc24}
+
+Which statement best matches the lecture discussion of **Effects of chronic drug use**?
+
+- **A.** Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response. Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+- **B.** Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration. Cross-sensitization has also been documented.
+- **C.** Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+- **D.** Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction. Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Chronic drug use can change the magnitude of response. Repeated drug exposure can cause tolerance: a diminished response – increasingly larger doses must be administered to obtain the same magnitude of response.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Effects of chronic drug use** from Lecture 1 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 25 — Mechanisms of behavioural tolerance {#l01-mc25}
+
+Which statement best matches the lecture discussion of **Mechanisms of behavioural tolerance**?
+
+- **A.** Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response. Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+- **B.** Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration. Cross-sensitization has also been documented.
+- **C.** Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+- **D.** Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Pavlovian, or classical conditioning: the drug-taking procedure or the environment may elicit a conditioned response. Operant conditioning: e.g., an individual with alcohol use disorder learns to maneuver efficiently while intoxicated.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Mechanisms of behavioural tolerance** from Lecture 1 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 26 — Sensitization to drug effects {#l01-mc26}
+
+Which statement best matches the lecture discussion of **Sensitization to drug effects**?
+
+- **A.** Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+- **B.** Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+- **C.** Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+- **D.** Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration. Cross-sensitization has also been documented.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Sensitization, or reverse tolerance: enhancement of drug effects after repeated administration. Cross-sensitization has also been documented.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Sensitization to drug effects** from Lecture 1 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 27 — Integration: What is pharmacology? {#l01-mc27}
+
+Which statement correctly describes **What is pharmacology?**, rather than the nearby topic **Drug action vs. drug effect**?
+
+- **A.** Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+- **B.** Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+- **C.** Placebo: pharmacologically inert compound; may have therapeutic effects and side effects. Effects include measurable physiological changes.
+- **D.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: What is pharmacology?** from Lecture 1 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+### Question 28 — Integration: Drug action vs. drug effect {#l01-mc28}
+
+Which statement correctly describes **Drug action vs. drug effect**, rather than the nearby topic **The placebo effect**?
+
+- **A.** Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+- **B.** Placebos are essential in experimental design. Control group is unaware of placebo; comparison with experimental group provides information on effectiveness of the drug beyond the expectations of the participants.
+- **C.** Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+- **D.** The lecture treats **Pharmacokinetics contributions to bioavailability** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Drug action vs. drug effect** from Lecture 1 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 1 study guide](../study-guides/lecture01.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes, {#l01-sa01}
+
+Explain **Pharmacokinetics Pharmacokinetics: how the body absorbs, distributes,** and show how it connects to **Pharmacokinetics contributions to bioavailability** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Bioavailability: amount of drug in the blood that is free to bind at specific target sites. Pharmacokinetic components of drug action contribute to bioavailability.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Other routes of administration {#l01-sa02}
+
+Explain **Other routes of administration** and show how it connects to **Rectal administration** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Topical application to mucus membranes: local effects. Intranasal: local effects but moves rapidly into blood; avoids first-pass metabolism; bypasses blood-brain barrier.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Role of pH and ionization of drugs {#l01-sa03}
+
+Explain **Role of pH and ionization of drugs** and show how it connects to **Distribution of a drug in the body** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Most drugs are weak acids or bases that partially ionize in water. Degree of ionization depends on pH and pKa.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Metabolism of drugs {#l01-sa04}
+
+Explain **Metabolism of drugs** and show how it connects to **Mechanisms of drug metabolism** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Biotransformation (metabolism) and excretion eliminate drugs from the body. Drug clearance from the blood is exponential (first-order kinetics). Alcohol metabolism follows zero-order kinetics.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Types of agonists {#l01-sa05}
+
+Explain **Types of agonists** and show how it connects to **Dose-response curves** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Receptor agonists have a high affinity for a receptor; bind to receptor and initiate a cellular response. Receptor antagonists bind to receptor but produce no effects (low efficacy); also prevent agonists from binding.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 6 — Types of tolerance {#l01-sa06}
+
+Explain **Types of tolerance** and show how it connects to **Mechanisms of behavioural tolerance** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Metabolic: when drugs increase their own rate of metabolism by liver microsomal enzyme induction. Pharmacodynamic: neural function changes to adapt to continued presence of the drug by up- or down-regulation.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 7 — Integration: What is pharmacology? and Drug action vs. drug effect {#l01-sa07}
+
+Compare **What is pharmacology?** with **Drug action vs. drug effect**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Specialized areas:. Neuropharmacology: concerned with drug-induced changes to nervous system. Drug effects: alterations in physiological or psychological functions. Therapeutic effect: drug produces desired physical or behavioral changes.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 1, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

@@ -1,0 +1,795 @@
+---
+title: "Lecture 13 Practice — Addiction and Psychostimulants"
+toc-depth: 2
+---
+
+**32 multiple-choice questions** and **8 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain” {#l13-mc01}
+
+Which statement best matches the lecture discussion of **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”**?
+
+- **A.** What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+- **B.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+- **C.** Olds, 1956. Scientific American.
+- **D.** Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Olds, 1956. Scientific American.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** from Lecture 13 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 2 — Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction {#l13-mc02}
+
+Which statement best matches the lecture discussion of **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction**?
+
+- **A.** (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+- **B.** Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+- **C.** What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+- **D.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction** from Lecture 13 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 3 — Do you notice a pattern? {#l13-mc03}
+
+Which statement best matches the lecture discussion of **Do you notice a pattern?**?
+
+- **A.** What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+- **B.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+- **C.** (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+- **D.** Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Do you notice a pattern?** from Lecture 13 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 4 — Drug Users as Hedonists - Social Implications {#l13-mc04}
+
+Which statement best matches the lecture discussion of **Drug Users as Hedonists - Social Implications**?
+
+- **A.** (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+- **B.** Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+- **C.** Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY.
+- **D.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Drug Users as Hedonists - Social Implications** from Lecture 13 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 5 — Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain {#l13-mc05}
+
+Which statement best matches the lecture discussion of **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain**?
+
+- **A.** Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+- **B.** Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+- **C.** Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY.
+- **D.** The lecture treats **Addictive potential depends on route of administration** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain** from Lecture 13 (source page 7). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 6 — Diagnostic criteria are informed by empirical theory Positive {#l13-mc06}
+
+Which statement best matches the lecture discussion of **Diagnostic criteria are informed by empirical theory Positive**?
+
+- **A.** Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY.
+- **B.** The lecture treats **Addictive potential depends on route of administration** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **C.** Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+- **D.** Physical dependence may play a key role in establishing and maintaining drug addiction. Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Reinforcement (Wise) We take drugs to feel good Negative Reinforcement (Koob) We take drugs to escape negative affect Incentive Sensitization (Robinson & Berridge) Cues make us ”crave” drugs Incentive Habits (Belin & Everitt) Cues make us “seek” drugs Empirical Theories (good for experimental behavioural models) Diagnostic Criteria (good for clinical diagnosis) Exteroceptive Cues CRACK PIPE Interoceptive Cues SYMPATHETIC AROUSAL Circadian Cues TIME OF DAY.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Diagnostic criteria are informed by empirical theory Positive** from Lecture 13 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 7 — Addictive potential depends on route of administration {#l13-mc07}
+
+Which statement best matches the lecture discussion of **Addictive potential depends on route of administration**?
+
+- **A.** Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+- **B.** Physical dependence may play a key role in establishing and maintaining drug addiction. Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement).
+- **C.** Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage. The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”).
+- **D.** The lecture treats **Addictive potential depends on route of administration** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+The lecture treats **Addictive potential depends on route of administration** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Addictive potential depends on route of administration** from Lecture 13 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 8 — Reward vs. reinforcement vs. relapse {#l13-mc08}
+
+Which statement best matches the lecture discussion of **Reward vs. reinforcement vs. relapse**?
+
+- **A.** Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage. The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”).
+- **B.** Development of addiction has been conceptualized as a repeating cycle of three stages:. Preoccupation with and anticipation of obtaining and using the substance.
+- **C.** Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+- **D.** Physical dependence may play a key role in establishing and maintaining drug addiction. Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Positive reinforcers: consuming the drug strengthens whatever preceding behavior was performed by the organism. Drug reward: the positive subjective experience associated with the drug – euphoria or the “high”.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Reward vs. reinforcement vs. relapse** from Lecture 13 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 9 — Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18) {#l13-mc09}
+
+Which statement best matches the lecture discussion of **Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)**?
+
+- **A.** Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage. The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”).
+- **B.** Development of addiction has been conceptualized as a repeating cycle of three stages:. Preoccupation with and anticipation of obtaining and using the substance.
+- **C.** Drug reward can decline due to tolerance; other motivating factors become important. Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive).
+- **D.** Schultz et al. (1990s). Pavlovian learning.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Development of addiction: drug-taking behavior progresses from an “impulsive” stage to a “compulsive” stage. The process may be due to gradual recruitment of an “antireward” system in the brain (“neuroadapted state”).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)** from Lecture 13 (source page 12). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 10 — A Koobian view of addiction {#l13-mc10}
+
+Which statement best matches the lecture discussion of **A Koobian view of addiction**?
+
+- **A.** Drug reward can decline due to tolerance; other motivating factors become important. Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive).
+- **B.** Schultz et al. (1990s). Pavlovian learning.
+- **C.** Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized. Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked.
+- **D.** Development of addiction has been conceptualized as a repeating cycle of three stages:. Preoccupation with and anticipation of obtaining and using the substance.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Development of addiction has been conceptualized as a repeating cycle of three stages:. Preoccupation with and anticipation of obtaining and using the substance.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **A Koobian view of addiction** from Lecture 13 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 11 — Incentive sensitization theory of addiction {#l13-mc11}
+
+Which statement best matches the lecture discussion of **Incentive sensitization theory of addiction**?
+
+- **A.** Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized. Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked.
+- **B.** (Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?.
+- **C.** Drug reward can decline due to tolerance; other motivating factors become important. Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive).
+- **D.** Schultz et al. (1990s). Pavlovian learning.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Drug reward can decline due to tolerance; other motivating factors become important. Incentive sensitization theory of addiction: distinction between liking versus wanting a reward (an incentive).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Incentive sensitization theory of addiction** from Lecture 13 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 12 — Dopamine and reward prediction error {#l13-mc12}
+
+Which statement best matches the lecture discussion of **Dopamine and reward prediction error**?
+
+- **A.** Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use. Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+- **B.** Schultz et al. (1990s). Pavlovian learning.
+- **C.** Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized. Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked.
+- **D.** (Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Schultz et al. (1990s). Pavlovian learning.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dopamine and reward prediction error** from Lecture 13 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 13 — Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse {#l13-mc13}
+
+Which statement best matches the lecture discussion of **Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse**?
+
+- **A.** Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use. Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+- **B.** Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission. Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential.
+- **C.** The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+- **D.** (Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+(Adapted from Schultz) (Milella et al., 2014) JUICE DISPENSER COCAINE DISPENSER CUE-EVOKED DOPAMINE RELEASE COCAINE CUE COCAINE COCAINE (NO COCAINE CUE) Could vulnerability to addiction suggest an enhanced propensity for learning?.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse** from Lecture 13 (source page 17). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 14 — Pharmacokinetics of cocaine {#l13-mc14}
+
+Which statement best matches the lecture discussion of **Pharmacokinetics of cocaine**?
+
+- **A.** The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+- **B.** As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies. “Tweaking”.
+- **C.** Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use. Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+- **D.** Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission. Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Extremely rapid absorption occurs with IV injection and smoking; slower with snorting and oral use. Once absorbed, cocaine is rapidly broken down and excreted; the subjective high lasts about 30 minutes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacokinetics of cocaine** from Lecture 13 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 15 — Pharmacodynamics of cocaine {#l13-mc15}
+
+Which statement best matches the lecture discussion of **Pharmacodynamics of cocaine**?
+
+- **A.** Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+- **B.** Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission. Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential.
+- **C.** The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+- **D.** As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies. “Tweaking”.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Most of cocaine’s actions are due to its ability to block reuptake of DA, NE, and 5-HT by inhibiting their membrane transporters; increased synaptic concentrations of transmitters increases rate of transmission. Inhibition of DA reuptake is most important for cocaine’s behavioral effects and addictive potential.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacodynamics of cocaine** from Lecture 13 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 16 — Subjective effects of cocaine) {#l13-mc16}
+
+Which statement best matches the lecture discussion of **Subjective effects of cocaine)**?
+
+- **A.** The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+- **B.** As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies. “Tweaking”.
+- **C.** Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+- **D.** Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The cocaine high: feelings of exhilaration, euphoria, well-being, heightened energy, and self- confidence. Smoked or IV cocaine also causes a “rush”.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Subjective effects of cocaine)** from Lecture 13 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 17 — Peripheral physiological effects of cocaine {#l13-mc17}
+
+Which statement best matches the lecture discussion of **Peripheral physiological effects of cocaine**?
+
+- **A.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **B.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+- **C.** Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+- **D.** Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Sympathomimetic: physiological effects include increased heart rate, vasoconstriction, hypertension, hyperthermia. Psychological/behavioral symptoms can include agitation, mania, paranoia, and a state of delirium.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Peripheral physiological effects of cocaine** from Lecture 13 (source page 22). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 18 — Dopamine mediates the behavioural response to cocaine {#l13-mc18}
+
+Which statement best matches the lecture discussion of **Dopamine mediates the behavioural response to cocaine**?
+
+- **A.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **B.** Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+- **C.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **D.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Numerous microinjection and lesion studies have been done to illustrate the involvement of these DA systems Experimental manipulation Brain area Behavioral effect Psychostimulant microinjection Nucleus accumbens Increased locomotor behavior Psychostimulant microinjection Dorsal striatum Increased stereotyped behaviors 6-Hydroxydopamine (6-OHDA) lesion Nucleus accumbens Decreased locomotor response following systemic administration of a low-dose psychostimulant 6-OHDA lesion Dorsal striatum Decreased stereotyped behaviors following systemic administration of a high-dose psychostimulant 6-OHDA lesion Nucleus accumbens Decreased reinforcing effectiveness of systemically administered psychostimulants Psychostimulant microinjection Nucleus accumbens* Reinforcing to the animal.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Dopamine mediates the behavioural response to cocaine** from Lecture 13 (source page 23). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 19 — DA receptor subtypes contribute to the effects of cocaine {#l13-mc19}
+
+Which statement best matches the lecture discussion of **DA receptor subtypes contribute to the effects of cocaine**?
+
+- **A.** Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+- **B.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+- **C.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **D.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Receptor-specific antagonists are used to study the roles of different DA receptor subtypes. Studies using DA receptor blockade show that D2 and D3 receptors are required for locomotor-stimulating effects.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **DA receptor subtypes contribute to the effects of cocaine** from Lecture 13 (source page 24). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 20 — Most people who try cocaine do not become addicted {#l13-mc20}
+
+Which statement best matches the lecture discussion of **Most people who try cocaine do not become addicted**?
+
+- **A.** Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+- **B.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+- **C.** Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+- **D.** People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+People usually start by snorting; some have a strong anxiety response and don’t try it again. Other factors that discourage habitual use: cost and availability, social and legal consequences, fear of addiction.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Most people who try cocaine do not become addicted** from Lecture 13 (source page 25). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 21 — Cocaine produces both tolerance and sensitization {#l13-mc21}
+
+Which statement best matches the lecture discussion of **Cocaine produces both tolerance and sensitization**?
+
+- **A.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **B.** Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+- **C.** Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+- **D.** Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Psychostimulants can produce both tolerance and sensitization; depends on pattern of drug exposure, response that’s being measured, and time since last dose. Long-access self-administering rats (constant high brain cocaine levels) show molecular adaptations in NAcc dopaminergic fibers and behavioral tolerance.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Cocaine produces both tolerance and sensitization** from Lecture 13 (source page 27). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 22 — Cocaine is bad for you {#l13-mc22}
+
+Which statement best matches the lecture discussion of **Cocaine is bad for you**?
+
+- **A.** Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+- **B.** Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+- **C.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **D.** Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Stroke, seizures, panic attacks, and temporary paranoid psychosis with delusions and hallucinations. Other organ systems such as cardiovascular, lungs, kidneys, and GI system can be adversely affected.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Cocaine is bad for you** from Lecture 13 (source page 28). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 23 — Potential pharmacotherapies for cocaine use disorder {#l13-mc23}
+
+Which statement best matches the lecture discussion of **Potential pharmacotherapies for cocaine use disorder**?
+
+- **A.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **B.** Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+- **C.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **D.** Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Many compounds have been tested as potential medications, but none have been approved for cocaine use disorder. Potential options: full or partial DA agonists and psycho-stimulants such as amphetamine, as potential replacement drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Potential pharmacotherapies for cocaine use disorder** from Lecture 13 (source page 29). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 24 — There are many amphetamines to choose from {#l13-mc24}
+
+Which statement best matches the lecture discussion of **There are many amphetamines to choose from**?
+
+- **A.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **B.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+- **C.** Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+- **D.** Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Amphetamines: synthetic; structurally related to DA. L-amphetamine (Benzedrine).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **There are many amphetamines to choose from** from Lecture 13 (source page 30). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 25 — Amphetamine pharmacokinetics make facilitate binging {#l13-mc25}
+
+Which statement best matches the lecture discussion of **Amphetamine pharmacokinetics make facilitate binging**?
+
+- **A.** Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+- **B.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+- **C.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **D.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Some users go on binges or runs – repeated injections every 2 hours for 3 to 6 days, with little sleep or eating. Amphetamine and methamphetamine are metabolized slowly by the liver; metabolites are excreted in the urine.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Amphetamine pharmacokinetics make facilitate binging** from Lecture 13 (source page 32). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 26 — Pharmacodynamics of amphetamine {#l13-mc26}
+
+Which statement best matches the lecture discussion of **Pharmacodynamics of amphetamine**?
+
+- **A.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **B.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+- **C.** Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+- **D.** Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Amphetamines are indirect catecholamine agonists; stimulate DA and NE release and block reuptake. Stimulate massive DA release by two means:.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Pharmacodynamics of amphetamine** from Lecture 13 (source page 33). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 27 — Subjective effects of amphetamines {#l13-mc27}
+
+Which statement best matches the lecture discussion of **Subjective effects of amphetamines**?
+
+- **A.** Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+- **B.** As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+- **C.** Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+- **D.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Amphetamines cause heightened alertness, increased confidence, feelings of exhilaration, reduced fatigue, and generalized sense of well-being. Reduced sleep time, especially REM sleep; permits sustained physical effort without rest or sleep.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Subjective effects of amphetamines** from Lecture 13 (source page 34). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 28 — Therapeutic effects of amphetamines {#l13-mc28}
+
+Which statement best matches the lecture discussion of **Therapeutic effects of amphetamines**?
+
+- **A.** Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases. Chronic users show premature aging and increased mortality rate.
+- **B.** Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+- **C.** Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+- **D.** As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Narcolepsy: recurring and irresistible attacks of sleepiness during daytime hours, cataplexy, hypnagogic hallucinations, sleep paralysis. Treatment of ADHD.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Therapeutic effects of amphetamines** from Lecture 13 (source page 35). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 29 — Methamphetamine is worse for you than other amphetamines {#l13-mc29}
+
+Which statement best matches the lecture discussion of **Methamphetamine is worse for you than other amphetamines**?
+
+- **A.** Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases. Chronic users show premature aging and increased mortality rate.
+- **B.** Olds, 1956. Scientific American.
+- **C.** Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+- **D.** As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+As methamphetamine use has increased, incidence of psychotic reactions has also grown, especially if there are pre-existing psychotic symptoms. Continued methamphetamine use can cause a transition to a psychotic state that persists long after abstinence, similar to schizophrenia.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Methamphetamine is worse for you than other amphetamines** from Lecture 13 (source page 37). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 30 — Crystal meth is unhealthy {#l13-mc30}
+
+Which statement best matches the lecture discussion of **Crystal meth is unhealthy**?
+
+- **A.** Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+- **B.** What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+- **C.** Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases. Chronic users show premature aging and increased mortality rate.
+- **D.** Olds, 1956. Scientific American.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Hard-core methamphetamine users have increased risk of Parkinson’s disease, cardiovascular disease, gastrointestinal distress, increased susceptibility to infection, male sexual dysfunction, and oral diseases. Chronic users show premature aging and increased mortality rate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Crystal meth is unhealthy** from Lecture 13 (source page 38). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 31 — Integration: Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain” {#l13-mc31}
+
+Which statement correctly describes **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”**, rather than the nearby topic **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction**?
+
+- **A.** (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+- **B.** Olds, 1956. Scientific American.
+- **C.** What do you notice most of these drugs have in common?. Seminal paper of Di Chiara & Imperatu (2002).
+- **D.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Olds, 1956. Scientific American.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** from Lecture 13 (source page 2). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+### Question 32 — Integration: Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction {#l13-mc32}
+
+Which statement correctly describes **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction**, rather than the nearby topic **Do you notice a pattern?**?
+
+- **A.** Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+- **B.** Lay view of addiction: “People use drugs because they are morally corrupt hedonists who value immediate pleasure above all else” (Foddy & Savulescu, 2014). Many societies hold strong taboos against wonton pleasure-seeking.
+- **C.** (Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+- **D.** Early views emphasized positive (hedonic) and negative reinforcement (opponent processes). Now, focus is on the compulsive features of drug seeking and use, including craving.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction** from Lecture 13 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 13 study guide](../study-guides/lecture13.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — People simply want dopamine. They do not find pleasure in it. {#l13-sa01}
+
+Explain **People simply want dopamine. They do not find pleasure in it.** and show how it connects to **Contemporary psychiatry considers addiction to be a chronic, relapsing disease of the brain** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+(Leyton et al., 2002. Neuropsychopharmacology) Crystal Meth Pleasure Rating (Peciña et al., 2003. Journal of Neuroscience) (Watchtel et al., 2003. Drug & Alcohol Dependence) Crystal Meth.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 6. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Drug dependence leads to withdrawal symptoms when abstinence is attempted {#l13-sa02}
+
+Explain **Drug dependence leads to withdrawal symptoms when abstinence is attempted** and show how it connects to **Factors That Influence the Development and Maintenance of Drug Misuse and Addiction (8 of 18)** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Physical dependence may play a key role in establishing and maintaining drug addiction. Withdrawal symptoms (abstinence syndrome) motivates the user to take the drug again (negative reinforcement).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 11. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Cocaine {#l13-sa03}
+
+Explain **Cocaine** and show how it connects to **Dopamine Facilitates Learning and Evokes Craving: A Role for Drug Cues in Relapse** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cocaine is extracted from coca leaves, converted to a hydrochloride (HCl) salt and crystallized. Cocaine HCl is water-soluble and thus can be taken orally, intranasally (snorting), or by IV injection; can not be smoked.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 16. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Behavioural effects of cocaine {#l13-sa04}
+
+Explain **Behavioural effects of cocaine** and show how it connects to **Peripheral physiological effects of cocaine** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+As dose is increased in animal models, behaviors become focused stereotypies; humans may also exhibit motor stereotypies. “Tweaking”.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 21. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 5 — Chronic cocaine exposure changes the brain {#l13-sa05}
+
+Explain **Chronic cocaine exposure changes the brain** and show how it connects to **Cocaine produces both tolerance and sensitization** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Brain imaging studies show reduced striatal dopaminergic activity in drug users. The findings demonstrate down-regulation of dopaminergic activity with chronic use of cocaine and other psychostimulants; such down-regulation would be expected to result in tolerance.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 26. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 6 — Common routes of administration {#l13-sa06}
+
+Explain **Common routes of administration** and show how it connects to **Amphetamine pharmacokinetics make facilitate binging** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Amphetamine is typically taken orally or IV or subcutaneous injection (skin popping). Absorption from GI tract is slow; IV injection provides a rapid and intense “high;” has much greater addictive potential.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 31. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 7 — Amphetamines are addictive {#l13-sa07}
+
+Explain **Amphetamines are addictive** and show how it connects to **Methamphetamine is worse for you than other amphetamines** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Heavy methamphetamine use leads to dependence. Withdrawal syndrome less severe than with opioids or alcohol; negative reinforcement has less impact.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 36. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 8 — Integration: Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain” and Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction {#l13-sa08}
+
+Compare **Origin of The Dopamine = Pleasure Fallacy: James Old’s “Pleasure Centers in The Brain”** with **Renaissance of The Pleasure Fallacy: Roy Wise’s Hedonic Theory of Addiction**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Olds, 1956. Scientific American. Drugs of abuse “hijack” the dopamine system “dopamine junctions represent where sensory inputs are translated into the hedonic messages we experience as pleasure, euphoria or ‘yumminess’ (Wise, 1980)” Crystal Meth Sugar.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 13, source page 2. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+

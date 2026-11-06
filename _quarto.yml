@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "study-guides/"
+    - "practice/"
+
+website:
+  title: "Psychopharmacology"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: study-guides/index.qmd
+        text: Study Guides
+      - href: practice/index.qmd
+        text: Practice Questions
+  page-footer:
+    center: "PSYC 383 — Psychopharmacology"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    css: styles.css
+
+execute:
+  freeze: auto

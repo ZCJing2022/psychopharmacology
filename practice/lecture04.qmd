@@ -1,0 +1,403 @@
+---
+title: "Lecture 4 Practice — Methods of Research in Psychopharmacology"
+toc-depth: 2
+---
+
+**16 multiple-choice questions** and **4 short-essay questions**. This is an exact **80% / 20%** mix. The bank covers every substantive lecture topic identified in the source deck. Answers and explanations are initially collapsed.
+
+# Part A — Multiple Choice
+
+### Question 1 — Behavioral Pharmacology {#l04-mc01}
+
+Which statement best matches the lecture discussion of **Behavioral Pharmacology**?
+
+- **A.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **B.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+- **C.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Behavioral Pharmacology** from Lecture 4 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 2 — Animals are necessary for behavioural pharmacology {#l04-mc02}
+
+Which statement best matches the lecture discussion of **Animals are necessary for behavioural pharmacology**?
+
+- **A.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **B.** Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+- **C.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **D.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Animals are necessary for behavioural pharmacology** from Lecture 4 (source page 4). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 3 — Controls in animal behavioural pharmacology {#l04-mc03}
+
+Which statement best matches the lecture discussion of **Controls in animal behavioural pharmacology**?
+
+- **A.** Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-like behavior (e.g., forced swim test).
+- **B.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+- **C.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **D.** Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Controls in animal behavioural pharmacology** from Lecture 4 (source page 5). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 4 — You can just watch them and see what they do! {#l04-mc04}
+
+Which statement best matches the lecture discussion of **You can just watch them and see what they do!**?
+
+- **A.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **B.** Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+- **C.** Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-like behavior (e.g., forced swim test).
+- **D.** Tests of chronic stress:. Chronic mild unpredictable stress.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **You can just watch them and see what they do!** from Lecture 4 (source page 6). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 5 — Does the drug alter affective states? {#l04-mc05}
+
+Which statement best matches the lecture discussion of **Does the drug alter affective states?**?
+
+- **A.** Methods of assessing drug reward and reinforcement:. Drug self-administration method.
+- **B.** Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+- **C.** Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-like behavior (e.g., forced swim test).
+- **D.** Tests of chronic stress:. Chronic mild unpredictable stress.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Measures of fear (e.g., Pavlovian fear conditioning). Measures of depressive-like behavior (e.g., forced swim test).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Does the drug alter affective states?** from Lecture 4 (source page 8). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 6 — Does the drug alter the stress response? {#l04-mc06}
+
+Which statement best matches the lecture discussion of **Does the drug alter the stress response?**?
+
+- **A.** In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+- **B.** Tests of chronic stress:. Chronic mild unpredictable stress.
+- **C.** Methods of assessing drug reward and reinforcement:. Drug self-administration method.
+- **D.** Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Tests of chronic stress:. Chronic mild unpredictable stress.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Does the drug alter the stress response?** from Lecture 4 (source page 9). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 7 — Does the drug alter reward and reinforcement? {#l04-mc07}
+
+Which statement best matches the lecture discussion of **Does the drug alter reward and reinforcement?**?
+
+- **A.** Methods of assessing drug reward and reinforcement:. Drug self-administration method.
+- **B.** Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+- **C.** In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+- **D.** New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Methods of assessing drug reward and reinforcement:. Drug self-administration method.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Does the drug alter reward and reinforcement?** from Lecture 4 (source page 10). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 8 — Conditioned place preference {#l04-mc08}
+
+Which statement best matches the lecture discussion of **Conditioned place preference**?
+
+- **A.** In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+- **B.** New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+- **C.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **D.** Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Pavlovian conditioning. Measures the rewarding property of the unconditioned stimulus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Conditioned place preference** from Lecture 4 (source page 11). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 9 — Emerging technologies in ethology {#l04-mc09}
+
+Which statement best matches the lecture discussion of **Emerging technologies in ethology**?
+
+- **A.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+- **C.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **D.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+New technologies such as computer vision are used to quantify behavior. Artificial intelligence algorithms are used to analyze video recordings of animals in habitat-based test environments.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Emerging technologies in ethology** from Lecture 4 (source page 13). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 10 — Stereotaxic Surgery {#l04-mc10}
+
+Which statement best matches the lecture discussion of **Stereotaxic Surgery**?
+
+- **A.** Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+- **B.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+- **C.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Post-mortem assay measuring protein in the brain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Stereotaxic surgery is needed for accurate in vivo measures of brain function:. Devices can be implanted in the brain with precision.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Stereotaxic Surgery** from Lecture 4 (source page 14). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 11 — Invasive measurement of neurotransmitters {#l04-mc11}
+
+Which statement best matches the lecture discussion of **Invasive measurement of neurotransmitters**?
+
+- **A.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **B.** Post-mortem assay measuring protein in the brain.
+- **C.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **D.** In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+In vivo microdialysis: measurement of neurotransmitters released in a specific brain region while the subject is actively engaged in behavior. Fast-scan cyclic voltammetry: implanted microelectrodes measure neurochemicals in extracellular fluid of freely moving animals.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Invasive measurement of neurotransmitters** from Lecture 4 (source page 15). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 12 — Invasive measurement of electrical activity {#l04-mc12}
+
+Which statement best matches the lecture discussion of **Invasive measurement of electrical activity**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+- **D.** Post-mortem assay measuring protein in the brain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+The lecture treats **Invasive measurement of electrical activity** as a key concept that should be understood in relation to the surrounding mechanisms and examples.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Invasive measurement of electrical activity** from Lecture 4 (source page 16). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 13 — enkephalin {#l04-mc13}
+
+Which statement best matches the lecture discussion of **enkephalin**?
+
+- **A.** Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+- **B.** Designer receptors exclusively activated by designer drugs.
+- **C.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Important caveat: mRNA does not always equal protein In situ hybridization Post-mortem assay measuring mRNA in the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **enkephalin** from Lecture 4 (source page 18). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 14 — DREADDs {#l04-mc14}
+
+Which statement best matches the lecture discussion of **DREADDs**?
+
+- **A.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **B.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+- **C.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **D.** Designer receptors exclusively activated by designer drugs.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Designer receptors exclusively activated by designer drugs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **DREADDs** from Lecture 4 (source page 19). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 15 — Positron emission tomography (PET) {#l04-mc15}
+
+Which statement best matches the lecture discussion of **Positron emission tomography (PET)**?
+
+- **A.** Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+- **B.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+- **C.** Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+- **D.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Highlights brain activity, receptor density, and neurotransmitter release. Scanner measures radioactivity emitted from the brain.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Positron emission tomography (PET)** from Lecture 4 (source page 20). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+### Question 16 — Integration: Behavioral Pharmacology {#l04-mc16}
+
+Which statement correctly describes **Behavioral Pharmacology**, rather than the nearby topic **Animals are necessary for behavioural pharmacology**?
+
+- **A.** Simple observation of behaviors such as tremors, salivation, catalepsy, or sexual behaviour. Measures of motor activity: identify drugs that produce sleep or sedation, or stimulate activity.
+- **B.** Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+- **C.** Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+- **D.** In animal experiments, the placebo is often injection of solution the drug is dissolved in (vehicle solution or negative control). Positive control: a drug that produces well-characterized effects on a behavioral test is tested in addition to the compound of interest.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The question targets **Integration: Behavioral Pharmacology** from Lecture 4 (source page 3). The correct option matches the relationship emphasized for that topic; the distractors are other genuine concepts from the same lecture and therefore must be distinguished carefully.
+
+**Review:** [Lecture 4 study guide](../study-guides/lecture04.qmd).
+:::
+
+# Part B — Short Essay
+
+### Short Essay 1 — Is the drug a good anxiolytic? {#l04-sa01}
+
+Explain **Is the drug a good anxiolytic?** and show how it connects to **Does the drug alter affective states?** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Measures of anxiety-like behaviors: most use induced fearfulness as an analogy to human anxiety (e.g., open field test, elevated plus-maze, and defensive burying).
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 4, source page 7. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 2 — Rat in Operant Chamber (“Skinner Box”) {#l04-sa02}
+
+Explain **Rat in Operant Chamber (“Skinner Box”)** and show how it connects to **Emerging technologies in ethology** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+In operant conditioning, the animal learns a response (e.g., pressing a lever) to receive a reinforcer (vs. reward). Once the behavior is learned, requirements for reinforcement can be altered according to a schedule of reinforcement.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 4, source page 12. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 3 — Immunohistochemistry (immunocytochemistry) Hypocretin (orexin) {#l04-sa03}
+
+Explain **Immunohistochemistry (immunocytochemistry) Hypocretin (orexin)** and show how it connects to **enkephalin** or to a broader psychopharmacological mechanism.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Post-mortem assay measuring protein in the brain.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 4, source page 17. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
+### Short Essay 4 — Integration: Behavioral Pharmacology and Animals are necessary for behavioural pharmacology {#l04-sa04}
+
+Compare **Behavioral Pharmacology** with **Animals are necessary for behavioural pharmacology**. Explain the distinct role of each and one connection between them.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Behavioral pharmacology helps us. Understanding the neurochemical basis of behavior and drug-induced changes in that behavior. Studies using animals have several advantages:. Rigorous control of living conditions, food, etc., is possible.
+
+A strong response should define the focal concept, explain the mechanism or evidence emphasized in the lecture, and make the requested connection explicitly rather than simply listing terms.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This item covers Lecture 4, source page 3. The written response asks you to reconstruct the causal or conceptual relationship in your own words and, where an assigned Meyer chapter exists, support it with the chapter mechanism.
+:::
+
