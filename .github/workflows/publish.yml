@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -23,6 +23,18 @@ jobs:
 
       - name: Materialize site source
         run: python scripts/materialize_site.py
+
+      - name: Commit materialized Quarto source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _quarto.yml index.qmd styles.css assessment study-guides practice
+          if git diff --cached --quiet; then
+            echo "Materialized source already committed."
+          else
+            git commit -m "Materialize Quarto study site source"
+            git push
+          fi
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
